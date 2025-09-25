@@ -1,0 +1,60 @@
+@forward './reset.scss';
+@forward './colors.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+  font-family: "Source Sans 3", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+@mixin scroll ($border-top, $border-bottom) {
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(209, 213, 219, 0.8);
+    border-radius: 15px;
+    border: 2px solid transparent;
+    border-top: $border-top solid transparent;
+    border-bottom: $border-bottom solid transparent;
+    background-clip: content-box;
+  }
+}
+
+.custom-scroll {
+  @include scroll(6px, 6px);
+}
+
+.custom-scroll--simple {
+  @include scroll(2px, 2px);
+}
+
+.vue-lab__block-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 32px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
