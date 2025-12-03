@@ -1,7 +1,6 @@
 <template>
   <div
     v-hoisted
-
     :style="style"
     class="popover"
   >

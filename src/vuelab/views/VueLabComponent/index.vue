@@ -1,5 +1,8 @@
 <template>
-  <Page class="vue-lab">
+  <Page
+    v-if="isLoading"
+    class="vue-lab"
+  >
     <div class="vue-lab__component">
       <div class="vue-lab__component__header">
         <div class="vue-lab__component__header-title">{{ name }}</div>
@@ -9,24 +12,25 @@
           v-if="description"
           :description="description"
         />
-        <Divider v-if="description" />
+        <Divider v-if="isComponent" />
         <div
           v-if="isComponent"
           class="vue-lab__component__body"
         >
           <component :is="comp" v-bind="config" />
         </div>
-        <Divider v-if="isComponent" />
+        <Divider v-if="exampleCode" />
         <CodePreview
           v-if="isComponent && exampleCode"
           :code="exampleCode"
+          :preview-code="exampleCode"
         />
-        <Divider v-if="exampleCode" />
+        <Divider v-if="propsData" />
         <PropsDescription
           v-if="isComponent && propsData"
           :data="propsData"
         />
-        <Divider v-if="propsData" />
+        <Divider v-if="eventsData" />
         <EventsDescription
           v-if="isComponent && eventsData"
           :data="eventsData"
@@ -35,6 +39,7 @@
     </div>
     <div class="vue-lab__controls">
       <ControlBlock
+        v-if="controls.length"
         :options="controls"
         :values="config"
         @input="handleCTRLInput"
@@ -45,46 +50,72 @@
 </template>
 
 <script setup>
-import { computed, onMounted, reactive, ref } from 'vue'
+import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { loadConfig } from '../../utils/load-config.js'
 import { ControlBlock, Page, CodePreview, Divider } from '../../components/layout/index.js'
 import { Button, Description, PropsDescription, EventsDescription } from '../../components/general/index.js'
 
 const props = defineProps({
   name: String,
-  components: Object
+  components: {
+    type: Object,
+    default: () => ({})
+  },
+  configuration: {
+    type: Object,
+    default: () => ({})
+  }
 })
 
-const comp = props.components[props.name]
-let config = reactive({
-  vueLabloading: false
-})
+const comp = computed(() => props.components[props.name])
+let config = ref({})
 
 const description = ref(null)
 const propsData = ref(null)
 const eventsData = ref(null)
+const isLoading = ref(true)
 
-const defaultConfig = reactive({
+const defaultConfig = ref({
   vueLabloading: true
 })
+const types = ref({})
 
 let controls = reactive([])
 
 onMounted(async () => {
-  const source = await loadConfig(props.name, '/src/components/vuelab-configs')
+  await loadData()
+})
+
+const loadData = async () => {
+  isLoading.value = false
+  config.value = { vueLabloading: false }
+  const source = props.configuration?.[props.name?.toLocaleLowerCase()]
+  // const source = await loadConfig(props.name, '/src/components/vuelab-configs')
   const keys = Object.keys(source.propsConfig)
 
-  const ctrls = keys.map(it => ({ ctrl: source.propsConfig[it].type, value: source.propsConfig[it].value, isCtrl: source.propsConfig[it].ctrl, field: it }))
+  const ctrls = keys.map(it => ({
+    ctrl: source.propsConfig[it].type,
+    value: source.propsConfig[it].value,
+    title: source.propsConfig[it].ctrlTitle,
+    variants: source.propsConfig[it].variants,
+    isCtrl: source.propsConfig[it].ctrl,
+    field: it
+  }))
   controls = ctrls.filter(f => f.isCtrl)
 
   const newConfig = getBinds(keys, source.propsConfig)
+  types.value = keys.reduce((prev, next) => ({
+    ...prev,
+    [next]: source.propsConfig[next].type
+  }), {})
 
-  Object.assign(config, newConfig)
-  Object.assign(defaultConfig, config)
+  config.value = { ...config.value, ...newConfig }
+  defaultConfig.value = { ...config.value }
   description.value = source?.description
   propsData.value = getPropsData(keys, source.propsConfig)
   eventsData.value = getEventsData(source.events)
-})
+  isLoading.value = true
+}
 
 const getBinds = (keys, vals) => {
   return keys.reduce((prev, next) => ({
@@ -97,7 +128,7 @@ const getPropsData = (keys, vals) => {
   return keys.map(it => ({
     name: it,
     type: vals[it].type,
-    values: getValues(vals[it].value),
+    values: getValues(vals[it].variants),
     default: vals[it].default,
     description: vals[it].description
   }))
@@ -115,15 +146,20 @@ const getEventsData = (rows) => {
 
 const exampleCode = computed(() => {
   const events = eventsData.value ? eventsData.value.map(it => `@${it.name}="${it.name}Handler"`).join(' ') : ''
-  const attrs = Object.entries(config)
+  const attrs = Object.entries(config.value)
     .filter(f => f[0] != 'vueLabloading')
     .map(([key, value]) => {
-      if (typeof value === 'boolean') {
-        return `:${key}="${Boolean(value)}"`
-      } else if (typeof value === 'object' || typeof value == 'number') {
-        return `:${key}="${value}"`
+      if (types.value[key] === 'variable') {
+        const keyValue = `${key}Val`
+        return `:${key}="${keyValue}"`
+      } else {
+        if (typeof value === 'boolean') {
+          return `:${key}="${Boolean(value)}"`
+        } else if (typeof value === 'object' || typeof value == 'number') {
+          return `:${key}="${value}"`
+        }
+        return `${key}="${value}"`
       }
-      return `${key}="${value}"`
     })
     .sort()
     .filter(Boolean)
@@ -146,32 +182,28 @@ const getValues = (val) => {
 
 const getBindValue = (key, values) => {
   const currentConfig = values[key]
-  const currentValue = currentConfig?.default != undefined
-    ? currentConfig.default
-    : currentConfig?.value != undefined
-      ? currentConfig.value
-      : currentConfig.values
+  const currentValue = currentConfig.value
 
-  if (Array.isArray(currentValue)) {
-    return currentValue[0]
-  }
+  // if (typeof currentValue == 'string' || typeof currentValue == 'number' || typeof currentValue == 'boolean') {
+  //   return currentValue
+  // }
 
-  if (typeof currentValue == 'string' || typeof currentValue == 'number' || typeof currentValue == 'boolean') {
-    return currentValue
-  }
-
-  return null
+  return currentValue
 }
 
 const handleCTRLInput = ({ ctrl, value }) => {
-  config[ctrl] = value
+  config.value[ctrl] = value
 }
 
 const resetConfig = () => {
-  Object.assign(config, defaultConfig)
+  config.value = { ...defaultConfig.value }
 }
 
-const isComponent = computed(() => comp && config.vueLabloading)
+const isComponent = computed(() => comp.value && config.value.vueLabloading)
+
+watch(() => props.name, async () => {
+  await loadData()
+})
 </script>
 
 <style lang="scss" scoped>
@@ -186,7 +218,8 @@ const isComponent = computed(() => comp && config.vueLabloading)
       padding: 16px 8px 24px 8px;
       box-sizing: border-box;
       overflow: hidden;
-      display: grid;
+      display: flex;
+      flex-direction: column;
 
       &__header {
         display: flex;

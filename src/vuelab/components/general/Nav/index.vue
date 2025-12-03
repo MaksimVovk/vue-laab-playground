@@ -1,6 +1,6 @@
 <template>
   <div class="vue-lab__nav">
-    <div class="vue-lab__nav-header">
+    <div class="vue-lab__nav-header" @click="goToHome" >
       <div class="vue-lab__nav-header-icon">
         <LabIcon />
       </div>
@@ -12,15 +12,16 @@
       <Search :options="options" />
     </div>
     <div class="vue-lab__nav-body">
-      <div class="vue-lab__nav-body-title">
+      <!-- <div class="vue-lab__nav-body-title">
         Components
-      </div>
+      </div> -->
       <div class="vue-lab__nav-body-items custom-scroll--simple">
-        <NavItem
-          v-for="option in options"
-          :key="generateKey(option)"
-          :item="option"
+        <NavGroup
+          v-for="group in menuItems"
+          :key="generateKey(group)"
+          :option="group"
           :path="path"
+          :isGroup="isGroup"
         />
       </div>
     </div>
@@ -28,10 +29,12 @@
 </template>
 
 <script setup>
-import NavItem from './item.vue'
+import { computed } from 'vue'
+import { useRouter } from 'vue-router'
 import { generateKey } from '../../../composables';
 import Search from './search.vue'
 import { LabIcon } from '../../Icons';
+import NavGroup from './group.vue'
 
 const props = defineProps({
   options: {
@@ -43,6 +46,33 @@ const props = defineProps({
     default: '/'
   }
 })
+
+const router = useRouter();
+
+const menuItems = computed(() => {
+  const groups = props.options.map(item => item.group)
+  const uniqueGroups = [...new Set(groups)].filter(g => g && g.length)
+  const groupedItems = uniqueGroups.map(group =>({
+    name: group,
+    items: props.options.filter(opt => opt.group === group)
+  }))
+
+  const ungroupedItems = {
+    name: null,
+    items: props.options.filter(opt => !opt.group || !opt.group.length)
+  }
+
+
+  return [...groupedItems, ungroupedItems]
+})
+
+const isGroup = computed(() => {
+  return props.options.some(opt => opt.group && opt.group.length)
+})
+
+const goToHome = () => {
+  router.push({ path: '/' })
+}
 
 </script>
 
@@ -69,6 +99,7 @@ const props = defineProps({
       padding: 10px;
       box-sizing: border-box;
       margin-bottom: 10px;
+      cursor: pointer;
 
       &-title {
         font-family: "Ubuntu", sans-serif;
@@ -79,18 +110,25 @@ const props = defineProps({
     &-body {
       height: 100%;
       display: grid;
-      grid-template-rows: 30px 1fr;
+      grid-template-rows: 1fr;
       overflow: auto;
+      padding-bottom: 10px;
+
       &-title {
         padding: 8px 10px;
-        font-size: 13px;
+        font-size: 15px;
         font-weight: 600;
         color: clr($light, text-muted);
+        padding-bottom: 20px;
       }
 
       &-items {
         overflow: auto;
         height: 100%;
+        display: grid;
+        align-items: start;
+        grid-auto-rows: min-content;
+        gap: 10px;
       }
     }
 

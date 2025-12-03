@@ -24,7 +24,7 @@ import 'highlight.js/lib/common'
 import hljsVuePlugin from '@highlightjs/vue-plugin'
 import 'highlight.js/styles/monokai-sublime.css'
 
-import { CopyIcon } from '../../Icons'
+import CopyIcon from './CopyIcon.vue'
 
 const hlVue = hljsVuePlugin.component;
 
@@ -33,7 +33,7 @@ const props = defineProps({
   code: {
     type: String,
     required: true
-  },
+  }
 })
 
 const formattedCode = computed(() => {
@@ -56,7 +56,6 @@ const copyToClipboard = async () => {
 </script>
 
 <style lang="scss" scoped>
-@use '../../../../styles/index.scss' as *;
 .vue-lab__code-preview {
   &__pre {
     font-family: monospace;
@@ -76,15 +75,15 @@ const copyToClipboard = async () => {
       width: 20px;
       height: 20px;
       cursor: pointer;
-      fill: clr($light, gray-50);
+      fill: #eceff2;
       transition: fill 0.2s;
 
       &:hover {
-        fill: clr($light, gray-400);
+        fill: #9CA3AF;
       }
 
       &:active {
-        fill: clr($light, gray-600);
+        fill: #4B5563;
       }
     }
   }

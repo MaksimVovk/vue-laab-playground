@@ -1,7 +1,8 @@
 export const propsConfig = {
   palette: {
     type: 'palette',
-    value: ['success', 'primary', 'warning', 'error', 'info'],
+    variants: ['success', 'primary', 'warning', 'error', 'info'],
+    value: 'primary',
     default: 'primary',
     description: 'Defines the button color scheme',
     ctrl: true,
@@ -10,17 +11,21 @@ export const propsConfig = {
     type: 'text',
     value: 'Test button',
     description: 'Sets the button label text',
+    ctrl: true,
   },
   disabled: {
     type: 'boolean',
+    variants: [false, true],
     value: false,
+    ctrlTitle: 'Disabled',
     default: false,
     description: 'Disables the button if set to true',
     ctrl: true,
   },
   size: {
     type: 'size',
-    value: ['sm', 'md', 'lg'],
+    variants: ['sm', 'md', 'lg'],
+    value: 'md',
     default: 'md',
     description: 'Controls the button size',
     ctrl: true,

@@ -8,10 +8,11 @@
     </div>
     <div class="control-block__body custom-scroll">
       <component
-        v-for="o in options"
-        :key="generateKey(o)"
+        v-for="(o, i) in options"
+        :key="`ctrl-${o.ctrl}-${i}`"
         :is="getComponent(o.ctrl)"
-        :options="o.value"
+        :options="o.variants"
+        :title="o.title"
         :value="getValue(o.field)"
         @input="handleInput({ ctrl: o.field, value: $event })"
       />
@@ -20,8 +21,7 @@
 </template>
 
 <script setup>
-  import { generateKey } from '../../../composables';
-  import { Palette, Size, BooleanSwitcher } from '../../controls';
+  import { Palette, Size, BooleanSwitcher, Text } from '../../controls';
   import { Button } from '../../general'
 
   const props = defineProps({
@@ -39,6 +39,8 @@
         return Size
       case 'boolean':
         return BooleanSwitcher
+      case 'text':
+        return Text
       default:
         break;
     }

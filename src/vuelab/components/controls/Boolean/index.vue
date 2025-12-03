@@ -1,10 +1,10 @@
 <template>
   <CtrlLayout :name="title">
-    <div class="vue-lab__boolean">
-      <div
-        :class="classList"
-        @click="emit('input', !value)"
-      />
+    <div
+      class="vue-lab__boolean"
+      @click="emit('input', !value)"
+    >
+      <div :class="classList"/>
     </div>
   </CtrlLayout>
 </template>
@@ -55,21 +55,13 @@
     position: absolute;
     top: 2px;
     left: 2px;
+    transition: .3s;
 
     &--right {
       left: 18px;
       background-color: clr($light, success);
+      animation: moveLeft .3s ease-in-out;
     }
-  }
-
-  @keyframes moveRight {
-    from { left: 2px; }
-    to { left: 18px; }
-  }
-
-  @keyframes moveLeft {
-    from { left: 18px; }
-    to { left: 2px; }
   }
 }
 

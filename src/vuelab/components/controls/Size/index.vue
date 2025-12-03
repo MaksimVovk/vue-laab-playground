@@ -161,6 +161,9 @@ onMounted(() => {
 
 <style lang="scss" scoped>
   @use '../../../../styles/index.scss' as *;
+
+  $transition: .2s all ease-in-out;
+
   .vue-lab__size {
     width: 100%;
     user-select: none;
@@ -170,10 +173,12 @@ onMounted(() => {
       height: 20px;
       margin: 18px 0 6px 0;
       background: transparent;
+      transition: $transition;
 
       &::before {
         content: '';
         position: absolute;
+        transition: $transition;
         left: 0;
         right: 0;
         top: 50%;
@@ -186,6 +191,7 @@ onMounted(() => {
 
     &-tick {
       position: absolute;
+      transition: $transition;
       top: 50%;
       width: 12px;
       height: 12px;
@@ -204,6 +210,7 @@ onMounted(() => {
 
     &-range-fill {
       position: absolute;
+      transition: $transition;
       left: 0;
       top: 50%;
       height: 4px;
@@ -214,6 +221,7 @@ onMounted(() => {
 
     &-handle {
       position: absolute;
+      transition: $transition;
       top: 50%;
       width: 20px;
       height: 20px;

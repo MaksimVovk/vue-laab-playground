@@ -1,43 +1,146 @@
-import { createApp, h } from 'vue'
-import { createRouter, createWebHistory } from 'vue-router'
-
-import App from './App.vue'
-import VueLabHome from './vuelab/views/VueLabHome/index.vue'
-import VueLabComponent from './vuelab/views/VueLabComponent/index.vue'
+import { createLab } from './index'
 import * as components from './components'
-import { CopyIcon } from './vuelab/components/Icons'
+import configuration from './components/vuelab-configs/index.js'
 
-import directives from './vuelab/composables/directives'
-
-const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: VueLabHome,
-    props: { components }
-  },
-  {
-    path: '/:name',
-    name: 'component',
-    component: VueLabComponent,
-    props: route => ({ name: route.params.name, components })
-  }
+const menu = [
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'Button', path: '/Button', group: 'Buttons' },
+  { name: 'IconButton', path: '/Button', group: 'Buttons' },
+  { name: 'SimpleButton', path: '/Button', group: 'Buttons' },
+  { name: 'CodePreview', path: '/CodePreview', group: 'Misc' },
 ]
 
-const router = createRouter({
-  history: createWebHistory(),
-  routes
-})
+const menuGroupsDescription = {
+  Buttons: 'Various button components with different styles and functionalities.',
+  Misc: 'Miscellaneous components for various use cases.',
+}
 
-const menu = components ? Object.keys(components).map(key => ({
-  name: key,
-  path: `/${key}`
-})) : []
-
-const app = createApp({
-  render: () => h(App, { menu })
-})
-
-app.use(router)
-app.use(directives)
-app.mount('#app')
+createLab({ components, menu, menuGroupsDescription, configuration })
+  .mount('#app')

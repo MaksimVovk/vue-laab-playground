@@ -24,12 +24,20 @@ import { computed } from 'vue';
     title: {
       type: String,
       default: 'Click me'
+    },
+    disabled: {
+      type: Boolean,
+      default: false
     }
   })
 
   const emit = defineEmits(['click'])
 
-  const classes = computed(() => [`button_size-${props.size}`, `button_palette-${props.palette}`])
+  const classes = computed(() => [
+    `button_size-${props.size}`,
+    `button_palette-${props.palette}`,
+    props.disabled ? 'button_disabled' : ''
+  ])
   const handleClick = () => emit('click')
 
 </script>
@@ -47,9 +55,9 @@ import { computed } from 'vue';
     );
 
     $sizes: (
-      sm: (padding: 6px 12px, height: 24px, border-radius: 4px),
-      md: (padding: 8px 12px, height: 32px, border-radius: 6px),
-      lg: (padding: 10px 14px, height: 40px, border-radius: 8px),
+      sm: (padding: 6px 12px, height: 24px, border-radius: 4px, font-size: 13px),
+      md: (padding: 8px 12px, height: 32px, border-radius: 6px, font-size: 14px),
+      lg: (padding: 10px 14px, height: 40px, border-radius: 8px, font-size: 15px),
     );
 
     @function get($map, $key) {
@@ -81,6 +89,12 @@ import { computed } from 'vue';
       }
     }
 
+    &_disabled {
+      background-color: clr($light, gray-300);
+      cursor: not-allowed;
+      pointer-events: none;
+    }
+
     @each $name, $size in $sizes {
       &_size-#{$name} {
         width: fit-content;
@@ -89,6 +103,9 @@ import { computed } from 'vue';
         user-select: none;
         color: clr($light, text-inverse);
         transition: .3s;
+        font-size: get($size, font-size);
+        display: flex;
+        align-items: center;
 
         @include button-size(
           get($size, padding),
