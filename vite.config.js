@@ -16,7 +16,7 @@ export default defineConfig({
       name: 'VueStoryBook',
       fileName: (format) => `index.${format}.js`,
     },
-    cssCodeSplit: true,
+    cssCodeSplit: false,
     rollupOptions: {
       external: ['vue', 'vue-router'],
       output: {
