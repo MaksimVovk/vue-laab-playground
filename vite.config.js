@@ -10,6 +10,21 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  build: {
+    lib: {
+      entry: path.resolve(__dirname, 'src/index.js'),
+      name: 'VueStoryBook',
+      fileName: (format) => `index.${format}.js`,
+    },
+    rollupOptions: {
+      external: ['vue', 'vue-router'],
+      output: {
+        globals: {
+          vue: 'Vue',
+        },
+      },
+    },
+  },
   server: {
     port: '4445',
   },
