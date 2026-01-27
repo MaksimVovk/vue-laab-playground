@@ -1,7 +1,7 @@
 {
   "name": "vue-story-book",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -32,6 +32,8 @@
     "highlight.js": "^11.11.1",
     "js-beautify": "^1.15.4",
     "vue": "^3.5.13",
+    "sass-embedded": "^1.97.3",
+    "sass": "^1.62.1",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
@@ -41,7 +43,6 @@
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
     "prettier": "^3.0.3",
-    "sass": "^1.62.1",
     "vite": "^6.3.5"
   },
   "peerDependencies": {

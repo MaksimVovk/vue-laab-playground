@@ -7,6 +7,8 @@ import VueLabComponent from './vuelab/views/VueLabComponent/index.vue'
 
 import appDirectives from './vuelab/composables/directives'
 
+import './styles/index.scss'
+
 export const createLab = ({ components = {}, menu, menuGroupsDescription, mountSelector, configuration, homePageDescription }) => {
   const keys = Object.keys(configuration || {})
   const serializedConfig = keys.reduce((prev, next) => ({ ...prev, [next.toLocaleLowerCase()]: configuration[next] }), {})
