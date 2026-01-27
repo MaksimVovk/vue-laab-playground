@@ -22,7 +22,6 @@
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
 import { generateKey } from '../../composables';
 import { Divider } from '../../components/layout';
 

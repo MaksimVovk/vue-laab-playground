@@ -27,7 +27,6 @@
 import { ref, computed } from 'vue'
 import NavItem from './item.vue'
 import { generateKey } from '../../../composables';
-import { defineProps } from 'vue'
 import { ArrowIcon } from '../../Icons';
 
 const props = defineProps({

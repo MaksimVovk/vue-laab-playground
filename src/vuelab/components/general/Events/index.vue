@@ -23,7 +23,6 @@
 </template>
 
 <script setup>
-  import { defineProps } from 'vue'
   import { generateKey } from '../../../composables'
 
   const props = defineProps({

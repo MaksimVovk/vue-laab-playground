@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-  import { computed, defineProps } from 'vue'
+  import { computed } from 'vue'
   import PropsDescriptionItem from './item.vue'
   import { generateKey } from '../../../composables'
 

@@ -39,7 +39,6 @@
 import { computed, ref } from 'vue';
 import Group from './group.vue';
 import { generateKey } from '../../composables';
-import { defineProps } from 'vue'
 import { LabIcon } from '../../components/Icons';
 
 const props = defineProps({
