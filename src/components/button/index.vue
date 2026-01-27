@@ -44,6 +44,7 @@ import { computed } from 'vue';
 
 <style lang="scss" scoped>
   @use "sass:map";
+
   @use '../../styles/index.scss' as *;
   .button {
     $palettes: (
@@ -80,11 +81,12 @@ import { computed } from 'vue';
         @include button-color-scheme($base-color);
 
         &:hover {
-          @include button-color-scheme(lighten($base-color, 10%));
+          @include button-color-scheme(adjust($base-color, 10%));
         }
 
         &:active {
-          @include button-color-scheme(darken($base-color, 10%));
+          @include button-color-scheme(adjust($base-color, -10%));
+          // @include button-color-scheme(darken($base-color, 10%));
         }
       }
     }

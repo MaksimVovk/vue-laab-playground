@@ -78,7 +78,7 @@ const isActive = computed(() => props.path?.toLowerCase() === props.item.path?.t
     }
 
     &:hover:not(.vue-lab__nav-item--active) {
-      background-color: darken(clr($light, bg-tertiary), 1%);
+      background-color: adjust(clr($light, bg-tertiary), -1%);
       transition: all .3s ease-in-out;
     }
 
@@ -87,7 +87,7 @@ const isActive = computed(() => props.path?.toLowerCase() === props.item.path?.t
     }
 
     &--active {
-      background-color: darken(clr($light, bg-tertiary), 5%);
+      background-color: adjust(clr($light, bg-tertiary), -5%);
     }
   }
 </style>

@@ -82,15 +82,15 @@ import { computed } from 'vue';
         @include tag-color-scheme($base-color);
 
         &:hover {
-          @include tag-color-scheme(lighten($base-color, 10%));
+          @include tag-color-scheme(adjust($base-color, 10%));
         }
 
         &:active {
-          @include tag-color-scheme(darken($base-color, 10%));
+          @include tag-color-scheme(adjust($base-color, -10%));
         }
 
         &.lab-tag_active {
-          background-color: lighten($base-color, 20%)
+          background-color: adjust($base-color, 20%)
         }
       }
     }

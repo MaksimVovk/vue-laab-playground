@@ -162,7 +162,7 @@ const close = () => {
         // }
 
         &:hover:not(.vue-lab__search-list-item--active) {
-          background-color: darken(clr($light, bg-tertiary), 5%);
+          background-color: adjust(clr($light, bg-tertiary), -5%);
           transition: all .3s ease-in-out;
         }
 
@@ -171,7 +171,7 @@ const close = () => {
         }
 
         &--active {
-          background-color: darken(clr($light, bg-tertiary), 5%);
+          background-color: adjust(clr($light, bg-tertiary), -5%);
         }
       }
     }

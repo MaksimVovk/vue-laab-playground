@@ -61,6 +61,21 @@ const listClasses = computed(() => ({
   'vue-lab__nav-group-items--opened': isOpened.value,
 }))
 
+const maxHeight = computed(() => {
+  const count = props?.option?.items?.length
+  return count ? count * 35 + 100 + 'px' : '1000px'
+})
+
+const maxHeightDuration = computed(() => {
+  const count = props?.option?.items?.length
+  if (!count || count < 30) return '.3s'
+  if (count < 50) return '.5s'
+  if (count < 80) return '.8s'
+  if (count < 100) return '1s'
+
+  return count / 150 + 's'
+})
+
 </script>
 
 <style scoped lang="scss">
@@ -90,13 +105,11 @@ const listClasses = computed(() => ({
 
     &-items {
       overflow: hidden;
-      transition: max-height 0.3s ease, opacity 1s ease;
+      transition: max-height v-bind(maxHeightDuration) ease;
       max-height: 0;
-      opacity: 0;
 
       &--opened {
-        max-height: 100000px;
-        opacity: 1;
+        max-height: v-bind(maxHeight);
       }
     }
   }
