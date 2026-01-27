@@ -1,7 +1,7 @@
 {
   "name": "vue-story-book",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -20,7 +20,7 @@
     "dev": "vite --mode development",
     "prod": "vite --mode production",
     "stage": "vite --mode staging",
-    "build": "vite build --mode production",
+    "build": "npx vite build --mode production",
     "build:dev": "vite build --mode development",
     "build:staging": "vite build --mode staging",
     "preview": "vite preview",
