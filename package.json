@@ -12,8 +12,7 @@
     "build:staging": "vite build --mode staging",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .eslintignore",
-    "format": "prettier --ignore-path .eslintignore --write src/",
-    "postinstall": "husky install"
+    "format": "prettier --ignore-path .eslintignore --write src/"
   },
   "dependencies": {
     "@highlightjs/vue-plugin": "^2.1.0",
@@ -30,7 +29,6 @@
     "@vue/eslint-config-prettier": "^8.0.0",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.17.0",
-    "husky": "^8.0.3",
     "prettier": "^3.0.3",
     "sass": "^1.62.1",
     "vite": "^6.3.5"
