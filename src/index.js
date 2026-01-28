@@ -43,9 +43,7 @@ export const createLab = ({ components = {}, menu, menuGroupsDescription, mountS
     routes
   })
 
-  const app = createApp({
-    render: () => h(App, { menu: menu || appMenu, })
-  })
+  const app = createApp(App, { menu: menu || appMenu, })
 
   app.use(router)
   app.use(appDirectives)
