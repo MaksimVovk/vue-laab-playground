@@ -23,9 +23,10 @@
       >
     </div>
     <div class="home-page__menu custom-scroll--simple">
-      <template v-for="(group, index) in menuItems" :key="generateKey(group)">
+      <template v-for="(group, index) in menuItems">
         <Group
           v-if="group.items?.length"
+          :key="generateKey(group)"
           :option="group"
           :isGroup="isGroup"
           :isLast="index == menuItems.length - 1"
