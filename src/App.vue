@@ -18,12 +18,12 @@
 <script setup>
 import { Nav } from './vuelab/components/general/index.js'
 import { inject } from 'vue'
-import { useRouter } from 'vue-router'
+// import { useRouter } from 'vue-router'
 
 const menu = inject('menu')
-const router = useRouter();
+// const router = useRouter();
 const navigate = (path) => {
-  router.push({ path })
+  console.log('info')
 }
 
 </script>
