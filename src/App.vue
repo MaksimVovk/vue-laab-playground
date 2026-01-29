@@ -18,12 +18,14 @@
 <script setup>
 import { Nav } from './vuelab/components/general/index.js'
 import { inject } from 'vue'
-// import { useRouter } from 'vue-router'
+import { getCurrentInstance } from 'vue'
+
+const instance = getCurrentInstance()
+const router = instance?.appContext.config.globalProperties.$router
 
 const menu = inject('menu')
-// const router = useRouter();
 const navigate = (path) => {
-  console.log('info')
+  router.push({ path })
 }
 
 </script>
