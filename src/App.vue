@@ -6,6 +6,7 @@
       <Nav
         :path="$route.path"
         :options="menu"
+        @navigate="navigate"
       />
       <div class="vue-lab-application__content">
         <router-view />
@@ -17,14 +18,13 @@
 <script setup>
 import { Nav } from './vuelab/components/general/index.js'
 import { inject } from 'vue'
+import { useRouter } from 'vue-router'
 
 const menu = inject('menu')
-// const props = defineProps({
-//   menu: {
-//     type: Array,
-//     default: () => []
-//   }
-// })
+const router = useRouter();
+const navigate = (path) => {
+  router.push({ path })
+}
 
 </script>
 

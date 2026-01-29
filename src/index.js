@@ -45,9 +45,10 @@ export const createLab = ({ components = {}, menu, menuGroupsDescription, mountS
 
   const app = createApp(App)
 
-  app.provide('menu', menu || appMenu)
   app.use(router)
   app.use(appDirectives)
+
+  app.provide('menu', menu || appMenu)
 
   if (mountSelector) {
     app.mount(mountSelector)

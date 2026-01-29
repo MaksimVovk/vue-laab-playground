@@ -30,7 +30,6 @@
 
 <script setup>
 import { computed } from 'vue'
-import { useRouter } from 'vue-router'
 import { generateKey } from '../../../composables';
 import Search from './search.vue'
 import { LabIcon } from '../../Icons';
@@ -47,7 +46,7 @@ const props = defineProps({
   }
 })
 
-const router = useRouter();
+const emit = defineEmits(['navigate'])
 
 const menuItems = computed(() => {
   const groups = props.options.map(item => item.group)
@@ -71,7 +70,7 @@ const isGroup = computed(() => {
 })
 
 const goToHome = () => {
-  router.push({ path: '/' })
+  emit('navigate', '/')
 }
 
 </script>
