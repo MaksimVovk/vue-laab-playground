@@ -16,13 +16,15 @@
 
 <script setup>
 import { Nav } from './vuelab/components/general/index.js'
+import { inject } from 'vue'
 
-const props = defineProps({
-  menu: {
-    type: Array,
-    default: () => []
-  }
-})
+const menu = inject('menu')
+// const props = defineProps({
+//   menu: {
+//     type: Array,
+//     default: () => []
+//   }
+// })
 
 </script>
 
