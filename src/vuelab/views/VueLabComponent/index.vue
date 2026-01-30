@@ -1,6 +1,7 @@
 <template>
   <Page
     v-if="isLoading"
+    :is-controls="!!controls.length"
     class="vue-lab"
   >
     <div class="vue-lab__component">
@@ -37,9 +38,11 @@
         />
       </div>
     </div>
-    <div class="vue-lab__controls">
+    <div
+      v-if="controls.length"
+      class="vue-lab__controls"
+    >
       <ControlBlock
-        v-if="controls.length"
         :options="controls"
         :values="config"
         @input="handleCTRLInput"
