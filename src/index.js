@@ -27,7 +27,10 @@ export const createLab = ({
     path: `/${key}`
   })) : []
 
-  const currentMenu = extra ? [...(appMenu || menu), ...extra] : (appMenu || menu)
+  let currentMenu = extra ? [...(menu || appMenu), ...extra] : (menu || appMenu)
+  const maxIndex = currentMenu.reduce((max, item) => item.index > max ? item.index : max, 0)
+  currentMenu = currentMenu.map((item, index) => ({ ...item, index: item.index || maxIndex + index + 1 }))
+  currentMenu.sort((a, b) => a.index - b.index)
 
   const extraRouters = (extra || []).map(it => {
     if (it.type == 'colors') {
