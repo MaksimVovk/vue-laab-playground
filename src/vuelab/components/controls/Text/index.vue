@@ -1,18 +1,18 @@
 <template>
   <CtrlLayout name="Text Input">
-    <div class="text-ctrl">
+    <div class="vue-lab__text-ctrl">
       <div
         :class="[
-          'text-ctrl__field',
+          'vue-lab__text-ctrl__field',
           {
-            'text-ctrl__field--active': isValue,
-            'text-ctrl__field--focused': isFocused,
+            'vue-lab__text-ctrl__field--active': isValue,
+            'vue-lab__text-ctrl__field--focused': isFocused,
           }
         ]"
       >
         <input
           :value="value"
-          class="text-ctrl__input"
+          class="vue-lab__text-ctrl__input"
           type="text"
           @focusin="handleFocus('in')"
           @focusout="handleFocus('out')"
@@ -51,7 +51,7 @@ const handleFocus = (type) => {
 @use '../../../../styles/index.scss' as *;
 
 $transition: .3s all ease-in-out;
-.text-ctrl {
+.vue-lab__text-ctrl {
 
   &__field {
     width: 100%;

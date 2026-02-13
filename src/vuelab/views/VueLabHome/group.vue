@@ -1,18 +1,18 @@
 <template>
-  <div class="home-page__group">
-    <div v-if="option?.name || isGroup" class="home-page__group-name">
+  <div class="vue-lab-home-page__group">
+    <div v-if="option?.name || isGroup" class="vue-lab-home-page__group-name">
       {{ isGroup ? option.name || 'Other components' : '' }}
     </div>
-    <div v-if="option?.description" class="home-page__group-description">
+    <div v-if="option?.description" class="vue-lab-home-page__group-description">
       {{ option.description || '' }}
     </div>
-    <div class="home-page__group-body">
+    <div class="vue-lab-home-page__group-body">
       <div
         v-for="item in option.items"
         :key="generateKey(item)"
-        class="home-page__group-body-item"
+        class="vue-lab-home-page__group-body-item"
       >
-        <router-link :to="`/${item.name}`" class="home-page__group-body-link">
+        <router-link :to="`/${item.name}`" class="vue-lab-home-page__group-body-link">
           {{ item.name }}
         </router-link>
       </div>
@@ -35,7 +35,7 @@ import { Divider } from '../../components/layout';
 
 <style lang="scss" scoped>
 @use '../../../styles/index.scss' as *;
-  .home-page__group {
+  .vue-lab-home-page__group {
     &-name {
       font-weight: 600;
       font-size: 18px;

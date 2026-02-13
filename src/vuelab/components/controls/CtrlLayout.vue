@@ -1,7 +1,7 @@
 <template>
-  <div class="ctrl-layout">
-    <div class="ctrl-layout__title">{{ name }}</div>
-    <div class="ctrl-layout__body">
+  <div class="vue-lab__ctrl-layout">
+    <div class="vue-lab__ctrl-layout__title">{{ name }}</div>
+    <div class="vue-lab__ctrl-layout__body">
       <slot />
     </div>
   </div>
@@ -16,7 +16,7 @@
 <style lang="scss" scoped>
   @use '../../../styles/index.scss' as *;
 
-  .ctrl-layout {
+  .vue-lab__ctrl-layout {
     &:not(:first-child) {
       padding-top: 20px;
     }

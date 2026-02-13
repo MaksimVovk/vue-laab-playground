@@ -1,18 +1,18 @@
 <template>
-  <div class="home-page">
-    <div class="home-page__header">
-      <div class="home-page__title">
-        <div class="home-page__title-icon">
+  <div class="vue-lab-home-page">
+    <div class="vue-lab-home-page__header">
+      <div class="vue-lab-home-page__title">
+        <div class="vue-lab-home-page__title-icon">
         <LabIcon />
       </div>
-      <div class="home-page__title-text">
+      <div class="vue-lab-home-page__title-text">
         Vue Lab
       </div>
       </div>
-      <div class="home-page__description">{{ pageDiscription }}</div>
+      <div class="vue-lab-home-page__description">{{ pageDiscription }}</div>
     </div>
 
-    <div class="home-page__search">
+    <div class="vue-lab-home-page__search">
       <input
         :value="searchQuery"
         class="text-ctrl__input"
@@ -22,7 +22,7 @@
         @input="handleTextInput"
       >
     </div>
-    <div class="home-page__menu custom-scroll--simple">
+    <div class="vue-lab-home-page__menu custom-scroll--simple">
       <template v-for="(group, index) in menuItems">
         <Group
           v-if="group.items?.length"
@@ -100,7 +100,7 @@ const isGroup = computed(() => {
 
 <style lang="scss" scoped>
 @use '../../../styles/index.scss' as *;
-.home-page {
+.vue-lab-home-page {
   padding: 20px;
   box-sizing: border-box;
   height: 100%;

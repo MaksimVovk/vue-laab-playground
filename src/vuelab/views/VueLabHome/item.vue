@@ -1,5 +1,5 @@
 <template>
-  <div class="home-page__item">
+  <div class="vue-lab-home-page__item">
     <router-link :to="`/${item.name}`">{{ item.name }}</router-link>
   </div>
 </template>

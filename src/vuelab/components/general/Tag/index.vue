@@ -1,16 +1,16 @@
 <template>
   <div
-    :class="['lab-tag', ...classes, {
-      'lab-tag_active': isActive,
+    :class="['vue-lab-tag', ...classes, {
+      'vue-lab-tag_active': isActive,
     }]"
     @click="handleClick"
   >
-    <div class="lab-tag__title">
+    <div class="vue-lab-tag__title">
       {{ title }}
     </div>
     <div
       v-if="isClose"
-      class="lab-tag__close"
+      class="vue-lab-tag__close"
     >X</div>
   </div>
 </template>
@@ -36,14 +36,14 @@ import { computed } from 'vue';
 
   const emit = defineEmits(['input'])
 
-  const classes = computed(() => [`lab-tag_size-${props.size}`, `lab-tag_palette-${props.palette}`])
+  const classes = computed(() => [`vue-lab-tag_size-${props.size}`, `vue-lab-tag_palette-${props.palette}`])
   const handleClick = () => emit('input', props.value)
 </script>
 
 <style lang="scss">
   @use "sass:map";
   @use '../../../../styles/index.scss' as *;
-  .lab-tag {
+  .vue-lab-tag {
     &__title {
       color: clr($light, text-inverse);
     }
@@ -89,7 +89,7 @@ import { computed } from 'vue';
           @include tag-color-scheme(adjust($base-color, -10%));
         }
 
-        &.lab-tag_active {
+        &.vue-lab-tag_active {
           background-color: adjust($base-color, 20%)
         }
       }

@@ -2,7 +2,7 @@
   <div
     v-hoisted
     :style="style"
-    class="popover"
+    class="vue-lab__popover"
   >
     <slot />
   </div>
@@ -131,7 +131,7 @@ watch(
 </script>
 
 <style scoped>
-  .popover {
+  .vue-lab__popover {
     position: absolute;
     overflow: hidden;
     z-index: 999;

@@ -1,6 +1,6 @@
 <template>
   <div
-    :class="['lab-button', ...classes]"
+    :class="['vue-lab__lab-button', ...classes]"
     @click="handleClick"
   >
     <slot />
@@ -25,7 +25,7 @@ import { computed } from 'vue';
 
   const emit = defineEmits(['click'])
 
-  const classes = computed(() => [`lab-button_size-${props.size}`, `lab-button_palette-${props.palette}`])
+  const classes = computed(() => [`vue-lab__lab-button_size-${props.size}`, `vue-lab__lab-button_palette-${props.palette}`])
   const handleClick = () => emit('click')
 
 </script>
@@ -33,7 +33,7 @@ import { computed } from 'vue';
 <style lang="scss" scoped>
   @use "sass:map";
   @use '../../../../styles/index.scss' as *;
-  .lab-button {
+  .vue-lab__lab-button {
     $palettes: (
       success: (color: clr($light, success), secondary: ($light, success)),
       error: (color: clr($light, error), secondary: ($light, error)),

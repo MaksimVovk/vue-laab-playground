@@ -1,12 +1,12 @@
 <template>
-  <div class="control-block">
-    <div class="control-block__header">
-      <div class="control-block__header-title">Controls</div>
-      <div class="control-block__header-ctrl">
+  <div class="vue-lab__control-block">
+    <div class="vue-lab__control-block__header">
+      <div class="vue-lab__control-block__header-title">Controls</div>
+      <div class="vue-lab__control-block__header-ctrl">
         <Button @click="resetSettings">Reset</Button>
       </div>
     </div>
-    <div class="control-block__body custom-scroll">
+    <div class="vue-lab__control-block__body custom-scroll">
       <component
         v-for="(o, i) in options"
         :key="`ctrl-${o.ctrl}-${i}`"
@@ -58,7 +58,7 @@
 <style lang="scss" scoped>
   @use '../../../../styles/index.scss' as *;
 
-  .control-block {
+  .vue-lab__control-block {
     height: 100%;
     overflow: hidden;
     display: grid;
