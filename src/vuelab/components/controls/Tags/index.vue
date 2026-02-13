@@ -1,13 +1,13 @@
 <template>
-  <CtrlLayout name="Palette">
-    <div class="vue-lab__palette">
+  <CtrlLayout :name="title">
+    <div class="vue-lab__tags">
       <Tag
         v-for="o in options"
         :key="generateKey(o)"
         :value="o"
         :isActive="o == value"
         :title="o"
-        class="vue-lab__palette__item"
+        class="vue-lab__tags__item"
         @input="setValue"
       ></Tag>
     </div>
@@ -18,12 +18,15 @@
   import CtrlLayout from '../CtrlLayout.vue';
   import { Tag } from '../../general';
   import { generateKey } from '../../../composables';
-  import { onMounted } from 'vue';
 
   const props = defineProps({
     options: {
       type: Array,
       default: () => [],
+    },
+    title: {
+      type: String,
+      default: 'Tags'
     },
     value: {
       type: String,
@@ -40,7 +43,7 @@
 
 <style lang="scss">
   @use '../../../../styles/index.scss' as *;
-  .vue-lab__palette {
+  .vue-lab__tags {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;

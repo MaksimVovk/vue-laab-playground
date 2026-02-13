@@ -1,8 +1,9 @@
 export const propsConfig = {
   palette: {
-    type: 'palette',
+    type: 'tags',
     variants: ['success', 'primary', 'warning', 'error', 'info'],
     value: 'primary',
+    ctrlTitle: 'Palette',
     default: 'primary',
     description: 'Defines the button color scheme',
     ctrl: true,

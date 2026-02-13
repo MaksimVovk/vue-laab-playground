@@ -21,7 +21,7 @@
 </template>
 
 <script setup>
-  import { Palette, Size, BooleanSwitcher, Text } from '../../controls';
+  import { Tags, Size, BooleanSwitcher, Text } from '../../controls';
   import { Button } from '../../general'
 
   const props = defineProps({
@@ -33,8 +33,8 @@
 
   const getComponent = (comp) => {
     switch (comp) {
-      case 'palette':
-        return Palette
+      case 'tags':
+        return Tags
       case 'size':
         return Size
       case 'boolean':
