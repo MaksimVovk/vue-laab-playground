@@ -58,6 +58,7 @@
       display: flex;
       width: 100%;
       height: 50px;
+      font-family: var(--font-family);
     }
 
     &-colors {
@@ -101,6 +102,7 @@
           color: clr($light, text-muted);
           font-size: 12px;
           line-height: 1.4;
+          font-family: var(--font-family);
         }
       }
     }

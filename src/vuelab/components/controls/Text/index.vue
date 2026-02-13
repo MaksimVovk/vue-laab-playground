@@ -47,11 +47,12 @@ const handleFocus = (type) => {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @use '../../../../styles/index.scss' as *;
 
 $transition: .3s all ease-in-out;
 .vue-lab__text-ctrl {
+  font-family: var(--font-family);
 
   &__field {
     width: 100%;

@@ -58,6 +58,7 @@
     &-colors {
       height: 100%;
       width: 100%;
+      font-family: var(--font-family);
 
       &__component {
         height: 100%;

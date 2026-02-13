@@ -167,6 +167,7 @@ onMounted(() => {
   .vue-lab__size {
     width: 100%;
     user-select: none;
+    font-family: var(--font-family);
 
     &-track {
       position: relative;

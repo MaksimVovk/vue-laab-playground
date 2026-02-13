@@ -72,6 +72,7 @@
 <style lang="scss" scoped>
   @use '../../../../styles/index.scss' as *;
   .vue-lab__props-description__item {
+    font-family: var(--font-family);
     &:not(:last-child) {
       padding-bottom:  8px;
       border-bottom: 1px solid clr($light, border-primary);

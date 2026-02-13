@@ -40,10 +40,11 @@ import { computed } from 'vue';
   const handleClick = () => emit('input', props.value)
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
   @use "sass:map";
   @use '../../../../styles/index.scss' as *;
   .vue-lab-tag {
+    font-family: var(--font-family);
     &__title {
       color: clr($light, text-inverse);
     }

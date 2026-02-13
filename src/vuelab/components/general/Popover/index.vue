@@ -135,5 +135,6 @@ watch(
     position: absolute;
     overflow: hidden;
     z-index: 999;
+    font-family: var(--font-family);
   }
 </style>

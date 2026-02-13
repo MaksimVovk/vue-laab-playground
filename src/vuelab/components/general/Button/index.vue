@@ -34,6 +34,7 @@ import { computed } from 'vue';
   @use "sass:map";
   @use '../../../../styles/index.scss' as *;
   .vue-lab__lab-button {
+    font-family: var(--font-family);
     $palettes: (
       success: (color: clr($light, success), secondary: ($light, success)),
       error: (color: clr($light, error), secondary: ($light, error)),

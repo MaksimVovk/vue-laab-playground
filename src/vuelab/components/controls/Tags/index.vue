@@ -41,12 +41,13 @@
   }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
   @use '../../../../styles/index.scss' as *;
   .vue-lab__tags {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
     align-items: flex-start;
+    font-family: var(--font-family);
   }
 </style>

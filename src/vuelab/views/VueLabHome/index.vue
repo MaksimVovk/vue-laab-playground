@@ -118,6 +118,7 @@ const isGroup = computed(() => {
     height: 100%;
     max-height: 100%;
     overflow: auto;
+    font-family: var(--font-family);
   }
 
   &__title {
@@ -134,6 +135,7 @@ const isGroup = computed(() => {
     box-sizing: border-box;
     margin-bottom: 40px;
     cursor: pointer;
+    font-family: var(--font-family);
 
     &-text {
       font-family: "Ubuntu", sans-serif;
@@ -158,6 +160,7 @@ const isGroup = computed(() => {
     border-left: clr($light, gray-300) 4px solid;
     padding-left: 16px;
     line-height: 1.4;
+    font-family: var(--font-family);
   }
 }
 </style>

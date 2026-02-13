@@ -36,6 +36,7 @@
 <style lang="scss" scoped>
   @use '../../../../styles/index.scss' as *;
   .vue-lab__events {
+    font-family: var(--font-family);
     &__body {
       &-row {
         display: grid;

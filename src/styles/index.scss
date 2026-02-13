@@ -8,6 +8,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+:root {
+  --font-family: "Source Sans 3", sans-serif;
+}
+
 html,
 body,
 #app {
@@ -17,10 +21,6 @@ body,
 }
 
 body {
-  [class^="vue-lab-"] {
-    font-family: "Source Sans 3", sans-serif;
-  }
-
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;

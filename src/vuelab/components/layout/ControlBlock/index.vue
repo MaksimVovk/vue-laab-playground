@@ -69,6 +69,7 @@
       align-items: center;
       justify-content: space-between;
       margin-bottom: 8px;
+      font-family: var(--font-family);
 
       &-title {
         font-size: 16px;

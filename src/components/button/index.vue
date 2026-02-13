@@ -1,6 +1,6 @@
 <template>
   <div
-    :class="['button', ...classes]"
+    :class="['vue-lab__button', ...classes]"
     @click="handleClick"
   >
     {{ title }}
@@ -34,9 +34,9 @@ import { computed } from 'vue';
   const emit = defineEmits(['click'])
 
   const classes = computed(() => [
-    `button_size-${props.size}`,
-    `button_palette-${props.palette}`,
-    props.disabled ? 'button_disabled' : ''
+    `vue-lab__button_size-${props.size}`,
+    `vue-lab__button_palette-${props.palette}`,
+    props.disabled ? 'vue-lab__button_disabled' : ''
   ])
   const handleClick = () => emit('click')
 
@@ -46,7 +46,8 @@ import { computed } from 'vue';
   @use "sass:map";
 
   @use '../../styles/index.scss' as *;
-  .button {
+  .vue-lab__button {
+    font-family: var(--font-family);
     $palettes: (
       success: (color: clr($light, success), secondary: ($light, success)),
       error: (color: clr($light, error), secondary: ($light, error)),
@@ -65,11 +66,11 @@ import { computed } from 'vue';
       @return map.get($map, $key);
     }
 
-    @mixin button-color-scheme ($color) {
+    @mixin vue-lab__button-color-scheme ($color) {
       background-color: $color;
     }
 
-    @mixin button-size ($padding, $height, $border-radius) {
+    @mixin vue-lab__button-size ($padding, $height, $border-radius) {
       height: $height;
       padding: $padding;
       border-radius: $border-radius;
@@ -78,15 +79,15 @@ import { computed } from 'vue';
     @each $name, $color in $palettes {
       &_palette-#{$name} {
         $base-color: get($color, color);
-        @include button-color-scheme($base-color);
+        @include vue-lab__button-color-scheme($base-color);
 
         &:hover {
-          @include button-color-scheme(adjust($base-color, 10%));
+          @include vue-lab__button-color-scheme(adjust($base-color, 10%));
         }
 
         &:active {
-          @include button-color-scheme(adjust($base-color, -10%));
-          // @include button-color-scheme(darken($base-color, 10%));
+          @include vue-lab__button-color-scheme(adjust($base-color, -10%));
+          // @include vue-lab__button-color-scheme(darken($base-color, 10%));
         }
       }
     }
@@ -109,7 +110,7 @@ import { computed } from 'vue';
         display: flex;
         align-items: center;
 
-        @include button-size(
+        @include vue-lab__button-size(
           get($size, padding),
           get($size, height),
           get($size, border-radius)
