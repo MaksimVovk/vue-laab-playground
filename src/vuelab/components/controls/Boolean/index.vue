@@ -46,7 +46,7 @@
   background-color: clr($light, white-100);
   cursor: pointer;
   position: relative;
-  font-family: var(--font-family);
+  font-family: var(--vue-lab-font-family);
 
   &-tumbler {
     height: 16px;

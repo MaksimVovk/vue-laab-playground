@@ -57,7 +57,7 @@ const copyToClipboard = async () => {
 
 <style lang="scss" scoped>
 .vue-lab__code-preview {
-  font-family: var(--font-family);
+  font-family: var(--vue-lab-font-family);
   &__pre {
     font-family: monospace;
     font-size: 14px;

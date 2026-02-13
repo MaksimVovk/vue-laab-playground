@@ -52,7 +52,7 @@ const handleFocus = (type) => {
 
 $transition: .3s all ease-in-out;
 .vue-lab__text-ctrl {
-  font-family: var(--font-family);
+  font-family: var(--vue-lab-font-family);
 
   &__field {
     width: 100%;

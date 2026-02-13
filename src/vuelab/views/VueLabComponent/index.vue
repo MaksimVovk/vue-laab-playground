@@ -232,12 +232,12 @@ watch(() => props.name, async () => {
         margin-bottom: 8px;
         padding: 0 16px;
         box-sizing: border-box;
-        font-family: var(--font-family);
+        font-family: var(--vue-lab-font-family);
 
         &-title {
           font-size: 18px;
           font-weight: 600;
-          font-family: var(--font-family);
+          font-family: var(--vue-lab-font-family);
         }
       }
 

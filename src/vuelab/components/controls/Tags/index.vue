@@ -48,6 +48,6 @@
     flex-wrap: wrap;
     gap: 5px;
     align-items: flex-start;
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
   }
 </style>

@@ -135,6 +135,6 @@ watch(
     position: absolute;
     overflow: hidden;
     z-index: 999;
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
   }
 </style>

@@ -17,7 +17,7 @@
   @use '../../../styles/index.scss' as *;
 
   .vue-lab__ctrl-layout {
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
     &:not(:first-child) {
       padding-top: 20px;
     }

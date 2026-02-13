@@ -47,7 +47,7 @@ import { computed } from 'vue';
 
   @use '../../styles/index.scss' as *;
   .vue-lab__button {
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
     $palettes: (
       success: (color: clr($light, success), secondary: ($light, success)),
       error: (color: clr($light, error), secondary: ($light, error)),

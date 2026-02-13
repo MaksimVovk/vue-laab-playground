@@ -29,6 +29,6 @@
   @use '../../../../styles/index.scss' as *;
 
   .vue-lab__props-description {
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
   }
 </style>

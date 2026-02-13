@@ -88,7 +88,7 @@ const goToHome = () => {
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
 
     &-header {
       display: grid;

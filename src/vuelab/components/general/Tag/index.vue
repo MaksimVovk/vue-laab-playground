@@ -44,7 +44,7 @@ import { computed } from 'vue';
   @use "sass:map";
   @use '../../../../styles/index.scss' as *;
   .vue-lab-tag {
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
     &__title {
       color: clr($light, text-inverse);
     }

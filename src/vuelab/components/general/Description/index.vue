@@ -18,6 +18,6 @@ const props = defineProps({
     border-left: clr($light, gray-300) 4px solid;
     padding-left: 16px;
     line-height: 1.4;
-    font-family: var(--font-family);
+    font-family: var(--vue-lab-font-family);
   }
 </style>
