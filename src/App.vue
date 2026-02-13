@@ -5,6 +5,7 @@
     <div class="vue-lab-application__body">
       <Nav
         :path="$route.path"
+        :name="title"
         :options="menu"
         @navigate="navigate"
       />
@@ -24,6 +25,7 @@ const instance = getCurrentInstance()
 const router = instance?.appContext.config.globalProperties.$router
 
 const menu = inject('menu')
+const title = inject('kit-title')
 const navigate = (path) => {
   router.push({ path })
 }

@@ -272,7 +272,7 @@ const colorOptions = [
 // ]
 
 
-const extra = [
+const additionalPages = [
   {
     name: 'Colors',
     path: '/Colors',
@@ -292,5 +292,5 @@ const menuGroupsDescription = {
   General: 'General components information and guidelines.',
 }
 
-createLab({ components, menuGroupsDescription, configuration, extra })
+createLab({ components, menuGroupsDescription, configuration, additionalPages })
   .mount('#app')

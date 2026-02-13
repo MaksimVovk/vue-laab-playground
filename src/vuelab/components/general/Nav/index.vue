@@ -5,7 +5,7 @@
         <LabIcon />
       </div>
       <div class="vue-lab__nav-header-title">
-        Vue Lab
+        {{ name }}
       </div>
     </div>
     <div class="vue-lab__nav-search">
@@ -36,6 +36,7 @@ import { LabIcon } from '../../Icons';
 import NavGroup from './group.vue'
 
 const props = defineProps({
+  name: { type: String, default: 'Vue Lab' },
   options: {
     type: Array,
     default: () => []

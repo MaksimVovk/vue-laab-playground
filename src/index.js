@@ -17,7 +17,8 @@ export const createLab = ({
   mountSelector,
   configuration,
   homePageDescription,
-  extra,
+  additionalPages,
+  kitTitle,
 }) => {
   const keys = Object.keys(configuration || {})
   const serializedConfig = keys.reduce((prev, next) => ({ ...prev, [next.toLocaleLowerCase()]: configuration[next] }), {})
@@ -27,12 +28,12 @@ export const createLab = ({
     path: `/${key}`
   })) : []
 
-  let currentMenu = extra ? [...(menu || appMenu), ...extra] : (menu || appMenu)
+  let currentMenu = additionalPages ? [...(menu || appMenu), ...additionalPages] : (menu || appMenu)
   const maxIndex = currentMenu.reduce((max, item) => item.index > max ? item.index : max, 0)
   currentMenu = currentMenu.map((item, index) => ({ ...item, index: item.index || maxIndex + index + 1 }))
   currentMenu.sort((a, b) => a.index - b.index)
 
-  const extraRouters = (extra || []).map(it => {
+  const additionalRouters = (additionalPages || []).map(it => {
     if (it.type == 'colors') {
       return {
         path: it.path,
@@ -57,7 +58,7 @@ export const createLab = ({
         menuGroupsDescription
       }
     },
-    ...extraRouters,
+    ...additionalRouters,
     {
       path: '/:name',
       name: 'component',
@@ -77,6 +78,7 @@ export const createLab = ({
   app.use(appDirectives)
 
   app.provide('menu', currentMenu)
+  app.provide('kit-title', kitTitle)
 
   if (mountSelector) {
     app.mount(mountSelector)
