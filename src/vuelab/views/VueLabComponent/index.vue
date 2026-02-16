@@ -184,7 +184,7 @@ const exampleCode = computed(() => {
 
 const getValues = (val) => {
   if (Array.isArray(val)) {
-    return val.join(' | ')
+    return val?.filter(f => f != null && f !== undefined && f !== '').join(' | ')
   }
 
   if (typeof val === 'boolean') {

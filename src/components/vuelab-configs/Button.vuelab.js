@@ -13,7 +13,7 @@ export const propsConfig = {
     ctrlTitle: 'Animation',
     variants: ['clicked', 'flash', null],
     value: 'clicked',
-    default: 'clicked',
+    default: 'null',
     description: 'Defines the button animation on click or hover',
     ctrl: true,
     optional: true,
