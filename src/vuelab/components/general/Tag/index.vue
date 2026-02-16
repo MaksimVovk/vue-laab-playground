@@ -6,7 +6,7 @@
     @click="handleClick"
   >
     <div class="vue-lab-tag__title">
-      {{ title }}
+      {{ label }}
     </div>
     <div
       v-if="isClose"
@@ -21,7 +21,7 @@ import { computed } from 'vue';
     title: { type: [String, Number], default: () => null },
     isClose: { type: Boolean, default: () => false },
     isActive: { type: Boolean, default: () => false },
-    value: { type: [String, Number], required: true },
+    value: { type: [String, Number, null], required: true },
     size: {
       type: String,
       default: 'md',
@@ -37,6 +37,7 @@ import { computed } from 'vue';
   const emit = defineEmits(['input'])
 
   const classes = computed(() => [`vue-lab-tag_size-${props.size}`, `vue-lab-tag_palette-${props.palette}`])
+  const label = computed(() => props.title == null ? 'Null' : props.title)
   const handleClick = () => emit('input', props.value)
 </script>
 

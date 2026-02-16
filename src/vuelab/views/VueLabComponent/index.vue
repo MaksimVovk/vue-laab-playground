@@ -75,6 +75,7 @@ let config = ref({})
 
 const description = ref(null)
 const propsData = ref(null)
+const propsMap = ref(new Map())
 const eventsData = ref(null)
 const isLoading = ref(true)
 
@@ -116,6 +117,7 @@ const loadData = async () => {
   defaultConfig.value = { ...config.value }
   description.value = source?.description
   propsData.value = getPropsData(keys, source.propsConfig)
+  propsMap.value = getPropsMap(keys, source.propsConfig)
   eventsData.value = getEventsData(source.events)
   isLoading.value = true
 }
@@ -132,9 +134,14 @@ const getPropsData = (keys, vals) => {
     name: it,
     type: vals[it].type,
     values: getValues(vals[it].variants),
+    optional: vals[it].optional || false,
     default: vals[it].default,
     description: vals[it].description
   }))
+}
+
+const getPropsMap = (keys, vals) => {
+  return new Map(keys.map(it => ([it, vals[it]])))
 }
 
 const getEventsData = (rows) => {
@@ -152,6 +159,10 @@ const exampleCode = computed(() => {
   const attrs = Object.entries(config.value)
     .filter(f => f[0] != 'vueLabloading')
     .map(([key, value]) => {
+      const keyOptions = propsMap.value.get(key)
+      if ((value === undefined || value === null ) && keyOptions?.optional) {
+        return null
+      }
       if (types.value[key] === 'variable') {
         const keyValue = `${key}Val`
         return `:${key}="${keyValue}"`

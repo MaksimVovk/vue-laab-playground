@@ -25,6 +25,11 @@ import { computed } from 'vue';
       type: String,
       default: 'Click me'
     },
+    animation: {
+      type: String,
+      default: null,
+      validator: (v) => ['clicked', 'flash'].includes(v)
+    },
     disabled: {
       type: Boolean,
       default: false

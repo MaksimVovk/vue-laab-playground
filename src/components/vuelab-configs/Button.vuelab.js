@@ -8,6 +8,16 @@ export const propsConfig = {
     description: 'Defines the button color scheme',
     ctrl: true,
   },
+  animation: {
+    type: 'tags',
+    ctrlTitle: 'Animation',
+    variants: ['clicked', 'flash', null],
+    value: 'clicked',
+    default: 'clicked',
+    description: 'Defines the button animation on click or hover',
+    ctrl: true,
+    optional: true,
+  },
   title: {
     type: 'text',
     value: 'Test button',
