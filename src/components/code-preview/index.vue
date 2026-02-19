@@ -22,11 +22,12 @@ import { computed } from 'vue'
 import { html as beautifyHtml } from 'js-beautify'
 // import 'highlight.js/lib/common'
 import hljsVuePlugin from '@highlightjs/vue-plugin'
+
 // import 'highlight.js/styles/monokai-sublime.css'
 
 import CopyIcon from './CopyIcon.vue'
 
-const hlVue = hljsVuePlugin.component;
+const hlVue = (hljsVuePlugin.default || hljsVuePlugin).component;
 
 
 const props = defineProps({

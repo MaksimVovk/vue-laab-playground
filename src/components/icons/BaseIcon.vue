@@ -112,7 +112,6 @@ $palettes: (
   }
 
   @each $name, $value in $palettes {
-    @warn "Processing palette: #{$name}";
     @if ($name != none) {
       &.icon_palette-#{"#{$name}"} {
         transition: 0.5s;

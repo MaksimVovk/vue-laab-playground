@@ -26,7 +26,7 @@ import hljsVuePlugin from '@highlightjs/vue-plugin'
 
 import { CopyIcon } from '../../Icons'
 
-const hlVue = hljsVuePlugin.component;
+const hlVue = (hljsVuePlugin.default || hljsVuePlugin).component;
 
 
 const props = defineProps({
