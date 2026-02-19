@@ -19,9 +19,9 @@ export default defineConfig(({ mode }) => {
         name: 'VueStoryBook',
         fileName: (format) => `index.${format}.js`,
       },
-      cssCodeSplit: false,
+      cssCodeSplit: true,
       rollupOptions: {
-        external: ['vue', 'vue-router', 'highlight.js', '@highlightjs/vue-plugin', /\.css$/],
+        external: ['vue', 'vue-router', 'highlight.js', '@highlightjs/vue-plugin'],
         output: {
           globals: {
             vue: 'Vue',

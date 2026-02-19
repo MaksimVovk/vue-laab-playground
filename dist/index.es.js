@@ -1,9 +1,7 @@
 import { openBlock as y, createElementBlock as C, normalizeClass as Q, renderSlot as re, computed as S, createElementVNode as O, toDisplayString as U, createCommentVNode as M, Fragment as G, renderList as X, createBlock as P, createStaticVNode as Yt, resolveComponent as ye, resolveDirective as Me, withDirectives as Ke, withCtx as q, resolveDynamicComponent as pe, createTextVNode as J, ref as $, createVNode as F, useCssVars as Ue, normalizeStyle as te, onMounted as Y, nextTick as le, watch as ne, withKeys as se, normalizeProps as It, guardReactiveProps as Pt, useAttrs as Ze, getCurrentInstance as Ye, inject as ke, withModifiers as ee, onBeforeUnmount as Je, reactive as ge, mergeProps as Jt, createApp as ei } from "vue";
 import { createRouter as ti, createWebHistory as ii } from "vue-router";
-import "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Popover/index.vue?vue&type=style&index=0&scoped=22f54b08&lang.css";
 import "highlight.js";
 import et from "@highlightjs/vue-plugin";
-import "highlight.js/styles/monokai-sublime.css";
 const z = (r, n) => {
   const t = r.__vccOpts || r;
   for (const [e, s] of n)
@@ -4329,7 +4327,7 @@ const cr = /* @__PURE__ */ z(ar, [["render", pr], ["__scopeId", "data-v-ffc66622
   install(r) {
     r.directive("click-outside", hr), r.directive("hoisted", fr);
   }
-}, wr = ({
+}, yr = ({
   components: r = {},
   menu: n,
   menuGroupsDescription: t,
@@ -4383,5 +4381,5 @@ const cr = /* @__PURE__ */ z(ar, [["render", pr], ["__scopeId", "data-v-ffc66622
   return o.use(p), o.use(dr), o.provide("menu", v), o.provide("kit-title", a), e && o.mount(e), o;
 };
 export {
-  wr as createLab
+  yr as createLab
 };
