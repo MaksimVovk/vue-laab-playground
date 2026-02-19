@@ -22,7 +22,7 @@ import { computed } from 'vue'
 import { html as beautifyHtml } from 'js-beautify'
 
 import hljsVuePlugin from '@highlightjs/vue-plugin'
-import 'highlight.js/styles/monokai-sublime.css'
+// import 'highlight.js/styles/monokai-sublime.css'
 
 import { CopyIcon } from '../../Icons'
 
