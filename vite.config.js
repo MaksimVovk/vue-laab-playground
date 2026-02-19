@@ -2,16 +2,31 @@ import path from 'path'
 
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
+import cssInjectedByJsPlugin from 'vite-plugin-css-injected-by-js'
 
 export default defineConfig(({ mode }) => {
   const isProd = mode === 'production';
-  console.log(`Building for ${isProd ? 'production' : 'development'}...`)
   return {
     define: {
       __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: 'true'
     },
     plugins: [
       vue(),
+      cssInjectedByJsPlugin(),
+      {
+        name: 'strip-absolute-paths',
+        generateBundle(options, bundle) {
+          for (const fileName in bundle) {
+            const chunk = bundle[fileName];
+            if (chunk.type === 'chunk' && chunk.code) {
+              const pattern = /\/Users\/[^\s"']+/g;
+              chunk.code = chunk.code.replace(pattern, (match) => {
+                return './' + match.split('/').pop();
+              });
+            }
+          }
+        }
+      }
     ],
     build: {
       lib: {
@@ -19,7 +34,8 @@ export default defineConfig(({ mode }) => {
         name: 'VueStoryBook',
         fileName: (format) => `index.${format}.js`,
       },
-      cssCodeSplit: true,
+      cssCodeSplit: false,
+      relativeExternalFiles: true,
       rollupOptions: {
         external: ['vue', 'vue-router', 'highlight.js', '@highlightjs/vue-plugin'],
         output: {
@@ -28,10 +44,6 @@ export default defineConfig(({ mode }) => {
             'vue-router': 'VueRouter',
             'highlight.js': 'hljs',
             '@highlightjs/vue-plugin': 'highlightjsVue'
-          },
-          assetFileNames: (assetInfo) => {
-            if (assetInfo.name === 'style.css') return 'style.css';
-            return assetInfo.name;
           },
         },
       },

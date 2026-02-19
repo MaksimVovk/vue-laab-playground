@@ -30,11 +30,11 @@
     "./dist/style.css": "./dist/style.css"
   },
   "dependencies": {
-    "js-beautify": "^1.15.4",
     "@highlightjs/vue-plugin": "2.1.0",
     "highlight.js": "11.11.1",
-    "sass-embedded": "^1.97.3",
+    "js-beautify": "^1.15.4",
     "sass": "^1.62.1",
+    "sass-embedded": "^1.97.3",
     "vue": "^3.5.0"
   },
   "devDependencies": {
@@ -45,6 +45,7 @@
     "eslint-plugin-vue": "^9.17.0",
     "prettier": "^3.0.3",
     "vite": "^7.2.4",
+    "vite-plugin-css-injected-by-js": "^3.5.2",
     "vue-router": "^4.2.5"
   },
   "peerDependencies": {
