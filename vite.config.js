@@ -37,7 +37,7 @@ export default defineConfig(({ mode }) => {
       cssCodeSplit: false,
       relativeExternalFiles: true,
       rollupOptions: {
-        external: ['vue', 'vue-router', 'highlight.js', '@highlightjs/vue-plugin'],
+        external: ['vue', 'vue-router'],
         output: {
           globals: {
             vue: 'Vue',
@@ -59,9 +59,6 @@ export default defineConfig(({ mode }) => {
           replacement: 'highlight.js'
         }
       ]
-    },
-    optimizeDeps: {
-      include: ['highlight.js', '@highlightjs/vue-plugin']
     },
   }
 })
