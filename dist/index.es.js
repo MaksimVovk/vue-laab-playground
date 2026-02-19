@@ -41,7 +41,7 @@ function La(s, t, n, e, i, r) {
     /* CLASS */
   );
 }
-const Vs = /* @__PURE__ */ te(Ma, [["render", La], ["__scopeId", "data-v-5643684a"], ["__file", "./index.vue"]]), Da = {
+const Vs = /* @__PURE__ */ te(Ma, [["render", La], ["__scopeId", "data-v-5643684a"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Button/index.vue"]]), Da = {
   __name: "index",
   props: {
     title: { type: [String, Number], default: () => null },
@@ -92,7 +92,7 @@ function Ua(s, t, n, e, i, r) {
     /* CLASS */
   );
 }
-const $a = /* @__PURE__ */ te(Da, [["render", Ua], ["__scopeId", "data-v-553567f5"], ["__file", "./index.vue"]]), za = {
+const $a = /* @__PURE__ */ te(Da, [["render", Ua], ["__scopeId", "data-v-553567f5"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Tag/index.vue"]]), za = {
   __name: "index",
   props: {
     description: String
@@ -112,7 +112,7 @@ function Ka(s, t, n, e, i, r) {
     /* TEXT */
   );
 }
-const oi = /* @__PURE__ */ te(za, [["render", Ka], ["__scopeId", "data-v-f2d48cdd"], ["__file", "./index.vue"]]), Ga = {
+const oi = /* @__PURE__ */ te(za, [["render", Ka], ["__scopeId", "data-v-f2d48cdd"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Description/index.vue"]]), Ga = {
   __name: "item",
   props: {
     data: {
@@ -208,7 +208,7 @@ function tr(s, t, n, e, i, r) {
     ])) : ne("v-if", !0)
   ]);
 }
-const nr = /* @__PURE__ */ te(Ga, [["render", tr], ["__scopeId", "data-v-845d1c40"], ["__file", "./item.vue"]]), Ye = () => {
+const nr = /* @__PURE__ */ te(Ga, [["render", tr], ["__scopeId", "data-v-845d1c40"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/PropsDescription/item.vue"]]), Ye = () => {
   let s = (/* @__PURE__ */ new Date()).getTime(), t = typeof performance < "u" && performance.now && performance.now() * 1e3 || 0;
   return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(n) {
     let e = Math.random() * 16;
@@ -260,7 +260,7 @@ function hr(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Zs = /* @__PURE__ */ te(dr, [["render", hr], ["__scopeId", "data-v-db8d12a1"], ["__file", "./index.vue"]]), gr = {
+const Zs = /* @__PURE__ */ te(dr, [["render", hr], ["__scopeId", "data-v-db8d12a1"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/PropsDescription/index.vue"]]), gr = {
   __name: "index",
   props: {
     data: {
@@ -328,7 +328,7 @@ function wr(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Xs = /* @__PURE__ */ te(gr, [["render", wr], ["__scopeId", "data-v-7b2edc41"], ["__file", "./index.vue"]]), xr = {}, Nr = {
+const Xs = /* @__PURE__ */ te(gr, [["render", wr], ["__scopeId", "data-v-7b2edc41"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Events/index.vue"]]), xr = {}, Nr = {
   "aria-hidden": "true",
   height: "16",
   viewBox: "0 0 16 16",
@@ -355,7 +355,7 @@ function Or(s, t) {
     )
   ])]);
 }
-const Tr = /* @__PURE__ */ te(xr, [["render", Or], ["__file", "./CopyIcon.vue"]]), Sr = {}, kr = {
+const Tr = /* @__PURE__ */ te(xr, [["render", Or], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/Icons/CopyIcon.vue"]]), Sr = {}, kr = {
   xmlns: "http://www.w3.org/2000/svg",
   width: "1em",
   height: "1em",
@@ -366,7 +366,7 @@ function Rr(s, t) {
     Sa('<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="7" height="9" x="3" y="3" rx="1"></rect><rect width="7" height="5" x="14" y="3" rx="1"></rect><rect width="7" height="9" x="14" y="12" rx="1"></rect><rect width="7" height="5" x="3" y="16" rx="1"></rect></g>', 1)
   ])]);
 }
-const Ys = /* @__PURE__ */ te(Sr, [["render", Rr], ["__file", "./DefaultMenuIcon.vue"]]), Ar = {}, Cr = {
+const Ys = /* @__PURE__ */ te(Sr, [["render", Rr], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/Icons/DefaultMenuIcon.vue"]]), Ar = {}, Cr = {
   fill: "#4fa760",
   width: "32px",
   height: "32px",
@@ -385,7 +385,7 @@ function Ir(s, t) {
     )
   ])]);
 }
-const Qs = /* @__PURE__ */ te(Ar, [["render", Ir], ["__file", "./LabIcon.vue"]]), Mr = {}, Lr = {
+const Qs = /* @__PURE__ */ te(Ar, [["render", Ir], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/Icons/LabIcon.vue"]]), Mr = {}, Lr = {
   height: "5",
   version: "1.1",
   width: "9",
@@ -405,7 +405,7 @@ function Dr(s, t) {
     )
   ])]);
 }
-const Br = /* @__PURE__ */ te(Mr, [["render", Dr], ["__scopeId", "data-v-11d57440"], ["__file", "./ArrowIcon.vue"]]), Pr = {
+const Br = /* @__PURE__ */ te(Mr, [["render", Dr], ["__scopeId", "data-v-11d57440"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/Icons/ArrowIcon.vue"]]), Pr = {
   __name: "search",
   props: {
     options: {
@@ -501,7 +501,7 @@ function Kr(s, t, n, e, i, r) {
     }, 8, ["reference"])) : ne("v-if", !0)
   ]);
 }
-const Gr = /* @__PURE__ */ te(Pr, [["render", Kr], ["__scopeId", "data-v-163aedb2"], ["__file", "./search.vue"]]), qr = {
+const Gr = /* @__PURE__ */ te(Pr, [["render", Kr], ["__scopeId", "data-v-163aedb2"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Nav/search.vue"]]), qr = {
   __name: "item",
   props: {
     item: {
@@ -550,7 +550,7 @@ function jr(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["to", "title", "class"])) : ne("v-if", !0);
 }
-const Vr = /* @__PURE__ */ te(qr, [["render", jr], ["__scopeId", "data-v-875f6eef"], ["__file", "./item.vue"]]), Zr = {
+const Vr = /* @__PURE__ */ te(qr, [["render", jr], ["__scopeId", "data-v-875f6eef"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Nav/item.vue"]]), Zr = {
   __name: "group",
   props: {
     option: {
@@ -632,7 +632,7 @@ function Yr(s, t, n, e, i, r) {
     )
   ]);
 }
-const Qr = /* @__PURE__ */ te(Zr, [["render", Yr], ["__scopeId", "data-v-4061da29"], ["__file", "./group.vue"]]), Jr = {
+const Qr = /* @__PURE__ */ te(Zr, [["render", Yr], ["__scopeId", "data-v-4061da29"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Nav/group.vue"]]), Jr = {
   __name: "index",
   props: {
     name: { type: String, default: "Vue Lab" },
@@ -708,7 +708,7 @@ function ro(s, t, n, e, i, r) {
     ])
   ]);
 }
-const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48c"], ["__file", "./index.vue"]]), lo = {
+const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48c"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Nav/index.vue"]]), lo = {
   __name: "index",
   props: {
     width: String,
@@ -809,7 +809,7 @@ function co(s, t, n, e, i, r) {
     [l]
   ]);
 }
-const Js = /* @__PURE__ */ te(lo, [["render", co], ["__scopeId", "data-v-22f54b08"], ["__file", "./index.vue"]]), _o = {
+const Js = /* @__PURE__ */ te(lo, [["render", co], ["__scopeId", "data-v-22f54b08"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Popover/index.vue"]]), _o = {
   __name: "index",
   props: {
     label: { type: String, default: () => "Search" },
@@ -860,7 +860,7 @@ function ho(s, t, n, e, i, r) {
     )
   ]);
 }
-const li = /* @__PURE__ */ te(_o, [["render", ho], ["__scopeId", "data-v-06e447f6"], ["__file", "./index.vue"]]), go = {
+const li = /* @__PURE__ */ te(_o, [["render", ho], ["__scopeId", "data-v-06e447f6"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Search/index.vue"]]), go = {
   __name: "BaseTemplate",
   props: {
     viewBox: {
@@ -927,7 +927,7 @@ function mo(s, t, n, e, i, r) {
     /* STYLE */
   );
 }
-const vo = /* @__PURE__ */ te(go, [["render", mo], ["__scopeId", "data-v-1586512e"], ["__file", "./BaseTemplate.vue"]]), Eo = {
+const vo = /* @__PURE__ */ te(go, [["render", mo], ["__scopeId", "data-v-1586512e"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Icon/BaseTemplate.vue"]]), Eo = {
   __name: "SadIcon",
   setup(s, { expose: t }) {
     t();
@@ -966,7 +966,7 @@ function yo(s, t, n, e, i, r) {
     /* FULL_PROPS */
   );
 }
-const wo = /* @__PURE__ */ te(Eo, [["render", yo], ["__file", "./SadIcon.vue"]]), xo = {
+const wo = /* @__PURE__ */ te(Eo, [["render", yo], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/Icon/General/SadIcon.vue"]]), xo = {
   __name: "index",
   props: {
     size: {
@@ -1013,7 +1013,7 @@ function To(s, t, n, e, i, r) {
     ])
   ], 8, No);
 }
-const ci = /* @__PURE__ */ te(xo, [["render", To], ["__scopeId", "data-v-c7a78350"], ["__file", "./index.vue"]]), So = {
+const ci = /* @__PURE__ */ te(xo, [["render", To], ["__scopeId", "data-v-c7a78350"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/general/EmptyScreen/index.vue"]]), So = {
   __name: "App",
   setup(s, { expose: t }) {
     t();
@@ -1041,7 +1041,7 @@ function Co(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Io = /* @__PURE__ */ te(So, [["render", Co], ["__file", "./App.vue"]]), Mo = {
+const Io = /* @__PURE__ */ te(So, [["render", Co], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/App.vue"]]), Mo = {
   __name: "CtrlLayout",
   props: {
     name: { type: String, required: !0 }
@@ -1066,7 +1066,7 @@ function Po(s, t, n, e, i, r) {
     ])
   ]);
 }
-const at = /* @__PURE__ */ te(Mo, [["render", Po], ["__scopeId", "data-v-9214d2d0"], ["__file", "./CtrlLayout.vue"]]), Uo = {
+const at = /* @__PURE__ */ te(Mo, [["render", Po], ["__scopeId", "data-v-9214d2d0"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/CtrlLayout.vue"]]), Uo = {
   __name: "index",
   props: {
     options: {
@@ -1119,7 +1119,7 @@ function zo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const ki = /* @__PURE__ */ te(Uo, [["render", zo], ["__scopeId", "data-v-6c569ff9"], ["__file", "./index.vue"]]), Fo = {
+const ki = /* @__PURE__ */ te(Uo, [["render", zo], ["__scopeId", "data-v-6c569ff9"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/Tags/index.vue"]]), Fo = {
   __name: "index",
   props: {
     value: { type: [Number, String], default: 0 },
@@ -1278,7 +1278,7 @@ function Ho(s, t, n, e, i, r) {
     /* STABLE */
   });
 }
-const Ri = /* @__PURE__ */ te(Fo, [["render", Ho], ["__scopeId", "data-v-96bfa191"], ["__file", "./index.vue"]]), jo = {
+const Ri = /* @__PURE__ */ te(Fo, [["render", Ho], ["__scopeId", "data-v-96bfa191"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/Size/index.vue"]]), jo = {
   __name: "index",
   props: {
     value: {
@@ -1322,7 +1322,7 @@ function Vo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ai = /* @__PURE__ */ te(jo, [["render", Vo], ["__file", "./index.vue"]]), Zo = {
+const Ai = /* @__PURE__ */ te(jo, [["render", Vo], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/Boolean/index.vue"]]), Zo = {
   __name: "index",
   props: {
     value: { type: [String], default: () => "" },
@@ -1373,7 +1373,7 @@ function Qo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ci = /* @__PURE__ */ te(Zo, [["render", Qo], ["__scopeId", "data-v-3d8e17f8"], ["__file", "./index.vue"]]), Jo = {
+const Ci = /* @__PURE__ */ te(Zo, [["render", Qo], ["__scopeId", "data-v-3d8e17f8"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/Text/index.vue"]]), Jo = {
   __name: "index",
   props: {
     title: {
@@ -1421,7 +1421,7 @@ function nl(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ii = /* @__PURE__ */ te(Jo, [["render", nl], ["__scopeId", "data-v-8e33fe98"], ["__file", "./index.vue"]]), il = {
+const Ii = /* @__PURE__ */ te(Jo, [["render", nl], ["__scopeId", "data-v-8e33fe98"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/ColorPicker/index.vue"]]), il = {
   __name: "index",
   props: {
     value: {
@@ -1543,7 +1543,7 @@ function ol(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Mi = /* @__PURE__ */ te(il, [["render", ol], ["__scopeId", "data-v-b886953d"], ["__file", "./index.vue"]]), ll = {
+const Mi = /* @__PURE__ */ te(il, [["render", ol], ["__scopeId", "data-v-b886953d"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/controls/Dropdown/index.vue"]]), ll = {
   __name: "index",
   props: {
     options: { type: Array, default: () => [] },
@@ -1618,7 +1618,7 @@ function pl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const ea = /* @__PURE__ */ te(ll, [["render", pl], ["__scopeId", "data-v-25497d41"], ["__file", "./index.vue"]]), fl = {
+const ea = /* @__PURE__ */ te(ll, [["render", pl], ["__scopeId", "data-v-25497d41"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ControlBlock/index.vue"]]), fl = {
   __name: "index",
   props: {
     isControls: { type: Boolean, default: () => !0 }
@@ -1636,7 +1636,7 @@ function gl(s, t, n, e, i, r) {
     st(s.$slots, "default", {}, void 0, !0)
   ]);
 }
-const _i = /* @__PURE__ */ te(fl, [["render", gl], ["__scopeId", "data-v-036062d8"], ["__file", "./index.vue"]]), bl = {
+const _i = /* @__PURE__ */ te(fl, [["render", gl], ["__scopeId", "data-v-036062d8"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Page/index.vue"]]), bl = {
   __name: "index",
   props: {
     num: {
@@ -1666,7 +1666,7 @@ function vl(s, t, n, e, i, r) {
     ))
   ]);
 }
-const $t = /* @__PURE__ */ te(bl, [["render", vl], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "./index.vue"]]), El = {
+const $t = /* @__PURE__ */ te(bl, [["render", vl], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Divider/index.vue"]]), El = {
   __name: "Palette",
   props: {
     title: { type: String, default: () => "Palette" },
@@ -1729,7 +1729,7 @@ function Tl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Sl = /* @__PURE__ */ te(El, [["render", Tl], ["__scopeId", "data-v-17706230"], ["__file", "./Palette.vue"]]), kl = {
+const Sl = /* @__PURE__ */ te(El, [["render", Tl], ["__scopeId", "data-v-17706230"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/Palette.vue"]]), kl = {
   __name: "index",
   props: {
     title: { type: String, default: () => "palette" },
@@ -1768,7 +1768,7 @@ function Il(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Ml = /* @__PURE__ */ te(kl, [["render", Il], ["__scopeId", "data-v-9831151a"], ["__file", "./index.vue"]]), Ll = {
+const Ml = /* @__PURE__ */ te(kl, [["render", Il], ["__scopeId", "data-v-9831151a"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/index.vue"]]), Ll = {
   __name: "group",
   props: {
     option: { type: Object, default: () => ({}) },
@@ -1838,7 +1838,7 @@ function $l(s, t, n, e, i, r) {
     n.isLast ? ne("v-if", !0) : (R(), j(e.Divider, { key: 2 }))
   ]);
 }
-const zl = /* @__PURE__ */ te(Ll, [["render", $l], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "./group.vue"]]), Fl = {
+const zl = /* @__PURE__ */ te(Ll, [["render", $l], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/group.vue"]]), Fl = {
   __name: "index",
   props: {
     components: { type: Object, default: () => ({}) },
@@ -1952,7 +1952,7 @@ function Zl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Xl = /* @__PURE__ */ te(Fl, [["render", Zl], ["__scopeId", "data-v-c75a0f45"], ["__file", "./index.vue"]]);
+const Xl = /* @__PURE__ */ te(Fl, [["render", Zl], ["__scopeId", "data-v-c75a0f45"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/index.vue"]]);
 async function Yl(s, t) {
   try {
     const n = await import(
@@ -16775,7 +16775,7 @@ function Xc(s, t, n, e, i, r) {
     ])
   ]);
 }
-const la = /* @__PURE__ */ te(jc, [["render", Xc], ["__scopeId", "data-v-ba1811dc"], ["__file", "./index.vue"]]), Yc = {
+const la = /* @__PURE__ */ te(jc, [["render", Xc], ["__scopeId", "data-v-ba1811dc"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/CodePreview/index.vue"]]), Yc = {
   __name: "index",
   props: {
     name: { type: String, default: "Component" },
@@ -16945,7 +16945,7 @@ function s_(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["is-controls"])) : ne("v-if", !0);
 }
-const a_ = /* @__PURE__ */ te(Yc, [["render", s_], ["__scopeId", "data-v-432c94c6"], ["__file", "./index.vue"]]), r_ = {
+const a_ = /* @__PURE__ */ te(Yc, [["render", s_], ["__scopeId", "data-v-432c94c6"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabComponent/index.vue"]]), r_ = {
   __name: "index",
   props: {
     options: { type: Array, default: () => [] },
@@ -17022,7 +17022,7 @@ function u_(s, t, n, e, i, r) {
     /* STABLE */
   });
 }
-const d_ = /* @__PURE__ */ te(r_, [["render", u_], ["__scopeId", "data-v-bf59dc62"], ["__file", "./index.vue"]]), p_ = {
+const d_ = /* @__PURE__ */ te(r_, [["render", u_], ["__scopeId", "data-v-bf59dc62"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabColors/index.vue"]]), p_ = {
   __name: "IconGroup",
   props: {
     group: {
@@ -17078,7 +17078,7 @@ function m_(s, t, n, e, i, r) {
     ])
   ]);
 }
-const v_ = /* @__PURE__ */ te(p_, [["render", m_], ["__scopeId", "data-v-89316d17"], ["__file", "./IconGroup.vue"]]), E_ = {
+const v_ = /* @__PURE__ */ te(p_, [["render", m_], ["__scopeId", "data-v-89316d17"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabIcons/IconGroup.vue"]]), E_ = {
   __name: "index",
   props: {
     options: {
@@ -17283,7 +17283,7 @@ function T_(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["is-controls"])) : ne("v-if", !0);
 }
-const S_ = /* @__PURE__ */ te(E_, [["render", T_], ["__scopeId", "data-v-ffc66622"], ["__file", "./index.vue"]]), k_ = {
+const S_ = /* @__PURE__ */ te(E_, [["render", T_], ["__scopeId", "data-v-ffc66622"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabIcons/index.vue"]]), k_ = {
   beforeMount(s, { value: t }) {
     t && (s._handler = (n) => {
       s.contains(n.target) || setTimeout(() => t(n), 1);
