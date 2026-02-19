@@ -10,7 +10,7 @@
       <component
         v-for="(o, i) in options"
         :key="`ctrl-${o.ctrl}-${i}`"
-        :is="getComponent(o.ctrl)"
+        :is="componentsMap[o.ctrl]"
         :options="o.variants"
         :title="o.title"
         :value="getValue(o.field)"
@@ -21,7 +21,7 @@
 </template>
 
 <script setup>
-  import { Tags, Size, BooleanSwitcher, Text } from '../../controls';
+  import { Tags, Size, BooleanSwitcher, Text, ColorPicker, Dropdown } from '../../controls';
   import { Button } from '../../general'
 
   const props = defineProps({
@@ -31,20 +31,31 @@
 
   const emit = defineEmits(['input', 'reset'])
 
-  const getComponent = (comp) => {
-    switch (comp) {
-      case 'tags':
-        return Tags
-      case 'size':
-        return Size
-      case 'boolean':
-        return BooleanSwitcher
-      case 'text':
-        return Text
-      default:
-        break;
-    }
+  const componentsMap = {
+    tags: Tags,
+    size: Size,
+    boolean: BooleanSwitcher,
+    text: Text,
+    color: ColorPicker,
+    list: Dropdown
   }
+
+  // const getComponent = (comp) => {
+  //   switch (comp) {
+  //     case 'tags':
+  //       return Tags
+  //     case 'size':
+  //       return Size
+  //     case 'boolean':
+  //       return BooleanSwitcher
+  //     case 'text':
+  //       return Text
+  //     case 'text':
+  //       return Text
+  //     default:
+  //       break;
+  //   }
+  // }
   const getValue = (comp) => {
     const val = props.values?.[comp]
     return val

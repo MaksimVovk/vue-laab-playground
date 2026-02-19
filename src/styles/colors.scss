@@ -52,7 +52,20 @@ $light: (
   // border
   border-primary: #E5E7EB,
 );
-
+$icon: (
+  default: #3A424A,
+  disabled: #C7CED4,
+  primary: #003A5D,
+  success: #0BB060,
+  warning: #FAAD14,
+  danger: #D64B4C,
+  info: #1C4EBF,
+  light: #fff,
+  dark: #262626,
+  blue: #3781F0,
+  deep: #292D32,
+  muted: #6B7280,
+);
 /// ---------------------------
 /// 2. Dark
 /// ---------------------------
@@ -110,6 +123,24 @@ $dark: (
 /// ---------------------------
 
 // SCSS функция для получения цвета из темы
+
+@function icon-clr($type) {
+  $icon-color: map.get((default: clr($icon, default),
+        disabled: clr($icon, disabled),
+        primary: clr($icon, primary),
+        success: clr($icon, success),
+        warning: clr($icon, warning),
+        danger: clr($icon, danger),
+        info: clr($icon, info),
+        light: clr($icon, light),
+        dark: clr($icon, dark),
+        muted: clr($icon, muted),
+        blue: clr($icon, blue),
+        deep: clr($icon, deep),
+      ), $type);
+  @return $icon-color;
+}
+
 @function clr($theme, $color) {
   @return map.get($theme, $color);
 }

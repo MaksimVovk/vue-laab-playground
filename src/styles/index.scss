@@ -1,5 +1,6 @@
 @forward './reset.scss';
 @forward './colors.scss';
+@use "sass:map";
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
@@ -11,6 +12,11 @@
 :root {
   --vue-lab-font-family: "Source Sans 3", sans-serif;
 }
+
+@function get($map, $key) {
+  @return map.get($map, $key);
+}
+
 
 html,
 body,

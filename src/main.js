@@ -1,6 +1,8 @@
 import { createLab } from './index'
 import * as components from './components'
 import configuration from './components/vuelab-configs/index.js'
+import { iconComponents } from './components/icons/index.js'
+import iconConfig from './components/vuelab-configs/Icon.vuelab.js'
 
 const colorOptions = [
   { id: 'neutral-50', name: '50', value: '#F4F7FA', group: 'Primary Colors', colorGroupName: 'neutral' },
@@ -282,6 +284,17 @@ const additionalPages = [
     props: {
       options: colorOptions,
       description: 'A centralized color palette for the application, showcasing primary and secondary colors to ensure visual consistency across all interfaces.'
+    }
+  },
+  {
+    name: 'Icons',
+    path: '/Icons',
+    group: 'General',
+    type: 'icons',
+    index: 2,
+    props: {
+      options: iconComponents || [],
+      configuration: iconConfig,
     }
   },
 ]

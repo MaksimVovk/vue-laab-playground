@@ -59,7 +59,7 @@ import { ControlBlock, Page, CodePreview, Divider } from '../../components/layou
 import { Button, Description, PropsDescription, EventsDescription } from '../../components/general/index.js'
 
 const props = defineProps({
-  name: String,
+  name: { type: String, default: 'Component' },
   components: {
     type: Object,
     default: () => ({})

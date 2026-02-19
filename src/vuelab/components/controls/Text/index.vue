@@ -1,5 +1,5 @@
 <template>
-  <CtrlLayout name="Text Input">
+  <CtrlLayout :name="title">
     <div class="vue-lab__text-ctrl">
       <div
         :class="[
@@ -31,12 +31,12 @@ const emit = defineEmits(['input'])
 
 const props = defineProps({
   value: { type: [String], default: () => '' },
+  title: { type: String, default: 'Text Input' }
 })
 
 const isFocused = ref(false)
 
 const handleTextInput = (e) => {
-  console.log(e?.target.value)
   emit('input', e?.target.value)
 }
 
@@ -67,6 +67,7 @@ $transition: .3s all ease-in-out;
     box-sizing: border-box;
     border-radius: 6px;
     transition: $transition;
+    background-color: clr($light, gray-100);
 
     &--active {
       background-color: clr($light, white-100);

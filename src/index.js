@@ -5,6 +5,7 @@ import App from './App.vue'
 import VueLabHome from './vuelab/views/VueLabHome/index.vue'
 import VueLabComponent from './vuelab/views/VueLabComponent/index.vue'
 import VueLabColors from './vuelab/views/VueLabColors/index.vue'
+import VueLabIcons from './vuelab/views/VueLabIcons/index.vue'
 
 import appDirectives from './vuelab/composables/directives'
 
@@ -33,18 +34,23 @@ export const createLab = ({
   currentMenu = currentMenu.map((item, index) => ({ ...item, index: item.index || maxIndex + index + 1 }))
   currentMenu.sort((a, b) => a.index - b.index)
 
-  const additionalRouters = (additionalPages || []).map(it => {
-    if (it.type == 'colors') {
+  const availableComponents = new Map([
+    ['colors', VueLabColors],
+    ['icons', VueLabIcons],
+  ])
+
+  const additionalRouters = (additionalPages || [])
+    .map(it => {
+      const component = availableComponents.get(it.type)
+      if (!component) return it
       return {
         path: it.path,
         name: it.name,
-        component: VueLabColors,
+        component: component,
         props: it.props
       }
-    } else {
-      return it
-    }
-  })
+    })
+    .filter(Boolean)
 
   const routes = [
     {

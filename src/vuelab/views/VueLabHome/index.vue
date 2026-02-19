@@ -13,17 +13,16 @@
     </div>
 
     <div class="vue-lab-home-page__search">
-      <input
-        :value="searchQuery"
-        class="text-ctrl__input"
-        type="text"
-        @focusin="handleFocus('in')"
-        @focusout="handleFocus('out')"
-        @input="handleTextInput"
-      >
+      <Search @input="handleTextInput"/>
     </div>
     <div class="vue-lab-home-page__menu custom-scroll--simple">
-      <template v-for="(group, index) in menuItems">
+      <EmptyScreen
+        v-if="isEmptySearch"
+        size="lg"
+      >
+        Components not found. <br>Try to change the search query.
+      </EmptyScreen>
+      <template v-else v-for="(group, index) in menuItems">
         <Group
           v-if="group.items?.length"
           :key="generateKey(group)"
@@ -41,6 +40,7 @@ import { computed, ref } from 'vue';
 import Group from './group.vue';
 import { generateKey } from '../../composables';
 import { LabIcon } from '../../components/Icons';
+import { Search, EmptyScreen } from '../../components/general';
 
 const props = defineProps({
   components: { type: Object, default: () => ({}) },
@@ -52,7 +52,7 @@ const props = defineProps({
 
 const searchQuery = ref('')
 const handleTextInput = (event) => {
-  searchQuery.value = event.target.value
+  searchQuery.value = event
 }
 // const pageTitle = computed(() => {
 //   return props.title || 'Vue lab'
@@ -60,6 +60,10 @@ const handleTextInput = (event) => {
 
 const pageDiscription = computed(() => {
   return props.description || 'A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects.'
+})
+
+const isEmptySearch = computed(() => {
+  return !menuItems.value.some(group => group.items.length)
 })
 
 const menuItems = computed(() => {
