@@ -34,7 +34,7 @@ export default defineConfig(({ mode }) => {
           for (const fileName in bundle) {
             const chunk = bundle[fileName];
             if (chunk.type === 'chunk' && chunk.code) {
-              const pattern = /\/*\/[^\s"']+/g;
+              const pattern = /\/Users\/[^\s"']+/g;
               chunk.code = chunk.code.replace(pattern, (match) => {
                 return './' + match.split('/').pop();
               });
