@@ -55,7 +55,8 @@
 <script setup>
 import { computed, onMounted, reactive, ref, watch } from 'vue'
 import { loadConfig } from '../../utils/load-config.js'
-import { ControlBlock, Page, CodePreview, Divider } from '../../components/layout/index.js'
+import { ControlBlock, Page, Divider } from '../../components/layout/index.js'
+import CodePreview from '../../components/layout/CodePreview/index.vue'
 import { Button, Description, PropsDescription, EventsDescription } from '../../components/general/index.js'
 
 const props = defineProps({

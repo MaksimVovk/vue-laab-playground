@@ -69,7 +69,8 @@
   import { Search, Description, PropsDescription, EventsDescription, EmptyScreen } from '../../components/general'
   import IconGroup from './IconGroup.vue'
   import { Page } from '../../components/layout'
-  import { Divider, ControlBlock, CodePreview } from '../../components/layout'
+  import { Divider, ControlBlock } from '../../components/layout'
+  import CodePreview from '../../components/layout/CodePreview/index.vue'
   import { toPascalCase } from '../../composables'
 
 

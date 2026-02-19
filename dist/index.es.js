@@ -1639,7 +1639,334 @@ function Mn(r, n, t, e, s, _) {
     re(r.$slots, "default", {}, void 0, !0)
   ]);
 }
-const Ge = /* @__PURE__ */ z($n, [["render", Mn], ["__scopeId", "data-v-036062d8"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Page/index.vue"]]);
+const Ge = /* @__PURE__ */ z($n, [["render", Mn], ["__scopeId", "data-v-036062d8"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Page/index.vue"]]), Kn = {
+  __name: "index",
+  props: {
+    num: {
+      type: Number,
+      default: 3
+    }
+  },
+  setup(r, { expose: n }) {
+    n();
+    const t = r, e = Array.from({ length: t.num }), s = { props: t, dotsArray: e, get generateKey() {
+      return ie;
+    } };
+    return Object.defineProperty(s, "__isScriptSetup", { enumerable: !1, value: !0 }), s;
+  }
+}, Un = { class: "vue-lab__divider" };
+function Wn(r, n, t, e, s, _) {
+  return y(), C("div", Un, [
+    (y(!0), C(
+      G,
+      null,
+      X(e.dotsArray, (u) => (y(), C("div", {
+        key: e.generateKey(u),
+        class: "vue-lab__divider-dot"
+      }))),
+      128
+      /* KEYED_FRAGMENT */
+    ))
+  ]);
+}
+const xe = /* @__PURE__ */ z(Kn, [["render", Wn], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Divider/index.vue"]]), Vn = {
+  __name: "Palette",
+  props: {
+    title: { type: String, default: () => "Palette" },
+    colors: { type: Array, default: () => [] }
+  },
+  setup(r, { expose: n }) {
+    n(), Ue((a) => ({
+      "17706230-columns": s.value
+    }));
+    const t = r, e = t.colors.sort((a, l) => a.index < l.index), s = S(() => e.map((a) => a.isBase ? "2fr" : "1fr").join(" ")), u = { props: t, sortedList: e, columns: s, copyToClipboard: async (a) => {
+      try {
+        await navigator.clipboard.writeText(a);
+      } catch (l) {
+        console.error("Failed to copy: ", l);
+      }
+    }, computed: S };
+    return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
+  }
+}, qn = { class: "vue-lab__palette" }, Gn = { class: "vue-lab__palette-title" }, Fn = { class: "vue-lab__palette-colors" }, Xn = ["onClick"], Hn = { class: "vue-lab__palette-color-item__title" };
+function Qn(r, n, t, e, s, _) {
+  return y(), C("div", qn, [
+    O(
+      "div",
+      Gn,
+      U(t.title),
+      1
+      /* TEXT */
+    ),
+    O("div", Fn, [
+      (y(!0), C(
+        G,
+        null,
+        X(e.sortedList, (u, a) => (y(), C(
+          "div",
+          {
+            style: te(`--i:${a}`),
+            key: `color-item-${t.title}-${u}-${u.index}-${a}`,
+            class: "vue-lab__palette-color-item"
+          },
+          [
+            O("div", {
+              style: te({ backgroundColor: u.value }),
+              class: "vue-lab__palette-color-item__bg",
+              onClick: (l) => e.copyToClipboard(u.value)
+            }, null, 12, Xn),
+            O(
+              "div",
+              Hn,
+              U(`${u.name}${u.isBase ? " (Base)" : ""}`),
+              1
+              /* TEXT */
+            )
+          ],
+          4
+          /* STYLE */
+        ))),
+        128
+        /* KEYED_FRAGMENT */
+      ))
+    ])
+  ]);
+}
+const Zn = /* @__PURE__ */ z(Vn, [["render", Qn], ["__scopeId", "data-v-17706230"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/Palette.vue"]]), Yn = {
+  __name: "index",
+  props: {
+    title: { type: String, default: () => "palette" },
+    options: { type: Array, default: () => [] }
+  },
+  setup(r, { expose: n }) {
+    n();
+    const t = r, e = S(() => [...new Set(t.options.map((u) => u.colorGroupName))].map((u) => ({
+      title: u,
+      colors: t.options.filter((a) => a.colorGroupName == u)
+    }))), s = { props: t, pallets: e, computed: S, Palette: Zn };
+    return Object.defineProperty(s, "__isScriptSetup", { enumerable: !1, value: !0 }), s;
+  }
+}, Jn = { class: "vue-lab__color-block" }, ea = { class: "vue-lab__color-block__title" }, ta = { class: "vue-lab__color-block__content" };
+function ia(r, n, t, e, s, _) {
+  return y(), C("div", Jn, [
+    O(
+      "div",
+      ea,
+      U(t.title),
+      1
+      /* TEXT */
+    ),
+    O("div", ta, [
+      (y(!0), C(
+        G,
+        null,
+        X(e.pallets, (u, a) => (y(), P(e.Palette, {
+          key: `palette-${u.title}-${a}`,
+          title: u.title,
+          colors: u.colors
+        }, null, 8, ["title", "colors"]))),
+        128
+        /* KEYED_FRAGMENT */
+      ))
+    ])
+  ]);
+}
+const sa = /* @__PURE__ */ z(Yn, [["render", ia], ["__scopeId", "data-v-9831151a"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/index.vue"]]), na = {
+  __name: "group",
+  props: {
+    option: { type: Object, default: () => ({}) },
+    isGroup: { type: Boolean, default: !1 },
+    isLast: { type: Boolean, default: !1 }
+  },
+  setup(r, { expose: n }) {
+    n();
+    const e = { props: r, get generateKey() {
+      return ie;
+    }, get Divider() {
+      return xe;
+    } };
+    return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
+  }
+}, aa = { class: "vue-lab-home-page__group" }, ra = {
+  key: 0,
+  class: "vue-lab-home-page__group-name"
+}, _a = {
+  key: 1,
+  class: "vue-lab-home-page__group-description"
+}, oa = { class: "vue-lab-home-page__group-body" };
+function ua(r, n, t, e, s, _) {
+  const u = ye("router-link");
+  return y(), C("div", aa, [
+    t.option?.name || t.isGroup ? (y(), C(
+      "div",
+      ra,
+      U(t.isGroup ? t.option.name || "Other components" : ""),
+      1
+      /* TEXT */
+    )) : M("v-if", !0),
+    t.option?.description ? (y(), C(
+      "div",
+      _a,
+      U(t.option.description || ""),
+      1
+      /* TEXT */
+    )) : M("v-if", !0),
+    O("div", oa, [
+      (y(!0), C(
+        G,
+        null,
+        X(t.option.items, (a) => (y(), C("div", {
+          key: e.generateKey(a),
+          class: "vue-lab-home-page__group-body-item"
+        }, [
+          F(u, {
+            to: `/${a.name}`,
+            class: "vue-lab-home-page__group-body-link"
+          }, {
+            default: q(() => [
+              J(
+                U(a.name),
+                1
+                /* TEXT */
+              )
+            ]),
+            _: 2
+            /* DYNAMIC */
+          }, 1032, ["to"])
+        ]))),
+        128
+        /* KEYED_FRAGMENT */
+      ))
+    ]),
+    t.isLast ? M("v-if", !0) : (y(), P(e.Divider, { key: 2 }))
+  ]);
+}
+const la = /* @__PURE__ */ z(na, [["render", ua], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/group.vue"]]), pa = {
+  __name: "index",
+  props: {
+    components: { type: Object, default: () => ({}) },
+    description: { type: String, default: null },
+    title: { type: String, default: null },
+    menu: { type: Array, default: () => [] },
+    menuGroupsDescription: { type: Object, default: () => null }
+  },
+  setup(r, { expose: n }) {
+    n();
+    const t = r, e = $(""), s = (f) => {
+      e.value = f;
+    }, _ = S(() => t.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), u = S(() => !a.value.some((f) => f.items.length)), a = S(() => {
+      const f = t.menu.map((A) => A.group), v = [...new Set(f)].filter((A) => A && A.length), x = (A) => !e.value || !e.value.length ? !0 : A.name.toLowerCase().includes(e.value.toLowerCase()), R = v.map((A) => {
+        const p = t.menuGroupsDescription ? t.menuGroupsDescription[A] : null;
+        return {
+          name: A,
+          description: p,
+          items: t.menu.filter((o) => o.group === A).filter(x)
+        };
+      }), j = {
+        name: null,
+        description: null,
+        items: t.menu.filter((A) => !A.group || !A.group.length).filter(x)
+      };
+      return [...R, j];
+    }), l = S(() => t.menu.some((f) => f.group && f.group.length)), k = { props: t, searchQuery: e, handleTextInput: s, pageDiscription: _, isEmptySearch: u, menuItems: a, isGroup: l, computed: S, ref: $, Group: la, get generateKey() {
+      return ie;
+    }, get LabIcon() {
+      return Mt;
+    }, get Search() {
+      return Ve;
+    }, get EmptyScreen() {
+      return qe;
+    } };
+    return Object.defineProperty(k, "__isScriptSetup", { enumerable: !1, value: !0 }), k;
+  }
+}, ca = { class: "vue-lab-home-page" }, ha = { class: "vue-lab-home-page__header" }, fa = { class: "vue-lab-home-page__title" }, da = { class: "vue-lab-home-page__title-icon" }, va = { class: "vue-lab-home-page__description" }, ma = { class: "vue-lab-home-page__search" }, ga = { class: "vue-lab-home-page__menu custom-scroll--simple" };
+function ba(r, n, t, e, s, _) {
+  return y(), C("div", ca, [
+    O("div", ha, [
+      O("div", fa, [
+        O("div", da, [
+          F(e.LabIcon)
+        ]),
+        n[0] || (n[0] = O(
+          "div",
+          { class: "vue-lab-home-page__title-text" },
+          " Vue Lab ",
+          -1
+          /* CACHED */
+        ))
+      ]),
+      O(
+        "div",
+        va,
+        U(e.pageDiscription),
+        1
+        /* TEXT */
+      )
+    ]),
+    O("div", ma, [
+      F(e.Search, { onInput: e.handleTextInput })
+    ]),
+    O("div", ga, [
+      e.isEmptySearch ? (y(), P(e.EmptyScreen, {
+        key: 0,
+        size: "lg"
+      }, {
+        default: q(() => [...n[1] || (n[1] = [
+          J(
+            " Components not found. ",
+            -1
+            /* CACHED */
+          ),
+          O(
+            "br",
+            null,
+            null,
+            -1
+            /* CACHED */
+          ),
+          J(
+            "Try to change the search query. ",
+            -1
+            /* CACHED */
+          )
+        ])]),
+        _: 1
+        /* STABLE */
+      })) : (y(!0), C(
+        G,
+        { key: 1 },
+        X(e.menuItems, (u, a) => (y(), C(
+          G,
+          null,
+          [
+            u.items?.length ? (y(), P(e.Group, {
+              key: e.generateKey(u),
+              option: u,
+              isGroup: e.isGroup,
+              isLast: a == e.menuItems.length - 1
+            }, null, 8, ["option", "isGroup", "isLast"])) : M("v-if", !0)
+          ],
+          64
+          /* STABLE_FRAGMENT */
+        ))),
+        256
+        /* UNKEYED_FRAGMENT */
+      ))
+    ])
+  ]);
+}
+const ya = /* @__PURE__ */ z(pa, [["render", ba], ["__scopeId", "data-v-c75a0f45"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/index.vue"]]);
+async function xa(r, n) {
+  try {
+    const t = await import(
+      /* @vite-ignore */
+      `${n}/${r}.vuelab.js`
+    );
+    return t.default || t;
+  } catch (t) {
+    return console.log(t), console.warn(`⚠️ Config not found ${r}`), {};
+  }
+}
 var Oe = { exports: {} }, oe = {}, ce = { exports: {} }, Ee = {}, Se = {}, ot;
 function Fe() {
   if (ot) return Se;
@@ -1930,7 +2257,7 @@ function He() {
   }, Le.InputScanner = n, Le;
 }
 var he = {}, Ae = {}, ft;
-function Kn() {
+function wa() {
   if (ft) return Ae;
   ft = 1;
   function r(n) {
@@ -1953,7 +2280,7 @@ function Kn() {
   }, Ae.TokenStream = r, Ae;
 }
 var je = {}, Ne = {}, dt;
-function xe() {
+function we() {
   if (dt) return Ne;
   dt = 1;
   function r(n, t) {
@@ -1982,10 +2309,10 @@ function xe() {
   }, Ne.Pattern = r, Ne;
 }
 var vt;
-function Un() {
+function ka() {
   if (vt) return je;
   vt = 1;
-  var r = xe().Pattern;
+  var r = we().Pattern;
   function n(t, e) {
     r.call(this, t, e), e ? this._line_regexp = this._input.get_regexp(e._line_regexp) : this.__set_whitespace_patterns("", ""), this.newline_count = 0, this.whitespace_before_token = "";
   }
@@ -2022,7 +2349,7 @@ var mt;
 function be() {
   if (mt) return he;
   mt = 1;
-  var r = He().InputScanner, n = Wt().Token, t = Kn().TokenStream, e = Un().WhitespacePattern, s = {
+  var r = He().InputScanner, n = Wt().Token, t = wa().TokenStream, e = ka().WhitespacePattern, s = {
     START: "TK_START",
     RAW: "TK_RAW",
     EOF: "TK_EOF"
@@ -2085,7 +2412,7 @@ var Pe = {}, bt;
 function Gt() {
   if (bt) return Pe;
   bt = 1;
-  var r = xe().Pattern, n = {
+  var r = we().Pattern, n = {
     django: !1,
     erb: !1,
     handlebars: !1,
@@ -2148,7 +2475,7 @@ var yt;
 function fe() {
   if (yt) return ae;
   yt = 1;
-  var r = He().InputScanner, n = be().Tokenizer, t = be().TOKEN, e = Qe().Directives, s = Vt(), _ = xe().Pattern, u = Gt().TemplatablePattern;
+  var r = He().InputScanner, n = be().Tokenizer, t = be().TOKEN, e = Qe().Directives, s = Vt(), _ = we().Pattern, u = Gt().TemplatablePattern;
   function a(b, w) {
     return w.indexOf(b) !== -1;
   }
@@ -2343,7 +2670,7 @@ function fe() {
   }, ae.Tokenizer = E, ae.TOKEN = l, ae.positionable_operators = R.slice(), ae.line_starters = p.slice(), ae;
 }
 var xt;
-function Wn() {
+function Oa() {
   if (xt) return Ee;
   xt = 1;
   var r = Fe().Output, n = Wt().Token, t = Vt(), e = qt().Options, s = fe().Tokenizer, _ = fe().line_starters, u = fe().positionable_operators, a = fe().TOKEN;
@@ -2731,10 +3058,10 @@ function Wn() {
   }, Ee.Beautifier = c, Ee;
 }
 var wt;
-function Vn() {
+function Ea() {
   if (wt) return ce.exports;
   wt = 1;
-  var r = Wn().Beautifier, n = qt().Options;
+  var r = Oa().Beautifier, n = qt().Options;
   function t(e, s) {
     var _ = new r(e, s);
     return _.beautify();
@@ -2760,7 +3087,7 @@ function Ft() {
   return n.prototype = new r(), Be.Options = n, Be;
 }
 var Ot;
-function qn() {
+function Sa() {
   if (Ot) return De;
   Ot = 1;
   var r = Ft().Options, n = Fe().Output, t = He().InputScanner, e = Qe().Directives, s = new e(/\/\*/, /\*\//), _ = /\r\n|[\r\n]/, u = /\r\n|[\r\n]/g, a = /\s/, l = /(?:\s|\n)+/g, k = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, f = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
@@ -2898,10 +3225,10 @@ function qn() {
   }, De.Beautifier = v, De;
 }
 var Et;
-function Gn() {
+function Ta() {
   if (Et) return de.exports;
   Et = 1;
-  var r = qn().Beautifier, n = Ft().Options;
+  var r = Sa().Beautifier, n = Ft().Options;
   function t(e, s) {
     var _ = new r(e, s);
     return _.beautify();
@@ -3019,7 +3346,7 @@ var me = {}, Tt;
 function Ct() {
   if (Tt) return me;
   Tt = 1;
-  var r = be().Tokenizer, n = be().TOKEN, t = Qe().Directives, e = Gt().TemplatablePattern, s = xe().Pattern, _ = {
+  var r = be().Tokenizer, n = be().TOKEN, t = Qe().Directives, e = Gt().TemplatablePattern, s = we().Pattern, _ = {
     TAG_OPEN: "TK_TAG_OPEN",
     TAG_CLOSE: "TK_TAG_CLOSE",
     CONTROL_FLOW_OPEN: "TK_CONTROL_FLOW_OPEN",
@@ -3151,7 +3478,7 @@ function Ct() {
   }, me.Tokenizer = a, me.TOKEN = _, me;
 }
 var Rt;
-function Fn() {
+function Ca() {
   if (Rt) return $e;
   Rt = 1;
   var r = Xt().Options, n = Fe().Output, t = Ct().Tokenizer, e = Ct().TOKEN, s = /\r\n|[\r\n]/, _ = /\r\n|[\r\n]/g, u = function(p, o) {
@@ -3381,10 +3708,10 @@ function Fn() {
   }, $e.Beautifier = x, $e;
 }
 var Lt;
-function Xn() {
+function Ra() {
   if (Lt) return ve.exports;
   Lt = 1;
-  var r = Fn().Beautifier, n = Xt().Options;
+  var r = Ca().Beautifier, n = Xt().Options;
   function t(e, s, _, u) {
     var a = new r(e, s, _, u);
     return a.beautify();
@@ -3394,17 +3721,17 @@ function Xn() {
   }, ve.exports;
 }
 var At;
-function Hn() {
+function La() {
   if (At) return oe;
   At = 1;
-  var r = Vn(), n = Gn(), t = Xn();
+  var r = Ea(), n = Ta(), t = Ra();
   function e(s, _, u, a) {
     return u = u || r, a = a || n, t(s, _, u, a);
   }
   return e.defaultOptions = t.defaultOptions, oe.js = r, oe.css = n, oe.html = e, oe;
 }
 var jt;
-function Qn() {
+function Aa() {
   return jt || (jt = 1, (function(r) {
     function n(t, e, s) {
       var _ = function(u, a) {
@@ -3413,13 +3740,13 @@ function Qn() {
       return _.js = t.js_beautify, _.css = e.css_beautify, _.html = s.html_beautify, _.js_beautify = t.js_beautify, _.css_beautify = e.css_beautify, _.html_beautify = s.html_beautify, _;
     }
     (function(t) {
-      var e = Hn();
+      var e = La();
       e.js_beautify = e.js, e.css_beautify = e.css, e.html_beautify = e.html, t.exports = n(e, e, e);
     })(r);
   })(Oe)), Oe.exports;
 }
-var Nt = Qn();
-const Zn = {
+var Nt = Aa();
+const ja = {
   __name: "index",
   props: {
     code: {
@@ -3450,9 +3777,9 @@ const Zn = {
     } };
     return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
   }
-}, Yn = { class: "vue-lab__code-preview" }, Jn = { class: "vue-lab__code-preview__content" };
-function ea(r, n, t, e, s, _) {
-  return y(), C("div", Yn, [
+}, Na = { class: "vue-lab__code-preview" }, Ia = { class: "vue-lab__code-preview__content" };
+function Pa(r, n, t, e, s, _) {
+  return y(), C("div", Na, [
     n[0] || (n[0] = O(
       "div",
       { class: "vue-lab__code-preview__title" },
@@ -3460,7 +3787,7 @@ function ea(r, n, t, e, s, _) {
       -1
       /* CACHED */
     )),
-    O("div", Jn, [
+    O("div", Ia, [
       F(e.CopyIcon, {
         class: "vue-lab__code-preview__content__copy-ctrl",
         onClick: e.copyToClipboard
@@ -3474,335 +3801,7 @@ function ea(r, n, t, e, s, _) {
     ])
   ]);
 }
-const Ht = /* @__PURE__ */ z(Zn, [["render", ea], ["__scopeId", "data-v-ba1811dc"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/CodePreview/index.vue"]]), ta = {
-  __name: "index",
-  props: {
-    num: {
-      type: Number,
-      default: 3
-    }
-  },
-  setup(r, { expose: n }) {
-    n();
-    const t = r, e = Array.from({ length: t.num }), s = { props: t, dotsArray: e, get generateKey() {
-      return ie;
-    } };
-    return Object.defineProperty(s, "__isScriptSetup", { enumerable: !1, value: !0 }), s;
-  }
-}, ia = { class: "vue-lab__divider" };
-function sa(r, n, t, e, s, _) {
-  return y(), C("div", ia, [
-    (y(!0), C(
-      G,
-      null,
-      X(e.dotsArray, (u) => (y(), C("div", {
-        key: e.generateKey(u),
-        class: "vue-lab__divider-dot"
-      }))),
-      128
-      /* KEYED_FRAGMENT */
-    ))
-  ]);
-}
-const we = /* @__PURE__ */ z(ta, [["render", sa], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/Divider/index.vue"]]), na = {
-  __name: "Palette",
-  props: {
-    title: { type: String, default: () => "Palette" },
-    colors: { type: Array, default: () => [] }
-  },
-  setup(r, { expose: n }) {
-    n(), Ue((a) => ({
-      "17706230-columns": s.value
-    }));
-    const t = r, e = t.colors.sort((a, l) => a.index < l.index), s = S(() => e.map((a) => a.isBase ? "2fr" : "1fr").join(" ")), u = { props: t, sortedList: e, columns: s, copyToClipboard: async (a) => {
-      try {
-        await navigator.clipboard.writeText(a);
-      } catch (l) {
-        console.error("Failed to copy: ", l);
-      }
-    }, computed: S };
-    return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
-  }
-}, aa = { class: "vue-lab__palette" }, ra = { class: "vue-lab__palette-title" }, _a = { class: "vue-lab__palette-colors" }, oa = ["onClick"], ua = { class: "vue-lab__palette-color-item__title" };
-function la(r, n, t, e, s, _) {
-  return y(), C("div", aa, [
-    O(
-      "div",
-      ra,
-      U(t.title),
-      1
-      /* TEXT */
-    ),
-    O("div", _a, [
-      (y(!0), C(
-        G,
-        null,
-        X(e.sortedList, (u, a) => (y(), C(
-          "div",
-          {
-            style: te(`--i:${a}`),
-            key: `color-item-${t.title}-${u}-${u.index}-${a}`,
-            class: "vue-lab__palette-color-item"
-          },
-          [
-            O("div", {
-              style: te({ backgroundColor: u.value }),
-              class: "vue-lab__palette-color-item__bg",
-              onClick: (l) => e.copyToClipboard(u.value)
-            }, null, 12, oa),
-            O(
-              "div",
-              ua,
-              U(`${u.name}${u.isBase ? " (Base)" : ""}`),
-              1
-              /* TEXT */
-            )
-          ],
-          4
-          /* STYLE */
-        ))),
-        128
-        /* KEYED_FRAGMENT */
-      ))
-    ])
-  ]);
-}
-const pa = /* @__PURE__ */ z(na, [["render", la], ["__scopeId", "data-v-17706230"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/Palette.vue"]]), ca = {
-  __name: "index",
-  props: {
-    title: { type: String, default: () => "palette" },
-    options: { type: Array, default: () => [] }
-  },
-  setup(r, { expose: n }) {
-    n();
-    const t = r, e = S(() => [...new Set(t.options.map((u) => u.colorGroupName))].map((u) => ({
-      title: u,
-      colors: t.options.filter((a) => a.colorGroupName == u)
-    }))), s = { props: t, pallets: e, computed: S, Palette: pa };
-    return Object.defineProperty(s, "__isScriptSetup", { enumerable: !1, value: !0 }), s;
-  }
-}, ha = { class: "vue-lab__color-block" }, fa = { class: "vue-lab__color-block__title" }, da = { class: "vue-lab__color-block__content" };
-function va(r, n, t, e, s, _) {
-  return y(), C("div", ha, [
-    O(
-      "div",
-      fa,
-      U(t.title),
-      1
-      /* TEXT */
-    ),
-    O("div", da, [
-      (y(!0), C(
-        G,
-        null,
-        X(e.pallets, (u, a) => (y(), P(e.Palette, {
-          key: `palette-${u.title}-${a}`,
-          title: u.title,
-          colors: u.colors
-        }, null, 8, ["title", "colors"]))),
-        128
-        /* KEYED_FRAGMENT */
-      ))
-    ])
-  ]);
-}
-const ma = /* @__PURE__ */ z(ca, [["render", va], ["__scopeId", "data-v-9831151a"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/ColorBlock/index.vue"]]), ga = {
-  __name: "group",
-  props: {
-    option: { type: Object, default: () => ({}) },
-    isGroup: { type: Boolean, default: !1 },
-    isLast: { type: Boolean, default: !1 }
-  },
-  setup(r, { expose: n }) {
-    n();
-    const e = { props: r, get generateKey() {
-      return ie;
-    }, get Divider() {
-      return we;
-    } };
-    return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
-  }
-}, ba = { class: "vue-lab-home-page__group" }, ya = {
-  key: 0,
-  class: "vue-lab-home-page__group-name"
-}, xa = {
-  key: 1,
-  class: "vue-lab-home-page__group-description"
-}, wa = { class: "vue-lab-home-page__group-body" };
-function ka(r, n, t, e, s, _) {
-  const u = ye("router-link");
-  return y(), C("div", ba, [
-    t.option?.name || t.isGroup ? (y(), C(
-      "div",
-      ya,
-      U(t.isGroup ? t.option.name || "Other components" : ""),
-      1
-      /* TEXT */
-    )) : M("v-if", !0),
-    t.option?.description ? (y(), C(
-      "div",
-      xa,
-      U(t.option.description || ""),
-      1
-      /* TEXT */
-    )) : M("v-if", !0),
-    O("div", wa, [
-      (y(!0), C(
-        G,
-        null,
-        X(t.option.items, (a) => (y(), C("div", {
-          key: e.generateKey(a),
-          class: "vue-lab-home-page__group-body-item"
-        }, [
-          F(u, {
-            to: `/${a.name}`,
-            class: "vue-lab-home-page__group-body-link"
-          }, {
-            default: q(() => [
-              J(
-                U(a.name),
-                1
-                /* TEXT */
-              )
-            ]),
-            _: 2
-            /* DYNAMIC */
-          }, 1032, ["to"])
-        ]))),
-        128
-        /* KEYED_FRAGMENT */
-      ))
-    ]),
-    t.isLast ? M("v-if", !0) : (y(), P(e.Divider, { key: 2 }))
-  ]);
-}
-const Oa = /* @__PURE__ */ z(ga, [["render", ka], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/group.vue"]]), Ea = {
-  __name: "index",
-  props: {
-    components: { type: Object, default: () => ({}) },
-    description: { type: String, default: null },
-    title: { type: String, default: null },
-    menu: { type: Array, default: () => [] },
-    menuGroupsDescription: { type: Object, default: () => null }
-  },
-  setup(r, { expose: n }) {
-    n();
-    const t = r, e = $(""), s = (f) => {
-      e.value = f;
-    }, _ = S(() => t.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), u = S(() => !a.value.some((f) => f.items.length)), a = S(() => {
-      const f = t.menu.map((A) => A.group), v = [...new Set(f)].filter((A) => A && A.length), x = (A) => !e.value || !e.value.length ? !0 : A.name.toLowerCase().includes(e.value.toLowerCase()), R = v.map((A) => {
-        const p = t.menuGroupsDescription ? t.menuGroupsDescription[A] : null;
-        return {
-          name: A,
-          description: p,
-          items: t.menu.filter((o) => o.group === A).filter(x)
-        };
-      }), j = {
-        name: null,
-        description: null,
-        items: t.menu.filter((A) => !A.group || !A.group.length).filter(x)
-      };
-      return [...R, j];
-    }), l = S(() => t.menu.some((f) => f.group && f.group.length)), k = { props: t, searchQuery: e, handleTextInput: s, pageDiscription: _, isEmptySearch: u, menuItems: a, isGroup: l, computed: S, ref: $, Group: Oa, get generateKey() {
-      return ie;
-    }, get LabIcon() {
-      return Mt;
-    }, get Search() {
-      return Ve;
-    }, get EmptyScreen() {
-      return qe;
-    } };
-    return Object.defineProperty(k, "__isScriptSetup", { enumerable: !1, value: !0 }), k;
-  }
-}, Sa = { class: "vue-lab-home-page" }, Ta = { class: "vue-lab-home-page__header" }, Ca = { class: "vue-lab-home-page__title" }, Ra = { class: "vue-lab-home-page__title-icon" }, La = { class: "vue-lab-home-page__description" }, Aa = { class: "vue-lab-home-page__search" }, ja = { class: "vue-lab-home-page__menu custom-scroll--simple" };
-function Na(r, n, t, e, s, _) {
-  return y(), C("div", Sa, [
-    O("div", Ta, [
-      O("div", Ca, [
-        O("div", Ra, [
-          F(e.LabIcon)
-        ]),
-        n[0] || (n[0] = O(
-          "div",
-          { class: "vue-lab-home-page__title-text" },
-          " Vue Lab ",
-          -1
-          /* CACHED */
-        ))
-      ]),
-      O(
-        "div",
-        La,
-        U(e.pageDiscription),
-        1
-        /* TEXT */
-      )
-    ]),
-    O("div", Aa, [
-      F(e.Search, { onInput: e.handleTextInput })
-    ]),
-    O("div", ja, [
-      e.isEmptySearch ? (y(), P(e.EmptyScreen, {
-        key: 0,
-        size: "lg"
-      }, {
-        default: q(() => [...n[1] || (n[1] = [
-          J(
-            " Components not found. ",
-            -1
-            /* CACHED */
-          ),
-          O(
-            "br",
-            null,
-            null,
-            -1
-            /* CACHED */
-          ),
-          J(
-            "Try to change the search query. ",
-            -1
-            /* CACHED */
-          )
-        ])]),
-        _: 1
-        /* STABLE */
-      })) : (y(!0), C(
-        G,
-        { key: 1 },
-        X(e.menuItems, (u, a) => (y(), C(
-          G,
-          null,
-          [
-            u.items?.length ? (y(), P(e.Group, {
-              key: e.generateKey(u),
-              option: u,
-              isGroup: e.isGroup,
-              isLast: a == e.menuItems.length - 1
-            }, null, 8, ["option", "isGroup", "isLast"])) : M("v-if", !0)
-          ],
-          64
-          /* STABLE_FRAGMENT */
-        ))),
-        256
-        /* UNKEYED_FRAGMENT */
-      ))
-    ])
-  ]);
-}
-const Ia = /* @__PURE__ */ z(Ea, [["render", Na], ["__scopeId", "data-v-c75a0f45"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/views/VueLabHome/index.vue"]]);
-async function Pa(r, n) {
-  try {
-    const t = await import(
-      /* @vite-ignore */
-      `${n}/${r}.vuelab.js`
-    );
-    return t.default || t;
-  } catch (t) {
-    return console.log(t), console.warn(`⚠️ Config not found ${r}`), {};
-  }
-}
-const Da = {
+const Ht = /* @__PURE__ */ z(ja, [["render", Pa], ["__scopeId", "data-v-ba1811dc"], ["__file", "/Users/maximvovk/projects/pet-projects/vue-story-book/src/vuelab/components/layout/CodePreview/index.vue"]]), Da = {
   __name: "index",
   props: {
     name: { type: String, default: "Component" },
@@ -3884,16 +3883,14 @@ const Da = {
     }, set controls(g) {
       x = g;
     }, loadData: R, getBinds: j, getPropsData: A, getPropsMap: p, getEventsData: o, exampleCode: h, getValues: T, getBindValue: E, handleCTRLInput: I, resetConfig: b, isComponent: w, computed: S, onMounted: Y, reactive: ge, ref: $, watch: ne, get loadConfig() {
-      return Pa;
+      return xa;
     }, get ControlBlock() {
       return Ut;
     }, get Page() {
       return Ge;
-    }, get CodePreview() {
-      return Ht;
     }, get Divider() {
-      return we;
-    }, get Button() {
+      return xe;
+    }, CodePreview: Ht, get Button() {
       return Dt;
     }, get Description() {
       return We;
@@ -3994,9 +3991,9 @@ const Va = /* @__PURE__ */ z(Da, [["render", Wa], ["__scopeId", "data-v-432c94c6
     }, get Description() {
       return We;
     }, get Divider() {
-      return we;
+      return xe;
     }, get ColorBlock() {
-      return ma;
+      return sa;
     }, computed: S };
     return Object.defineProperty(s, "__isScriptSetup", { enumerable: !1, value: !0 }), s;
   }
@@ -4217,12 +4214,10 @@ const nr = /* @__PURE__ */ z(Ya, [["render", sr], ["__scopeId", "data-v-89316d17
     }, IconGroup: nr, get Page() {
       return Ge;
     }, get Divider() {
-      return we;
+      return xe;
     }, get ControlBlock() {
       return Ut;
-    }, get CodePreview() {
-      return Ht;
-    }, get toPascalCase() {
+    }, CodePreview: Ht, get toPascalCase() {
       return tt;
     } };
     return Object.defineProperty(W, "__isScriptSetup", { enumerable: !1, value: !0 }), W;
@@ -4366,7 +4361,7 @@ const cr = /* @__PURE__ */ z(ar, [["render", pr], ["__scopeId", "data-v-ffc66622
     {
       path: "/",
       name: "home",
-      component: Ia,
+      component: ya,
       props: {
         components: r,
         description: _ || "",
