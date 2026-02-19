@@ -28,20 +28,20 @@ export default defineConfig(({ mode }) => {
         }
       }),
       cssInjectedByJsPlugin(),
-      // {
-      //   name: 'strip-absolute-paths',
-      //   generateBundle(options, bundle) {
-      //     for (const fileName in bundle) {
-      //       const chunk = bundle[fileName];
-      //       if (chunk.type === 'chunk' && chunk.code) {
-      //         const pattern = /\/Users\/[^\s"']+/g;
-      //         chunk.code = chunk.code.replace(pattern, (match) => {
-      //           return './' + match.split('/').pop();
-      //         });
-      //       }
-      //     }
-      //   }
-      // }
+      {
+        name: 'strip-absolute-paths',
+        generateBundle(options, bundle) {
+          for (const fileName in bundle) {
+            const chunk = bundle[fileName];
+            if (chunk.type === 'chunk' && chunk.code) {
+              const pattern = /\/*\/[^\s"']+/g;
+              chunk.code = chunk.code.replace(pattern, (match) => {
+                return './' + match.split('/').pop();
+              });
+            }
+          }
+        }
+      }
     ],
     build: {
       minify: isProduction ? 'esbuild' : false,
@@ -54,9 +54,7 @@ export default defineConfig(({ mode }) => {
       },
       cssCodeSplit: false,
       rollupOptions: {
-        external: ['vue', 'vue-router',
-          //'highlight.js', '@highlightjs/vue-plugin'
-        ],
+        external: ['vue', 'vue-router', 'highlight.js', '@highlightjs/vue-plugin'],
         output: {
           globals: {
             vue: 'Vue',
@@ -73,14 +71,7 @@ export default defineConfig(({ mode }) => {
     resolve: {
       alias: [
         { find: '@', replacement: path.resolve(__dirname, './src') },
-        // {
-        //   find: /^highlight\.js\/lib\/common$/,
-        //   replacement: 'highlight.js'
-        // }
       ]
     },
-    // optimizeDeps: {
-    //   include: ['highlight.js', '@highlightjs/vue-plugin']
-    // },
   }
 })
