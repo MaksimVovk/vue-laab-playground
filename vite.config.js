@@ -37,7 +37,9 @@ export default defineConfig(({ mode }) => {
       cssCodeSplit: false,
       relativeExternalFiles: true,
       rollupOptions: {
-        external: ['vue', 'vue-router'],
+        external: ['vue', 'vue-router',
+          //'highlight.js', '@highlightjs/vue-plugin'
+        ],
         output: {
           globals: {
             vue: 'Vue',
@@ -54,11 +56,14 @@ export default defineConfig(({ mode }) => {
     resolve: {
       alias: [
         { find: '@', replacement: path.resolve(__dirname, './src') },
-        {
-          find: /^highlight\.js\/lib\/common$/,
-          replacement: 'highlight.js'
-        }
+        // {
+        //   find: /^highlight\.js\/lib\/common$/,
+        //   replacement: 'highlight.js'
+        // }
       ]
     },
+    // optimizeDeps: {
+    //   include: ['highlight.js', '@highlightjs/vue-plugin']
+    // },
   }
 })
