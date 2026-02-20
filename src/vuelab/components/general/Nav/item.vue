@@ -61,6 +61,7 @@ const isActive = computed(() => props.path?.toLowerCase() === props.item.path?.t
     transition: all .3s ease-in-out;
     text-decoration: none;
     z-index: 1;
+    color: clr($light, black-800);
 
     &-icon {
       display: flex;

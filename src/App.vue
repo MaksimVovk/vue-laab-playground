@@ -34,10 +34,6 @@ const navigate = (path) => {
 
 <style lang="scss">
 @use './styles/index.scss' as *;
-
-  * {
-    color: clr($light, black-800);
-  }
   .vue-lab-application {
     height: 100%;
     width: 100%;

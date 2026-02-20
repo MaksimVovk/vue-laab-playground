@@ -89,6 +89,7 @@ const goToHome = () => {
     display: flex;
     flex-direction: column;
     font-family: var(--vue-lab-font-family);
+    color: clr($light, black-800);
 
     &-header {
       display: grid;
@@ -101,6 +102,7 @@ const goToHome = () => {
       box-sizing: border-box;
       margin-bottom: 10px;
       cursor: pointer;
+      color: clr($light, black-800);
 
       &-title {
         font-family: "Ubuntu", sans-serif;
