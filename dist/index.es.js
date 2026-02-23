@@ -1,12 +1,12 @@
 (function(){"use strict";try{if(typeof document<"u"){var a=document.createElement("style");a.appendChild(document.createTextNode('@import"https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap";html[data-v-5643684a],body[data-v-5643684a],div[data-v-5643684a],span[data-v-5643684a],applet[data-v-5643684a],object[data-v-5643684a],iframe[data-v-5643684a],h1[data-v-5643684a],h2[data-v-5643684a],h3[data-v-5643684a],h4[data-v-5643684a],h5[data-v-5643684a],h6[data-v-5643684a],p[data-v-5643684a],blockquote[data-v-5643684a],pre[data-v-5643684a],a[data-v-5643684a],abbr[data-v-5643684a],acronym[data-v-5643684a],address[data-v-5643684a],big[data-v-5643684a],cite[data-v-5643684a],code[data-v-5643684a],del[data-v-5643684a],dfn[data-v-5643684a],em[data-v-5643684a],img[data-v-5643684a],ins[data-v-5643684a],kbd[data-v-5643684a],q[data-v-5643684a],s[data-v-5643684a],samp[data-v-5643684a],small[data-v-5643684a],strike[data-v-5643684a],strong[data-v-5643684a],sub[data-v-5643684a],sup[data-v-5643684a],tt[data-v-5643684a],var[data-v-5643684a],b[data-v-5643684a],u[data-v-5643684a],i[data-v-5643684a],center[data-v-5643684a],dl[data-v-5643684a],dt[data-v-5643684a],dd[data-v-5643684a],ol[data-v-5643684a],ul[data-v-5643684a],li[data-v-5643684a],fieldset[data-v-5643684a],form[data-v-5643684a],label[data-v-5643684a],legend[data-v-5643684a],table[data-v-5643684a],caption[data-v-5643684a],tbody[data-v-5643684a],tfoot[data-v-5643684a],thead[data-v-5643684a],tr[data-v-5643684a],th[data-v-5643684a],td[data-v-5643684a],article[data-v-5643684a],aside[data-v-5643684a],canvas[data-v-5643684a],details[data-v-5643684a],embed[data-v-5643684a],figure[data-v-5643684a],figcaption[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],output[data-v-5643684a],ruby[data-v-5643684a],section[data-v-5643684a],summary[data-v-5643684a],time[data-v-5643684a],mark[data-v-5643684a],audio[data-v-5643684a],video[data-v-5643684a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-5643684a],aside[data-v-5643684a],details[data-v-5643684a],figcaption[data-v-5643684a],figure[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],section[data-v-5643684a]{display:block}body[data-v-5643684a]{line-height:1}ol[data-v-5643684a],ul[data-v-5643684a]{list-style:none}blockquote[data-v-5643684a],q[data-v-5643684a]{quotes:none}blockquote[data-v-5643684a]:before,blockquote[data-v-5643684a]:after,q[data-v-5643684a]:before,q[data-v-5643684a]:after{content:"";content:none}table[data-v-5643684a]{border-collapse:collapse;border-spacing:0}[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-5643684a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-5643684a],body[data-v-5643684a],#app[data-v-5643684a]{height:100%;width:100%;overflow:hidden}body[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-5643684a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__lab-button[data-v-5643684a]{font-family:var(--vue-lab-font-family)}.vue-lab__lab-button_palette-success[data-v-5643684a]{background-color:#48bb78}.vue-lab__lab-button_palette-success[data-v-5643684a]:hover{background-color:#6dc993}.vue-lab__lab-button_palette-success[data-v-5643684a]:active{background-color:#389860}.vue-lab__lab-button_palette-error[data-v-5643684a]{background-color:#f56565}.vue-lab__lab-button_palette-error[data-v-5643684a]:hover{background-color:#f89595}.vue-lab__lab-button_palette-error[data-v-5643684a]:active{background-color:#f23535}.vue-lab__lab-button_palette-warning[data-v-5643684a]{background-color:#ed8936}.vue-lab__lab-button_palette-warning[data-v-5643684a]:hover{background-color:#f1a465}.vue-lab__lab-button_palette-warning[data-v-5643684a]:active{background-color:#dc6f14}.vue-lab__lab-button_palette-info[data-v-5643684a]{background-color:#4299e1}.vue-lab__lab-button_palette-info[data-v-5643684a]:hover{background-color:#6eb1e8}.vue-lab__lab-button_palette-info[data-v-5643684a]:active{background-color:#2180cf}.vue-lab__lab-button_palette-primary[data-v-5643684a]{background-color:#1e90ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:hover{background-color:#51a9ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:active{background-color:#0077ea}.vue-lab__lab-button_size-sm[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:24px;padding:6px 12px;border-radius:4px}.vue-lab__lab-button_size-md[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:32px;padding:8px 12px;border-radius:6px}.vue-lab__lab-button_size-lg[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:40px;padding:10px 14px;border-radius:8px}html[data-v-553567f5],body[data-v-553567f5],div[data-v-553567f5],span[data-v-553567f5],applet[data-v-553567f5],object[data-v-553567f5],iframe[data-v-553567f5],h1[data-v-553567f5],h2[data-v-553567f5],h3[data-v-553567f5],h4[data-v-553567f5],h5[data-v-553567f5],h6[data-v-553567f5],p[data-v-553567f5],blockquote[data-v-553567f5],pre[data-v-553567f5],a[data-v-553567f5],abbr[data-v-553567f5],acronym[data-v-553567f5],address[data-v-553567f5],big[data-v-553567f5],cite[data-v-553567f5],code[data-v-553567f5],del[data-v-553567f5],dfn[data-v-553567f5],em[data-v-553567f5],img[data-v-553567f5],ins[data-v-553567f5],kbd[data-v-553567f5],q[data-v-553567f5],s[data-v-553567f5],samp[data-v-553567f5],small[data-v-553567f5],strike[data-v-553567f5],strong[data-v-553567f5],sub[data-v-553567f5],sup[data-v-553567f5],tt[data-v-553567f5],var[data-v-553567f5],b[data-v-553567f5],u[data-v-553567f5],i[data-v-553567f5],center[data-v-553567f5],dl[data-v-553567f5],dt[data-v-553567f5],dd[data-v-553567f5],ol[data-v-553567f5],ul[data-v-553567f5],li[data-v-553567f5],fieldset[data-v-553567f5],form[data-v-553567f5],label[data-v-553567f5],legend[data-v-553567f5],table[data-v-553567f5],caption[data-v-553567f5],tbody[data-v-553567f5],tfoot[data-v-553567f5],thead[data-v-553567f5],tr[data-v-553567f5],th[data-v-553567f5],td[data-v-553567f5],article[data-v-553567f5],aside[data-v-553567f5],canvas[data-v-553567f5],details[data-v-553567f5],embed[data-v-553567f5],figure[data-v-553567f5],figcaption[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],output[data-v-553567f5],ruby[data-v-553567f5],section[data-v-553567f5],summary[data-v-553567f5],time[data-v-553567f5],mark[data-v-553567f5],audio[data-v-553567f5],video[data-v-553567f5]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-553567f5],aside[data-v-553567f5],details[data-v-553567f5],figcaption[data-v-553567f5],figure[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],section[data-v-553567f5]{display:block}body[data-v-553567f5]{line-height:1}ol[data-v-553567f5],ul[data-v-553567f5]{list-style:none}blockquote[data-v-553567f5],q[data-v-553567f5]{quotes:none}blockquote[data-v-553567f5]:before,blockquote[data-v-553567f5]:after,q[data-v-553567f5]:before,q[data-v-553567f5]:after{content:"";content:none}table[data-v-553567f5]{border-collapse:collapse;border-spacing:0}[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-553567f5]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-553567f5],body[data-v-553567f5],#app[data-v-553567f5]{height:100%;width:100%;overflow:hidden}body[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-553567f5]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-tag[data-v-553567f5]{font-family:var(--vue-lab-font-family)}.vue-lab-tag__title[data-v-553567f5]{color:#fff}.vue-lab-tag_palette-success[data-v-553567f5]{background-color:#48bb78}.vue-lab-tag_palette-success[data-v-553567f5]:hover{background-color:#6dc993}.vue-lab-tag_palette-success[data-v-553567f5]:active{background-color:#389860}.vue-lab-tag_palette-success.vue-lab-tag_active[data-v-553567f5]{background-color:#92d7af}.vue-lab-tag_palette-error[data-v-553567f5]{background-color:#f56565}.vue-lab-tag_palette-error[data-v-553567f5]:hover{background-color:#f89595}.vue-lab-tag_palette-error[data-v-553567f5]:active{background-color:#f23535}.vue-lab-tag_palette-error.vue-lab-tag_active[data-v-553567f5]{background-color:#fbc5c5}.vue-lab-tag_palette-warning[data-v-553567f5]{background-color:#ed8936}.vue-lab-tag_palette-warning[data-v-553567f5]:hover{background-color:#f1a465}.vue-lab-tag_palette-warning[data-v-553567f5]:active{background-color:#dc6f14}.vue-lab-tag_palette-warning.vue-lab-tag_active[data-v-553567f5]{background-color:#f5c094}.vue-lab-tag_palette-info[data-v-553567f5]{background-color:#4299e1}.vue-lab-tag_palette-info[data-v-553567f5]:hover{background-color:#6eb1e8}.vue-lab-tag_palette-info[data-v-553567f5]:active{background-color:#2180cf}.vue-lab-tag_palette-info.vue-lab-tag_active[data-v-553567f5]{background-color:#9ac9ef}.vue-lab-tag_palette-primary[data-v-553567f5]{background-color:#1e90ff}.vue-lab-tag_palette-primary[data-v-553567f5]:hover{background-color:#51a9ff}.vue-lab-tag_palette-primary[data-v-553567f5]:active{background-color:#0077ea}.vue-lab-tag_palette-primary.vue-lab-tag_active[data-v-553567f5]{background-color:#84c2ff}.vue-lab-tag_size-sm[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:20px;padding:4px 10px;border-radius:4px}.vue-lab-tag_size-md[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:28px;padding:6px 10px;border-radius:6px}.vue-lab-tag_size-lg[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:34px;padding:8px 12px;border-radius:8px}html[data-v-f2d48cdd],body[data-v-f2d48cdd],div[data-v-f2d48cdd],span[data-v-f2d48cdd],applet[data-v-f2d48cdd],object[data-v-f2d48cdd],iframe[data-v-f2d48cdd],h1[data-v-f2d48cdd],h2[data-v-f2d48cdd],h3[data-v-f2d48cdd],h4[data-v-f2d48cdd],h5[data-v-f2d48cdd],h6[data-v-f2d48cdd],p[data-v-f2d48cdd],blockquote[data-v-f2d48cdd],pre[data-v-f2d48cdd],a[data-v-f2d48cdd],abbr[data-v-f2d48cdd],acronym[data-v-f2d48cdd],address[data-v-f2d48cdd],big[data-v-f2d48cdd],cite[data-v-f2d48cdd],code[data-v-f2d48cdd],del[data-v-f2d48cdd],dfn[data-v-f2d48cdd],em[data-v-f2d48cdd],img[data-v-f2d48cdd],ins[data-v-f2d48cdd],kbd[data-v-f2d48cdd],q[data-v-f2d48cdd],s[data-v-f2d48cdd],samp[data-v-f2d48cdd],small[data-v-f2d48cdd],strike[data-v-f2d48cdd],strong[data-v-f2d48cdd],sub[data-v-f2d48cdd],sup[data-v-f2d48cdd],tt[data-v-f2d48cdd],var[data-v-f2d48cdd],b[data-v-f2d48cdd],u[data-v-f2d48cdd],i[data-v-f2d48cdd],center[data-v-f2d48cdd],dl[data-v-f2d48cdd],dt[data-v-f2d48cdd],dd[data-v-f2d48cdd],ol[data-v-f2d48cdd],ul[data-v-f2d48cdd],li[data-v-f2d48cdd],fieldset[data-v-f2d48cdd],form[data-v-f2d48cdd],label[data-v-f2d48cdd],legend[data-v-f2d48cdd],table[data-v-f2d48cdd],caption[data-v-f2d48cdd],tbody[data-v-f2d48cdd],tfoot[data-v-f2d48cdd],thead[data-v-f2d48cdd],tr[data-v-f2d48cdd],th[data-v-f2d48cdd],td[data-v-f2d48cdd],article[data-v-f2d48cdd],aside[data-v-f2d48cdd],canvas[data-v-f2d48cdd],details[data-v-f2d48cdd],embed[data-v-f2d48cdd],figure[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],output[data-v-f2d48cdd],ruby[data-v-f2d48cdd],section[data-v-f2d48cdd],summary[data-v-f2d48cdd],time[data-v-f2d48cdd],mark[data-v-f2d48cdd],audio[data-v-f2d48cdd],video[data-v-f2d48cdd]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-f2d48cdd],aside[data-v-f2d48cdd],details[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],figure[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],section[data-v-f2d48cdd]{display:block}body[data-v-f2d48cdd]{line-height:1}ol[data-v-f2d48cdd],ul[data-v-f2d48cdd]{list-style:none}blockquote[data-v-f2d48cdd],q[data-v-f2d48cdd]{quotes:none}blockquote[data-v-f2d48cdd]:before,blockquote[data-v-f2d48cdd]:after,q[data-v-f2d48cdd]:before,q[data-v-f2d48cdd]:after{content:"";content:none}table[data-v-f2d48cdd]{border-collapse:collapse;border-spacing:0}[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-f2d48cdd]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-f2d48cdd],body[data-v-f2d48cdd],#app[data-v-f2d48cdd]{height:100%;width:100%;overflow:hidden}body[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-f2d48cdd]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__description[data-v-f2d48cdd]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-845d1c40],body[data-v-845d1c40],div[data-v-845d1c40],span[data-v-845d1c40],applet[data-v-845d1c40],object[data-v-845d1c40],iframe[data-v-845d1c40],h1[data-v-845d1c40],h2[data-v-845d1c40],h3[data-v-845d1c40],h4[data-v-845d1c40],h5[data-v-845d1c40],h6[data-v-845d1c40],p[data-v-845d1c40],blockquote[data-v-845d1c40],pre[data-v-845d1c40],a[data-v-845d1c40],abbr[data-v-845d1c40],acronym[data-v-845d1c40],address[data-v-845d1c40],big[data-v-845d1c40],cite[data-v-845d1c40],code[data-v-845d1c40],del[data-v-845d1c40],dfn[data-v-845d1c40],em[data-v-845d1c40],img[data-v-845d1c40],ins[data-v-845d1c40],kbd[data-v-845d1c40],q[data-v-845d1c40],s[data-v-845d1c40],samp[data-v-845d1c40],small[data-v-845d1c40],strike[data-v-845d1c40],strong[data-v-845d1c40],sub[data-v-845d1c40],sup[data-v-845d1c40],tt[data-v-845d1c40],var[data-v-845d1c40],b[data-v-845d1c40],u[data-v-845d1c40],i[data-v-845d1c40],center[data-v-845d1c40],dl[data-v-845d1c40],dt[data-v-845d1c40],dd[data-v-845d1c40],ol[data-v-845d1c40],ul[data-v-845d1c40],li[data-v-845d1c40],fieldset[data-v-845d1c40],form[data-v-845d1c40],label[data-v-845d1c40],legend[data-v-845d1c40],table[data-v-845d1c40],caption[data-v-845d1c40],tbody[data-v-845d1c40],tfoot[data-v-845d1c40],thead[data-v-845d1c40],tr[data-v-845d1c40],th[data-v-845d1c40],td[data-v-845d1c40],article[data-v-845d1c40],aside[data-v-845d1c40],canvas[data-v-845d1c40],details[data-v-845d1c40],embed[data-v-845d1c40],figure[data-v-845d1c40],figcaption[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],output[data-v-845d1c40],ruby[data-v-845d1c40],section[data-v-845d1c40],summary[data-v-845d1c40],time[data-v-845d1c40],mark[data-v-845d1c40],audio[data-v-845d1c40],video[data-v-845d1c40]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-845d1c40],aside[data-v-845d1c40],details[data-v-845d1c40],figcaption[data-v-845d1c40],figure[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],section[data-v-845d1c40]{display:block}body[data-v-845d1c40]{line-height:1}ol[data-v-845d1c40],ul[data-v-845d1c40]{list-style:none}blockquote[data-v-845d1c40],q[data-v-845d1c40]{quotes:none}blockquote[data-v-845d1c40]:before,blockquote[data-v-845d1c40]:after,q[data-v-845d1c40]:before,q[data-v-845d1c40]:after{content:"";content:none}table[data-v-845d1c40]{border-collapse:collapse;border-spacing:0}[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-845d1c40]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-845d1c40],body[data-v-845d1c40],#app[data-v-845d1c40]{height:100%;width:100%;overflow:hidden}body[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-845d1c40]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description__item[data-v-845d1c40]{font-family:var(--vue-lab-font-family)}.vue-lab__props-description__item[data-v-845d1c40]:not(:last-child){padding-bottom:8px;border-bottom:1px solid #E5E7EB}.vue-lab__props-description__item[data-v-845d1c40]:not(:first-child){padding-top:8px}.vue-lab__props-description__item__header[data-v-845d1c40]{display:flex;justify-content:space-between;align-items:center;font-size:14px;margin-bottom:4px}.vue-lab__props-description__item__header_name[data-v-845d1c40]{font-weight:600;text-transform:capitalize}.vue-lab__props-description__item__header_type[data-v-845d1c40]{font-weight:600;text-transform:capitalize;font-size:14px;color:#374151}.vue-lab__props-description__item__body[data-v-845d1c40]{font-size:13px;border-left:#D1D5DB 2px solid;padding-left:8px}.vue-lab__props-description__item__body__row[data-v-845d1c40]{gap:4px;display:flex;line-height:1.4}.vue-lab__props-description__item__body__row-key[data-v-845d1c40]{text-transform:capitalize;font-weight:600}.vue-lab__props-description__item__body__row-value[data-v-845d1c40]{color:#6b7280}html[data-v-db8d12a1],body[data-v-db8d12a1],div[data-v-db8d12a1],span[data-v-db8d12a1],applet[data-v-db8d12a1],object[data-v-db8d12a1],iframe[data-v-db8d12a1],h1[data-v-db8d12a1],h2[data-v-db8d12a1],h3[data-v-db8d12a1],h4[data-v-db8d12a1],h5[data-v-db8d12a1],h6[data-v-db8d12a1],p[data-v-db8d12a1],blockquote[data-v-db8d12a1],pre[data-v-db8d12a1],a[data-v-db8d12a1],abbr[data-v-db8d12a1],acronym[data-v-db8d12a1],address[data-v-db8d12a1],big[data-v-db8d12a1],cite[data-v-db8d12a1],code[data-v-db8d12a1],del[data-v-db8d12a1],dfn[data-v-db8d12a1],em[data-v-db8d12a1],img[data-v-db8d12a1],ins[data-v-db8d12a1],kbd[data-v-db8d12a1],q[data-v-db8d12a1],s[data-v-db8d12a1],samp[data-v-db8d12a1],small[data-v-db8d12a1],strike[data-v-db8d12a1],strong[data-v-db8d12a1],sub[data-v-db8d12a1],sup[data-v-db8d12a1],tt[data-v-db8d12a1],var[data-v-db8d12a1],b[data-v-db8d12a1],u[data-v-db8d12a1],i[data-v-db8d12a1],center[data-v-db8d12a1],dl[data-v-db8d12a1],dt[data-v-db8d12a1],dd[data-v-db8d12a1],ol[data-v-db8d12a1],ul[data-v-db8d12a1],li[data-v-db8d12a1],fieldset[data-v-db8d12a1],form[data-v-db8d12a1],label[data-v-db8d12a1],legend[data-v-db8d12a1],table[data-v-db8d12a1],caption[data-v-db8d12a1],tbody[data-v-db8d12a1],tfoot[data-v-db8d12a1],thead[data-v-db8d12a1],tr[data-v-db8d12a1],th[data-v-db8d12a1],td[data-v-db8d12a1],article[data-v-db8d12a1],aside[data-v-db8d12a1],canvas[data-v-db8d12a1],details[data-v-db8d12a1],embed[data-v-db8d12a1],figure[data-v-db8d12a1],figcaption[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],output[data-v-db8d12a1],ruby[data-v-db8d12a1],section[data-v-db8d12a1],summary[data-v-db8d12a1],time[data-v-db8d12a1],mark[data-v-db8d12a1],audio[data-v-db8d12a1],video[data-v-db8d12a1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-db8d12a1],aside[data-v-db8d12a1],details[data-v-db8d12a1],figcaption[data-v-db8d12a1],figure[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],section[data-v-db8d12a1]{display:block}body[data-v-db8d12a1]{line-height:1}ol[data-v-db8d12a1],ul[data-v-db8d12a1]{list-style:none}blockquote[data-v-db8d12a1],q[data-v-db8d12a1]{quotes:none}blockquote[data-v-db8d12a1]:before,blockquote[data-v-db8d12a1]:after,q[data-v-db8d12a1]:before,q[data-v-db8d12a1]:after{content:"";content:none}table[data-v-db8d12a1]{border-collapse:collapse;border-spacing:0}[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-db8d12a1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-db8d12a1],body[data-v-db8d12a1],#app[data-v-db8d12a1]{height:100%;width:100%;overflow:hidden}body[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-db8d12a1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description[data-v-db8d12a1]{font-family:var(--vue-lab-font-family)}html[data-v-7b2edc41],body[data-v-7b2edc41],div[data-v-7b2edc41],span[data-v-7b2edc41],applet[data-v-7b2edc41],object[data-v-7b2edc41],iframe[data-v-7b2edc41],h1[data-v-7b2edc41],h2[data-v-7b2edc41],h3[data-v-7b2edc41],h4[data-v-7b2edc41],h5[data-v-7b2edc41],h6[data-v-7b2edc41],p[data-v-7b2edc41],blockquote[data-v-7b2edc41],pre[data-v-7b2edc41],a[data-v-7b2edc41],abbr[data-v-7b2edc41],acronym[data-v-7b2edc41],address[data-v-7b2edc41],big[data-v-7b2edc41],cite[data-v-7b2edc41],code[data-v-7b2edc41],del[data-v-7b2edc41],dfn[data-v-7b2edc41],em[data-v-7b2edc41],img[data-v-7b2edc41],ins[data-v-7b2edc41],kbd[data-v-7b2edc41],q[data-v-7b2edc41],s[data-v-7b2edc41],samp[data-v-7b2edc41],small[data-v-7b2edc41],strike[data-v-7b2edc41],strong[data-v-7b2edc41],sub[data-v-7b2edc41],sup[data-v-7b2edc41],tt[data-v-7b2edc41],var[data-v-7b2edc41],b[data-v-7b2edc41],u[data-v-7b2edc41],i[data-v-7b2edc41],center[data-v-7b2edc41],dl[data-v-7b2edc41],dt[data-v-7b2edc41],dd[data-v-7b2edc41],ol[data-v-7b2edc41],ul[data-v-7b2edc41],li[data-v-7b2edc41],fieldset[data-v-7b2edc41],form[data-v-7b2edc41],label[data-v-7b2edc41],legend[data-v-7b2edc41],table[data-v-7b2edc41],caption[data-v-7b2edc41],tbody[data-v-7b2edc41],tfoot[data-v-7b2edc41],thead[data-v-7b2edc41],tr[data-v-7b2edc41],th[data-v-7b2edc41],td[data-v-7b2edc41],article[data-v-7b2edc41],aside[data-v-7b2edc41],canvas[data-v-7b2edc41],details[data-v-7b2edc41],embed[data-v-7b2edc41],figure[data-v-7b2edc41],figcaption[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],output[data-v-7b2edc41],ruby[data-v-7b2edc41],section[data-v-7b2edc41],summary[data-v-7b2edc41],time[data-v-7b2edc41],mark[data-v-7b2edc41],audio[data-v-7b2edc41],video[data-v-7b2edc41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-7b2edc41],aside[data-v-7b2edc41],details[data-v-7b2edc41],figcaption[data-v-7b2edc41],figure[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],section[data-v-7b2edc41]{display:block}body[data-v-7b2edc41]{line-height:1}ol[data-v-7b2edc41],ul[data-v-7b2edc41]{list-style:none}blockquote[data-v-7b2edc41],q[data-v-7b2edc41]{quotes:none}blockquote[data-v-7b2edc41]:before,blockquote[data-v-7b2edc41]:after,q[data-v-7b2edc41]:before,q[data-v-7b2edc41]:after{content:"";content:none}table[data-v-7b2edc41]{border-collapse:collapse;border-spacing:0}[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-7b2edc41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-7b2edc41],body[data-v-7b2edc41],#app[data-v-7b2edc41]{height:100%;width:100%;overflow:hidden}body[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-7b2edc41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__events[data-v-7b2edc41]{font-family:var(--vue-lab-font-family)}.vue-lab__events__body-row[data-v-7b2edc41]{display:grid;grid-template-columns:minmax(100px,150px) 1fr}.vue-lab__events__body-column--th[data-v-7b2edc41]{font-weight:600;font-size:13px;height:24px;display:flex;align-items:center;border-bottom:#D1D5DB 1px solid;padding:5px 0}.vue-lab__events__body-column--th-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body-column--td[data-v-7b2edc41]{font-size:14px;color:#6b7280;padding:5px 0;border-bottom:#D1D5DB 1px solid;align-items:center;display:flex;line-height:1.4}.vue-lab__events__body-column--td-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body .bold[data-v-7b2edc41]{font-weight:600;color:#2c3239}html[data-v-11d57440],body[data-v-11d57440],div[data-v-11d57440],span[data-v-11d57440],applet[data-v-11d57440],object[data-v-11d57440],iframe[data-v-11d57440],h1[data-v-11d57440],h2[data-v-11d57440],h3[data-v-11d57440],h4[data-v-11d57440],h5[data-v-11d57440],h6[data-v-11d57440],p[data-v-11d57440],blockquote[data-v-11d57440],pre[data-v-11d57440],a[data-v-11d57440],abbr[data-v-11d57440],acronym[data-v-11d57440],address[data-v-11d57440],big[data-v-11d57440],cite[data-v-11d57440],code[data-v-11d57440],del[data-v-11d57440],dfn[data-v-11d57440],em[data-v-11d57440],img[data-v-11d57440],ins[data-v-11d57440],kbd[data-v-11d57440],q[data-v-11d57440],s[data-v-11d57440],samp[data-v-11d57440],small[data-v-11d57440],strike[data-v-11d57440],strong[data-v-11d57440],sub[data-v-11d57440],sup[data-v-11d57440],tt[data-v-11d57440],var[data-v-11d57440],b[data-v-11d57440],u[data-v-11d57440],i[data-v-11d57440],center[data-v-11d57440],dl[data-v-11d57440],dt[data-v-11d57440],dd[data-v-11d57440],ol[data-v-11d57440],ul[data-v-11d57440],li[data-v-11d57440],fieldset[data-v-11d57440],form[data-v-11d57440],label[data-v-11d57440],legend[data-v-11d57440],table[data-v-11d57440],caption[data-v-11d57440],tbody[data-v-11d57440],tfoot[data-v-11d57440],thead[data-v-11d57440],tr[data-v-11d57440],th[data-v-11d57440],td[data-v-11d57440],article[data-v-11d57440],aside[data-v-11d57440],canvas[data-v-11d57440],details[data-v-11d57440],embed[data-v-11d57440],figure[data-v-11d57440],figcaption[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],output[data-v-11d57440],ruby[data-v-11d57440],section[data-v-11d57440],summary[data-v-11d57440],time[data-v-11d57440],mark[data-v-11d57440],audio[data-v-11d57440],video[data-v-11d57440]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-11d57440],aside[data-v-11d57440],details[data-v-11d57440],figcaption[data-v-11d57440],figure[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],section[data-v-11d57440]{display:block}body[data-v-11d57440]{line-height:1}ol[data-v-11d57440],ul[data-v-11d57440]{list-style:none}blockquote[data-v-11d57440],q[data-v-11d57440]{quotes:none}blockquote[data-v-11d57440]:before,blockquote[data-v-11d57440]:after,q[data-v-11d57440]:before,q[data-v-11d57440]:after{content:"";content:none}table[data-v-11d57440]{border-collapse:collapse;border-spacing:0}[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-11d57440]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-11d57440],body[data-v-11d57440],#app[data-v-11d57440]{height:100%;width:100%;overflow:hidden}body[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-11d57440]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.icon__geometry[data-v-11d57440]{fill:#6b7280}html[data-v-163aedb2],body[data-v-163aedb2],div[data-v-163aedb2],span[data-v-163aedb2],applet[data-v-163aedb2],object[data-v-163aedb2],iframe[data-v-163aedb2],h1[data-v-163aedb2],h2[data-v-163aedb2],h3[data-v-163aedb2],h4[data-v-163aedb2],h5[data-v-163aedb2],h6[data-v-163aedb2],p[data-v-163aedb2],blockquote[data-v-163aedb2],pre[data-v-163aedb2],a[data-v-163aedb2],abbr[data-v-163aedb2],acronym[data-v-163aedb2],address[data-v-163aedb2],big[data-v-163aedb2],cite[data-v-163aedb2],code[data-v-163aedb2],del[data-v-163aedb2],dfn[data-v-163aedb2],em[data-v-163aedb2],img[data-v-163aedb2],ins[data-v-163aedb2],kbd[data-v-163aedb2],q[data-v-163aedb2],s[data-v-163aedb2],samp[data-v-163aedb2],small[data-v-163aedb2],strike[data-v-163aedb2],strong[data-v-163aedb2],sub[data-v-163aedb2],sup[data-v-163aedb2],tt[data-v-163aedb2],var[data-v-163aedb2],b[data-v-163aedb2],u[data-v-163aedb2],i[data-v-163aedb2],center[data-v-163aedb2],dl[data-v-163aedb2],dt[data-v-163aedb2],dd[data-v-163aedb2],ol[data-v-163aedb2],ul[data-v-163aedb2],li[data-v-163aedb2],fieldset[data-v-163aedb2],form[data-v-163aedb2],label[data-v-163aedb2],legend[data-v-163aedb2],table[data-v-163aedb2],caption[data-v-163aedb2],tbody[data-v-163aedb2],tfoot[data-v-163aedb2],thead[data-v-163aedb2],tr[data-v-163aedb2],th[data-v-163aedb2],td[data-v-163aedb2],article[data-v-163aedb2],aside[data-v-163aedb2],canvas[data-v-163aedb2],details[data-v-163aedb2],embed[data-v-163aedb2],figure[data-v-163aedb2],figcaption[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],output[data-v-163aedb2],ruby[data-v-163aedb2],section[data-v-163aedb2],summary[data-v-163aedb2],time[data-v-163aedb2],mark[data-v-163aedb2],audio[data-v-163aedb2],video[data-v-163aedb2]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-163aedb2],aside[data-v-163aedb2],details[data-v-163aedb2],figcaption[data-v-163aedb2],figure[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],section[data-v-163aedb2]{display:block}body[data-v-163aedb2]{line-height:1}ol[data-v-163aedb2],ul[data-v-163aedb2]{list-style:none}blockquote[data-v-163aedb2],q[data-v-163aedb2]{quotes:none}blockquote[data-v-163aedb2]:before,blockquote[data-v-163aedb2]:after,q[data-v-163aedb2]:before,q[data-v-163aedb2]:after{content:"";content:none}table[data-v-163aedb2]{border-collapse:collapse;border-spacing:0}[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-163aedb2]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-163aedb2],body[data-v-163aedb2],#app[data-v-163aedb2]{height:100%;width:100%;overflow:hidden}body[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-163aedb2]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-163aedb2]{position:relative;box-sizing:border-box}.vue-lab__search-input[data-v-163aedb2]{margin:0;border:0;font-size:14px;min-width:100%;border:1px solid #D1D5DB;background-color:#f3f4f6;padding:4px 10px;box-sizing:border-box;border-radius:6px}.vue-lab__search-input[data-v-163aedb2]:focus{border-color:none;outline:none;background-color:#fff}.vue-lab__search-list[data-v-163aedb2]{margin-top:4px;background-color:#fff;padding:5px 0;min-width:150px;border-radius:4px;border:#D1D5DB 1px solid;display:grid;gap:2px;z-index:2}.vue-lab__search-list--empty[data-v-163aedb2]{height:50px;display:flex;align-items:center;justify-content:center;font-size:13px}.vue-lab__search-list-item[data-v-163aedb2]{padding:5px 10px;box-sizing:border-box;font-size:13px;height:25px;display:flex;align-items:center;cursor:pointer;text-decoration:none;gap:5px}.vue-lab__search-list-item[data-v-163aedb2]:hover:not(.vue-lab__search-list-item--active){background-color:#dcedff;transition:all .3s ease-in-out}.vue-lab__search-list-item[data-v-163aedb2]:hover{transition:all .3s ease-in-out}.vue-lab__search-list-item--active[data-v-163aedb2]{background-color:#dcedff}html[data-v-875f6eef],body[data-v-875f6eef],div[data-v-875f6eef],span[data-v-875f6eef],applet[data-v-875f6eef],object[data-v-875f6eef],iframe[data-v-875f6eef],h1[data-v-875f6eef],h2[data-v-875f6eef],h3[data-v-875f6eef],h4[data-v-875f6eef],h5[data-v-875f6eef],h6[data-v-875f6eef],p[data-v-875f6eef],blockquote[data-v-875f6eef],pre[data-v-875f6eef],a[data-v-875f6eef],abbr[data-v-875f6eef],acronym[data-v-875f6eef],address[data-v-875f6eef],big[data-v-875f6eef],cite[data-v-875f6eef],code[data-v-875f6eef],del[data-v-875f6eef],dfn[data-v-875f6eef],em[data-v-875f6eef],img[data-v-875f6eef],ins[data-v-875f6eef],kbd[data-v-875f6eef],q[data-v-875f6eef],s[data-v-875f6eef],samp[data-v-875f6eef],small[data-v-875f6eef],strike[data-v-875f6eef],strong[data-v-875f6eef],sub[data-v-875f6eef],sup[data-v-875f6eef],tt[data-v-875f6eef],var[data-v-875f6eef],b[data-v-875f6eef],u[data-v-875f6eef],i[data-v-875f6eef],center[data-v-875f6eef],dl[data-v-875f6eef],dt[data-v-875f6eef],dd[data-v-875f6eef],ol[data-v-875f6eef],ul[data-v-875f6eef],li[data-v-875f6eef],fieldset[data-v-875f6eef],form[data-v-875f6eef],label[data-v-875f6eef],legend[data-v-875f6eef],table[data-v-875f6eef],caption[data-v-875f6eef],tbody[data-v-875f6eef],tfoot[data-v-875f6eef],thead[data-v-875f6eef],tr[data-v-875f6eef],th[data-v-875f6eef],td[data-v-875f6eef],article[data-v-875f6eef],aside[data-v-875f6eef],canvas[data-v-875f6eef],details[data-v-875f6eef],embed[data-v-875f6eef],figure[data-v-875f6eef],figcaption[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],output[data-v-875f6eef],ruby[data-v-875f6eef],section[data-v-875f6eef],summary[data-v-875f6eef],time[data-v-875f6eef],mark[data-v-875f6eef],audio[data-v-875f6eef],video[data-v-875f6eef]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-875f6eef],aside[data-v-875f6eef],details[data-v-875f6eef],figcaption[data-v-875f6eef],figure[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],section[data-v-875f6eef]{display:block}body[data-v-875f6eef]{line-height:1}ol[data-v-875f6eef],ul[data-v-875f6eef]{list-style:none}blockquote[data-v-875f6eef],q[data-v-875f6eef]{quotes:none}blockquote[data-v-875f6eef]:before,blockquote[data-v-875f6eef]:after,q[data-v-875f6eef]:before,q[data-v-875f6eef]:after{content:"";content:none}table[data-v-875f6eef]{border-collapse:collapse;border-spacing:0}[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-875f6eef]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-875f6eef],body[data-v-875f6eef],#app[data-v-875f6eef]{height:100%;width:100%;overflow:hidden}body[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-875f6eef]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-item[data-v-875f6eef],.vue-lab__nav-item[data-v-875f6eef] *{cursor:pointer!important}.vue-lab__nav-item a[data-v-875f6eef],.vue-lab__nav-item * a[data-v-875f6eef]{cursor:pointer}.vue-lab__nav-item[data-v-875f6eef]{display:grid;grid-template-columns:16px 1fr;padding:10px;align-items:center;gap:5px;font-size:15px;box-sizing:border-box;-webkit-user-select:none;user-select:none;transition:all .3s ease-in-out;text-decoration:none;z-index:1;color:#2c3239}.vue-lab__nav-item-icon[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item-icon-menu[data-v-875f6eef]{width:14px;height:14px}.vue-lab__nav-item-label[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item[data-v-875f6eef]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__nav-item[data-v-875f6eef]:hover{transition:all .3s ease-in-out}.vue-lab__nav-item--active[data-v-875f6eef]{background-color:#dcedff}html[data-v-4061da29],body[data-v-4061da29],div[data-v-4061da29],span[data-v-4061da29],applet[data-v-4061da29],object[data-v-4061da29],iframe[data-v-4061da29],h1[data-v-4061da29],h2[data-v-4061da29],h3[data-v-4061da29],h4[data-v-4061da29],h5[data-v-4061da29],h6[data-v-4061da29],p[data-v-4061da29],blockquote[data-v-4061da29],pre[data-v-4061da29],a[data-v-4061da29],abbr[data-v-4061da29],acronym[data-v-4061da29],address[data-v-4061da29],big[data-v-4061da29],cite[data-v-4061da29],code[data-v-4061da29],del[data-v-4061da29],dfn[data-v-4061da29],em[data-v-4061da29],img[data-v-4061da29],ins[data-v-4061da29],kbd[data-v-4061da29],q[data-v-4061da29],s[data-v-4061da29],samp[data-v-4061da29],small[data-v-4061da29],strike[data-v-4061da29],strong[data-v-4061da29],sub[data-v-4061da29],sup[data-v-4061da29],tt[data-v-4061da29],var[data-v-4061da29],b[data-v-4061da29],u[data-v-4061da29],i[data-v-4061da29],center[data-v-4061da29],dl[data-v-4061da29],dt[data-v-4061da29],dd[data-v-4061da29],ol[data-v-4061da29],ul[data-v-4061da29],li[data-v-4061da29],fieldset[data-v-4061da29],form[data-v-4061da29],label[data-v-4061da29],legend[data-v-4061da29],table[data-v-4061da29],caption[data-v-4061da29],tbody[data-v-4061da29],tfoot[data-v-4061da29],thead[data-v-4061da29],tr[data-v-4061da29],th[data-v-4061da29],td[data-v-4061da29],article[data-v-4061da29],aside[data-v-4061da29],canvas[data-v-4061da29],details[data-v-4061da29],embed[data-v-4061da29],figure[data-v-4061da29],figcaption[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],output[data-v-4061da29],ruby[data-v-4061da29],section[data-v-4061da29],summary[data-v-4061da29],time[data-v-4061da29],mark[data-v-4061da29],audio[data-v-4061da29],video[data-v-4061da29]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-4061da29],aside[data-v-4061da29],details[data-v-4061da29],figcaption[data-v-4061da29],figure[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],section[data-v-4061da29]{display:block}body[data-v-4061da29]{line-height:1}ol[data-v-4061da29],ul[data-v-4061da29]{list-style:none}blockquote[data-v-4061da29],q[data-v-4061da29]{quotes:none}blockquote[data-v-4061da29]:before,blockquote[data-v-4061da29]:after,q[data-v-4061da29]:before,q[data-v-4061da29]:after{content:"";content:none}table[data-v-4061da29]{border-collapse:collapse;border-spacing:0}[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-4061da29]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-4061da29],body[data-v-4061da29],#app[data-v-4061da29]{height:100%;width:100%;overflow:hidden}body[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-group[data-v-4061da29]{padding:0 10px}.vue-lab__nav-group-name[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;font-size:13px;font-weight:600;color:#6b7280;margin-bottom:10px;cursor:pointer}.vue-lab__nav-group-arrow[data-v-4061da29]{transition:.3s}.vue-lab__nav-group-arrow--closed[data-v-4061da29]{transform:rotate(180deg)}.vue-lab__nav-group-items[data-v-4061da29]{overflow:hidden;transition:max-height var(--4061da29-maxHeightDuration) ease;max-height:0}.vue-lab__nav-group-items--opened[data-v-4061da29]{max-height:var(--4061da29-maxHeight)}html[data-v-3672c48c],body[data-v-3672c48c],div[data-v-3672c48c],span[data-v-3672c48c],applet[data-v-3672c48c],object[data-v-3672c48c],iframe[data-v-3672c48c],h1[data-v-3672c48c],h2[data-v-3672c48c],h3[data-v-3672c48c],h4[data-v-3672c48c],h5[data-v-3672c48c],h6[data-v-3672c48c],p[data-v-3672c48c],blockquote[data-v-3672c48c],pre[data-v-3672c48c],a[data-v-3672c48c],abbr[data-v-3672c48c],acronym[data-v-3672c48c],address[data-v-3672c48c],big[data-v-3672c48c],cite[data-v-3672c48c],code[data-v-3672c48c],del[data-v-3672c48c],dfn[data-v-3672c48c],em[data-v-3672c48c],img[data-v-3672c48c],ins[data-v-3672c48c],kbd[data-v-3672c48c],q[data-v-3672c48c],s[data-v-3672c48c],samp[data-v-3672c48c],small[data-v-3672c48c],strike[data-v-3672c48c],strong[data-v-3672c48c],sub[data-v-3672c48c],sup[data-v-3672c48c],tt[data-v-3672c48c],var[data-v-3672c48c],b[data-v-3672c48c],u[data-v-3672c48c],i[data-v-3672c48c],center[data-v-3672c48c],dl[data-v-3672c48c],dt[data-v-3672c48c],dd[data-v-3672c48c],ol[data-v-3672c48c],ul[data-v-3672c48c],li[data-v-3672c48c],fieldset[data-v-3672c48c],form[data-v-3672c48c],label[data-v-3672c48c],legend[data-v-3672c48c],table[data-v-3672c48c],caption[data-v-3672c48c],tbody[data-v-3672c48c],tfoot[data-v-3672c48c],thead[data-v-3672c48c],tr[data-v-3672c48c],th[data-v-3672c48c],td[data-v-3672c48c],article[data-v-3672c48c],aside[data-v-3672c48c],canvas[data-v-3672c48c],details[data-v-3672c48c],embed[data-v-3672c48c],figure[data-v-3672c48c],figcaption[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],output[data-v-3672c48c],ruby[data-v-3672c48c],section[data-v-3672c48c],summary[data-v-3672c48c],time[data-v-3672c48c],mark[data-v-3672c48c],audio[data-v-3672c48c],video[data-v-3672c48c]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3672c48c],aside[data-v-3672c48c],details[data-v-3672c48c],figcaption[data-v-3672c48c],figure[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],section[data-v-3672c48c]{display:block}body[data-v-3672c48c]{line-height:1}ol[data-v-3672c48c],ul[data-v-3672c48c]{list-style:none}blockquote[data-v-3672c48c],q[data-v-3672c48c]{quotes:none}blockquote[data-v-3672c48c]:before,blockquote[data-v-3672c48c]:after,q[data-v-3672c48c]:before,q[data-v-3672c48c]:after{content:"";content:none}table[data-v-3672c48c]{border-collapse:collapse;border-spacing:0}[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3672c48c]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3672c48c],body[data-v-3672c48c],#app[data-v-3672c48c]{height:100%;width:100%;overflow:hidden}body[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3672c48c]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav[data-v-3672c48c]{background-color:#fff;height:100%;border-right:1px solid #D1D5DB;-webkit-user-select:none;user-select:none;overflow:hidden;display:flex;flex-direction:column;font-family:var(--vue-lab-font-family);color:#2c3239}.vue-lab__nav-header[data-v-3672c48c]{display:grid;grid-template-columns:32px 1fr;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:10px;cursor:pointer;color:#2c3239}.vue-lab__nav-header-title[data-v-3672c48c]{font-family:Ubuntu,sans-serif;color:#0f664e}.vue-lab__nav-body[data-v-3672c48c]{height:100%;display:grid;grid-template-rows:1fr;overflow:auto;padding-bottom:10px}.vue-lab__nav-body-title[data-v-3672c48c]{padding:8px 10px 20px;font-size:15px;font-weight:600;color:#6b7280}.vue-lab__nav-body-items[data-v-3672c48c]{overflow:auto;height:100%;display:grid;align-items:start;grid-auto-rows:min-content;gap:10px}.vue-lab__nav-search[data-v-3672c48c]{padding:5px 10px;margin-bottom:12px}.vue-lab__popover[data-v-22f54b08]{position:absolute;overflow:hidden;z-index:999;font-family:var(--vue-lab-font-family)}html[data-v-06e447f6],body[data-v-06e447f6],div[data-v-06e447f6],span[data-v-06e447f6],applet[data-v-06e447f6],object[data-v-06e447f6],iframe[data-v-06e447f6],h1[data-v-06e447f6],h2[data-v-06e447f6],h3[data-v-06e447f6],h4[data-v-06e447f6],h5[data-v-06e447f6],h6[data-v-06e447f6],p[data-v-06e447f6],blockquote[data-v-06e447f6],pre[data-v-06e447f6],a[data-v-06e447f6],abbr[data-v-06e447f6],acronym[data-v-06e447f6],address[data-v-06e447f6],big[data-v-06e447f6],cite[data-v-06e447f6],code[data-v-06e447f6],del[data-v-06e447f6],dfn[data-v-06e447f6],em[data-v-06e447f6],img[data-v-06e447f6],ins[data-v-06e447f6],kbd[data-v-06e447f6],q[data-v-06e447f6],s[data-v-06e447f6],samp[data-v-06e447f6],small[data-v-06e447f6],strike[data-v-06e447f6],strong[data-v-06e447f6],sub[data-v-06e447f6],sup[data-v-06e447f6],tt[data-v-06e447f6],var[data-v-06e447f6],b[data-v-06e447f6],u[data-v-06e447f6],i[data-v-06e447f6],center[data-v-06e447f6],dl[data-v-06e447f6],dt[data-v-06e447f6],dd[data-v-06e447f6],ol[data-v-06e447f6],ul[data-v-06e447f6],li[data-v-06e447f6],fieldset[data-v-06e447f6],form[data-v-06e447f6],label[data-v-06e447f6],legend[data-v-06e447f6],table[data-v-06e447f6],caption[data-v-06e447f6],tbody[data-v-06e447f6],tfoot[data-v-06e447f6],thead[data-v-06e447f6],tr[data-v-06e447f6],th[data-v-06e447f6],td[data-v-06e447f6],article[data-v-06e447f6],aside[data-v-06e447f6],canvas[data-v-06e447f6],details[data-v-06e447f6],embed[data-v-06e447f6],figure[data-v-06e447f6],figcaption[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],output[data-v-06e447f6],ruby[data-v-06e447f6],section[data-v-06e447f6],summary[data-v-06e447f6],time[data-v-06e447f6],mark[data-v-06e447f6],audio[data-v-06e447f6],video[data-v-06e447f6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-06e447f6],aside[data-v-06e447f6],details[data-v-06e447f6],figcaption[data-v-06e447f6],figure[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],section[data-v-06e447f6]{display:block}body[data-v-06e447f6]{line-height:1}ol[data-v-06e447f6],ul[data-v-06e447f6]{list-style:none}blockquote[data-v-06e447f6],q[data-v-06e447f6]{quotes:none}blockquote[data-v-06e447f6]:before,blockquote[data-v-06e447f6]:after,q[data-v-06e447f6]:before,q[data-v-06e447f6]:after{content:"";content:none}table[data-v-06e447f6]{border-collapse:collapse;border-spacing:0}[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-06e447f6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-06e447f6],body[data-v-06e447f6],#app[data-v-06e447f6]{height:100%;width:100%;overflow:hidden}body[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-06e447f6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-06e447f6]{font-family:var(--vue-lab-font-family)}.vue-lab__search[data-v-06e447f6] *{font:inherit}.vue-lab__search__field[data-v-06e447f6]{position:relative;margin-top:12px}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:5px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:7px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:10px;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:13px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:15px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:17px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}html[data-v-1586512e],body[data-v-1586512e],div[data-v-1586512e],span[data-v-1586512e],applet[data-v-1586512e],object[data-v-1586512e],iframe[data-v-1586512e],h1[data-v-1586512e],h2[data-v-1586512e],h3[data-v-1586512e],h4[data-v-1586512e],h5[data-v-1586512e],h6[data-v-1586512e],p[data-v-1586512e],blockquote[data-v-1586512e],pre[data-v-1586512e],a[data-v-1586512e],abbr[data-v-1586512e],acronym[data-v-1586512e],address[data-v-1586512e],big[data-v-1586512e],cite[data-v-1586512e],code[data-v-1586512e],del[data-v-1586512e],dfn[data-v-1586512e],em[data-v-1586512e],img[data-v-1586512e],ins[data-v-1586512e],kbd[data-v-1586512e],q[data-v-1586512e],s[data-v-1586512e],samp[data-v-1586512e],small[data-v-1586512e],strike[data-v-1586512e],strong[data-v-1586512e],sub[data-v-1586512e],sup[data-v-1586512e],tt[data-v-1586512e],var[data-v-1586512e],b[data-v-1586512e],u[data-v-1586512e],i[data-v-1586512e],center[data-v-1586512e],dl[data-v-1586512e],dt[data-v-1586512e],dd[data-v-1586512e],ol[data-v-1586512e],ul[data-v-1586512e],li[data-v-1586512e],fieldset[data-v-1586512e],form[data-v-1586512e],label[data-v-1586512e],legend[data-v-1586512e],table[data-v-1586512e],caption[data-v-1586512e],tbody[data-v-1586512e],tfoot[data-v-1586512e],thead[data-v-1586512e],tr[data-v-1586512e],th[data-v-1586512e],td[data-v-1586512e],article[data-v-1586512e],aside[data-v-1586512e],canvas[data-v-1586512e],details[data-v-1586512e],embed[data-v-1586512e],figure[data-v-1586512e],figcaption[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],output[data-v-1586512e],ruby[data-v-1586512e],section[data-v-1586512e],summary[data-v-1586512e],time[data-v-1586512e],mark[data-v-1586512e],audio[data-v-1586512e],video[data-v-1586512e]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-1586512e],aside[data-v-1586512e],details[data-v-1586512e],figcaption[data-v-1586512e],figure[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],section[data-v-1586512e]{display:block}body[data-v-1586512e]{line-height:1}ol[data-v-1586512e],ul[data-v-1586512e]{list-style:none}blockquote[data-v-1586512e],q[data-v-1586512e]{quotes:none}blockquote[data-v-1586512e]:before,blockquote[data-v-1586512e]:after,q[data-v-1586512e]:before,q[data-v-1586512e]:after{content:"";content:none}table[data-v-1586512e]{border-collapse:collapse;border-spacing:0}[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-1586512e]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-1586512e],body[data-v-1586512e],#app[data-v-1586512e]{height:100%;width:100%;overflow:hidden}body[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-1586512e]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__icon-base-template[data-v-1586512e]{width:fit-content}.icon[data-v-1586512e]{display:inline-flex;align-items:center;justify-content:center;width:var(--icon-size);height:var(--icon-size);transition:.5s}.icon_clickable[data-v-1586512e]{cursor:pointer}.icon_disabled[data-v-1586512e]{cursor:not-allowed!important}.icon_disabled .icon__geometry[data-v-1586512e]{fill:var(--custom-color, #C7CED4)!important}.icon_disabled .icon__geometry_stroke[data-v-1586512e]{stroke:#c7ced4!important}.icon_disabled .icon__geometry_fill-empty[data-v-1586512e]{fill:transparent!important}.icon.icon_palette-default[data-v-1586512e]{transition:.5s}.icon.icon_palette-default[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3A424A)}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]{transition:.5s}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #C7CED4)}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]{transition:.5s}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #003A5D)}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]{transition:.5s}.icon.icon_palette-success[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #0BB060)}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]{transition:.5s}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #FAAD14)}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]{transition:.5s}.icon.icon_palette-error[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #D64B4C)}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]{transition:.5s}.icon.icon_palette-info[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #1C4EBF)}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]{transition:.5s}.icon.icon_palette-light[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #fff)}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]{transition:.5s}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #cacaca)}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]{transition:.5s}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3781F0)}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]{transition:.5s}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #292D32)}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]{transition:.5s}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #6B7280)}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon[data-v-1586512e] svg{width:100%;height:100%}html[data-v-c7a78350],body[data-v-c7a78350],div[data-v-c7a78350],span[data-v-c7a78350],applet[data-v-c7a78350],object[data-v-c7a78350],iframe[data-v-c7a78350],h1[data-v-c7a78350],h2[data-v-c7a78350],h3[data-v-c7a78350],h4[data-v-c7a78350],h5[data-v-c7a78350],h6[data-v-c7a78350],p[data-v-c7a78350],blockquote[data-v-c7a78350],pre[data-v-c7a78350],a[data-v-c7a78350],abbr[data-v-c7a78350],acronym[data-v-c7a78350],address[data-v-c7a78350],big[data-v-c7a78350],cite[data-v-c7a78350],code[data-v-c7a78350],del[data-v-c7a78350],dfn[data-v-c7a78350],em[data-v-c7a78350],img[data-v-c7a78350],ins[data-v-c7a78350],kbd[data-v-c7a78350],q[data-v-c7a78350],s[data-v-c7a78350],samp[data-v-c7a78350],small[data-v-c7a78350],strike[data-v-c7a78350],strong[data-v-c7a78350],sub[data-v-c7a78350],sup[data-v-c7a78350],tt[data-v-c7a78350],var[data-v-c7a78350],b[data-v-c7a78350],u[data-v-c7a78350],i[data-v-c7a78350],center[data-v-c7a78350],dl[data-v-c7a78350],dt[data-v-c7a78350],dd[data-v-c7a78350],ol[data-v-c7a78350],ul[data-v-c7a78350],li[data-v-c7a78350],fieldset[data-v-c7a78350],form[data-v-c7a78350],label[data-v-c7a78350],legend[data-v-c7a78350],table[data-v-c7a78350],caption[data-v-c7a78350],tbody[data-v-c7a78350],tfoot[data-v-c7a78350],thead[data-v-c7a78350],tr[data-v-c7a78350],th[data-v-c7a78350],td[data-v-c7a78350],article[data-v-c7a78350],aside[data-v-c7a78350],canvas[data-v-c7a78350],details[data-v-c7a78350],embed[data-v-c7a78350],figure[data-v-c7a78350],figcaption[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],output[data-v-c7a78350],ruby[data-v-c7a78350],section[data-v-c7a78350],summary[data-v-c7a78350],time[data-v-c7a78350],mark[data-v-c7a78350],audio[data-v-c7a78350],video[data-v-c7a78350]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c7a78350],aside[data-v-c7a78350],details[data-v-c7a78350],figcaption[data-v-c7a78350],figure[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],section[data-v-c7a78350]{display:block}body[data-v-c7a78350]{line-height:1}ol[data-v-c7a78350],ul[data-v-c7a78350]{list-style:none}blockquote[data-v-c7a78350],q[data-v-c7a78350]{quotes:none}blockquote[data-v-c7a78350]:before,blockquote[data-v-c7a78350]:after,q[data-v-c7a78350]:before,q[data-v-c7a78350]:after{content:"";content:none}table[data-v-c7a78350]{border-collapse:collapse;border-spacing:0}[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c7a78350]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c7a78350],body[data-v-c7a78350],#app[data-v-c7a78350]{height:100%;width:100%;overflow:hidden}body[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c7a78350]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__empty-screen[data-v-c7a78350]{display:grid;justify-items:center;font-family:var(--vue-lab-font-family);box-sizing:border-box}.vue-lab__empty-screen[data-size=sm][data-v-c7a78350]{padding:10px}.vue-lab__empty-screen[data-size=sm] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:14px}.vue-lab__empty-screen[data-size=md][data-v-c7a78350]{padding:15px}.vue-lab__empty-screen[data-size=md] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:16px}.vue-lab__empty-screen[data-size=lg][data-v-c7a78350]{padding:20px}.vue-lab__empty-screen[data-size=lg] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:18px}.vue-lab-application{height:100%;width:100%;background-color:#eceff2}.vue-lab-application__content{height:100%;overflow:hidden}.vue-lab-application__body{height:100%;width:100%;display:grid;grid-template-columns:200px 1fr}html[data-v-9214d2d0],body[data-v-9214d2d0],div[data-v-9214d2d0],span[data-v-9214d2d0],applet[data-v-9214d2d0],object[data-v-9214d2d0],iframe[data-v-9214d2d0],h1[data-v-9214d2d0],h2[data-v-9214d2d0],h3[data-v-9214d2d0],h4[data-v-9214d2d0],h5[data-v-9214d2d0],h6[data-v-9214d2d0],p[data-v-9214d2d0],blockquote[data-v-9214d2d0],pre[data-v-9214d2d0],a[data-v-9214d2d0],abbr[data-v-9214d2d0],acronym[data-v-9214d2d0],address[data-v-9214d2d0],big[data-v-9214d2d0],cite[data-v-9214d2d0],code[data-v-9214d2d0],del[data-v-9214d2d0],dfn[data-v-9214d2d0],em[data-v-9214d2d0],img[data-v-9214d2d0],ins[data-v-9214d2d0],kbd[data-v-9214d2d0],q[data-v-9214d2d0],s[data-v-9214d2d0],samp[data-v-9214d2d0],small[data-v-9214d2d0],strike[data-v-9214d2d0],strong[data-v-9214d2d0],sub[data-v-9214d2d0],sup[data-v-9214d2d0],tt[data-v-9214d2d0],var[data-v-9214d2d0],b[data-v-9214d2d0],u[data-v-9214d2d0],i[data-v-9214d2d0],center[data-v-9214d2d0],dl[data-v-9214d2d0],dt[data-v-9214d2d0],dd[data-v-9214d2d0],ol[data-v-9214d2d0],ul[data-v-9214d2d0],li[data-v-9214d2d0],fieldset[data-v-9214d2d0],form[data-v-9214d2d0],label[data-v-9214d2d0],legend[data-v-9214d2d0],table[data-v-9214d2d0],caption[data-v-9214d2d0],tbody[data-v-9214d2d0],tfoot[data-v-9214d2d0],thead[data-v-9214d2d0],tr[data-v-9214d2d0],th[data-v-9214d2d0],td[data-v-9214d2d0],article[data-v-9214d2d0],aside[data-v-9214d2d0],canvas[data-v-9214d2d0],details[data-v-9214d2d0],embed[data-v-9214d2d0],figure[data-v-9214d2d0],figcaption[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],output[data-v-9214d2d0],ruby[data-v-9214d2d0],section[data-v-9214d2d0],summary[data-v-9214d2d0],time[data-v-9214d2d0],mark[data-v-9214d2d0],audio[data-v-9214d2d0],video[data-v-9214d2d0]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9214d2d0],aside[data-v-9214d2d0],details[data-v-9214d2d0],figcaption[data-v-9214d2d0],figure[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],section[data-v-9214d2d0]{display:block}body[data-v-9214d2d0]{line-height:1}ol[data-v-9214d2d0],ul[data-v-9214d2d0]{list-style:none}blockquote[data-v-9214d2d0],q[data-v-9214d2d0]{quotes:none}blockquote[data-v-9214d2d0]:before,blockquote[data-v-9214d2d0]:after,q[data-v-9214d2d0]:before,q[data-v-9214d2d0]:after{content:"";content:none}table[data-v-9214d2d0]{border-collapse:collapse;border-spacing:0}[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9214d2d0]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9214d2d0],body[data-v-9214d2d0],#app[data-v-9214d2d0]{height:100%;width:100%;overflow:hidden}body[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9214d2d0]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__ctrl-layout[data-v-9214d2d0]{font-family:var(--vue-lab-font-family)}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:first-child){padding-top:20px}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:last-child){border-bottom:1px solid #E5E7EB;padding-bottom:12px}.vue-lab__ctrl-layout__title[data-v-9214d2d0]{color:#6b7280;font-size:13px;margin-bottom:8px}html[data-v-6c569ff9],body[data-v-6c569ff9],div[data-v-6c569ff9],span[data-v-6c569ff9],applet[data-v-6c569ff9],object[data-v-6c569ff9],iframe[data-v-6c569ff9],h1[data-v-6c569ff9],h2[data-v-6c569ff9],h3[data-v-6c569ff9],h4[data-v-6c569ff9],h5[data-v-6c569ff9],h6[data-v-6c569ff9],p[data-v-6c569ff9],blockquote[data-v-6c569ff9],pre[data-v-6c569ff9],a[data-v-6c569ff9],abbr[data-v-6c569ff9],acronym[data-v-6c569ff9],address[data-v-6c569ff9],big[data-v-6c569ff9],cite[data-v-6c569ff9],code[data-v-6c569ff9],del[data-v-6c569ff9],dfn[data-v-6c569ff9],em[data-v-6c569ff9],img[data-v-6c569ff9],ins[data-v-6c569ff9],kbd[data-v-6c569ff9],q[data-v-6c569ff9],s[data-v-6c569ff9],samp[data-v-6c569ff9],small[data-v-6c569ff9],strike[data-v-6c569ff9],strong[data-v-6c569ff9],sub[data-v-6c569ff9],sup[data-v-6c569ff9],tt[data-v-6c569ff9],var[data-v-6c569ff9],b[data-v-6c569ff9],u[data-v-6c569ff9],i[data-v-6c569ff9],center[data-v-6c569ff9],dl[data-v-6c569ff9],dt[data-v-6c569ff9],dd[data-v-6c569ff9],ol[data-v-6c569ff9],ul[data-v-6c569ff9],li[data-v-6c569ff9],fieldset[data-v-6c569ff9],form[data-v-6c569ff9],label[data-v-6c569ff9],legend[data-v-6c569ff9],table[data-v-6c569ff9],caption[data-v-6c569ff9],tbody[data-v-6c569ff9],tfoot[data-v-6c569ff9],thead[data-v-6c569ff9],tr[data-v-6c569ff9],th[data-v-6c569ff9],td[data-v-6c569ff9],article[data-v-6c569ff9],aside[data-v-6c569ff9],canvas[data-v-6c569ff9],details[data-v-6c569ff9],embed[data-v-6c569ff9],figure[data-v-6c569ff9],figcaption[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],output[data-v-6c569ff9],ruby[data-v-6c569ff9],section[data-v-6c569ff9],summary[data-v-6c569ff9],time[data-v-6c569ff9],mark[data-v-6c569ff9],audio[data-v-6c569ff9],video[data-v-6c569ff9]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-6c569ff9],aside[data-v-6c569ff9],details[data-v-6c569ff9],figcaption[data-v-6c569ff9],figure[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],section[data-v-6c569ff9]{display:block}body[data-v-6c569ff9]{line-height:1}ol[data-v-6c569ff9],ul[data-v-6c569ff9]{list-style:none}blockquote[data-v-6c569ff9],q[data-v-6c569ff9]{quotes:none}blockquote[data-v-6c569ff9]:before,blockquote[data-v-6c569ff9]:after,q[data-v-6c569ff9]:before,q[data-v-6c569ff9]:after{content:"";content:none}table[data-v-6c569ff9]{border-collapse:collapse;border-spacing:0}[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-6c569ff9]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-6c569ff9],body[data-v-6c569ff9],#app[data-v-6c569ff9]{height:100%;width:100%;overflow:hidden}body[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-6c569ff9]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__tags[data-v-6c569ff9]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family)}html[data-v-96bfa191],body[data-v-96bfa191],div[data-v-96bfa191],span[data-v-96bfa191],applet[data-v-96bfa191],object[data-v-96bfa191],iframe[data-v-96bfa191],h1[data-v-96bfa191],h2[data-v-96bfa191],h3[data-v-96bfa191],h4[data-v-96bfa191],h5[data-v-96bfa191],h6[data-v-96bfa191],p[data-v-96bfa191],blockquote[data-v-96bfa191],pre[data-v-96bfa191],a[data-v-96bfa191],abbr[data-v-96bfa191],acronym[data-v-96bfa191],address[data-v-96bfa191],big[data-v-96bfa191],cite[data-v-96bfa191],code[data-v-96bfa191],del[data-v-96bfa191],dfn[data-v-96bfa191],em[data-v-96bfa191],img[data-v-96bfa191],ins[data-v-96bfa191],kbd[data-v-96bfa191],q[data-v-96bfa191],s[data-v-96bfa191],samp[data-v-96bfa191],small[data-v-96bfa191],strike[data-v-96bfa191],strong[data-v-96bfa191],sub[data-v-96bfa191],sup[data-v-96bfa191],tt[data-v-96bfa191],var[data-v-96bfa191],b[data-v-96bfa191],u[data-v-96bfa191],i[data-v-96bfa191],center[data-v-96bfa191],dl[data-v-96bfa191],dt[data-v-96bfa191],dd[data-v-96bfa191],ol[data-v-96bfa191],ul[data-v-96bfa191],li[data-v-96bfa191],fieldset[data-v-96bfa191],form[data-v-96bfa191],label[data-v-96bfa191],legend[data-v-96bfa191],table[data-v-96bfa191],caption[data-v-96bfa191],tbody[data-v-96bfa191],tfoot[data-v-96bfa191],thead[data-v-96bfa191],tr[data-v-96bfa191],th[data-v-96bfa191],td[data-v-96bfa191],article[data-v-96bfa191],aside[data-v-96bfa191],canvas[data-v-96bfa191],details[data-v-96bfa191],embed[data-v-96bfa191],figure[data-v-96bfa191],figcaption[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],output[data-v-96bfa191],ruby[data-v-96bfa191],section[data-v-96bfa191],summary[data-v-96bfa191],time[data-v-96bfa191],mark[data-v-96bfa191],audio[data-v-96bfa191],video[data-v-96bfa191]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-96bfa191],aside[data-v-96bfa191],details[data-v-96bfa191],figcaption[data-v-96bfa191],figure[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],section[data-v-96bfa191]{display:block}body[data-v-96bfa191]{line-height:1}ol[data-v-96bfa191],ul[data-v-96bfa191]{list-style:none}blockquote[data-v-96bfa191],q[data-v-96bfa191]{quotes:none}blockquote[data-v-96bfa191]:before,blockquote[data-v-96bfa191]:after,q[data-v-96bfa191]:before,q[data-v-96bfa191]:after{content:"";content:none}table[data-v-96bfa191]{border-collapse:collapse;border-spacing:0}[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-96bfa191]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-96bfa191],body[data-v-96bfa191],#app[data-v-96bfa191]{height:100%;width:100%;overflow:hidden}body[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-96bfa191]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__size[data-v-96bfa191]{width:100%;-webkit-user-select:none;user-select:none;font-family:var(--vue-lab-font-family)}.vue-lab__size-track[data-v-96bfa191]{position:relative;height:20px;margin:18px 0 6px;background:transparent;transition:.2s all ease-in-out}.vue-lab__size-track[data-v-96bfa191]:before{content:"";position:absolute;transition:.2s all ease-in-out;left:0;right:0;top:50%;height:4px;transform:translateY(-50%);background:#e5e7eb;border-radius:4px}.vue-lab__size-tick[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:12px;height:12px;transform:translate(-50%,-50%);background:#fff;border:2px solid #bbb;border-radius:50%;box-sizing:border-box;cursor:pointer;z-index:1}.vue-lab__size-tick_active[data-v-96bfa191]{border-color:#48bb78}.vue-lab__size-range-fill[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;left:0;top:50%;height:4px;transform:translateY(-50%);background:#d1d5db;border-radius:4px}.vue-lab__size-handle[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:20px;height:20px;transform:translate(-50%,-50%);background:#2b8aef;border-radius:50%;box-shadow:0 2px 6px #0000001f;cursor:grab;touch-action:none;z-index:2}.vue-lab__size-handle[data-v-96bfa191]:active{cursor:grabbing}.vue-lab__size-value[data-v-96bfa191]{font-size:13px;color:#111827}.vue-lab__boolean{height:20px;width:36px;border:1px solid #E5E7EB;border-radius:20px;display:flex;align-items:center;background-color:#fff;cursor:pointer;position:relative;font-family:var(--vue-lab-font-family)}.vue-lab__boolean-tumbler{height:16px;width:16px;border-radius:50%;background-color:#6b7280;position:absolute;top:2px;left:2px;transition:.3s}.vue-lab__boolean-tumbler--right{left:18px;background-color:#48bb78;animation:moveLeft .3s ease-in-out}html[data-v-3d8e17f8],body[data-v-3d8e17f8],div[data-v-3d8e17f8],span[data-v-3d8e17f8],applet[data-v-3d8e17f8],object[data-v-3d8e17f8],iframe[data-v-3d8e17f8],h1[data-v-3d8e17f8],h2[data-v-3d8e17f8],h3[data-v-3d8e17f8],h4[data-v-3d8e17f8],h5[data-v-3d8e17f8],h6[data-v-3d8e17f8],p[data-v-3d8e17f8],blockquote[data-v-3d8e17f8],pre[data-v-3d8e17f8],a[data-v-3d8e17f8],abbr[data-v-3d8e17f8],acronym[data-v-3d8e17f8],address[data-v-3d8e17f8],big[data-v-3d8e17f8],cite[data-v-3d8e17f8],code[data-v-3d8e17f8],del[data-v-3d8e17f8],dfn[data-v-3d8e17f8],em[data-v-3d8e17f8],img[data-v-3d8e17f8],ins[data-v-3d8e17f8],kbd[data-v-3d8e17f8],q[data-v-3d8e17f8],s[data-v-3d8e17f8],samp[data-v-3d8e17f8],small[data-v-3d8e17f8],strike[data-v-3d8e17f8],strong[data-v-3d8e17f8],sub[data-v-3d8e17f8],sup[data-v-3d8e17f8],tt[data-v-3d8e17f8],var[data-v-3d8e17f8],b[data-v-3d8e17f8],u[data-v-3d8e17f8],i[data-v-3d8e17f8],center[data-v-3d8e17f8],dl[data-v-3d8e17f8],dt[data-v-3d8e17f8],dd[data-v-3d8e17f8],ol[data-v-3d8e17f8],ul[data-v-3d8e17f8],li[data-v-3d8e17f8],fieldset[data-v-3d8e17f8],form[data-v-3d8e17f8],label[data-v-3d8e17f8],legend[data-v-3d8e17f8],table[data-v-3d8e17f8],caption[data-v-3d8e17f8],tbody[data-v-3d8e17f8],tfoot[data-v-3d8e17f8],thead[data-v-3d8e17f8],tr[data-v-3d8e17f8],th[data-v-3d8e17f8],td[data-v-3d8e17f8],article[data-v-3d8e17f8],aside[data-v-3d8e17f8],canvas[data-v-3d8e17f8],details[data-v-3d8e17f8],embed[data-v-3d8e17f8],figure[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],output[data-v-3d8e17f8],ruby[data-v-3d8e17f8],section[data-v-3d8e17f8],summary[data-v-3d8e17f8],time[data-v-3d8e17f8],mark[data-v-3d8e17f8],audio[data-v-3d8e17f8],video[data-v-3d8e17f8]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3d8e17f8],aside[data-v-3d8e17f8],details[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],figure[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],section[data-v-3d8e17f8]{display:block}body[data-v-3d8e17f8]{line-height:1}ol[data-v-3d8e17f8],ul[data-v-3d8e17f8]{list-style:none}blockquote[data-v-3d8e17f8],q[data-v-3d8e17f8]{quotes:none}blockquote[data-v-3d8e17f8]:before,blockquote[data-v-3d8e17f8]:after,q[data-v-3d8e17f8]:before,q[data-v-3d8e17f8]:after{content:"";content:none}table[data-v-3d8e17f8]{border-collapse:collapse;border-spacing:0}[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3d8e17f8]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3d8e17f8],body[data-v-3d8e17f8],#app[data-v-3d8e17f8]{height:100%;width:100%;overflow:hidden}body[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3d8e17f8]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__text-ctrl[data-v-3d8e17f8]{font-family:var(--vue-lab-font-family)}.vue-lab__text-ctrl__field[data-v-3d8e17f8]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__text-ctrl__field--active[data-v-3d8e17f8]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field--focused[data-v-3d8e17f8],.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{cursor:text}.vue-lab__text-ctrl__input[data-v-3d8e17f8]{border:none;outline:none;width:100%;background-color:transparent;font-size:14px}html[data-v-8e33fe98],body[data-v-8e33fe98],div[data-v-8e33fe98],span[data-v-8e33fe98],applet[data-v-8e33fe98],object[data-v-8e33fe98],iframe[data-v-8e33fe98],h1[data-v-8e33fe98],h2[data-v-8e33fe98],h3[data-v-8e33fe98],h4[data-v-8e33fe98],h5[data-v-8e33fe98],h6[data-v-8e33fe98],p[data-v-8e33fe98],blockquote[data-v-8e33fe98],pre[data-v-8e33fe98],a[data-v-8e33fe98],abbr[data-v-8e33fe98],acronym[data-v-8e33fe98],address[data-v-8e33fe98],big[data-v-8e33fe98],cite[data-v-8e33fe98],code[data-v-8e33fe98],del[data-v-8e33fe98],dfn[data-v-8e33fe98],em[data-v-8e33fe98],img[data-v-8e33fe98],ins[data-v-8e33fe98],kbd[data-v-8e33fe98],q[data-v-8e33fe98],s[data-v-8e33fe98],samp[data-v-8e33fe98],small[data-v-8e33fe98],strike[data-v-8e33fe98],strong[data-v-8e33fe98],sub[data-v-8e33fe98],sup[data-v-8e33fe98],tt[data-v-8e33fe98],var[data-v-8e33fe98],b[data-v-8e33fe98],u[data-v-8e33fe98],i[data-v-8e33fe98],center[data-v-8e33fe98],dl[data-v-8e33fe98],dt[data-v-8e33fe98],dd[data-v-8e33fe98],ol[data-v-8e33fe98],ul[data-v-8e33fe98],li[data-v-8e33fe98],fieldset[data-v-8e33fe98],form[data-v-8e33fe98],label[data-v-8e33fe98],legend[data-v-8e33fe98],table[data-v-8e33fe98],caption[data-v-8e33fe98],tbody[data-v-8e33fe98],tfoot[data-v-8e33fe98],thead[data-v-8e33fe98],tr[data-v-8e33fe98],th[data-v-8e33fe98],td[data-v-8e33fe98],article[data-v-8e33fe98],aside[data-v-8e33fe98],canvas[data-v-8e33fe98],details[data-v-8e33fe98],embed[data-v-8e33fe98],figure[data-v-8e33fe98],figcaption[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],output[data-v-8e33fe98],ruby[data-v-8e33fe98],section[data-v-8e33fe98],summary[data-v-8e33fe98],time[data-v-8e33fe98],mark[data-v-8e33fe98],audio[data-v-8e33fe98],video[data-v-8e33fe98]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-8e33fe98],aside[data-v-8e33fe98],details[data-v-8e33fe98],figcaption[data-v-8e33fe98],figure[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],section[data-v-8e33fe98]{display:block}body[data-v-8e33fe98]{line-height:1}ol[data-v-8e33fe98],ul[data-v-8e33fe98]{list-style:none}blockquote[data-v-8e33fe98],q[data-v-8e33fe98]{quotes:none}blockquote[data-v-8e33fe98]:before,blockquote[data-v-8e33fe98]:after,q[data-v-8e33fe98]:before,q[data-v-8e33fe98]:after{content:"";content:none}table[data-v-8e33fe98]{border-collapse:collapse;border-spacing:0}[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-8e33fe98]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-8e33fe98],body[data-v-8e33fe98],#app[data-v-8e33fe98]{height:100%;width:100%;overflow:hidden}body[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-8e33fe98]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-color-picker[data-v-8e33fe98]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family);position:relative}.vue-lab-color-picker__color-preview[data-v-8e33fe98]{display:flex;align-items:center;gap:10px;padding:5px 15px;box-sizing:border-box;border-radius:6px;cursor:pointer;transition:transform .2s;width:100%;height:28px;border:#D1D5DB 1px solid}.vue-lab-color-picker__color-preview[data-v-8e33fe98]:hover{opacity:.8;transition:.2s all ease-in-out}.vue-lab-color-picker__hidden-input[data-v-8e33fe98]{position:absolute;opacity:0;width:0;height:0;bottom:0;left:0}html[data-v-b886953d],body[data-v-b886953d],div[data-v-b886953d],span[data-v-b886953d],applet[data-v-b886953d],object[data-v-b886953d],iframe[data-v-b886953d],h1[data-v-b886953d],h2[data-v-b886953d],h3[data-v-b886953d],h4[data-v-b886953d],h5[data-v-b886953d],h6[data-v-b886953d],p[data-v-b886953d],blockquote[data-v-b886953d],pre[data-v-b886953d],a[data-v-b886953d],abbr[data-v-b886953d],acronym[data-v-b886953d],address[data-v-b886953d],big[data-v-b886953d],cite[data-v-b886953d],code[data-v-b886953d],del[data-v-b886953d],dfn[data-v-b886953d],em[data-v-b886953d],img[data-v-b886953d],ins[data-v-b886953d],kbd[data-v-b886953d],q[data-v-b886953d],s[data-v-b886953d],samp[data-v-b886953d],small[data-v-b886953d],strike[data-v-b886953d],strong[data-v-b886953d],sub[data-v-b886953d],sup[data-v-b886953d],tt[data-v-b886953d],var[data-v-b886953d],b[data-v-b886953d],u[data-v-b886953d],i[data-v-b886953d],center[data-v-b886953d],dl[data-v-b886953d],dt[data-v-b886953d],dd[data-v-b886953d],ol[data-v-b886953d],ul[data-v-b886953d],li[data-v-b886953d],fieldset[data-v-b886953d],form[data-v-b886953d],label[data-v-b886953d],legend[data-v-b886953d],table[data-v-b886953d],caption[data-v-b886953d],tbody[data-v-b886953d],tfoot[data-v-b886953d],thead[data-v-b886953d],tr[data-v-b886953d],th[data-v-b886953d],td[data-v-b886953d],article[data-v-b886953d],aside[data-v-b886953d],canvas[data-v-b886953d],details[data-v-b886953d],embed[data-v-b886953d],figure[data-v-b886953d],figcaption[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],output[data-v-b886953d],ruby[data-v-b886953d],section[data-v-b886953d],summary[data-v-b886953d],time[data-v-b886953d],mark[data-v-b886953d],audio[data-v-b886953d],video[data-v-b886953d]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-b886953d],aside[data-v-b886953d],details[data-v-b886953d],figcaption[data-v-b886953d],figure[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],section[data-v-b886953d]{display:block}body[data-v-b886953d]{line-height:1}ol[data-v-b886953d],ul[data-v-b886953d]{list-style:none}blockquote[data-v-b886953d],q[data-v-b886953d]{quotes:none}blockquote[data-v-b886953d]:before,blockquote[data-v-b886953d]:after,q[data-v-b886953d]:before,q[data-v-b886953d]:after{content:"";content:none}table[data-v-b886953d]{border-collapse:collapse;border-spacing:0}[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-b886953d]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-b886953d],body[data-v-b886953d],#app[data-v-b886953d]{height:100%;width:100%;overflow:hidden}body[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-b886953d]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__dropdown[data-v-b886953d]{font-family:var(--vue-lab-font-family)}.vue-lab__dropdown-field[data-v-b886953d]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__dropdown-field_active[data-v-b886953d]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field_focused[data-v-b886953d],.vue-lab__dropdown-field[data-v-b886953d]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field[data-v-b886953d]:hover{cursor:text}.vue-lab__dropdown-modal[data-v-b886953d]{background-color:#fff;width:200px;padding:5px 0;border-radius:6px;border:#D1D5DB 1px solid;margin-top:4px;max-height:300px;display:flex;flex-direction:column}.vue-lab__dropdown-list[data-v-b886953d]{height:auto;max-height:250px;overflow-y:auto}.vue-lab__dropdown-list-item[data-v-b886953d]{height:32px;min-height:32px;padding:10px;box-sizing:border-box;display:flex;align-items:center;transition:.3s;cursor:pointer;font-size:13px;font-weight:400;line-height:22px;text-overflow:ellipsis;position:relative;overflow:hidden;white-space:nowrap}.vue-lab__dropdown-list-item[data-v-b886953d]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__dropdown-list-item[data-v-b886953d]:hover{transition:all .3s ease-in-out}.vue-lab__dropdown-list-item_active[data-v-b886953d]{background-color:#dcedff}html[data-v-25497d41],body[data-v-25497d41],div[data-v-25497d41],span[data-v-25497d41],applet[data-v-25497d41],object[data-v-25497d41],iframe[data-v-25497d41],h1[data-v-25497d41],h2[data-v-25497d41],h3[data-v-25497d41],h4[data-v-25497d41],h5[data-v-25497d41],h6[data-v-25497d41],p[data-v-25497d41],blockquote[data-v-25497d41],pre[data-v-25497d41],a[data-v-25497d41],abbr[data-v-25497d41],acronym[data-v-25497d41],address[data-v-25497d41],big[data-v-25497d41],cite[data-v-25497d41],code[data-v-25497d41],del[data-v-25497d41],dfn[data-v-25497d41],em[data-v-25497d41],img[data-v-25497d41],ins[data-v-25497d41],kbd[data-v-25497d41],q[data-v-25497d41],s[data-v-25497d41],samp[data-v-25497d41],small[data-v-25497d41],strike[data-v-25497d41],strong[data-v-25497d41],sub[data-v-25497d41],sup[data-v-25497d41],tt[data-v-25497d41],var[data-v-25497d41],b[data-v-25497d41],u[data-v-25497d41],i[data-v-25497d41],center[data-v-25497d41],dl[data-v-25497d41],dt[data-v-25497d41],dd[data-v-25497d41],ol[data-v-25497d41],ul[data-v-25497d41],li[data-v-25497d41],fieldset[data-v-25497d41],form[data-v-25497d41],label[data-v-25497d41],legend[data-v-25497d41],table[data-v-25497d41],caption[data-v-25497d41],tbody[data-v-25497d41],tfoot[data-v-25497d41],thead[data-v-25497d41],tr[data-v-25497d41],th[data-v-25497d41],td[data-v-25497d41],article[data-v-25497d41],aside[data-v-25497d41],canvas[data-v-25497d41],details[data-v-25497d41],embed[data-v-25497d41],figure[data-v-25497d41],figcaption[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],output[data-v-25497d41],ruby[data-v-25497d41],section[data-v-25497d41],summary[data-v-25497d41],time[data-v-25497d41],mark[data-v-25497d41],audio[data-v-25497d41],video[data-v-25497d41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-25497d41],aside[data-v-25497d41],details[data-v-25497d41],figcaption[data-v-25497d41],figure[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],section[data-v-25497d41]{display:block}body[data-v-25497d41]{line-height:1}ol[data-v-25497d41],ul[data-v-25497d41]{list-style:none}blockquote[data-v-25497d41],q[data-v-25497d41]{quotes:none}blockquote[data-v-25497d41]:before,blockquote[data-v-25497d41]:after,q[data-v-25497d41]:before,q[data-v-25497d41]:after{content:"";content:none}table[data-v-25497d41]{border-collapse:collapse;border-spacing:0}[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-25497d41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-25497d41],body[data-v-25497d41],#app[data-v-25497d41]{height:100%;width:100%;overflow:hidden}body[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__control-block[data-v-25497d41]{height:100%;overflow:hidden;display:grid;grid-template-rows:40px 1fr}.vue-lab__control-block__header[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;font-family:var(--vue-lab-font-family)}.vue-lab__control-block__header-title[data-v-25497d41]{font-size:16px;font-weight:600}.vue-lab__control-block__body[data-v-25497d41]{overflow:auto;height:100%;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab[data-v-036062d8]{display:grid;grid-template-columns:var(--036062d8-gridTemplate);overflow:hidden}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],div[data-v-a2d7e9c1],span[data-v-a2d7e9c1],applet[data-v-a2d7e9c1],object[data-v-a2d7e9c1],iframe[data-v-a2d7e9c1],h1[data-v-a2d7e9c1],h2[data-v-a2d7e9c1],h3[data-v-a2d7e9c1],h4[data-v-a2d7e9c1],h5[data-v-a2d7e9c1],h6[data-v-a2d7e9c1],p[data-v-a2d7e9c1],blockquote[data-v-a2d7e9c1],pre[data-v-a2d7e9c1],a[data-v-a2d7e9c1],abbr[data-v-a2d7e9c1],acronym[data-v-a2d7e9c1],address[data-v-a2d7e9c1],big[data-v-a2d7e9c1],cite[data-v-a2d7e9c1],code[data-v-a2d7e9c1],del[data-v-a2d7e9c1],dfn[data-v-a2d7e9c1],em[data-v-a2d7e9c1],img[data-v-a2d7e9c1],ins[data-v-a2d7e9c1],kbd[data-v-a2d7e9c1],q[data-v-a2d7e9c1],s[data-v-a2d7e9c1],samp[data-v-a2d7e9c1],small[data-v-a2d7e9c1],strike[data-v-a2d7e9c1],strong[data-v-a2d7e9c1],sub[data-v-a2d7e9c1],sup[data-v-a2d7e9c1],tt[data-v-a2d7e9c1],var[data-v-a2d7e9c1],b[data-v-a2d7e9c1],u[data-v-a2d7e9c1],i[data-v-a2d7e9c1],center[data-v-a2d7e9c1],dl[data-v-a2d7e9c1],dt[data-v-a2d7e9c1],dd[data-v-a2d7e9c1],ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1],li[data-v-a2d7e9c1],fieldset[data-v-a2d7e9c1],form[data-v-a2d7e9c1],label[data-v-a2d7e9c1],legend[data-v-a2d7e9c1],table[data-v-a2d7e9c1],caption[data-v-a2d7e9c1],tbody[data-v-a2d7e9c1],tfoot[data-v-a2d7e9c1],thead[data-v-a2d7e9c1],tr[data-v-a2d7e9c1],th[data-v-a2d7e9c1],td[data-v-a2d7e9c1],article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],canvas[data-v-a2d7e9c1],details[data-v-a2d7e9c1],embed[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],output[data-v-a2d7e9c1],ruby[data-v-a2d7e9c1],section[data-v-a2d7e9c1],summary[data-v-a2d7e9c1],time[data-v-a2d7e9c1],mark[data-v-a2d7e9c1],audio[data-v-a2d7e9c1],video[data-v-a2d7e9c1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],details[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],section[data-v-a2d7e9c1]{display:block}body[data-v-a2d7e9c1]{line-height:1}ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1]{list-style:none}blockquote[data-v-a2d7e9c1],q[data-v-a2d7e9c1]{quotes:none}blockquote[data-v-a2d7e9c1]:before,blockquote[data-v-a2d7e9c1]:after,q[data-v-a2d7e9c1]:before,q[data-v-a2d7e9c1]:after{content:"";content:none}table[data-v-a2d7e9c1]{border-collapse:collapse;border-spacing:0}[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-a2d7e9c1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],#app[data-v-a2d7e9c1]{height:100%;width:100%;overflow:hidden}body[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-a2d7e9c1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__divider[data-v-a2d7e9c1]{height:4px;display:flex;padding:20px 0;align-items:center;justify-content:center}.vue-lab__divider-dot[data-v-a2d7e9c1]{width:4px;height:4px;background-color:#d1d5db;border-radius:50%;display:inline-block}.vue-lab__divider-dot+.vue-lab__divider-dot[data-v-a2d7e9c1]{margin-left:6px}html[data-v-17706230],body[data-v-17706230],div[data-v-17706230],span[data-v-17706230],applet[data-v-17706230],object[data-v-17706230],iframe[data-v-17706230],h1[data-v-17706230],h2[data-v-17706230],h3[data-v-17706230],h4[data-v-17706230],h5[data-v-17706230],h6[data-v-17706230],p[data-v-17706230],blockquote[data-v-17706230],pre[data-v-17706230],a[data-v-17706230],abbr[data-v-17706230],acronym[data-v-17706230],address[data-v-17706230],big[data-v-17706230],cite[data-v-17706230],code[data-v-17706230],del[data-v-17706230],dfn[data-v-17706230],em[data-v-17706230],img[data-v-17706230],ins[data-v-17706230],kbd[data-v-17706230],q[data-v-17706230],s[data-v-17706230],samp[data-v-17706230],small[data-v-17706230],strike[data-v-17706230],strong[data-v-17706230],sub[data-v-17706230],sup[data-v-17706230],tt[data-v-17706230],var[data-v-17706230],b[data-v-17706230],u[data-v-17706230],i[data-v-17706230],center[data-v-17706230],dl[data-v-17706230],dt[data-v-17706230],dd[data-v-17706230],ol[data-v-17706230],ul[data-v-17706230],li[data-v-17706230],fieldset[data-v-17706230],form[data-v-17706230],label[data-v-17706230],legend[data-v-17706230],table[data-v-17706230],caption[data-v-17706230],tbody[data-v-17706230],tfoot[data-v-17706230],thead[data-v-17706230],tr[data-v-17706230],th[data-v-17706230],td[data-v-17706230],article[data-v-17706230],aside[data-v-17706230],canvas[data-v-17706230],details[data-v-17706230],embed[data-v-17706230],figure[data-v-17706230],figcaption[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],output[data-v-17706230],ruby[data-v-17706230],section[data-v-17706230],summary[data-v-17706230],time[data-v-17706230],mark[data-v-17706230],audio[data-v-17706230],video[data-v-17706230]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-17706230],aside[data-v-17706230],details[data-v-17706230],figcaption[data-v-17706230],figure[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],section[data-v-17706230]{display:block}body[data-v-17706230]{line-height:1}ol[data-v-17706230],ul[data-v-17706230]{list-style:none}blockquote[data-v-17706230],q[data-v-17706230]{quotes:none}blockquote[data-v-17706230]:before,blockquote[data-v-17706230]:after,q[data-v-17706230]:before,q[data-v-17706230]:after{content:"";content:none}table[data-v-17706230]{border-collapse:collapse;border-spacing:0}[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-17706230]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-17706230],body[data-v-17706230],#app[data-v-17706230]{height:100%;width:100%;overflow:hidden}body[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-17706230]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__palette[data-v-17706230]{display:grid;grid-template-columns:100px 1fr}.vue-lab__palette-title[data-v-17706230]{text-transform:capitalize;font-weight:600;font-size:14px;align-items:center;display:flex;width:100%;height:50px;font-family:var(--vue-lab-font-family)}.vue-lab__palette-colors[data-v-17706230]{display:grid;grid-template-columns:var(--17706230-columns);gap:5px}.vue-lab__palette-colors:hover .vue-lab__palette-color-item__bg[data-v-17706230]{filter:brightness(.6)}.vue-lab__palette-color-item[data-v-17706230]{display:grid;grid-template-rows:1fr 20px;cursor:pointer}.vue-lab__palette-color-item__bg[data-v-17706230]{height:50px;border-radius:12px;transition:transform .25s ease,filter .25s ease,opacity .25s ease}.vue-lab__palette-color-item__bg[data-v-17706230]:hover{filter:brightness(1)!important;transform:scale(1.1);z-index:1}.vue-lab__palette-color-item__bg[data-v-17706230]:active{transform:scale(1)}.vue-lab__palette-color-item__title[data-v-17706230]{color:#6b7280;font-size:12px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-9831151a],body[data-v-9831151a],div[data-v-9831151a],span[data-v-9831151a],applet[data-v-9831151a],object[data-v-9831151a],iframe[data-v-9831151a],h1[data-v-9831151a],h2[data-v-9831151a],h3[data-v-9831151a],h4[data-v-9831151a],h5[data-v-9831151a],h6[data-v-9831151a],p[data-v-9831151a],blockquote[data-v-9831151a],pre[data-v-9831151a],a[data-v-9831151a],abbr[data-v-9831151a],acronym[data-v-9831151a],address[data-v-9831151a],big[data-v-9831151a],cite[data-v-9831151a],code[data-v-9831151a],del[data-v-9831151a],dfn[data-v-9831151a],em[data-v-9831151a],img[data-v-9831151a],ins[data-v-9831151a],kbd[data-v-9831151a],q[data-v-9831151a],s[data-v-9831151a],samp[data-v-9831151a],small[data-v-9831151a],strike[data-v-9831151a],strong[data-v-9831151a],sub[data-v-9831151a],sup[data-v-9831151a],tt[data-v-9831151a],var[data-v-9831151a],b[data-v-9831151a],u[data-v-9831151a],i[data-v-9831151a],center[data-v-9831151a],dl[data-v-9831151a],dt[data-v-9831151a],dd[data-v-9831151a],ol[data-v-9831151a],ul[data-v-9831151a],li[data-v-9831151a],fieldset[data-v-9831151a],form[data-v-9831151a],label[data-v-9831151a],legend[data-v-9831151a],table[data-v-9831151a],caption[data-v-9831151a],tbody[data-v-9831151a],tfoot[data-v-9831151a],thead[data-v-9831151a],tr[data-v-9831151a],th[data-v-9831151a],td[data-v-9831151a],article[data-v-9831151a],aside[data-v-9831151a],canvas[data-v-9831151a],details[data-v-9831151a],embed[data-v-9831151a],figure[data-v-9831151a],figcaption[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],output[data-v-9831151a],ruby[data-v-9831151a],section[data-v-9831151a],summary[data-v-9831151a],time[data-v-9831151a],mark[data-v-9831151a],audio[data-v-9831151a],video[data-v-9831151a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9831151a],aside[data-v-9831151a],details[data-v-9831151a],figcaption[data-v-9831151a],figure[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],section[data-v-9831151a]{display:block}body[data-v-9831151a]{line-height:1}ol[data-v-9831151a],ul[data-v-9831151a]{list-style:none}blockquote[data-v-9831151a],q[data-v-9831151a]{quotes:none}blockquote[data-v-9831151a]:before,blockquote[data-v-9831151a]:after,q[data-v-9831151a]:before,q[data-v-9831151a]:after{content:"";content:none}table[data-v-9831151a]{border-collapse:collapse;border-spacing:0}[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9831151a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9831151a],body[data-v-9831151a],#app[data-v-9831151a]{height:100%;width:100%;overflow:hidden}body[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9831151a],.vue-lab__color-block__title[data-v-9831151a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],div[data-v-d6fe0ccb],span[data-v-d6fe0ccb],applet[data-v-d6fe0ccb],object[data-v-d6fe0ccb],iframe[data-v-d6fe0ccb],h1[data-v-d6fe0ccb],h2[data-v-d6fe0ccb],h3[data-v-d6fe0ccb],h4[data-v-d6fe0ccb],h5[data-v-d6fe0ccb],h6[data-v-d6fe0ccb],p[data-v-d6fe0ccb],blockquote[data-v-d6fe0ccb],pre[data-v-d6fe0ccb],a[data-v-d6fe0ccb],abbr[data-v-d6fe0ccb],acronym[data-v-d6fe0ccb],address[data-v-d6fe0ccb],big[data-v-d6fe0ccb],cite[data-v-d6fe0ccb],code[data-v-d6fe0ccb],del[data-v-d6fe0ccb],dfn[data-v-d6fe0ccb],em[data-v-d6fe0ccb],img[data-v-d6fe0ccb],ins[data-v-d6fe0ccb],kbd[data-v-d6fe0ccb],q[data-v-d6fe0ccb],s[data-v-d6fe0ccb],samp[data-v-d6fe0ccb],small[data-v-d6fe0ccb],strike[data-v-d6fe0ccb],strong[data-v-d6fe0ccb],sub[data-v-d6fe0ccb],sup[data-v-d6fe0ccb],tt[data-v-d6fe0ccb],var[data-v-d6fe0ccb],b[data-v-d6fe0ccb],u[data-v-d6fe0ccb],i[data-v-d6fe0ccb],center[data-v-d6fe0ccb],dl[data-v-d6fe0ccb],dt[data-v-d6fe0ccb],dd[data-v-d6fe0ccb],ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb],li[data-v-d6fe0ccb],fieldset[data-v-d6fe0ccb],form[data-v-d6fe0ccb],label[data-v-d6fe0ccb],legend[data-v-d6fe0ccb],table[data-v-d6fe0ccb],caption[data-v-d6fe0ccb],tbody[data-v-d6fe0ccb],tfoot[data-v-d6fe0ccb],thead[data-v-d6fe0ccb],tr[data-v-d6fe0ccb],th[data-v-d6fe0ccb],td[data-v-d6fe0ccb],article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],canvas[data-v-d6fe0ccb],details[data-v-d6fe0ccb],embed[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],output[data-v-d6fe0ccb],ruby[data-v-d6fe0ccb],section[data-v-d6fe0ccb],summary[data-v-d6fe0ccb],time[data-v-d6fe0ccb],mark[data-v-d6fe0ccb],audio[data-v-d6fe0ccb],video[data-v-d6fe0ccb]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],details[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],section[data-v-d6fe0ccb]{display:block}body[data-v-d6fe0ccb]{line-height:1}ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb]{list-style:none}blockquote[data-v-d6fe0ccb],q[data-v-d6fe0ccb]{quotes:none}blockquote[data-v-d6fe0ccb]:before,blockquote[data-v-d6fe0ccb]:after,q[data-v-d6fe0ccb]:before,q[data-v-d6fe0ccb]:after{content:"";content:none}table[data-v-d6fe0ccb]{border-collapse:collapse;border-spacing:0}[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-d6fe0ccb]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],#app[data-v-d6fe0ccb]{height:100%;width:100%;overflow:hidden}body[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-d6fe0ccb]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page__group-name[data-v-d6fe0ccb]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-home-page__group-description[data-v-d6fe0ccb]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;margin-bottom:20px}.vue-lab-home-page__group-body[data-v-d6fe0ccb]{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]{text-decoration:none;color:#2c3239;transition:.3s}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]:hover{color:#63b3ff;transition:.3s}html[data-v-c75a0f45],body[data-v-c75a0f45],div[data-v-c75a0f45],span[data-v-c75a0f45],applet[data-v-c75a0f45],object[data-v-c75a0f45],iframe[data-v-c75a0f45],h1[data-v-c75a0f45],h2[data-v-c75a0f45],h3[data-v-c75a0f45],h4[data-v-c75a0f45],h5[data-v-c75a0f45],h6[data-v-c75a0f45],p[data-v-c75a0f45],blockquote[data-v-c75a0f45],pre[data-v-c75a0f45],a[data-v-c75a0f45],abbr[data-v-c75a0f45],acronym[data-v-c75a0f45],address[data-v-c75a0f45],big[data-v-c75a0f45],cite[data-v-c75a0f45],code[data-v-c75a0f45],del[data-v-c75a0f45],dfn[data-v-c75a0f45],em[data-v-c75a0f45],img[data-v-c75a0f45],ins[data-v-c75a0f45],kbd[data-v-c75a0f45],q[data-v-c75a0f45],s[data-v-c75a0f45],samp[data-v-c75a0f45],small[data-v-c75a0f45],strike[data-v-c75a0f45],strong[data-v-c75a0f45],sub[data-v-c75a0f45],sup[data-v-c75a0f45],tt[data-v-c75a0f45],var[data-v-c75a0f45],b[data-v-c75a0f45],u[data-v-c75a0f45],i[data-v-c75a0f45],center[data-v-c75a0f45],dl[data-v-c75a0f45],dt[data-v-c75a0f45],dd[data-v-c75a0f45],ol[data-v-c75a0f45],ul[data-v-c75a0f45],li[data-v-c75a0f45],fieldset[data-v-c75a0f45],form[data-v-c75a0f45],label[data-v-c75a0f45],legend[data-v-c75a0f45],table[data-v-c75a0f45],caption[data-v-c75a0f45],tbody[data-v-c75a0f45],tfoot[data-v-c75a0f45],thead[data-v-c75a0f45],tr[data-v-c75a0f45],th[data-v-c75a0f45],td[data-v-c75a0f45],article[data-v-c75a0f45],aside[data-v-c75a0f45],canvas[data-v-c75a0f45],details[data-v-c75a0f45],embed[data-v-c75a0f45],figure[data-v-c75a0f45],figcaption[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],output[data-v-c75a0f45],ruby[data-v-c75a0f45],section[data-v-c75a0f45],summary[data-v-c75a0f45],time[data-v-c75a0f45],mark[data-v-c75a0f45],audio[data-v-c75a0f45],video[data-v-c75a0f45]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c75a0f45],aside[data-v-c75a0f45],details[data-v-c75a0f45],figcaption[data-v-c75a0f45],figure[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],section[data-v-c75a0f45]{display:block}body[data-v-c75a0f45]{line-height:1}ol[data-v-c75a0f45],ul[data-v-c75a0f45]{list-style:none}blockquote[data-v-c75a0f45],q[data-v-c75a0f45]{quotes:none}blockquote[data-v-c75a0f45]:before,blockquote[data-v-c75a0f45]:after,q[data-v-c75a0f45]:before,q[data-v-c75a0f45]:after{content:"";content:none}table[data-v-c75a0f45]{border-collapse:collapse;border-spacing:0}[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c75a0f45]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c75a0f45],body[data-v-c75a0f45],#app[data-v-c75a0f45]{height:100%;width:100%;overflow:hidden}body[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page[data-v-c75a0f45]{padding:20px;box-sizing:border-box;height:100%;width:100%;overflow-y:auto;background-color:#fff;display:flex;flex-direction:column;gap:40px}.vue-lab-home-page__menu[data-v-c75a0f45]{display:flex;flex-direction:column;height:100%;max-height:100%;overflow:auto;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:40px;cursor:pointer;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title-text[data-v-c75a0f45]{font-family:Ubuntu,sans-serif;color:#0f664e;font-size:32px}.vue-lab-home-page__title-icon[data-v-c75a0f45]{height:64px;display:flex;align-items:center}.vue-lab-home-page__title-icon svg[data-v-c75a0f45]{scale:1.5}.vue-lab-home-page__description[data-v-c75a0f45]{color:#6b7280;font-size:16px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{background:#23241f;color:#f8f8f2}.hljs-tag,.hljs-subst{color:#f8f8f2}.hljs-strong,.hljs-emphasis{color:#a8a8a2}.hljs-bullet,.hljs-quote,.hljs-number,.hljs-regexp,.hljs-literal,.hljs-link{color:#ae81ff}.hljs-code,.hljs-title,.hljs-section,.hljs-selector-class{color:#a6e22e}.hljs-strong{font-weight:700}.hljs-emphasis{font-style:italic}.hljs-keyword,.hljs-selector-tag,.hljs-name,.hljs-attr{color:#f92672}.hljs-symbol,.hljs-attribute{color:#66d9ef}.hljs-params,.hljs-title.class_,.hljs-class .hljs-title{color:#f8f8f2}.hljs-string,.hljs-type,.hljs-built_in,.hljs-selector-id,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-addition,.hljs-variable,.hljs-template-variable{color:#e6db74}.hljs-comment,.hljs-deletion,.hljs-meta{color:#75715e}html[data-v-ba1811dc],body[data-v-ba1811dc],div[data-v-ba1811dc],span[data-v-ba1811dc],applet[data-v-ba1811dc],object[data-v-ba1811dc],iframe[data-v-ba1811dc],h1[data-v-ba1811dc],h2[data-v-ba1811dc],h3[data-v-ba1811dc],h4[data-v-ba1811dc],h5[data-v-ba1811dc],h6[data-v-ba1811dc],p[data-v-ba1811dc],blockquote[data-v-ba1811dc],pre[data-v-ba1811dc],a[data-v-ba1811dc],abbr[data-v-ba1811dc],acronym[data-v-ba1811dc],address[data-v-ba1811dc],big[data-v-ba1811dc],cite[data-v-ba1811dc],code[data-v-ba1811dc],del[data-v-ba1811dc],dfn[data-v-ba1811dc],em[data-v-ba1811dc],img[data-v-ba1811dc],ins[data-v-ba1811dc],kbd[data-v-ba1811dc],q[data-v-ba1811dc],s[data-v-ba1811dc],samp[data-v-ba1811dc],small[data-v-ba1811dc],strike[data-v-ba1811dc],strong[data-v-ba1811dc],sub[data-v-ba1811dc],sup[data-v-ba1811dc],tt[data-v-ba1811dc],var[data-v-ba1811dc],b[data-v-ba1811dc],u[data-v-ba1811dc],i[data-v-ba1811dc],center[data-v-ba1811dc],dl[data-v-ba1811dc],dt[data-v-ba1811dc],dd[data-v-ba1811dc],ol[data-v-ba1811dc],ul[data-v-ba1811dc],li[data-v-ba1811dc],fieldset[data-v-ba1811dc],form[data-v-ba1811dc],label[data-v-ba1811dc],legend[data-v-ba1811dc],table[data-v-ba1811dc],caption[data-v-ba1811dc],tbody[data-v-ba1811dc],tfoot[data-v-ba1811dc],thead[data-v-ba1811dc],tr[data-v-ba1811dc],th[data-v-ba1811dc],td[data-v-ba1811dc],article[data-v-ba1811dc],aside[data-v-ba1811dc],canvas[data-v-ba1811dc],details[data-v-ba1811dc],embed[data-v-ba1811dc],figure[data-v-ba1811dc],figcaption[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],output[data-v-ba1811dc],ruby[data-v-ba1811dc],section[data-v-ba1811dc],summary[data-v-ba1811dc],time[data-v-ba1811dc],mark[data-v-ba1811dc],audio[data-v-ba1811dc],video[data-v-ba1811dc]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ba1811dc],aside[data-v-ba1811dc],details[data-v-ba1811dc],figcaption[data-v-ba1811dc],figure[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],section[data-v-ba1811dc]{display:block}body[data-v-ba1811dc]{line-height:1}ol[data-v-ba1811dc],ul[data-v-ba1811dc]{list-style:none}blockquote[data-v-ba1811dc],q[data-v-ba1811dc]{quotes:none}blockquote[data-v-ba1811dc]:before,blockquote[data-v-ba1811dc]:after,q[data-v-ba1811dc]:before,q[data-v-ba1811dc]:after{content:"";content:none}table[data-v-ba1811dc]{border-collapse:collapse;border-spacing:0}[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ba1811dc]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ba1811dc],body[data-v-ba1811dc],#app[data-v-ba1811dc]{height:100%;width:100%;overflow:hidden}body[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__code-preview[data-v-ba1811dc]{font-family:var(--vue-lab-font-family)}.vue-lab__code-preview__pre[data-v-ba1811dc]{font-family:monospace;font-size:14px;line-height:1.5}.vue-lab__code-preview__content[data-v-ba1811dc]{position:relative;border-radius:12px;overflow:hidden}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]{position:absolute;top:8px;right:8px;width:20px;height:20px;cursor:pointer;fill:#eceff2;transition:fill .2s}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:hover{fill:#9ca3af}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:active{fill:#4b5563}.vue-lab__code-preview__title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-432c94c6],body[data-v-432c94c6],div[data-v-432c94c6],span[data-v-432c94c6],applet[data-v-432c94c6],object[data-v-432c94c6],iframe[data-v-432c94c6],h1[data-v-432c94c6],h2[data-v-432c94c6],h3[data-v-432c94c6],h4[data-v-432c94c6],h5[data-v-432c94c6],h6[data-v-432c94c6],p[data-v-432c94c6],blockquote[data-v-432c94c6],pre[data-v-432c94c6],a[data-v-432c94c6],abbr[data-v-432c94c6],acronym[data-v-432c94c6],address[data-v-432c94c6],big[data-v-432c94c6],cite[data-v-432c94c6],code[data-v-432c94c6],del[data-v-432c94c6],dfn[data-v-432c94c6],em[data-v-432c94c6],img[data-v-432c94c6],ins[data-v-432c94c6],kbd[data-v-432c94c6],q[data-v-432c94c6],s[data-v-432c94c6],samp[data-v-432c94c6],small[data-v-432c94c6],strike[data-v-432c94c6],strong[data-v-432c94c6],sub[data-v-432c94c6],sup[data-v-432c94c6],tt[data-v-432c94c6],var[data-v-432c94c6],b[data-v-432c94c6],u[data-v-432c94c6],i[data-v-432c94c6],center[data-v-432c94c6],dl[data-v-432c94c6],dt[data-v-432c94c6],dd[data-v-432c94c6],ol[data-v-432c94c6],ul[data-v-432c94c6],li[data-v-432c94c6],fieldset[data-v-432c94c6],form[data-v-432c94c6],label[data-v-432c94c6],legend[data-v-432c94c6],table[data-v-432c94c6],caption[data-v-432c94c6],tbody[data-v-432c94c6],tfoot[data-v-432c94c6],thead[data-v-432c94c6],tr[data-v-432c94c6],th[data-v-432c94c6],td[data-v-432c94c6],article[data-v-432c94c6],aside[data-v-432c94c6],canvas[data-v-432c94c6],details[data-v-432c94c6],embed[data-v-432c94c6],figure[data-v-432c94c6],figcaption[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],output[data-v-432c94c6],ruby[data-v-432c94c6],section[data-v-432c94c6],summary[data-v-432c94c6],time[data-v-432c94c6],mark[data-v-432c94c6],audio[data-v-432c94c6],video[data-v-432c94c6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-432c94c6],aside[data-v-432c94c6],details[data-v-432c94c6],figcaption[data-v-432c94c6],figure[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],section[data-v-432c94c6]{display:block}body[data-v-432c94c6]{line-height:1}ol[data-v-432c94c6],ul[data-v-432c94c6]{list-style:none}blockquote[data-v-432c94c6],q[data-v-432c94c6]{quotes:none}blockquote[data-v-432c94c6]:before,blockquote[data-v-432c94c6]:after,q[data-v-432c94c6]:before,q[data-v-432c94c6]:after{content:"";content:none}table[data-v-432c94c6]{border-collapse:collapse;border-spacing:0}[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-432c94c6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-432c94c6],body[data-v-432c94c6],#app[data-v-432c94c6]{height:100%;width:100%;overflow:hidden}body[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-432c94c6]{height:100%;width:100%}.vue-lab__component[data-v-432c94c6]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab__component__header[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box;font-family:var(--vue-lab-font-family)}.vue-lab__component__header-title[data-v-432c94c6]{font-size:18px;font-weight:600;font-family:var(--vue-lab-font-family)}.vue-lab__component__content[data-v-432c94c6]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab__component__body[data-v-432c94c6]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab__controls[data-v-432c94c6]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html[data-v-bf59dc62],body[data-v-bf59dc62],div[data-v-bf59dc62],span[data-v-bf59dc62],applet[data-v-bf59dc62],object[data-v-bf59dc62],iframe[data-v-bf59dc62],h1[data-v-bf59dc62],h2[data-v-bf59dc62],h3[data-v-bf59dc62],h4[data-v-bf59dc62],h5[data-v-bf59dc62],h6[data-v-bf59dc62],p[data-v-bf59dc62],blockquote[data-v-bf59dc62],pre[data-v-bf59dc62],a[data-v-bf59dc62],abbr[data-v-bf59dc62],acronym[data-v-bf59dc62],address[data-v-bf59dc62],big[data-v-bf59dc62],cite[data-v-bf59dc62],code[data-v-bf59dc62],del[data-v-bf59dc62],dfn[data-v-bf59dc62],em[data-v-bf59dc62],img[data-v-bf59dc62],ins[data-v-bf59dc62],kbd[data-v-bf59dc62],q[data-v-bf59dc62],s[data-v-bf59dc62],samp[data-v-bf59dc62],small[data-v-bf59dc62],strike[data-v-bf59dc62],strong[data-v-bf59dc62],sub[data-v-bf59dc62],sup[data-v-bf59dc62],tt[data-v-bf59dc62],var[data-v-bf59dc62],b[data-v-bf59dc62],u[data-v-bf59dc62],i[data-v-bf59dc62],center[data-v-bf59dc62],dl[data-v-bf59dc62],dt[data-v-bf59dc62],dd[data-v-bf59dc62],ol[data-v-bf59dc62],ul[data-v-bf59dc62],li[data-v-bf59dc62],fieldset[data-v-bf59dc62],form[data-v-bf59dc62],label[data-v-bf59dc62],legend[data-v-bf59dc62],table[data-v-bf59dc62],caption[data-v-bf59dc62],tbody[data-v-bf59dc62],tfoot[data-v-bf59dc62],thead[data-v-bf59dc62],tr[data-v-bf59dc62],th[data-v-bf59dc62],td[data-v-bf59dc62],article[data-v-bf59dc62],aside[data-v-bf59dc62],canvas[data-v-bf59dc62],details[data-v-bf59dc62],embed[data-v-bf59dc62],figure[data-v-bf59dc62],figcaption[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],output[data-v-bf59dc62],ruby[data-v-bf59dc62],section[data-v-bf59dc62],summary[data-v-bf59dc62],time[data-v-bf59dc62],mark[data-v-bf59dc62],audio[data-v-bf59dc62],video[data-v-bf59dc62]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-bf59dc62],aside[data-v-bf59dc62],details[data-v-bf59dc62],figcaption[data-v-bf59dc62],figure[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],section[data-v-bf59dc62]{display:block}body[data-v-bf59dc62]{line-height:1}ol[data-v-bf59dc62],ul[data-v-bf59dc62]{list-style:none}blockquote[data-v-bf59dc62],q[data-v-bf59dc62]{quotes:none}blockquote[data-v-bf59dc62]:before,blockquote[data-v-bf59dc62]:after,q[data-v-bf59dc62]:before,q[data-v-bf59dc62]:after{content:"";content:none}table[data-v-bf59dc62]{border-collapse:collapse;border-spacing:0}[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-bf59dc62]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-bf59dc62],body[data-v-bf59dc62],#app[data-v-bf59dc62]{height:100%;width:100%;overflow:hidden}body[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-bf59dc62]{-webkit-user-select:none;user-select:none}.vue-lab-colors[data-v-bf59dc62]{height:100%;width:100%;font-family:var(--vue-lab-font-family)}.vue-lab-colors__component[data-v-bf59dc62]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab-colors__component__header[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__header-title[data-v-bf59dc62]{font-size:18px;font-weight:600}.vue-lab-colors__component__content[data-v-bf59dc62]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__body[data-v-bf59dc62]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}html[data-v-89316d17],body[data-v-89316d17],div[data-v-89316d17],span[data-v-89316d17],applet[data-v-89316d17],object[data-v-89316d17],iframe[data-v-89316d17],h1[data-v-89316d17],h2[data-v-89316d17],h3[data-v-89316d17],h4[data-v-89316d17],h5[data-v-89316d17],h6[data-v-89316d17],p[data-v-89316d17],blockquote[data-v-89316d17],pre[data-v-89316d17],a[data-v-89316d17],abbr[data-v-89316d17],acronym[data-v-89316d17],address[data-v-89316d17],big[data-v-89316d17],cite[data-v-89316d17],code[data-v-89316d17],del[data-v-89316d17],dfn[data-v-89316d17],em[data-v-89316d17],img[data-v-89316d17],ins[data-v-89316d17],kbd[data-v-89316d17],q[data-v-89316d17],s[data-v-89316d17],samp[data-v-89316d17],small[data-v-89316d17],strike[data-v-89316d17],strong[data-v-89316d17],sub[data-v-89316d17],sup[data-v-89316d17],tt[data-v-89316d17],var[data-v-89316d17],b[data-v-89316d17],u[data-v-89316d17],i[data-v-89316d17],center[data-v-89316d17],dl[data-v-89316d17],dt[data-v-89316d17],dd[data-v-89316d17],ol[data-v-89316d17],ul[data-v-89316d17],li[data-v-89316d17],fieldset[data-v-89316d17],form[data-v-89316d17],label[data-v-89316d17],legend[data-v-89316d17],table[data-v-89316d17],caption[data-v-89316d17],tbody[data-v-89316d17],tfoot[data-v-89316d17],thead[data-v-89316d17],tr[data-v-89316d17],th[data-v-89316d17],td[data-v-89316d17],article[data-v-89316d17],aside[data-v-89316d17],canvas[data-v-89316d17],details[data-v-89316d17],embed[data-v-89316d17],figure[data-v-89316d17],figcaption[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],output[data-v-89316d17],ruby[data-v-89316d17],section[data-v-89316d17],summary[data-v-89316d17],time[data-v-89316d17],mark[data-v-89316d17],audio[data-v-89316d17],video[data-v-89316d17]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-89316d17],aside[data-v-89316d17],details[data-v-89316d17],figcaption[data-v-89316d17],figure[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],section[data-v-89316d17]{display:block}body[data-v-89316d17]{line-height:1}ol[data-v-89316d17],ul[data-v-89316d17]{list-style:none}blockquote[data-v-89316d17],q[data-v-89316d17]{quotes:none}blockquote[data-v-89316d17]:before,blockquote[data-v-89316d17]:after,q[data-v-89316d17]:before,q[data-v-89316d17]:after{content:"";content:none}table[data-v-89316d17]{border-collapse:collapse;border-spacing:0}[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-89316d17]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-89316d17],body[data-v-89316d17],#app[data-v-89316d17]{height:100%;width:100%;overflow:hidden}body[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-89316d17]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons__group-title[data-v-89316d17]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-icons__group-body[data-v-89316d17]{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px}.vue-lab-icons__group-item[data-v-89316d17]{display:flex;align-items:center;gap:10px}.vue-lab-icons__group-item-name[data-v-89316d17]{text-decoration:none;color:#2c3239;transition:.3s;font-size:14px}html[data-v-ffc66622],body[data-v-ffc66622],div[data-v-ffc66622],span[data-v-ffc66622],applet[data-v-ffc66622],object[data-v-ffc66622],iframe[data-v-ffc66622],h1[data-v-ffc66622],h2[data-v-ffc66622],h3[data-v-ffc66622],h4[data-v-ffc66622],h5[data-v-ffc66622],h6[data-v-ffc66622],p[data-v-ffc66622],blockquote[data-v-ffc66622],pre[data-v-ffc66622],a[data-v-ffc66622],abbr[data-v-ffc66622],acronym[data-v-ffc66622],address[data-v-ffc66622],big[data-v-ffc66622],cite[data-v-ffc66622],code[data-v-ffc66622],del[data-v-ffc66622],dfn[data-v-ffc66622],em[data-v-ffc66622],img[data-v-ffc66622],ins[data-v-ffc66622],kbd[data-v-ffc66622],q[data-v-ffc66622],s[data-v-ffc66622],samp[data-v-ffc66622],small[data-v-ffc66622],strike[data-v-ffc66622],strong[data-v-ffc66622],sub[data-v-ffc66622],sup[data-v-ffc66622],tt[data-v-ffc66622],var[data-v-ffc66622],b[data-v-ffc66622],u[data-v-ffc66622],i[data-v-ffc66622],center[data-v-ffc66622],dl[data-v-ffc66622],dt[data-v-ffc66622],dd[data-v-ffc66622],ol[data-v-ffc66622],ul[data-v-ffc66622],li[data-v-ffc66622],fieldset[data-v-ffc66622],form[data-v-ffc66622],label[data-v-ffc66622],legend[data-v-ffc66622],table[data-v-ffc66622],caption[data-v-ffc66622],tbody[data-v-ffc66622],tfoot[data-v-ffc66622],thead[data-v-ffc66622],tr[data-v-ffc66622],th[data-v-ffc66622],td[data-v-ffc66622],article[data-v-ffc66622],aside[data-v-ffc66622],canvas[data-v-ffc66622],details[data-v-ffc66622],embed[data-v-ffc66622],figure[data-v-ffc66622],figcaption[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],output[data-v-ffc66622],ruby[data-v-ffc66622],section[data-v-ffc66622],summary[data-v-ffc66622],time[data-v-ffc66622],mark[data-v-ffc66622],audio[data-v-ffc66622],video[data-v-ffc66622]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ffc66622],aside[data-v-ffc66622],details[data-v-ffc66622],figcaption[data-v-ffc66622],figure[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],section[data-v-ffc66622]{display:block}body[data-v-ffc66622]{line-height:1}ol[data-v-ffc66622],ul[data-v-ffc66622]{list-style:none}blockquote[data-v-ffc66622],q[data-v-ffc66622]{quotes:none}blockquote[data-v-ffc66622]:before,blockquote[data-v-ffc66622]:after,q[data-v-ffc66622]:before,q[data-v-ffc66622]:after{content:"";content:none}table[data-v-ffc66622]{border-collapse:collapse;border-spacing:0}[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ffc66622]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ffc66622],body[data-v-ffc66622],#app[data-v-ffc66622]{height:100%;width:100%;overflow:hidden}body[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons[data-v-ffc66622]{font-family:var(--vue-lab-font-family);width:100%;height:100%;overflow:hidden;background-color:#fff}.vue-lab-icons__header[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-icons__header-title[data-v-ffc66622]{font-size:18px;font-weight:600}.vue-lab-icons__body[data-v-ffc66622]{height:100%;overflow:hidden;display:flex;flex-direction:column;padding:16px 8px 24px;box-sizing:border-box}.vue-lab-icons__body-description[data-v-ffc66622]{margin-bottom:20px}.vue-lab-icons__body-search[data-v-ffc66622]{width:100%;margin-bottom:25px}.vue-lab-icons__body-components[data-v-ffc66622]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-icons__body-components-list[data-v-ffc66622]{display:flex;flex-direction:column;gap:30px}.vue-lab-icons__controls[data-v-ffc66622]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:"";content:none}table{border-collapse:collapse;border-spacing:0}*{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html,body,#app{height:100%;width:100%;overflow:hidden}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll::-webkit-scrollbar{width:8px;height:8px}.custom-scroll::-webkit-scrollbar-track{background:transparent}.custom-scroll::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}')),document.head.appendChild(a)}}catch(t){console.error("vite-plugin-css-injected-by-js",t)}})();
-import { openBlock as R, createElementBlock as $, normalizeClass as Ae, renderSlot as st, computed as B, createElementVNode as C, toDisplayString as re, createCommentVNode as ne, Fragment as be, renderList as xe, createBlock as j, createStaticVNode as Sa, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as ge, resolveDynamicComponent as ft, createTextVNode as Ge, ref as Y, createVNode as ye, useCssVars as ri, normalizeStyle as Ze, onMounted as Ue, nextTick as pt, watch as Xe, withKeys as et, normalizeProps as Hs, guardReactiveProps as js, useAttrs as xi, getCurrentInstance as Ni, inject as tn, withModifiers as Ve, onBeforeUnmount as Oi, defineComponent as ka, h as Ti, reactive as Bt, mergeProps as Ra, createApp as Aa } from "vue";
-import { createRouter as Ca, createWebHistory as Ia } from "vue-router";
+import { openBlock as k, createElementBlock as $, normalizeClass as Ae, renderSlot as st, computed as P, createElementVNode as L, toDisplayString as ae, createCommentVNode as ee, Fragment as pe, renderList as ve, createBlock as V, createStaticVNode as Ra, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as ge, resolveDynamicComponent as at, createTextVNode as Ue, ref as Y, createVNode as we, useCssVars as ri, normalizeStyle as Ze, onMounted as $e, nextTick as ft, watch as Xe, withKeys as et, normalizeProps as oi, guardReactiveProps as Vs, useAttrs as Ni, mergeProps as Zs, getCurrentInstance as Oi, inject as tn, withModifiers as Ve, onBeforeUnmount as Si, defineComponent as Aa, h as Ti, createSlots as Ca, reactive as Bt, markRaw as ki, createApp as Ia } from "vue";
+import { createRouter as Ma, createWebHistory as La } from "vue-router";
 const te = (s, t) => {
   const n = s.__vccOpts || s;
   for (const [e, i] of t)
     n[e] = i;
   return n;
-}, Ma = {
+}, Da = {
   __name: "index",
   props: {
     size: {
@@ -23,12 +23,12 @@ const te = (s, t) => {
   emits: ["click"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => [`vue-lab__lab-button_size-${e.size}`, `vue-lab__lab-button_palette-${e.palette}`]), o = { props: e, emit: i, classes: r, handleClick: () => i("click"), computed: B };
+    const e = s, i = n, a = P(() => [`vue-lab__lab-button_size-${e.size}`, `vue-lab__lab-button_palette-${e.palette}`]), o = { props: e, emit: i, classes: a, handleClick: () => i("click"), computed: P };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
 };
-function La(s, t, n, e, i, r) {
-  return R(), $(
+function Ba(s, t, n, e, i, a) {
+  return k(), $(
     "div",
     {
       class: Ae(["vue-lab__lab-button", ...e.classes]),
@@ -41,7 +41,7 @@ function La(s, t, n, e, i, r) {
     /* CLASS */
   );
 }
-const Vs = /* @__PURE__ */ te(Ma, [["render", La], ["__scopeId", "data-v-5643684a"], ["__file", "./index.vue"]]), Da = {
+const Xs = /* @__PURE__ */ te(Da, [["render", Ba], ["__scopeId", "data-v-5643684a"], ["__file", "./index.vue"]]), Pa = {
   __name: "index",
   props: {
     title: { type: [String, Number], default: () => null },
@@ -62,15 +62,15 @@ const Vs = /* @__PURE__ */ te(Ma, [["render", La], ["__scopeId", "data-v-5643684
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => [`vue-lab-tag_size-${e.size}`, `vue-lab-tag_palette-${e.palette}`]), l = B(() => e.title == null ? "Null" : e.title), _ = { props: e, emit: i, classes: r, label: l, handleClick: () => i("input", e.value), computed: B };
+    const e = s, i = n, a = P(() => [`vue-lab-tag_size-${e.size}`, `vue-lab-tag_palette-${e.palette}`]), l = P(() => e.title == null ? "Null" : e.title), _ = { props: e, emit: i, classes: a, label: l, handleClick: () => i("input", e.value), computed: P };
     return Object.defineProperty(_, "__isScriptSetup", { enumerable: !1, value: !0 }), _;
   }
-}, Ba = { class: "vue-lab-tag__title" }, Pa = {
+}, Ua = { class: "vue-lab-tag__title" }, $a = {
   key: 0,
   class: "vue-lab-tag__close"
 };
-function Ua(s, t, n, e, i, r) {
-  return R(), $(
+function za(s, t, n, e, i, a) {
+  return k(), $(
     "div",
     {
       class: Ae(["vue-lab-tag", ...e.classes, {
@@ -79,20 +79,20 @@ function Ua(s, t, n, e, i, r) {
       onClick: e.handleClick
     },
     [
-      C(
+      L(
         "div",
-        Ba,
-        re(e.label),
+        Ua,
+        ae(e.label),
         1
         /* TEXT */
       ),
-      n.isClose ? (R(), $("div", Pa, "X")) : ne("v-if", !0)
+      n.isClose ? (k(), $("div", $a, "X")) : ee("v-if", !0)
     ],
     2
     /* CLASS */
   );
 }
-const $a = /* @__PURE__ */ te(Da, [["render", Ua], ["__scopeId", "data-v-553567f5"], ["__file", "./index.vue"]]), za = {
+const Fa = /* @__PURE__ */ te(Pa, [["render", za], ["__scopeId", "data-v-553567f5"], ["__file", "./index.vue"]]), Ka = {
   __name: "index",
   props: {
     description: String
@@ -102,17 +102,17 @@ const $a = /* @__PURE__ */ te(Da, [["render", Ua], ["__scopeId", "data-v-553567f
     const e = { props: s };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
-}, Fa = { class: "vue-lab__description" };
-function Ka(s, t, n, e, i, r) {
-  return R(), $(
+}, Ga = { class: "vue-lab__description" };
+function qa(s, t, n, e, i, a) {
+  return k(), $(
     "div",
-    Fa,
-    re(n.description),
+    Ga,
+    ae(n.description),
     1
     /* TEXT */
   );
 }
-const oi = /* @__PURE__ */ te(za, [["render", Ka], ["__scopeId", "data-v-f2d48cdd"], ["__file", "./index.vue"]]), Ga = {
+const li = /* @__PURE__ */ te(Ka, [["render", qa], ["__scopeId", "data-v-f2d48cdd"], ["__file", "./index.vue"]]), Wa = {
   __name: "item",
   props: {
     data: {
@@ -122,106 +122,106 @@ const oi = /* @__PURE__ */ te(za, [["render", Ka], ["__scopeId", "data-v-f2d48cd
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = (_) => !(_ == null || typeof _ == "string" && _.trim() === "" || Array.isArray(_) && _.length === 0 || typeof _ == "object" && Object.keys(_).length === 0), i = B(() => e(n.data.default)), r = B(() => e(n.data.values)), l = B(() => e(n.data.description)), o = { props: n, isExist: e, isDefault: i, isValues: r, isDescription: l, computed: B };
+    const n = s, e = (_) => !(_ == null || typeof _ == "string" && _.trim() === "" || Array.isArray(_) && _.length === 0 || typeof _ == "object" && Object.keys(_).length === 0), i = P(() => e(n.data.default)), a = P(() => e(n.data.values)), l = P(() => e(n.data.description)), o = { props: n, isExist: e, isDefault: i, isValues: a, isDescription: l, computed: P };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
-}, qa = { class: "vue-lab__props-description__item" }, Wa = { class: "vue-lab__props-description__item__header" }, Ha = { class: "vue-lab__props-description__item__header_name" }, ja = { class: "vue-lab__props-description__item__header_type" }, Va = {
+}, Ha = { class: "vue-lab__props-description__item" }, ja = { class: "vue-lab__props-description__item__header" }, Va = { class: "vue-lab__props-description__item__header_name" }, Za = { class: "vue-lab__props-description__item__header_type" }, Xa = {
   key: 0,
   class: "vue-lab__props-description__item__body"
-}, Za = {
+}, Ya = {
   key: 0,
   class: "vue-lab__props-description__item__body__row"
-}, Xa = { class: "vue-lab__props-description__item__body__row-value" }, Ya = {
+}, Qa = { class: "vue-lab__props-description__item__body__row-value" }, Ja = {
   key: 1,
   class: "vue-lab__props-description__item__body__row"
-}, Qa = { class: "vue-lab__props-description__item__body__row-value" }, Ja = {
+}, er = { class: "vue-lab__props-description__item__body__row-value" }, tr = {
   key: 2,
   class: "vue-lab__props-description__item__body__row"
-}, er = { class: "vue-lab__props-description__item__body__row-value" };
-function tr(s, t, n, e, i, r) {
-  return R(), $("div", qa, [
-    C("div", Wa, [
-      C(
+}, nr = { class: "vue-lab__props-description__item__body__row-value" };
+function ir(s, t, n, e, i, a) {
+  return k(), $("div", Ha, [
+    L("div", ja, [
+      L(
         "div",
-        Ha,
-        re(n.data.name),
+        Va,
+        ae(n.data.name),
         1
         /* TEXT */
       ),
-      C(
+      L(
         "div",
-        ja,
-        re(n.data.type),
+        Za,
+        ae(n.data.type),
         1
         /* TEXT */
       )
     ]),
-    e.isDefault || e.isValues || e.isDescription ? (R(), $("div", Va, [
-      e.isDefault ? (R(), $("div", Za, [
-        t[0] || (t[0] = C(
+    e.isDefault || e.isValues || e.isDescription ? (k(), $("div", Xa, [
+      e.isDefault ? (k(), $("div", Ya, [
+        t[0] || (t[0] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Default:",
           -1
           /* CACHED */
         )),
-        C(
+        L(
           "div",
-          Xa,
-          re(n.data.default),
+          Qa,
+          ae(n.data.default),
           1
           /* TEXT */
         )
-      ])) : ne("v-if", !0),
-      e.isValues ? (R(), $("div", Ya, [
-        t[1] || (t[1] = C(
+      ])) : ee("v-if", !0),
+      e.isValues ? (k(), $("div", Ja, [
+        t[1] || (t[1] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Values:",
           -1
           /* CACHED */
         )),
-        C(
+        L(
           "div",
-          Qa,
-          re(n.data.values),
+          er,
+          ae(n.data.values),
           1
           /* TEXT */
         )
-      ])) : ne("v-if", !0),
-      e.isDescription ? (R(), $("div", Ja, [
-        t[2] || (t[2] = C(
+      ])) : ee("v-if", !0),
+      e.isDescription ? (k(), $("div", tr, [
+        t[2] || (t[2] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Description:",
           -1
           /* CACHED */
         )),
-        C(
+        L(
           "div",
-          er,
-          re(n.data.description),
+          nr,
+          ae(n.data.description),
           1
           /* TEXT */
         )
-      ])) : ne("v-if", !0)
-    ])) : ne("v-if", !0)
+      ])) : ee("v-if", !0)
+    ])) : ee("v-if", !0)
   ]);
 }
-const nr = /* @__PURE__ */ te(Ga, [["render", tr], ["__scopeId", "data-v-845d1c40"], ["__file", "./item.vue"]]), Ye = () => {
+const sr = /* @__PURE__ */ te(Wa, [["render", ir], ["__scopeId", "data-v-845d1c40"], ["__file", "./item.vue"]]), Ye = () => {
   let s = (/* @__PURE__ */ new Date()).getTime(), t = typeof performance < "u" && performance.now && performance.now() * 1e3 || 0;
   return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(n) {
     let e = Math.random() * 16;
     return s > 0 ? (e = (s + e) % 16 | 0, s = Math.floor(s / 16)) : (e = (t + e) % 16 | 0, t = Math.floor(t / 16)), (n === "x" ? e : e & 3 | 8).toString(16);
   });
-}, ir = /\s/, sr = /(_|-|\.|:)/, ar = /([a-z][A-Z]|[A-Z][a-z])/, rr = /[\W_]+(.|$)/g, or = /(.)([A-Z]+)/g, lr = (s) => s.replace(rr, function(t, n) {
+}, ar = /\s/, rr = /(_|-|\.|:)/, or = /([a-z][A-Z]|[A-Z][a-z])/, lr = /[\W_]+(.|$)/g, cr = /(.)([A-Z]+)/g, _r = (s) => s.replace(lr, function(t, n) {
   return n ? " " + n : "";
-}), cr = (s) => s.replace(or, function(t, n, e) {
+}), ur = (s) => s.replace(cr, function(t, n, e) {
   return n + " " + e.toLowerCase().split("").join(" ");
-}), _r = (s) => ir.test(s) ? s.toLowerCase() : sr.test(s) ? (lr(s) || s).toLowerCase() : ar.test(s) ? cr(s).toLowerCase() : s.toLowerCase(), ur = (s) => _r(s).replace(/[\W_]+(.|$)/g, (t, n) => n ? " " + n : "").trim(), Si = (s) => {
-  const t = ur(s).replace(/ (.)/g, (n, e) => e.toUpperCase());
+}), dr = (s) => ar.test(s) ? s.toLowerCase() : rr.test(s) ? (_r(s) || s).toLowerCase() : or.test(s) ? ur(s).toLowerCase() : s.toLowerCase(), pr = (s) => dr(s).replace(/[\W_]+(.|$)/g, (t, n) => n ? " " + n : "").trim(), Ri = (s) => {
+  const t = pr(s).replace(/ (.)/g, (n, e) => e.toUpperCase());
   return t.charAt(0).toUpperCase() + t.slice(1);
-}, dr = {
+}, fr = {
   __name: "index",
   props: {
     data: {
@@ -231,26 +231,26 @@ const nr = /* @__PURE__ */ te(Ga, [["render", tr], ["__scopeId", "data-v-845d1c4
   },
   setup(s, { expose: t }) {
     t();
-    const e = { props: s, computed: B, PropsDescriptionItem: nr, get generateKey() {
+    const e = { props: s, computed: P, PropsDescriptionItem: sr, get generateKey() {
       return Ye;
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
-}, pr = { class: "vue-lab__props-description" }, fr = { class: "vue-lab__block-body" };
-function hr(s, t, n, e, i, r) {
-  return R(), $("div", pr, [
-    t[0] || (t[0] = C(
+}, hr = { class: "vue-lab__props-description" }, gr = { class: "vue-lab__block-body" };
+function br(s, t, n, e, i, a) {
+  return k(), $("div", hr, [
+    t[0] || (t[0] = L(
       "div",
       { class: "vue-lab__props-description__title vue-lab__block-title" },
       "Props",
       -1
       /* CACHED */
     )),
-    C("div", fr, [
-      (R(!0), $(
-        be,
+    L("div", gr, [
+      (k(!0), $(
+        pe,
         null,
-        xe(n.data, (l) => (R(), j(e.PropsDescriptionItem, {
+        ve(n.data, (l) => (k(), V(e.PropsDescriptionItem, {
           key: e.generateKey(l.name),
           data: l
         }, null, 8, ["data"]))),
@@ -260,7 +260,7 @@ function hr(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Zs = /* @__PURE__ */ te(dr, [["render", hr], ["__scopeId", "data-v-db8d12a1"], ["__file", "./index.vue"]]), gr = {
+const Ys = /* @__PURE__ */ te(fr, [["render", br], ["__scopeId", "data-v-db8d12a1"], ["__file", "./index.vue"]]), mr = {
   __name: "index",
   props: {
     data: {
@@ -275,48 +275,48 @@ const Zs = /* @__PURE__ */ te(dr, [["render", hr], ["__scopeId", "data-v-db8d12a
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
-}, br = { class: "vue-lab__events" }, mr = { class: "vue-lab__events__body" }, vr = { class: "vue-lab__events__body-content" }, Er = { class: "vue-lab__events__body-column vue-lab__events__body-column--td bold" }, yr = { class: "vue-lab__events__body-column vue-lab__events__body-column--td vue-lab__events__body-column--td-regular" };
-function wr(s, t, n, e, i, r) {
-  return R(), $("div", br, [
-    t[1] || (t[1] = C(
+}, vr = { class: "vue-lab__events" }, Er = { class: "vue-lab__events__body" }, yr = { class: "vue-lab__events__body-content" }, wr = { class: "vue-lab__events__body-column vue-lab__events__body-column--td bold" }, xr = { class: "vue-lab__events__body-column vue-lab__events__body-column--td vue-lab__events__body-column--td-regular" };
+function Nr(s, t, n, e, i, a) {
+  return k(), $("div", vr, [
+    t[1] || (t[1] = L(
       "div",
       { class: "vue-lab__events__title vue-lab__block-title" },
       "Events",
       -1
       /* CACHED */
     )),
-    C("div", mr, [
-      t[0] || (t[0] = C(
+    L("div", Er, [
+      t[0] || (t[0] = L(
         "div",
         { class: "vue-lab__events__body-header" },
         [
-          C("div", { class: "vue-lab__events__body-row" }, [
-            C("div", { class: "vue-lab__events__body-column vue-lab__events__body-column--th" }, "Name"),
-            C("div", { class: "vue-lab__events__body-column vue-lab__events__body-column--th vue-lab__events__body-column--th-regular" }, "Description")
+          L("div", { class: "vue-lab__events__body-row" }, [
+            L("div", { class: "vue-lab__events__body-column vue-lab__events__body-column--th" }, "Name"),
+            L("div", { class: "vue-lab__events__body-column vue-lab__events__body-column--th vue-lab__events__body-column--th-regular" }, "Description")
           ])
         ],
         -1
         /* CACHED */
       )),
-      C("div", vr, [
-        (R(!0), $(
-          be,
+      L("div", yr, [
+        (k(!0), $(
+          pe,
           null,
-          xe(n.data, (l) => (R(), $("div", {
+          ve(n.data, (l) => (k(), $("div", {
             key: e.generateKey(l.name),
             class: "vue-lab__events__body-row"
           }, [
-            C(
+            L(
               "div",
-              Er,
-              "@" + re(l.name),
+              wr,
+              "@" + ae(l.name),
               1
               /* TEXT */
             ),
-            C(
+            L(
               "div",
-              yr,
-              re(l.description),
+              xr,
+              ae(l.description),
               1
               /* TEXT */
             )
@@ -328,7 +328,7 @@ function wr(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Xs = /* @__PURE__ */ te(gr, [["render", wr], ["__scopeId", "data-v-7b2edc41"], ["__file", "./index.vue"]]), xr = {}, Nr = {
+const Qs = /* @__PURE__ */ te(mr, [["render", Nr], ["__scopeId", "data-v-7b2edc41"], ["__file", "./index.vue"]]), Or = {}, Sr = {
   "aria-hidden": "true",
   height: "16",
   viewBox: "0 0 16 16",
@@ -337,16 +337,16 @@ const Xs = /* @__PURE__ */ te(gr, [["render", wr], ["__scopeId", "data-v-7b2edc4
   "data-view-component": "true",
   class: "octicon octicon-copy js-clipboard-copy-icon"
 };
-function Or(s, t) {
-  return R(), $("svg", Nr, [...t[0] || (t[0] = [
-    C(
+function Tr(s, t) {
+  return k(), $("svg", Sr, [...t[0] || (t[0] = [
+    L(
       "path",
       { d: "M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z" },
       null,
       -1
       /* CACHED */
     ),
-    C(
+    L(
       "path",
       { d: "M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z" },
       null,
@@ -355,18 +355,18 @@ function Or(s, t) {
     )
   ])]);
 }
-const Tr = /* @__PURE__ */ te(xr, [["render", Or], ["__file", "./CopyIcon.vue"]]), Sr = {}, kr = {
+const kr = /* @__PURE__ */ te(Or, [["render", Tr], ["__file", "./CopyIcon.vue"]]), Rr = {}, Ar = {
   xmlns: "http://www.w3.org/2000/svg",
   width: "1em",
   height: "1em",
   viewBox: "0 0 24 24"
 };
-function Rr(s, t) {
-  return R(), $("svg", kr, [...t[0] || (t[0] = [
-    Sa('<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="7" height="9" x="3" y="3" rx="1"></rect><rect width="7" height="5" x="14" y="3" rx="1"></rect><rect width="7" height="9" x="14" y="12" rx="1"></rect><rect width="7" height="5" x="3" y="16" rx="1"></rect></g>', 1)
+function Cr(s, t) {
+  return k(), $("svg", Ar, [...t[0] || (t[0] = [
+    Ra('<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="7" height="9" x="3" y="3" rx="1"></rect><rect width="7" height="5" x="14" y="3" rx="1"></rect><rect width="7" height="9" x="14" y="12" rx="1"></rect><rect width="7" height="5" x="3" y="16" rx="1"></rect></g>', 1)
   ])]);
 }
-const Ys = /* @__PURE__ */ te(Sr, [["render", Rr], ["__file", "./DefaultMenuIcon.vue"]]), Ar = {}, Cr = {
+const Js = /* @__PURE__ */ te(Rr, [["render", Cr], ["__file", "./DefaultMenuIcon.vue"]]), Ir = {}, Mr = {
   fill: "#4fa760",
   width: "32px",
   height: "32px",
@@ -374,9 +374,9 @@ const Ys = /* @__PURE__ */ te(Sr, [["render", Rr], ["__file", "./DefaultMenuIcon
   version: "1.1",
   xmlns: "http://www.w3.org/2000/svg"
 };
-function Ir(s, t) {
-  return R(), $("svg", Cr, [...t[0] || (t[0] = [
-    C(
+function Lr(s, t) {
+  return k(), $("svg", Mr, [...t[0] || (t[0] = [
+    L(
       "path",
       { d: "M19.332 19.041c0 0-1.664 2.125-3.79 0-2.062-2-3.562 0-3.562 0l-4.967 9.79c-0.144 0.533 0.173 1.081 0.706 1.224h16.497c0.533-0.143 0.85-0.69 0.707-1.224l-5.591-9.79zM26.939 28.33l-7.979-13.428v-0.025l-0.014-7.869h0.551c0.826 0 1.498-0.671 1.498-1.499 0-0.827-0.672-1.498-1.498-1.498h-7.995c-0.827 0-1.498 0.671-1.498 1.498 0 0.828 0.671 1.499 1.498 1.499h0.482l-0.016 7.871-6.908 13.451c-0.428 1.599 0.521 3.242 2.119 3.67h17.641c1.6-0.428 2.549-2.071 2.119-3.67zM24.553 30.998l-17.108-0.019c-1.065-0.286-1.697-1.382-1.412-2.446l6.947-13.616 0.021-8.908h-1.498c-0.275 0-0.499-0.224-0.499-0.5s0.224-0.499 0.499-0.499h7.995c0.275 0 0.498 0.224 0.498 0.499 0 0.276-0.223 0.5-0.498 0.5h-1.498l0.025 8.875 7.939 13.666c0.286 1.067-0.347 2.163-1.411 2.448zM16.48 2.512c0 0.552 0.448 1 1 1s1-0.448 1-1-0.447-1-1-1-1 0.447-1 1zM17.48 0.012c0.828 0 1.5-0.671 1.5-1.5s-0.672-1.5-1.5-1.5-1.5 0.671-1.5 1.5 0.672 1.5 1.5 1.5zM13.48 2.512c0.553 0 1-0.448 1-1s-0.447-1-1-1-1 0.448-1 1 0.447 1 1 1z" },
       null,
@@ -385,15 +385,15 @@ function Ir(s, t) {
     )
   ])]);
 }
-const Qs = /* @__PURE__ */ te(Ar, [["render", Ir], ["__file", "./LabIcon.vue"]]), Mr = {}, Lr = {
+const ea = /* @__PURE__ */ te(Ir, [["render", Lr], ["__file", "./LabIcon.vue"]]), Dr = {}, Br = {
   height: "5",
   version: "1.1",
   width: "9",
   class: "octicon octicon-copy js-clipboard-copy-icon"
 };
-function Dr(s, t) {
-  return R(), $("svg", Lr, [...t[0] || (t[0] = [
-    C(
+function Pr(s, t) {
+  return k(), $("svg", Br, [...t[0] || (t[0] = [
+    L(
       "path",
       {
         class: "icon__geometry",
@@ -405,7 +405,7 @@ function Dr(s, t) {
     )
   ])]);
 }
-const Br = /* @__PURE__ */ te(Mr, [["render", Dr], ["__scopeId", "data-v-11d57440"], ["__file", "./ArrowIcon.vue"]]), Pr = {
+const Ur = /* @__PURE__ */ te(Dr, [["render", Pr], ["__scopeId", "data-v-11d57440"], ["__file", "./ArrowIcon.vue"]]), $r = {
   __name: "search",
   props: {
     options: {
@@ -415,93 +415,93 @@ const Br = /* @__PURE__ */ te(Mr, [["render", Dr], ["__scopeId", "data-v-11d5744
   },
   setup(s, { expose: t }) {
     t();
-    const n = Y(""), e = Y(!1), i = s, r = Y(null), l = B(() => n.value ? i.options.filter(
-      (N) => N.name.toLowerCase().includes(n.value.toLowerCase())
-    ) : i.options), o = B(() => n.value.length >= 3), _ = B(() => l.value.length === 0), m = { searchTerm: n, isOpened: e, props: i, activator: r, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (N) => {
-      n.value = N;
+    const n = Y(""), e = Y(!1), i = s, a = Y(null), l = P(() => n.value ? i.options.filter(
+      (w) => w.name.toLowerCase().includes(n.value.toLowerCase())
+    ) : i.options), o = P(() => n.value.length >= 3), _ = P(() => l.value.length === 0), m = { searchTerm: n, isOpened: e, props: i, activator: a, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (w) => {
+      n.value = w;
     }, toogleOpened: () => {
       n.value = "", e.value = !e.value;
     }, close: () => {
       e.value = !1, n.value = "";
-    }, ref: Y, computed: B, get DefaultMenuIcon() {
-      return Ys;
-    }, get Popover() {
+    }, ref: Y, computed: P, get DefaultMenuIcon() {
       return Js;
+    }, get Popover() {
+      return ta;
     } };
     return Object.defineProperty(m, "__isScriptSetup", { enumerable: !1, value: !0 }), m;
   }
-}, Ur = { class: "vue-lab__search" }, $r = ["value"], zr = {
+}, zr = { class: "vue-lab__search" }, Fr = ["value"], Kr = {
   key: 0,
   class: "vue-lab__search-list"
-}, Fr = {
+}, Gr = {
   key: 0,
   class: "vue-lab__search-list--empty"
 };
-function Kr(s, t, n, e, i, r) {
+function qr(s, t, n, e, i, a) {
   const l = Ut("router-link"), o = si("click-outside");
-  return R(), $("div", Ur, [
-    ai((R(), $("div", {
+  return k(), $("div", zr, [
+    ai((k(), $("div", {
       ref: "activator",
       class: "vue-lab__search-field",
       onClick: e.toogleOpened
     }, [
-      C("input", {
+      L("input", {
         value: e.searchTerm,
         type: "text",
         class: "vue-lab__search-input",
         placeholder: "Search...",
         onInput: t[0] || (t[0] = (_) => e.handleSearch(_.target.value))
-      }, null, 40, $r)
+      }, null, 40, Fr)
     ])), [
       [o, e.close]
     ]),
-    e.isShowList && e.isOpened ? (R(), j(e.Popover, {
+    e.isShowList && e.isOpened ? (k(), V(e.Popover, {
       key: 0,
       reference: e.activator,
       position: "top:bottom",
       alignment: "left"
     }, {
       default: ge(() => [
-        e.isShowList && e.isOpened ? (R(), $("div", zr, [
-          e.isSearchEmpty ? (R(), $("div", Fr, " No results found ")) : (R(!0), $(
-            be,
+        e.isShowList && e.isOpened ? (k(), $("div", Kr, [
+          e.isSearchEmpty ? (k(), $("div", Gr, " No results found ")) : (k(!0), $(
+            pe,
             { key: 1 },
-            xe(e.filteredOptions, (_) => (R(), $("div", {
+            ve(e.filteredOptions, (_) => (k(), $("div", {
               key: _.name,
               onClick: e.toogleOpened
             }, [
-              _ ? (R(), j(l, {
+              _ ? (k(), V(l, {
                 key: 0,
                 to: _.path,
                 title: _.name,
                 class: "vue-lab__search-list-item"
               }, {
                 default: ge(() => [
-                  _.icon ? (R(), j(ft(_.icon), { key: 0 })) : (R(), j(e.DefaultMenuIcon, {
+                  _.icon ? (k(), V(at(_.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
                     key: 1,
                     class: "vue-lab__search-list-item-icon"
                   })),
-                  Ge(
-                    " " + re(_.name),
+                  Ue(
+                    " " + ae(_.name),
                     1
                     /* TEXT */
                   )
                 ]),
                 _: 2
                 /* DYNAMIC */
-              }, 1032, ["to", "title"])) : ne("v-if", !0)
+              }, 1032, ["to", "title"])) : ee("v-if", !0)
             ]))),
             128
             /* KEYED_FRAGMENT */
           ))
-        ])) : ne("v-if", !0)
+        ])) : ee("v-if", !0)
       ]),
       _: 1
       /* STABLE */
-    }, 8, ["reference"])) : ne("v-if", !0)
+    }, 8, ["reference"])) : ee("v-if", !0)
   ]);
 }
-const Gr = /* @__PURE__ */ te(Pr, [["render", Kr], ["__scopeId", "data-v-163aedb2"], ["__file", "./search.vue"]]), qr = {
+const Wr = /* @__PURE__ */ te($r, [["render", qr], ["__scopeId", "data-v-163aedb2"], ["__file", "./search.vue"]]), Hr = {
   __name: "item",
   props: {
     item: {
@@ -515,15 +515,15 @@ const Gr = /* @__PURE__ */ te(Pr, [["render", Kr], ["__scopeId", "data-v-163aedb
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = B(() => n.path?.toLowerCase() === n.item.path?.toLowerCase()), i = { props: n, isActive: e, computed: B, get DefaultMenuIcon() {
-      return Ys;
+    const n = s, e = P(() => n.path?.toLowerCase() === n.item.path?.toLowerCase()), i = { props: n, isActive: e, computed: P, get DefaultMenuIcon() {
+      return Js;
     } };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, Wr = { class: "vue-lab__nav-item-icon" }, Hr = { class: "vue-lab__nav-item-label" };
-function jr(s, t, n, e, i, r) {
+}, jr = { class: "vue-lab__nav-item-icon" }, Vr = { class: "vue-lab__nav-item-label" };
+function Zr(s, t, n, e, i, a) {
   const l = Ut("router-link");
-  return n.item ? (R(), j(l, {
+  return n.item ? (k(), V(l, {
     key: 0,
     to: n.item.path,
     title: n.item.name,
@@ -532,25 +532,25 @@ function jr(s, t, n, e, i, r) {
     }])
   }, {
     default: ge(() => [
-      C("div", Wr, [
-        n.item.icon ? (R(), j(ft(n.item.icon), { key: 0 })) : (R(), j(e.DefaultMenuIcon, {
+      L("div", jr, [
+        n.item.icon ? (k(), V(at(n.item.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
           key: 1,
           class: "vue-lab__nav-item-icon-menu"
         }))
       ]),
-      C(
+      L(
         "div",
-        Hr,
-        re(n.item.name),
+        Vr,
+        ae(n.item.name),
         1
         /* TEXT */
       )
     ]),
     _: 1
     /* STABLE */
-  }, 8, ["to", "title", "class"])) : ne("v-if", !0);
+  }, 8, ["to", "title", "class"])) : ee("v-if", !0);
 }
-const Vr = /* @__PURE__ */ te(qr, [["render", jr], ["__scopeId", "data-v-875f6eef"], ["__file", "./item.vue"]]), Zr = {
+const Xr = /* @__PURE__ */ te(Hr, [["render", Zr], ["__scopeId", "data-v-875f6eef"], ["__file", "./item.vue"]]), Yr = {
   __name: "group",
   props: {
     option: {
@@ -573,52 +573,52 @@ const Vr = /* @__PURE__ */ te(qr, [["render", jr], ["__scopeId", "data-v-875f6ee
     }));
     const n = s, e = Y(!0), i = () => {
       e.value = !e.value;
-    }, r = B(() => ({
+    }, a = P(() => ({
       "vue-lab__nav-group-arrow": !0,
       "vue-lab__nav-group-arrow--closed": !e.value
-    })), l = B(() => ({
+    })), l = P(() => ({
       "vue-lab__nav-group-items": !0,
       "vue-lab__nav-group-items--opened": e.value
-    })), o = B(() => {
+    })), o = P(() => {
       const u = n?.option?.items?.length;
       return u ? u * 35 + 100 + "px" : "1000px";
-    }), _ = B(() => {
+    }), _ = P(() => {
       const u = n?.option?.items?.length;
       return !u || u < 30 ? ".3s" : u < 50 ? ".5s" : u < 80 ? ".8s" : u < 100 ? "1s" : u / 150 + "s";
-    }), g = { props: n, isOpened: e, toggleOpened: i, arrowClasses: r, listClasses: l, maxHeight: o, maxHeightDuration: _, ref: Y, computed: B, NavItem: Vr, get generateKey() {
+    }), g = { props: n, isOpened: e, toggleOpened: i, arrowClasses: a, listClasses: l, maxHeight: o, maxHeightDuration: _, ref: Y, computed: P, NavItem: Xr, get generateKey() {
       return Ye;
     }, get ArrowIcon() {
-      return Br;
+      return Ur;
     } };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
-}, Xr = { class: "vue-lab__nav-group" };
-function Yr(s, t, n, e, i, r) {
-  return R(), $("div", Xr, [
-    n.option?.name || n.isGroup ? (R(), $("div", {
+}, Qr = { class: "vue-lab__nav-group" };
+function Jr(s, t, n, e, i, a) {
+  return k(), $("div", Qr, [
+    n.option?.name || n.isGroup ? (k(), $("div", {
       key: 0,
       class: "vue-lab__nav-group-name",
       onClick: e.toggleOpened
     }, [
-      Ge(
-        re(n.isGroup ? n.option.name || "Other components" : "") + " ",
+      Ue(
+        ae(n.isGroup ? n.option.name || "Other components" : "") + " ",
         1
         /* TEXT */
       ),
-      ye(e.ArrowIcon, {
+      we(e.ArrowIcon, {
         class: Ae(e.arrowClasses)
       }, null, 8, ["class"])
-    ])) : ne("v-if", !0),
-    C(
+    ])) : ee("v-if", !0),
+    L(
       "div",
       {
         class: Ae(e.listClasses)
       },
       [
-        (R(!0), $(
-          be,
+        (k(!0), $(
+          pe,
           null,
-          xe(n.option.items, (l) => (R(), j(e.NavItem, {
+          ve(n.option.items, (l) => (k(), V(e.NavItem, {
             key: e.generateKey(l),
             item: l,
             path: n.path
@@ -632,7 +632,7 @@ function Yr(s, t, n, e, i, r) {
     )
   ]);
 }
-const Qr = /* @__PURE__ */ te(Zr, [["render", Yr], ["__scopeId", "data-v-4061da29"], ["__file", "./group.vue"]]), Jr = {
+const eo = /* @__PURE__ */ te(Yr, [["render", Jr], ["__scopeId", "data-v-4061da29"], ["__file", "./group.vue"]]), to = {
   __name: "index",
   props: {
     name: { type: String, default: "Vue Lab" },
@@ -648,54 +648,54 @@ const Qr = /* @__PURE__ */ te(Zr, [["render", Yr], ["__scopeId", "data-v-4061da2
   emits: ["navigate"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => {
-      const g = e.options.map((N) => N.group), p = [...new Set(g)].filter((N) => N && N.length).map((N) => ({
-        name: N,
-        items: e.options.filter((O) => O.group === N)
+    const e = s, i = n, a = P(() => {
+      const g = e.options.map((w) => w.group), p = [...new Set(g)].filter((w) => w && w.length).map((w) => ({
+        name: w,
+        items: e.options.filter((x) => x.group === w)
       })), m = {
         name: null,
-        items: e.options.filter((N) => !N.group || !N.group.length)
+        items: e.options.filter((w) => !w.group || !w.group.length)
       };
       return [...p, m];
-    }), l = B(() => e.options.some((g) => g.group && g.group.length)), _ = { props: e, emit: i, menuItems: r, isGroup: l, goToHome: () => {
+    }), l = P(() => e.options.some((g) => g.group && g.group.length)), _ = { props: e, emit: i, menuItems: a, isGroup: l, goToHome: () => {
       i("navigate", "/");
-    }, computed: B, get generateKey() {
+    }, computed: P, get generateKey() {
       return Ye;
-    }, Search: Gr, get LabIcon() {
-      return Qs;
-    }, NavGroup: Qr };
+    }, Search: Wr, get LabIcon() {
+      return ea;
+    }, NavGroup: eo };
     return Object.defineProperty(_, "__isScriptSetup", { enumerable: !1, value: !0 }), _;
   }
-}, eo = { class: "vue-lab__nav" }, to = { class: "vue-lab__nav-header-icon" }, no = { class: "vue-lab__nav-header-title" }, io = { class: "vue-lab__nav-search" }, so = { class: "vue-lab__nav-body" }, ao = { class: "vue-lab__nav-body-items custom-scroll--simple" };
-function ro(s, t, n, e, i, r) {
-  return R(), $("div", eo, [
-    C("div", {
+}, no = { class: "vue-lab__nav" }, io = { class: "vue-lab__nav-header-icon" }, so = { class: "vue-lab__nav-header-title" }, ao = { class: "vue-lab__nav-search" }, ro = { class: "vue-lab__nav-body" }, oo = { class: "vue-lab__nav-body-items custom-scroll--simple" };
+function lo(s, t, n, e, i, a) {
+  return k(), $("div", no, [
+    L("div", {
       class: "vue-lab__nav-header",
       onClick: e.goToHome
     }, [
-      C("div", to, [
-        ye(e.LabIcon)
+      L("div", io, [
+        we(e.LabIcon)
       ]),
-      C(
+      L(
         "div",
-        no,
-        re(n.name),
+        so,
+        ae(n.name),
         1
         /* TEXT */
       )
     ]),
-    C("div", io, [
-      ye(e.Search, { options: n.options }, null, 8, ["options"])
+    L("div", ao, [
+      we(e.Search, { options: n.options }, null, 8, ["options"])
     ]),
-    C("div", so, [
-      ne(` <div class="vue-lab__nav-body-title">
+    L("div", ro, [
+      ee(` <div class="vue-lab__nav-body-title">
         Components
       </div> `),
-      C("div", ao, [
-        (R(!0), $(
-          be,
+      L("div", oo, [
+        (k(!0), $(
+          pe,
           null,
-          xe(e.menuItems, (l) => (R(), j(e.NavGroup, {
+          ve(e.menuItems, (l) => (k(), V(e.NavGroup, {
             key: e.generateKey(l),
             option: l,
             path: n.path,
@@ -708,7 +708,7 @@ function ro(s, t, n, e, i, r) {
     ])
   ]);
 }
-const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48c"], ["__file", "./index.vue"]]), lo = {
+const co = /* @__PURE__ */ te(to, [["render", lo], ["__scopeId", "data-v-3672c48c"], ["__file", "./index.vue"]]), _o = {
   __name: "index",
   props: {
     width: String,
@@ -737,7 +737,7 @@ const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48
   emits: ["close"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = Y({});
+    const e = s, i = n, a = Y({});
     function l() {
       return e.reference ? e.reference instanceof HTMLElement ? e.reference : e.reference?.$el ? e.reference.$el : typeof e.reference == "function" ? e.reference() : null : null;
     }
@@ -746,13 +746,13 @@ const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48
       if (!u)
         return;
       const p = u.getBoundingClientRect();
-      let { width: m, height: N, left: O, top: T, right: d, bottom: c, position: f, alignment: S } = e;
-      switch (S || (S = r.value.width > window.innerWidth - p.left && p.right > r.value.width ? "right" : "left", m = Math.max(r.value.width, p.width)), S === "left" ? O = p.left + "px" : d = window.innerWidth - p.right + "px", f) {
+      let { width: m, height: w, left: x, top: S, right: d, bottom: c, position: f, alignment: R } = e;
+      switch (R || (R = a.value.width > window.innerWidth - p.left && p.right > a.value.width ? "right" : "left", m = Math.max(a.value.width, p.width)), R === "left" ? x = p.left + "px" : d = window.innerWidth - p.right + "px", f) {
         case "top":
-          T = p.top + +e.margin + "px";
+          S = p.top + +e.margin + "px";
           break;
         case "top:bottom":
-          T = p.bottom + +e.margin + "px";
+          S = p.bottom + +e.margin + "px";
           break;
         case "bottom":
           c = window.innerHeight - p.bottom - +e.margin + "px";
@@ -761,17 +761,17 @@ const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48
           c = window.innerHeight - p.bottom - +e.margin + "px";
           break;
         case "left":
-          O = p.left - (m || 0) + "px";
+          x = p.left - (m || 0) + "px";
           break;
         case "right":
-          O = p.right + +e.margin + "px";
+          x = p.right + +e.margin + "px";
           break;
       }
-      r.value = {
+      a.value = {
         width: m ? m + "px" : void 0,
-        height: N ? N + "px" : void 0,
-        left: e.centered ? "50%" : O,
-        top: e.centered ? "50%" : T,
+        height: w ? w + "px" : void 0,
+        left: e.centered ? "50%" : x,
+        top: e.centered ? "50%" : S,
         transform: e.centered ? "translate(-50%, -50%)" : void 0,
         right: d,
         bottom: c,
@@ -782,19 +782,19 @@ const oo = /* @__PURE__ */ te(Jr, [["render", ro], ["__scopeId", "data-v-3672c48
     function _(u) {
       i("close", u);
     }
-    Ue(() => {
-      pt(o), window.addEventListener("resize", o), window.addEventListener("scroll", o, !0);
+    $e(() => {
+      ft(o), window.addEventListener("resize", o), window.addEventListener("scroll", o, !0);
     }), Xe(
       () => [e.reference, e.width, e.height, e.position, e.alignment],
-      () => pt(o)
+      () => ft(o)
     );
-    const g = { props: e, emit: i, style: r, getReferenceElement: l, setStyle: o, close: _, ref: Y, onMounted: Ue, watch: Xe, nextTick: pt };
+    const g = { props: e, emit: i, style: a, getReferenceElement: l, setStyle: o, close: _, ref: Y, onMounted: $e, watch: Xe, nextTick: ft };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
 };
-function co(s, t, n, e, i, r) {
+function uo(s, t, n, e, i, a) {
   const l = si("hoisted");
-  return ai((R(), $(
+  return ai((k(), $(
     "div",
     {
       style: Ze(e.style),
@@ -809,7 +809,7 @@ function co(s, t, n, e, i, r) {
     [l]
   ]);
 }
-const Js = /* @__PURE__ */ te(lo, [["render", co], ["__scopeId", "data-v-22f54b08"], ["__file", "./index.vue"]]), _o = {
+const ta = /* @__PURE__ */ te(_o, [["render", uo], ["__scopeId", "data-v-22f54b08"], ["__file", "./index.vue"]]), po = {
   __name: "index",
   props: {
     label: { type: String, default: () => "Search" },
@@ -820,28 +820,28 @@ const Js = /* @__PURE__ */ te(lo, [["render", co], ["__scopeId", "data-v-22f54b0
   setup(s, { expose: t, emit: n }) {
     t();
     const e = s, i = Math.random().toString(36).slice(2, 9);
-    Ue(() => {
-      e.focus && pt(() => {
+    $e(() => {
+      e.focus && ft(() => {
         l.value.focus();
       });
     });
-    const r = n, l = Y(null), o = B(() => [`vue-lab__search_size-${e.size}`]), u = { props: e, uuid: i, emit: r, searchInput: l, classes: o, handleInput: (p) => {
-      r("input", p.target.value);
+    const a = n, l = Y(null), o = P(() => [`vue-lab__search_size-${e.size}`]), u = { props: e, uuid: i, emit: a, searchInput: l, classes: o, handleInput: (p) => {
+      a("input", p.target.value);
     }, unFocus: () => {
       l.value.blur();
-    }, computed: B, nextTick: pt, onMounted: Ue, ref: Y };
+    }, computed: P, nextTick: ft, onMounted: $e, ref: Y };
     return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
   }
-}, uo = { class: "vue-lab__search" }, po = ["id"], fo = ["for"];
-function ho(s, t, n, e, i, r) {
-  return R(), $("div", uo, [
-    C(
+}, fo = { class: "vue-lab__search" }, ho = ["id"], go = ["for"];
+function bo(s, t, n, e, i, a) {
+  return k(), $("div", fo, [
+    L(
       "div",
       {
         class: Ae(["vue-lab__search__field", ...e.classes])
       },
       [
-        C("input", {
+        L("input", {
           id: e.uuid,
           ref: "searchInput",
           type: "text",
@@ -849,18 +849,18 @@ function ho(s, t, n, e, i, r) {
           placeholder: " ",
           onKeydown: et(e.unFocus, ["esc"]),
           onInput: e.handleInput
-        }, null, 40, po),
-        C("label", {
+        }, null, 40, ho),
+        L("label", {
           for: e.uuid,
           class: "vue-lab__search-label"
-        }, re(n.label), 9, fo)
+        }, ae(n.label), 9, go)
       ],
       2
       /* CLASS */
     )
   ]);
 }
-const li = /* @__PURE__ */ te(_o, [["render", ho], ["__scopeId", "data-v-06e447f6"], ["__file", "./index.vue"]]), go = {
+const ci = /* @__PURE__ */ te(po, [["render", bo], ["__scopeId", "data-v-06e447f6"], ["__file", "./index.vue"]]), mo = {
   __name: "BaseTemplate",
   props: {
     viewBox: {
@@ -888,19 +888,19 @@ const li = /* @__PURE__ */ te(_o, [["render", ho], ["__scopeId", "data-v-06e447f
   emits: ["click"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = n, i = s, r = B(() => isNaN(i.size) ? i.size : `${i.size}px`), l = B(() => ({
-      "--icon-size": r.value,
+    const e = n, i = s, a = P(() => isNaN(i.size) ? i.size : `${i.size}px`), l = P(() => ({
+      "--icon-size": a.value,
       "--custom-color": i.color
-    })), o = B(() => [
+    })), o = P(() => [
       "icon",
       `icon_${i.name}`,
       `icon_palette-${i.palette}`
-    ]), g = { emit: e, props: i, sizeValue: r, iconStyles: l, classes: o, handleClick: () => e("click"), computed: B };
+    ]), g = { emit: e, props: i, sizeValue: a, iconStyles: l, classes: o, handleClick: () => e("click"), computed: P };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
-}, bo = ["viewBox"];
-function mo(s, t, n, e, i, r) {
-  return R(), $(
+}, vo = ["viewBox"];
+function Eo(s, t, n, e, i, a) {
+  return k(), $(
     "div",
     {
       style: Ze(e.iconStyles),
@@ -908,7 +908,7 @@ function mo(s, t, n, e, i, r) {
       class: "vue-lab__icon-base-template"
     },
     [
-      (R(), $("svg", {
+      (k(), $("svg", {
         viewBox: n.viewBox,
         "stroke-width": 2,
         class: Ae([
@@ -921,33 +921,33 @@ function mo(s, t, n, e, i, r) {
         onClick: e.handleClick
       }, [
         st(s.$slots, "default", {}, void 0, !0)
-      ], 10, bo))
+      ], 10, vo))
     ],
     4
     /* STYLE */
   );
 }
-const vo = /* @__PURE__ */ te(go, [["render", mo], ["__scopeId", "data-v-1586512e"], ["__file", "./BaseTemplate.vue"]]), Eo = {
+const yo = /* @__PURE__ */ te(mo, [["render", Eo], ["__scopeId", "data-v-1586512e"], ["__file", "./BaseTemplate.vue"]]), wo = {
   __name: "SadIcon",
   setup(s, { expose: t }) {
     t();
-    const n = xi(), e = B(() => ({
+    const n = Ni(), e = P(() => ({
       ...n,
       viewBox: "0 0 512 512.01",
       fill: "none",
       strokeWidth: 1,
       name: "sad-icon"
-    })), i = { attrs: n, iconAttrs: e, useAttrs: xi, computed: B, BaseIcon: vo };
+    })), i = { attrs: n, iconAttrs: e, useAttrs: Ni, computed: P, BaseIcon: yo };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 };
-function yo(s, t, n, e, i, r) {
-  return R(), j(
+function xo(s, t, n, e, i, a) {
+  return k(), V(
     e.BaseIcon,
-    Hs(js(e.iconAttrs)),
+    oi(Vs(e.iconAttrs)),
     {
       default: ge(() => [...t[0] || (t[0] = [
-        C(
+        L(
           "path",
           {
             "fill-rule": "nonzero",
@@ -966,7 +966,7 @@ function yo(s, t, n, e, i, r) {
     /* FULL_PROPS */
   );
 }
-const wo = /* @__PURE__ */ te(Eo, [["render", yo], ["__file", "./SadIcon.vue"]]), xo = {
+const No = /* @__PURE__ */ te(wo, [["render", xo], ["__file", "./SadIcon.vue"]]), Oo = {
   __name: "index",
   props: {
     size: {
@@ -978,7 +978,7 @@ const wo = /* @__PURE__ */ te(Eo, [["render", yo], ["__file", "./SadIcon.vue"]])
   emits: [],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => {
+    const e = s, i = n, a = P(() => {
       switch (e.size) {
         case "sm":
           return 24;
@@ -989,59 +989,107 @@ const wo = /* @__PURE__ */ te(Eo, [["render", yo], ["__file", "./SadIcon.vue"]])
         default:
           return 48;
       }
-    }), l = { props: e, emit: i, iconSize: r, computed: B, SadIcon: wo };
+    }), l = { props: e, emit: i, iconSize: a, computed: P, SadIcon: No };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
-}, No = ["data-size"], Oo = { class: "vue-lab__empty-screen__text" };
-function To(s, t, n, e, i, r) {
-  return R(), $("div", {
+}, So = ["data-size"], To = { class: "vue-lab__empty-screen__text" };
+function ko(s, t, n, e, i, a) {
+  return k(), $("div", {
     "data-size": n.size,
     class: "vue-lab__empty-screen"
   }, [
-    ye(e.SadIcon, {
+    we(e.SadIcon, {
       size: e.iconSize,
       palette: "muted"
     }, null, 8, ["size"]),
-    C("div", Oo, [
+    L("div", To, [
       st(s.$slots, "default", {}, () => [
-        t[0] || (t[0] = Ge(
+        t[0] || (t[0] = Ue(
           "Nothing to display",
           -1
           /* CACHED */
         ))
       ], !0)
     ])
-  ], 8, No);
+  ], 8, So);
 }
-const ci = /* @__PURE__ */ te(xo, [["render", To], ["__scopeId", "data-v-c7a78350"], ["__file", "./index.vue"]]), So = {
+const _i = /* @__PURE__ */ te(Oo, [["render", ko], ["__scopeId", "data-v-c7a78350"], ["__file", "./index.vue"]]), Ro = {
+  __name: "index",
+  props: {
+    slotConfig: {
+      type: Object,
+      default: () => ({})
+    },
+    slotName: {
+      type: String,
+      default: null
+    }
+  },
+  emits: [],
+  setup(s, { expose: t, emit: n }) {
+    t();
+    const e = s, i = n, a = P(() => e.slotConfig?.props ? Array.isArray(e.slotConfig.props) ? e.slotConfig?.props?.length ? e.slotConfig?.props?.reduce((o, _) => ({
+      ...o,
+      [_.name]: _.value
+    }), {}) : {} : {
+      ...e.slotConfig?.props
+    } : {}), l = { props: e, emit: i, attrs: a, computed: P };
+    return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
+  }
+}, Ao = ["innerHTML"];
+function Co(s, t, n, e, i, a) {
+  return n.slotConfig.type == "text" ? (k(), $(
+    pe,
+    { key: 0 },
+    [
+      Ue(
+        ae(n.slotConfig.value),
+        1
+        /* TEXT */
+      )
+    ],
+    64
+    /* STABLE_FRAGMENT */
+  )) : n.slotConfig.type == "component" ? (k(), V(
+    at(n.slotConfig.value),
+    oi(Zs({ key: 1 }, e.attrs)),
+    null,
+    16
+    /* FULL_PROPS */
+  )) : n.slotConfig.type == "html" ? (k(), $("div", {
+    key: 2,
+    innerHTML: n.slotConfig.value
+  }, null, 8, Ao)) : ee("v-if", !0);
+}
+const Io = /* @__PURE__ */ te(Ro, [["render", Co], ["__file", "./index.vue"]]), Mo = {
   __name: "App",
   setup(s, { expose: t }) {
     t();
-    const n = Ni(), e = n?.appContext.config.globalProperties.$router, i = tn("menu"), r = tn("kit-title"), o = { instance: n, router: e, menu: i, title: r, navigate: (_) => {
+    const n = Oi(), e = n?.appContext.config.globalProperties.$router, i = tn("menu"), a = tn("kit-title"), o = { instance: n, router: e, menu: i, title: a, navigate: (_) => {
       e.push({ path: _ });
     }, get Nav() {
-      return oo;
-    }, inject: tn, getCurrentInstance: Ni };
+      return co;
+    }, inject: tn, getCurrentInstance: Oi };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
-}, ko = { class: "vue-lab-application" }, Ro = { class: "vue-lab-application__body" }, Ao = { class: "vue-lab-application__content" };
-function Co(s, t, n, e, i, r) {
+}, Lo = { class: "vue-lab-application" }, Do = { class: "vue-lab-application__body" }, Bo = { class: "vue-lab-application__content" };
+function Po(s, t, n, e, i, a) {
   const l = Ut("router-view");
-  return R(), $("div", ko, [
-    C("div", Ro, [
-      ye(e.Nav, {
+  return k(), $("div", Lo, [
+    L("div", Do, [
+      we(e.Nav, {
         path: s.$route.path,
         name: e.title,
         options: e.menu,
         onNavigate: e.navigate
       }, null, 8, ["path", "name", "options"]),
-      C("div", Ao, [
-        ye(l)
+      L("div", Bo, [
+        we(l)
       ])
     ])
   ]);
 }
-const Io = /* @__PURE__ */ te(So, [["render", Co], ["__file", "./App.vue"]]), Mo = {
+const Uo = /* @__PURE__ */ te(Mo, [["render", Po], ["__file", "./App.vue"]]), $o = {
   __name: "CtrlLayout",
   props: {
     name: { type: String, required: !0 }
@@ -1051,22 +1099,22 @@ const Io = /* @__PURE__ */ te(So, [["render", Co], ["__file", "./App.vue"]]), Mo
     const n = {};
     return Object.defineProperty(n, "__isScriptSetup", { enumerable: !1, value: !0 }), n;
   }
-}, Lo = { class: "vue-lab__ctrl-layout" }, Do = { class: "vue-lab__ctrl-layout__title" }, Bo = { class: "vue-lab__ctrl-layout__body" };
-function Po(s, t, n, e, i, r) {
-  return R(), $("div", Lo, [
-    C(
+}, zo = { class: "vue-lab__ctrl-layout" }, Fo = { class: "vue-lab__ctrl-layout__title" }, Ko = { class: "vue-lab__ctrl-layout__body" };
+function Go(s, t, n, e, i, a) {
+  return k(), $("div", zo, [
+    L(
       "div",
-      Do,
-      re(n.name),
+      Fo,
+      ae(n.name),
       1
       /* TEXT */
     ),
-    C("div", Bo, [
+    L("div", Ko, [
       st(s.$slots, "default", {}, void 0, !0)
     ])
   ]);
 }
-const at = /* @__PURE__ */ te(Mo, [["render", Po], ["__scopeId", "data-v-9214d2d0"], ["__file", "./CtrlLayout.vue"]]), Uo = {
+const rt = /* @__PURE__ */ te($o, [["render", Go], ["__scopeId", "data-v-9214d2d0"], ["__file", "./CtrlLayout.vue"]]), qo = {
   __name: "index",
   props: {
     options: {
@@ -1087,22 +1135,22 @@ const at = /* @__PURE__ */ te(Mo, [["render", Po], ["__scopeId", "data-v-9214d2d
     t();
     const e = s, i = n, l = { props: e, emit: i, setValue: (o) => {
       i("input", o);
-    }, CtrlLayout: at, get Tag() {
-      return $a;
+    }, CtrlLayout: rt, get Tag() {
+      return Fa;
     }, get generateKey() {
       return Ye;
     } };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
-}, $o = { class: "vue-lab__tags" };
-function zo(s, t, n, e, i, r) {
-  return R(), j(e.CtrlLayout, { name: n.title }, {
+}, Wo = { class: "vue-lab__tags" };
+function Ho(s, t, n, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: n.title }, {
     default: ge(() => [
-      C("div", $o, [
-        (R(!0), $(
-          be,
+      L("div", Wo, [
+        (k(!0), $(
+          pe,
           null,
-          xe(n.options, (l) => (R(), j(e.Tag, {
+          ve(n.options, (l) => (k(), V(e.Tag, {
             key: e.generateKey(l),
             value: l,
             isActive: l == n.value,
@@ -1119,7 +1167,7 @@ function zo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const ki = /* @__PURE__ */ te(Uo, [["render", zo], ["__scopeId", "data-v-6c569ff9"], ["__file", "./index.vue"]]), Fo = {
+const Ai = /* @__PURE__ */ te(qo, [["render", Ho], ["__scopeId", "data-v-6c569ff9"], ["__file", "./index.vue"]]), jo = {
   __name: "index",
   props: {
     value: { type: [Number, String], default: 0 },
@@ -1128,79 +1176,79 @@ const ki = /* @__PURE__ */ te(Uo, [["render", zo], ["__scopeId", "data-v-6c569ff
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = Y(0), l = Y(null), o = Y(null), _ = Y(null), g = B(() => e.options.length), u = (h) => {
+    const e = s, i = n, a = Y(0), l = Y(null), o = Y(null), _ = Y(null), g = P(() => e.options.length), u = (h) => {
       if (typeof h == "number" && Number.isInteger(h) && h >= 0 && h < g.value)
         return h;
-      const E = e.options.findIndex((a) => String(a) === String(h));
-      return E >= 0 ? E : 0;
+      const T = e.options.findIndex((r) => String(r) === String(h));
+      return T >= 0 ? T : 0;
     };
     Xe(() => e.value, (h) => {
-      r.value = u(h);
-    }, { immediate: !0 }), Xe(r, (h) => {
+      a.value = u(h);
+    }, { immediate: !0 }), Xe(a, (h) => {
       i("input", e.options[h]);
     });
-    const p = B(() => {
+    const p = P(() => {
       const h = g.value;
-      return h === 1 ? [0] : Array.from({ length: h }, (E, a) => a / (h - 1) * 100);
-    }), m = B(() => e.options[r.value]);
-    let N = !1, O = null;
-    const T = (h, E, a) => Math.max(E, Math.min(a, h)), d = (h) => {
-      const E = o.value.getBoundingClientRect(), v = T(h - E.left, 0, E.width) / E.width, x = Math.round(v * (g.value - 1));
-      return T(x, 0, g.value - 1);
+      return h === 1 ? [0] : Array.from({ length: h }, (T, r) => r / (h - 1) * 100);
+    }), m = P(() => e.options[a.value]);
+    let w = !1, x = null;
+    const S = (h, T, r) => Math.max(T, Math.min(r, h)), d = (h) => {
+      const T = o.value.getBoundingClientRect(), y = S(h - T.left, 0, T.width) / T.width, N = Math.round(y * (g.value - 1));
+      return S(N, 0, g.value - 1);
     }, c = (h) => {
-      r.value = T(h, 0, g.value - 1);
+      a.value = S(h, 0, g.value - 1);
     }, f = (h) => {
-      const E = d(h.clientX);
-      c(E);
-    }, S = (h) => {
-      N = !0, O = h.pointerId, h.target.setPointerCapture(O), window.addEventListener("pointermove", k), window.addEventListener("pointerup", I);
+      const T = d(h.clientX);
+      c(T);
+    }, R = (h) => {
+      w = !0, x = h.pointerId, h.target.setPointerCapture(x), window.addEventListener("pointermove", A), window.addEventListener("pointerup", D);
     };
-    function k(h) {
-      if (!N || h.pointerId !== O)
+    function A(h) {
+      if (!w || h.pointerId !== x)
         return;
-      const E = d(h.clientX);
-      r.value = E;
+      const T = d(h.clientX);
+      a.value = T;
     }
-    const I = () => {
-      if (N) {
-        N = !1;
+    const D = () => {
+      if (w) {
+        w = !1;
         try {
-          _.value.releasePointerCapture(O);
+          _.value.releasePointerCapture(x);
         } catch {
         }
-        O = null, window.removeEventListener("pointermove", k), window.removeEventListener("pointerup", I);
+        x = null, window.removeEventListener("pointermove", A), window.removeEventListener("pointerup", D);
       }
-    }, y = (h) => {
-      c(r.value + h);
+    }, v = (h) => {
+      c(a.value + h);
     };
-    Oi(() => {
-      window.removeEventListener("pointermove", k), window.removeEventListener("pointerup", I);
-    }), Ue(() => {
-      r.value = u(e.value);
+    Si(() => {
+      window.removeEventListener("pointermove", A), window.removeEventListener("pointerup", D);
+    }), $e(() => {
+      a.value = u(e.value);
     });
-    const w = { props: e, emit: i, currentIndex: r, root: l, track: o, handle: _, optionsCount: g, valueToIndex: u, positions: p, displayValue: m, get dragging() {
-      return N;
+    const E = { props: e, emit: i, currentIndex: a, root: l, track: o, handle: _, optionsCount: g, valueToIndex: u, positions: p, displayValue: m, get dragging() {
+      return w;
     }, set dragging(h) {
-      N = h;
+      w = h;
     }, get pointerId() {
-      return O;
+      return x;
     }, set pointerId(h) {
-      O = h;
-    }, clamp: T, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: S, onPointerMove: k, stopDrag: I, onArrow: y, ref: Y, computed: B, watch: Xe, onMounted: Ue, onBeforeUnmount: Oi, CtrlLayout: at };
-    return Object.defineProperty(w, "__isScriptSetup", { enumerable: !1, value: !0 }), w;
+      x = h;
+    }, clamp: S, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: R, onPointerMove: A, stopDrag: D, onArrow: v, ref: Y, computed: P, watch: Xe, onMounted: $e, onBeforeUnmount: Si, CtrlLayout: rt };
+    return Object.defineProperty(E, "__isScriptSetup", { enumerable: !1, value: !0 }), E;
   }
-}, Ko = {
+}, Vo = {
   class: "vue-lab__size",
   ref: "root"
-}, Go = ["onClick", "aria-label", "onKeydown"], qo = ["aria-valuemax", "aria-valuenow", "aria-valuetext"], Wo = { class: "vue-lab__size-value" };
-function Ho(s, t, n, e, i, r) {
-  return R(), j(e.CtrlLayout, { name: "Size" }, {
+}, Zo = ["onClick", "aria-label", "onKeydown"], Xo = ["aria-valuemax", "aria-valuenow", "aria-valuetext"], Yo = { class: "vue-lab__size-value" };
+function Qo(s, t, n, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: "Size" }, {
     default: ge(() => [
-      C(
+      L(
         "div",
-        Ko,
+        Vo,
         [
-          C(
+          L(
             "div",
             {
               class: "vue-lab__size-track",
@@ -1208,10 +1256,10 @@ function Ho(s, t, n, e, i, r) {
               onClick: t[4] || (t[4] = (l) => e.onTrackClick(l))
             },
             [
-              (R(!0), $(
-                be,
+              (k(!0), $(
+                pe,
                 null,
-                xe(n.options, (l, o) => (R(), $("div", {
+                ve(n.options, (l, o) => (k(), $("div", {
                   key: o,
                   class: Ae(["vue-lab__size-tick", {
                     "vue-lab__size-tick_active": o === e.currentIndex
@@ -1225,11 +1273,11 @@ function Ho(s, t, n, e, i, r) {
                     et(Ve((_) => e.selectIndex(o), ["prevent"]), ["enter"]),
                     et(Ve((_) => e.selectIndex(o), ["prevent"]), ["space"])
                   ]
-                }, null, 46, Go))),
+                }, null, 46, Zo))),
                 128
                 /* KEYED_FRAGMENT */
               )),
-              C(
+              L(
                 "div",
                 {
                   class: "vue-lab__size-range-fill",
@@ -1240,7 +1288,7 @@ function Ho(s, t, n, e, i, r) {
                 4
                 /* STYLE */
               ),
-              C("div", {
+              L("div", {
                 class: "vue-lab__size-handle",
                 ref: "handle",
                 style: Ze({ left: e.positions[e.currentIndex] + "%" }),
@@ -1257,15 +1305,15 @@ function Ho(s, t, n, e, i, r) {
                   t[2] || (t[2] = et(Ve((l) => e.onArrow(1), ["prevent"]), ["up"])),
                   t[3] || (t[3] = et(Ve((l) => e.onArrow(-1), ["prevent"]), ["down"]))
                 ]
-              }, null, 44, qo)
+              }, null, 44, Xo)
             ],
             512
             /* NEED_PATCH */
           ),
-          C(
+          L(
             "div",
-            Wo,
-            re(n.value),
+            Yo,
+            ae(n.value),
             1
             /* TEXT */
           )
@@ -1278,7 +1326,7 @@ function Ho(s, t, n, e, i, r) {
     /* STABLE */
   });
 }
-const Ri = /* @__PURE__ */ te(Fo, [["render", Ho], ["__scopeId", "data-v-96bfa191"], ["__file", "./index.vue"]]), jo = {
+const Ci = /* @__PURE__ */ te(jo, [["render", Qo], ["__scopeId", "data-v-96bfa191"], ["__file", "./index.vue"]]), Jo = {
   __name: "index",
   props: {
     value: {
@@ -1293,21 +1341,21 @@ const Ri = /* @__PURE__ */ te(Fo, [["render", Ho], ["__scopeId", "data-v-96bfa19
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => ["vue-lab__boolean-tumbler", {
+    const e = s, i = n, a = P(() => ["vue-lab__boolean-tumbler", {
       "vue-lab__boolean-tumbler--right": !!e.value,
       "vue-lab__boolean-tumbler--left": !e.value
-    }]), l = { props: e, emit: i, classList: r, computed: B, CtrlLayout: at };
+    }]), l = { props: e, emit: i, classList: a, computed: P, CtrlLayout: rt };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 };
-function Vo(s, t, n, e, i, r) {
-  return R(), j(e.CtrlLayout, { name: n.title }, {
+function el(s, t, n, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: n.title }, {
     default: ge(() => [
-      C("div", {
+      L("div", {
         class: "vue-lab__boolean",
         onClick: t[0] || (t[0] = (l) => e.emit("input", !n.value))
       }, [
-        C(
+        L(
           "div",
           {
             class: Ae(e.classList)
@@ -1322,7 +1370,7 @@ function Vo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ai = /* @__PURE__ */ te(jo, [["render", Vo], ["__file", "./index.vue"]]), Zo = {
+const Ii = /* @__PURE__ */ te(Jo, [["render", el], ["__file", "./index.vue"]]), tl = {
   __name: "index",
   props: {
     value: { type: [String], default: () => "" },
@@ -1331,19 +1379,19 @@ const Ai = /* @__PURE__ */ te(jo, [["render", Vo], ["__file", "./index.vue"]]), 
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = n, i = s, r = Y(!1), l = (u) => {
+    const e = n, i = s, a = Y(!1), l = (u) => {
       e("input", u?.target.value);
-    }, o = B(() => !!i.value && i.value !== ""), g = { emit: e, props: i, isFocused: r, handleTextInput: l, isValue: o, handleFocus: (u) => {
-      r.value = u === "in";
-    }, computed: B, ref: Y, CtrlLayout: at };
+    }, o = P(() => !!i.value && i.value !== ""), g = { emit: e, props: i, isFocused: a, handleTextInput: l, isValue: o, handleFocus: (u) => {
+      a.value = u === "in";
+    }, computed: P, ref: Y, CtrlLayout: rt };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
-}, Xo = { class: "vue-lab__text-ctrl" }, Yo = ["value"];
-function Qo(s, t, n, e, i, r) {
-  return R(), j(e.CtrlLayout, { name: n.title }, {
+}, nl = { class: "vue-lab__text-ctrl" }, il = ["value"];
+function sl(s, t, n, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: n.title }, {
     default: ge(() => [
-      C("div", Xo, [
-        C(
+      L("div", nl, [
+        L(
           "div",
           {
             class: Ae([
@@ -1355,14 +1403,14 @@ function Qo(s, t, n, e, i, r) {
             ])
           },
           [
-            C("input", {
+            L("input", {
               value: n.value,
               class: "vue-lab__text-ctrl__input",
               type: "text",
               onFocusin: t[0] || (t[0] = (l) => e.handleFocus("in")),
               onFocusout: t[1] || (t[1] = (l) => e.handleFocus("out")),
               onInput: e.handleTextInput
-            }, null, 40, Yo)
+            }, null, 40, il)
           ],
           2
           /* CLASS */
@@ -1373,7 +1421,7 @@ function Qo(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ci = /* @__PURE__ */ te(Zo, [["render", Qo], ["__scopeId", "data-v-3d8e17f8"], ["__file", "./index.vue"]]), Jo = {
+const Mi = /* @__PURE__ */ te(tl, [["render", sl], ["__scopeId", "data-v-3d8e17f8"], ["__file", "./index.vue"]]), al = {
   __name: "index",
   props: {
     title: {
@@ -1388,29 +1436,29 @@ const Ci = /* @__PURE__ */ te(Zo, [["render", Qo], ["__scopeId", "data-v-3d8e17f
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = B(() => e.value || "linear-gradient(to right, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%)"), o = { props: e, emit: i, bgColor: r, handleColorInput: (_) => {
+    const e = s, i = n, a = P(() => e.value || "linear-gradient(to right, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%)"), o = { props: e, emit: i, bgColor: a, handleColorInput: (_) => {
       i("input", _?.target.value);
-    }, computed: B, CtrlLayout: at };
+    }, computed: P, CtrlLayout: rt };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
-}, el = { class: "vue-lab-color-picker" }, tl = ["value"];
-function nl(s, t, n, e, i, r) {
-  return R(), j(e.CtrlLayout, { name: n.title }, {
+}, rl = { class: "vue-lab-color-picker" }, ol = ["value"];
+function ll(s, t, n, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: n.title }, {
     default: ge(() => [
-      C("div", el, [
-        C(
+      L("div", rl, [
+        L(
           "label",
           {
             class: "vue-lab-color-picker__color-preview",
             style: Ze({ background: e.bgColor })
           },
           [
-            C("input", {
+            L("input", {
               type: "color",
               value: n.value || "#000000",
               class: "vue-lab-color-picker__hidden-input",
               onInput: e.handleColorInput
-            }, null, 40, tl)
+            }, null, 40, ol)
           ],
           4
           /* STYLE */
@@ -1421,7 +1469,7 @@ function nl(s, t, n, e, i, r) {
     /* STABLE */
   }, 8, ["name"]);
 }
-const Ii = /* @__PURE__ */ te(Jo, [["render", nl], ["__scopeId", "data-v-8e33fe98"], ["__file", "./index.vue"]]), il = {
+const Li = /* @__PURE__ */ te(al, [["render", ll], ["__scopeId", "data-v-8e33fe98"], ["__file", "./index.vue"]]), cl = {
   __name: "index",
   props: {
     value: {
@@ -1440,35 +1488,35 @@ const Ii = /* @__PURE__ */ te(Jo, [["render", nl], ["__scopeId", "data-v-8e33fe9
   emits: ["input"],
   setup(s, { expose: t, emit: n }) {
     t();
-    const e = s, i = n, r = Y(null), l = Y(!1), o = Y(""), _ = B(() => e.options.find((T) => T.id === e.value)?.name || null), g = B(() => o.value ? e.options.filter((T) => T?.name?.toLowerCase().includes(o?.value?.toLowerCase())) : e.options), u = () => {
+    const e = s, i = n, a = Y(null), l = Y(!1), o = Y(""), _ = P(() => e.options.find((S) => S.id === e.value)?.name || null), g = P(() => o.value ? e.options.filter((S) => S?.name?.toLowerCase().includes(o?.value?.toLowerCase())) : e.options), u = () => {
       l.value = !l.value;
     }, p = () => {
       l.value = !1;
-    }, O = { props: e, emit: i, dropdownActivator: r, isOpened: l, searchValue: o, selectedValue: _, filteredOptions: g, toggleOpened: u, close: p, handleItem: (T) => {
-      i("input", T), p();
-    }, handleSearch: (T) => {
-      o.value = T;
-    }, computed: B, ref: Y, CtrlLayout: at, get Popover() {
-      return Js;
+    }, x = { props: e, emit: i, dropdownActivator: a, isOpened: l, searchValue: o, selectedValue: _, filteredOptions: g, toggleOpened: u, close: p, handleItem: (S) => {
+      i("input", S), p();
+    }, handleSearch: (S) => {
+      o.value = S;
+    }, computed: P, ref: Y, CtrlLayout: rt, get Popover() {
+      return ta;
     }, get Search() {
-      return li;
-    }, get EmptyScreen() {
       return ci;
+    }, get EmptyScreen() {
+      return _i;
     } };
-    return Object.defineProperty(O, "__isScriptSetup", { enumerable: !1, value: !0 }), O;
+    return Object.defineProperty(x, "__isScriptSetup", { enumerable: !1, value: !0 }), x;
   }
-}, sl = { class: "vue-lab__dropdown-modal" }, al = {
+}, _l = { class: "vue-lab__dropdown-modal" }, ul = {
   key: 1,
   class: "vue-lab__dropdown-list custom-scroll"
-}, rl = ["onClick"];
-function ol(s, t, n, e, i, r) {
+}, dl = ["onClick"];
+function pl(s, t, n, e, i, a) {
   const l = si("click-outside");
-  return R(), j(e.CtrlLayout, {
+  return k(), V(e.CtrlLayout, {
     name: n.title,
     class: "vue-lab__dropdown"
   }, {
     default: ge(() => [
-      C(
+      L(
         "div",
         {
           ref: "dropdownActivator",
@@ -1478,51 +1526,51 @@ function ol(s, t, n, e, i, r) {
           }]),
           onClick: e.toggleOpened
         },
-        re(e.selectedValue),
+        ae(e.selectedValue),
         3
         /* TEXT, CLASS */
       ),
-      e.isOpened ? ai((R(), j(e.Popover, {
+      e.isOpened ? ai((k(), V(e.Popover, {
         key: 0,
         reference: e.dropdownActivator,
         position: "top:bottom",
         alignment: "left"
       }, {
         default: ge(() => [
-          C("div", sl, [
-            ye(e.Search, {
+          L("div", _l, [
+            we(e.Search, {
               size: "sm",
               focus: "",
               onInput: e.handleSearch
             }),
-            e.filteredOptions.length ? (R(), $("ul", al, [
-              (R(!0), $(
-                be,
+            e.filteredOptions.length ? (k(), $("ul", ul, [
+              (k(!0), $(
+                pe,
                 null,
-                xe(e.filteredOptions, (o) => (R(), $("li", {
+                ve(e.filteredOptions, (o) => (k(), $("li", {
                   key: o.id,
                   class: Ae(["vue-lab__dropdown-list-item", {
                     "vue-lab__dropdown-list-item_active": o.id === e.props.value
                   }]),
                   onClick: (_) => e.handleItem(o.id)
                 }, [
-                  C(
+                  L(
                     "p",
                     null,
-                    re(o.name),
+                    ae(o.name),
                     1
                     /* TEXT */
                   )
-                ], 10, rl))),
+                ], 10, dl))),
                 128
                 /* KEYED_FRAGMENT */
               ))
-            ])) : (R(), j(e.EmptyScreen, {
+            ])) : (k(), V(e.EmptyScreen, {
               key: 0,
               size: "sm"
             }, {
               default: ge(() => [...t[0] || (t[0] = [
-                Ge(
+                Ue(
                   "No options found",
                   -1
                   /* CACHED */
@@ -1537,13 +1585,13 @@ function ol(s, t, n, e, i, r) {
         /* STABLE */
       }, 8, ["reference"])), [
         [l, e.close]
-      ]) : ne("v-if", !0)
+      ]) : ee("v-if", !0)
     ]),
     _: 1
     /* STABLE */
   }, 8, ["name"]);
 }
-const Mi = /* @__PURE__ */ te(il, [["render", ol], ["__scopeId", "data-v-b886953d"], ["__file", "./index.vue"]]), ll = {
+const Di = /* @__PURE__ */ te(cl, [["render", pl], ["__scopeId", "data-v-b886953d"], ["__file", "./index.vue"]]), fl = {
   __name: "index",
   props: {
     options: { type: Array, default: () => [] },
@@ -1553,44 +1601,44 @@ const Mi = /* @__PURE__ */ te(il, [["render", ol], ["__scopeId", "data-v-b886953
   setup(s, { expose: t, emit: n }) {
     t();
     const e = s, i = n, g = { props: e, emit: i, componentsMap: {
-      tags: ki,
-      size: Ri,
-      boolean: Ai,
-      text: Ci,
-      color: Ii,
-      list: Mi
+      tags: Ai,
+      size: Ci,
+      boolean: Ii,
+      text: Mi,
+      color: Li,
+      list: Di
     }, getValue: (u) => e.values?.[u], handleInput: ({ ctrl: u, value: p }) => i("input", { ctrl: u, value: p }), resetSettings: () => i("reset"), get Tags() {
-      return ki;
-    }, get Size() {
-      return Ri;
-    }, get BooleanSwitcher() {
       return Ai;
-    }, get Text() {
+    }, get Size() {
       return Ci;
-    }, get ColorPicker() {
+    }, get BooleanSwitcher() {
       return Ii;
-    }, get Dropdown() {
+    }, get Text() {
       return Mi;
+    }, get ColorPicker() {
+      return Li;
+    }, get Dropdown() {
+      return Di;
     }, get Button() {
-      return Vs;
+      return Xs;
     } };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
-}, cl = { class: "vue-lab__control-block" }, _l = { class: "vue-lab__control-block__header" }, ul = { class: "vue-lab__control-block__header-ctrl" }, dl = { class: "vue-lab__control-block__body custom-scroll" };
-function pl(s, t, n, e, i, r) {
-  return R(), $("div", cl, [
-    C("div", _l, [
-      t[1] || (t[1] = C(
+}, hl = { class: "vue-lab__control-block" }, gl = { class: "vue-lab__control-block__header" }, bl = { class: "vue-lab__control-block__header-ctrl" }, ml = { class: "vue-lab__control-block__body custom-scroll" };
+function vl(s, t, n, e, i, a) {
+  return k(), $("div", hl, [
+    L("div", gl, [
+      t[1] || (t[1] = L(
         "div",
         { class: "vue-lab__control-block__header-title" },
         "Controls",
         -1
         /* CACHED */
       )),
-      C("div", ul, [
-        ye(e.Button, { onClick: e.resetSettings }, {
+      L("div", bl, [
+        we(e.Button, { onClick: e.resetSettings }, {
           default: ge(() => [...t[0] || (t[0] = [
-            Ge(
+            Ue(
               "Reset",
               -1
               /* CACHED */
@@ -1601,11 +1649,11 @@ function pl(s, t, n, e, i, r) {
         })
       ])
     ]),
-    C("div", dl, [
-      (R(!0), $(
-        be,
+    L("div", ml, [
+      (k(!0), $(
+        pe,
         null,
-        xe(n.options, (l, o) => (R(), j(ft(e.componentsMap[l.ctrl]), {
+        ve(n.options, (l, o) => (k(), V(at(e.componentsMap[l.ctrl]), {
           key: `ctrl-${l.ctrl}-${o}`,
           options: l.variants,
           title: l.title,
@@ -1618,25 +1666,25 @@ function pl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const ea = /* @__PURE__ */ te(ll, [["render", pl], ["__scopeId", "data-v-25497d41"], ["__file", "./index.vue"]]), fl = {
+const na = /* @__PURE__ */ te(fl, [["render", vl], ["__scopeId", "data-v-25497d41"], ["__file", "./index.vue"]]), El = {
   __name: "index",
   props: {
     isControls: { type: Boolean, default: () => !0 }
   },
   setup(s, { expose: t }) {
-    t(), ri((r) => ({
+    t(), ri((a) => ({
       "036062d8-gridTemplate": e.value
     }));
-    const n = s, e = B(() => n.isControls ? "1fr 300px" : "1fr"), i = { props: n, gridTemplate: e, computed: B };
+    const n = s, e = P(() => n.isControls ? "1fr 300px" : "1fr"), i = { props: n, gridTemplate: e, computed: P };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, hl = { class: "vue-lab" };
-function gl(s, t, n, e, i, r) {
-  return R(), $("div", hl, [
+}, yl = { class: "vue-lab" };
+function wl(s, t, n, e, i, a) {
+  return k(), $("div", yl, [
     st(s.$slots, "default", {}, void 0, !0)
   ]);
 }
-const _i = /* @__PURE__ */ te(fl, [["render", gl], ["__scopeId", "data-v-036062d8"], ["__file", "./index.vue"]]), bl = {
+const ui = /* @__PURE__ */ te(El, [["render", wl], ["__scopeId", "data-v-036062d8"], ["__file", "./index.vue"]]), xl = {
   __name: "index",
   props: {
     num: {
@@ -1651,13 +1699,13 @@ const _i = /* @__PURE__ */ te(fl, [["render", gl], ["__scopeId", "data-v-036062d
     } };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, ml = { class: "vue-lab__divider" };
-function vl(s, t, n, e, i, r) {
-  return R(), $("div", ml, [
-    (R(!0), $(
-      be,
+}, Nl = { class: "vue-lab__divider" };
+function Ol(s, t, n, e, i, a) {
+  return k(), $("div", Nl, [
+    (k(!0), $(
+      pe,
       null,
-      xe(e.dotsArray, (l) => (R(), $("div", {
+      ve(e.dotsArray, (l) => (k(), $("div", {
         key: e.generateKey(l),
         class: "vue-lab__divider-dot"
       }))),
@@ -1666,7 +1714,7 @@ function vl(s, t, n, e, i, r) {
     ))
   ]);
 }
-const $t = /* @__PURE__ */ te(bl, [["render", vl], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "./index.vue"]]), El = {
+const $t = /* @__PURE__ */ te(xl, [["render", Ol], ["__scopeId", "data-v-a2d7e9c1"], ["__file", "./index.vue"]]), Sl = {
   __name: "Palette",
   props: {
     title: { type: String, default: () => "Palette" },
@@ -1676,30 +1724,30 @@ const $t = /* @__PURE__ */ te(bl, [["render", vl], ["__scopeId", "data-v-a2d7e9c
     t(), ri((o) => ({
       "17706230-columns": i.value
     }));
-    const n = s, e = n.colors.sort((o, _) => o.index < _.index), i = B(() => e.map((o) => o.isBase ? "2fr" : "1fr").join(" ")), l = { props: n, sortedList: e, columns: i, copyToClipboard: async (o) => {
+    const n = s, e = n.colors.sort((o, _) => o.index < _.index), i = P(() => e.map((o) => o.isBase ? "2fr" : "1fr").join(" ")), l = { props: n, sortedList: e, columns: i, copyToClipboard: async (o) => {
       try {
         await navigator.clipboard.writeText(o);
       } catch (_) {
         console.error("Failed to copy: ", _);
       }
-    }, computed: B };
+    }, computed: P };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
-}, yl = { class: "vue-lab__palette" }, wl = { class: "vue-lab__palette-title" }, xl = { class: "vue-lab__palette-colors" }, Nl = ["onClick"], Ol = { class: "vue-lab__palette-color-item__title" };
-function Tl(s, t, n, e, i, r) {
-  return R(), $("div", yl, [
-    C(
+}, Tl = { class: "vue-lab__palette" }, kl = { class: "vue-lab__palette-title" }, Rl = { class: "vue-lab__palette-colors" }, Al = ["onClick"], Cl = { class: "vue-lab__palette-color-item__title" };
+function Il(s, t, n, e, i, a) {
+  return k(), $("div", Tl, [
+    L(
       "div",
-      wl,
-      re(n.title),
+      kl,
+      ae(n.title),
       1
       /* TEXT */
     ),
-    C("div", xl, [
-      (R(!0), $(
-        be,
+    L("div", Rl, [
+      (k(!0), $(
+        pe,
         null,
-        xe(e.sortedList, (l, o) => (R(), $(
+        ve(e.sortedList, (l, o) => (k(), $(
           "div",
           {
             style: Ze(`--i:${o}`),
@@ -1707,15 +1755,15 @@ function Tl(s, t, n, e, i, r) {
             class: "vue-lab__palette-color-item"
           },
           [
-            C("div", {
+            L("div", {
               style: Ze({ backgroundColor: l.value }),
               class: "vue-lab__palette-color-item__bg",
               onClick: (_) => e.copyToClipboard(l.value)
-            }, null, 12, Nl),
-            C(
+            }, null, 12, Al),
+            L(
               "div",
-              Ol,
-              re(`${l.name}${l.isBase ? " (Base)" : ""}`),
+              Cl,
+              ae(`${l.name}${l.isBase ? " (Base)" : ""}`),
               1
               /* TEXT */
             )
@@ -1729,7 +1777,7 @@ function Tl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Sl = /* @__PURE__ */ te(El, [["render", Tl], ["__scopeId", "data-v-17706230"], ["__file", "./Palette.vue"]]), kl = {
+const Ml = /* @__PURE__ */ te(Sl, [["render", Il], ["__scopeId", "data-v-17706230"], ["__file", "./Palette.vue"]]), Ll = {
   __name: "index",
   props: {
     title: { type: String, default: () => "palette" },
@@ -1737,27 +1785,27 @@ const Sl = /* @__PURE__ */ te(El, [["render", Tl], ["__scopeId", "data-v-1770623
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = B(() => [...new Set(n.options.map((l) => l.colorGroupName))].map((l) => ({
+    const n = s, e = P(() => [...new Set(n.options.map((l) => l.colorGroupName))].map((l) => ({
       title: l,
       colors: n.options.filter((o) => o.colorGroupName == l)
-    }))), i = { props: n, pallets: e, computed: B, Palette: Sl };
+    }))), i = { props: n, pallets: e, computed: P, Palette: Ml };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, Rl = { class: "vue-lab__color-block" }, Al = { class: "vue-lab__color-block__title" }, Cl = { class: "vue-lab__color-block__content" };
-function Il(s, t, n, e, i, r) {
-  return R(), $("div", Rl, [
-    C(
+}, Dl = { class: "vue-lab__color-block" }, Bl = { class: "vue-lab__color-block__title" }, Pl = { class: "vue-lab__color-block__content" };
+function Ul(s, t, n, e, i, a) {
+  return k(), $("div", Dl, [
+    L(
       "div",
-      Al,
-      re(n.title),
+      Bl,
+      ae(n.title),
       1
       /* TEXT */
     ),
-    C("div", Cl, [
-      (R(!0), $(
-        be,
+    L("div", Pl, [
+      (k(!0), $(
+        pe,
         null,
-        xe(e.pallets, (l, o) => (R(), j(e.Palette, {
+        ve(e.pallets, (l, o) => (k(), V(e.Palette, {
           key: `palette-${l.title}-${o}`,
           title: l.title,
           colors: l.colors
@@ -1768,7 +1816,7 @@ function Il(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Ml = /* @__PURE__ */ te(kl, [["render", Il], ["__scopeId", "data-v-9831151a"], ["__file", "./index.vue"]]), Ll = {
+const $l = /* @__PURE__ */ te(Ll, [["render", Ul], ["__scopeId", "data-v-9831151a"], ["__file", "./index.vue"]]), zl = {
   __name: "group",
   props: {
     option: { type: Object, default: () => ({}) },
@@ -1784,45 +1832,45 @@ const Ml = /* @__PURE__ */ te(kl, [["render", Il], ["__scopeId", "data-v-9831151
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
-}, Dl = { class: "vue-lab-home-page__group" }, Bl = {
+}, Fl = { class: "vue-lab-home-page__group" }, Kl = {
   key: 0,
   class: "vue-lab-home-page__group-name"
-}, Pl = {
+}, Gl = {
   key: 1,
   class: "vue-lab-home-page__group-description"
-}, Ul = { class: "vue-lab-home-page__group-body" };
-function $l(s, t, n, e, i, r) {
+}, ql = { class: "vue-lab-home-page__group-body" };
+function Wl(s, t, n, e, i, a) {
   const l = Ut("router-link");
-  return R(), $("div", Dl, [
-    n.option?.name || n.isGroup ? (R(), $(
+  return k(), $("div", Fl, [
+    n.option?.name || n.isGroup ? (k(), $(
       "div",
-      Bl,
-      re(n.isGroup ? n.option.name || "Other components" : ""),
+      Kl,
+      ae(n.isGroup ? n.option.name || "Other components" : ""),
       1
       /* TEXT */
-    )) : ne("v-if", !0),
-    n.option?.description ? (R(), $(
+    )) : ee("v-if", !0),
+    n.option?.description ? (k(), $(
       "div",
-      Pl,
-      re(n.option.description || ""),
+      Gl,
+      ae(n.option.description || ""),
       1
       /* TEXT */
-    )) : ne("v-if", !0),
-    C("div", Ul, [
-      (R(!0), $(
-        be,
+    )) : ee("v-if", !0),
+    L("div", ql, [
+      (k(!0), $(
+        pe,
         null,
-        xe(n.option.items, (o) => (R(), $("div", {
+        ve(n.option.items, (o) => (k(), $("div", {
           key: e.generateKey(o),
           class: "vue-lab-home-page__group-body-item"
         }, [
-          ye(l, {
+          we(l, {
             to: `/${o.name}`,
             class: "vue-lab-home-page__group-body-link"
           }, {
             default: ge(() => [
-              Ge(
-                re(o.name),
+              Ue(
+                ae(o.name),
                 1
                 /* TEXT */
               )
@@ -1835,10 +1883,10 @@ function $l(s, t, n, e, i, r) {
         /* KEYED_FRAGMENT */
       ))
     ]),
-    n.isLast ? ne("v-if", !0) : (R(), j(e.Divider, { key: 2 }))
+    n.isLast ? ee("v-if", !0) : (k(), V(e.Divider, { key: 2 }))
   ]);
 }
-const zl = /* @__PURE__ */ te(Ll, [["render", $l], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "./group.vue"]]), Fl = {
+const Hl = /* @__PURE__ */ te(zl, [["render", Wl], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "./group.vue"]]), jl = {
   __name: "index",
   props: {
     components: { type: Object, default: () => ({}) },
@@ -1851,40 +1899,40 @@ const zl = /* @__PURE__ */ te(Ll, [["render", $l], ["__scopeId", "data-v-d6fe0cc
     t();
     const n = s, e = Y(""), i = (u) => {
       e.value = u;
-    }, r = B(() => n.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), l = B(() => !o.value.some((u) => u.items.length)), o = B(() => {
-      const u = n.menu.map((T) => T.group), p = [...new Set(u)].filter((T) => T && T.length), m = (T) => !e.value || !e.value.length ? !0 : T.name.toLowerCase().includes(e.value.toLowerCase()), N = p.map((T) => {
-        const d = n.menuGroupsDescription ? n.menuGroupsDescription[T] : null;
+    }, a = P(() => n.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), l = P(() => !o.value.some((u) => u.items.length)), o = P(() => {
+      const u = n.menu.map((S) => S.group), p = [...new Set(u)].filter((S) => S && S.length), m = (S) => !e.value || !e.value.length ? !0 : S.name.toLowerCase().includes(e.value.toLowerCase()), w = p.map((S) => {
+        const d = n.menuGroupsDescription ? n.menuGroupsDescription[S] : null;
         return {
-          name: T,
+          name: S,
           description: d,
-          items: n.menu.filter((c) => c.group === T).filter(m)
+          items: n.menu.filter((c) => c.group === S).filter(m)
         };
-      }), O = {
+      }), x = {
         name: null,
         description: null,
-        items: n.menu.filter((T) => !T.group || !T.group.length).filter(m)
+        items: n.menu.filter((S) => !S.group || !S.group.length).filter(m)
       };
-      return [...N, O];
-    }), _ = B(() => n.menu.some((u) => u.group && u.group.length)), g = { props: n, searchQuery: e, handleTextInput: i, pageDiscription: r, isEmptySearch: l, menuItems: o, isGroup: _, computed: B, ref: Y, Group: zl, get generateKey() {
+      return [...w, x];
+    }), _ = P(() => n.menu.some((u) => u.group && u.group.length)), g = { props: n, searchQuery: e, handleTextInput: i, pageDiscription: a, isEmptySearch: l, menuItems: o, isGroup: _, computed: P, ref: Y, Group: Hl, get generateKey() {
       return Ye;
     }, get LabIcon() {
-      return Qs;
+      return ea;
     }, get Search() {
-      return li;
-    }, get EmptyScreen() {
       return ci;
+    }, get EmptyScreen() {
+      return _i;
     } };
     return Object.defineProperty(g, "__isScriptSetup", { enumerable: !1, value: !0 }), g;
   }
-}, Kl = { class: "vue-lab-home-page" }, Gl = { class: "vue-lab-home-page__header" }, ql = { class: "vue-lab-home-page__title" }, Wl = { class: "vue-lab-home-page__title-icon" }, Hl = { class: "vue-lab-home-page__description" }, jl = { class: "vue-lab-home-page__search" }, Vl = { class: "vue-lab-home-page__menu custom-scroll--simple" };
-function Zl(s, t, n, e, i, r) {
-  return R(), $("div", Kl, [
-    C("div", Gl, [
-      C("div", ql, [
-        C("div", Wl, [
-          ye(e.LabIcon)
+}, Vl = { class: "vue-lab-home-page" }, Zl = { class: "vue-lab-home-page__header" }, Xl = { class: "vue-lab-home-page__title" }, Yl = { class: "vue-lab-home-page__title-icon" }, Ql = { class: "vue-lab-home-page__description" }, Jl = { class: "vue-lab-home-page__search" }, ec = { class: "vue-lab-home-page__menu custom-scroll--simple" };
+function tc(s, t, n, e, i, a) {
+  return k(), $("div", Vl, [
+    L("div", Zl, [
+      L("div", Xl, [
+        L("div", Yl, [
+          we(e.LabIcon)
         ]),
-        t[0] || (t[0] = C(
+        t[0] || (t[0] = L(
           "div",
           { class: "vue-lab-home-page__title-text" },
           " Vue Lab ",
@@ -1892,36 +1940,36 @@ function Zl(s, t, n, e, i, r) {
           /* CACHED */
         ))
       ]),
-      C(
+      L(
         "div",
-        Hl,
-        re(e.pageDiscription),
+        Ql,
+        ae(e.pageDiscription),
         1
         /* TEXT */
       )
     ]),
-    C("div", jl, [
-      ye(e.Search, { onInput: e.handleTextInput })
+    L("div", Jl, [
+      we(e.Search, { onInput: e.handleTextInput })
     ]),
-    C("div", Vl, [
-      e.isEmptySearch ? (R(), j(e.EmptyScreen, {
+    L("div", ec, [
+      e.isEmptySearch ? (k(), V(e.EmptyScreen, {
         key: 0,
         size: "lg"
       }, {
         default: ge(() => [...t[1] || (t[1] = [
-          Ge(
+          Ue(
             " Components not found. ",
             -1
             /* CACHED */
           ),
-          C(
+          L(
             "br",
             null,
             null,
             -1
             /* CACHED */
           ),
-          Ge(
+          Ue(
             "Try to change the search query. ",
             -1
             /* CACHED */
@@ -1929,19 +1977,19 @@ function Zl(s, t, n, e, i, r) {
         ])]),
         _: 1
         /* STABLE */
-      })) : (R(!0), $(
-        be,
+      })) : (k(!0), $(
+        pe,
         { key: 1 },
-        xe(e.menuItems, (l, o) => (R(), $(
-          be,
+        ve(e.menuItems, (l, o) => (k(), $(
+          pe,
           null,
           [
-            l.items?.length ? (R(), j(e.Group, {
+            l.items?.length ? (k(), V(e.Group, {
               key: e.generateKey(l),
               option: l,
               isGroup: e.isGroup,
               isLast: o == e.menuItems.length - 1
-            }, null, 8, ["option", "isGroup", "isLast"])) : ne("v-if", !0)
+            }, null, 8, ["option", "isGroup", "isLast"])) : ee("v-if", !0)
           ],
           64
           /* STABLE_FRAGMENT */
@@ -1952,8 +2000,8 @@ function Zl(s, t, n, e, i, r) {
     ])
   ]);
 }
-const Xl = /* @__PURE__ */ te(Fl, [["render", Zl], ["__scopeId", "data-v-c75a0f45"], ["__file", "./index.vue"]]);
-async function Yl(s, t) {
+const nc = /* @__PURE__ */ te(jl, [["render", tc], ["__scopeId", "data-v-c75a0f45"], ["__file", "./index.vue"]]);
+async function ic(s, t) {
   try {
     const n = await import(
       /* @vite-ignore */
@@ -1964,13 +2012,13 @@ async function Yl(s, t) {
     return console.log(n), console.warn(`⚠️ Config not found ${s}`), {};
   }
 }
-function Ql(s) {
+function sc(s) {
   return s && s.__esModule && Object.prototype.hasOwnProperty.call(s, "default") ? s.default : s;
 }
-var nn = { exports: {} }, ut = {}, At = { exports: {} }, sn = {}, an = {}, Li;
-function ui() {
-  if (Li) return an;
-  Li = 1;
+var nn = { exports: {} }, dt = {}, At = { exports: {} }, sn = {}, an = {}, Bi;
+function di() {
+  if (Bi) return an;
+  Bi = 1;
   function s(e) {
     this.__parent = e, this.__character_count = 0, this.__indent_count = -1, this.__alignment_count = 0, this.__wrap_point_index = 0, this.__wrap_point_character_count = 0, this.__wrap_point_indent_count = -1, this.__wrap_point_alignment_count = 0, this.__items = [];
   }
@@ -2024,17 +2072,17 @@ function ui() {
     this.__cache = [""], this.__indent_size = e.indent_size, this.__indent_string = e.indent_char, e.indent_with_tabs || (this.__indent_string = new Array(e.indent_size + 1).join(e.indent_char)), i = i || "", e.indent_level > 0 && (i = new Array(e.indent_level + 1).join(this.__indent_string)), this.__base_string = i, this.__base_string_length = i.length;
   }
   t.prototype.get_indent_size = function(e, i) {
-    var r = this.__base_string_length;
-    return i = i || 0, e < 0 && (r = 0), r += e * this.__indent_size, r += i, r;
+    var a = this.__base_string_length;
+    return i = i || 0, e < 0 && (a = 0), a += e * this.__indent_size, a += i, a;
   }, t.prototype.get_indent_string = function(e, i) {
-    var r = this.__base_string;
-    return i = i || 0, e < 0 && (e = 0, r = ""), i += e * this.__indent_size, this.__ensure_cache(i), r += this.__cache[i], r;
+    var a = this.__base_string;
+    return i = i || 0, e < 0 && (e = 0, a = ""), i += e * this.__indent_size, this.__ensure_cache(i), a += this.__cache[i], a;
   }, t.prototype.__ensure_cache = function(e) {
     for (; e >= this.__cache.length; )
       this.__add_column();
   }, t.prototype.__add_column = function() {
-    var e = this.__cache.length, i = 0, r = "";
-    this.__indent_size && e >= this.__indent_size && (i = Math.floor(e / this.__indent_size), e -= i * this.__indent_size, r = new Array(i + 1).join(this.__indent_string)), e && (r += new Array(e + 1).join(" ")), this.__cache.push(r);
+    var e = this.__cache.length, i = 0, a = "";
+    this.__indent_size && e >= this.__indent_size && (i = Math.floor(e / this.__indent_size), e -= i * this.__indent_size, a = new Array(i + 1).join(this.__indent_string)), e && (a += new Array(e + 1).join(" ")), this.__cache.push(a);
   };
   function n(e, i) {
     this.__indent_cache = new t(e, i), this.raw = !1, this._end_with_newline = e.end_with_newline, this.indent_size = e.indent_size, this.wrap_line_length = e.wrap_line_length, this.indent_empty_lines = e.indent_empty_lines, this.__lines = [], this.previous_line = null, this.current_line = null, this.next_line = new s(this), this.space_before_token = !1, this.non_breaking_space = !1, this.previous_token_wrapped = !1, this.__add_outputline();
@@ -2056,10 +2104,10 @@ function ui() {
     var i = this.current_line.pop();
     i && (i[i.length - 1] === `
 ` && (i = i.replace(/\n+$/g, "")), this.current_line.push(i)), this._end_with_newline && this.__add_outputline();
-    var r = this.__lines.join(`
+    var a = this.__lines.join(`
 `);
     return e !== `
-` && (r = r.replace(/[\n]/g, e)), r;
+` && (a = a.replace(/[\n]/g, e)), a;
   }, n.prototype.set_wrap_point = function() {
     this.current_line._set_wrap_point();
   }, n.prototype.set_indent = function(e, i) {
@@ -2085,59 +2133,59 @@ function ui() {
   }, n.prototype.just_added_blankline = function() {
     return this.is_empty() || this.current_line.is_empty() && this.previous_line.is_empty();
   }, n.prototype.ensure_empty_line_above = function(e, i) {
-    for (var r = this.__lines.length - 2; r >= 0; ) {
-      var l = this.__lines[r];
+    for (var a = this.__lines.length - 2; a >= 0; ) {
+      var l = this.__lines[a];
       if (l.is_empty())
         break;
       if (l.item(0).indexOf(e) !== 0 && l.item(-1) !== i) {
-        this.__lines.splice(r + 1, 0, new s(this)), this.previous_line = this.__lines[this.__lines.length - 2];
+        this.__lines.splice(a + 1, 0, new s(this)), this.previous_line = this.__lines[this.__lines.length - 2];
         break;
       }
-      r--;
+      a--;
     }
   }, an.Output = n, an;
 }
-var rn = {}, Di;
-function ta() {
-  if (Di) return rn;
-  Di = 1;
+var rn = {}, Pi;
+function ia() {
+  if (Pi) return rn;
+  Pi = 1;
   function s(t, n, e, i) {
     this.type = t, this.text = n, this.comments_before = null, this.newlines = e || 0, this.whitespace_before = i || "", this.parent = null, this.next = null, this.previous = null, this.opened = null, this.closed = null, this.directives = null;
   }
   return rn.Token = s, rn;
 }
-var on = {}, Bi;
-function na() {
-  return Bi || (Bi = 1, (function(s) {
-    var t = "\\x23\\x24\\x40\\x41-\\x5a\\x5f\\x61-\\x7a", n = "\\x24\\x30-\\x39\\x41-\\x5a\\x5f\\x61-\\x7a", e = "\\xaa\\xb5\\xba\\xc0-\\xd6\\xd8-\\xf6\\xf8-\\u02c1\\u02c6-\\u02d1\\u02e0-\\u02e4\\u02ec\\u02ee\\u0370-\\u0374\\u0376\\u0377\\u037a-\\u037d\\u0386\\u0388-\\u038a\\u038c\\u038e-\\u03a1\\u03a3-\\u03f5\\u03f7-\\u0481\\u048a-\\u0527\\u0531-\\u0556\\u0559\\u0561-\\u0587\\u05d0-\\u05ea\\u05f0-\\u05f2\\u0620-\\u064a\\u066e\\u066f\\u0671-\\u06d3\\u06d5\\u06e5\\u06e6\\u06ee\\u06ef\\u06fa-\\u06fc\\u06ff\\u0710\\u0712-\\u072f\\u074d-\\u07a5\\u07b1\\u07ca-\\u07ea\\u07f4\\u07f5\\u07fa\\u0800-\\u0815\\u081a\\u0824\\u0828\\u0840-\\u0858\\u08a0\\u08a2-\\u08ac\\u0904-\\u0939\\u093d\\u0950\\u0958-\\u0961\\u0971-\\u0977\\u0979-\\u097f\\u0985-\\u098c\\u098f\\u0990\\u0993-\\u09a8\\u09aa-\\u09b0\\u09b2\\u09b6-\\u09b9\\u09bd\\u09ce\\u09dc\\u09dd\\u09df-\\u09e1\\u09f0\\u09f1\\u0a05-\\u0a0a\\u0a0f\\u0a10\\u0a13-\\u0a28\\u0a2a-\\u0a30\\u0a32\\u0a33\\u0a35\\u0a36\\u0a38\\u0a39\\u0a59-\\u0a5c\\u0a5e\\u0a72-\\u0a74\\u0a85-\\u0a8d\\u0a8f-\\u0a91\\u0a93-\\u0aa8\\u0aaa-\\u0ab0\\u0ab2\\u0ab3\\u0ab5-\\u0ab9\\u0abd\\u0ad0\\u0ae0\\u0ae1\\u0b05-\\u0b0c\\u0b0f\\u0b10\\u0b13-\\u0b28\\u0b2a-\\u0b30\\u0b32\\u0b33\\u0b35-\\u0b39\\u0b3d\\u0b5c\\u0b5d\\u0b5f-\\u0b61\\u0b71\\u0b83\\u0b85-\\u0b8a\\u0b8e-\\u0b90\\u0b92-\\u0b95\\u0b99\\u0b9a\\u0b9c\\u0b9e\\u0b9f\\u0ba3\\u0ba4\\u0ba8-\\u0baa\\u0bae-\\u0bb9\\u0bd0\\u0c05-\\u0c0c\\u0c0e-\\u0c10\\u0c12-\\u0c28\\u0c2a-\\u0c33\\u0c35-\\u0c39\\u0c3d\\u0c58\\u0c59\\u0c60\\u0c61\\u0c85-\\u0c8c\\u0c8e-\\u0c90\\u0c92-\\u0ca8\\u0caa-\\u0cb3\\u0cb5-\\u0cb9\\u0cbd\\u0cde\\u0ce0\\u0ce1\\u0cf1\\u0cf2\\u0d05-\\u0d0c\\u0d0e-\\u0d10\\u0d12-\\u0d3a\\u0d3d\\u0d4e\\u0d60\\u0d61\\u0d7a-\\u0d7f\\u0d85-\\u0d96\\u0d9a-\\u0db1\\u0db3-\\u0dbb\\u0dbd\\u0dc0-\\u0dc6\\u0e01-\\u0e30\\u0e32\\u0e33\\u0e40-\\u0e46\\u0e81\\u0e82\\u0e84\\u0e87\\u0e88\\u0e8a\\u0e8d\\u0e94-\\u0e97\\u0e99-\\u0e9f\\u0ea1-\\u0ea3\\u0ea5\\u0ea7\\u0eaa\\u0eab\\u0ead-\\u0eb0\\u0eb2\\u0eb3\\u0ebd\\u0ec0-\\u0ec4\\u0ec6\\u0edc-\\u0edf\\u0f00\\u0f40-\\u0f47\\u0f49-\\u0f6c\\u0f88-\\u0f8c\\u1000-\\u102a\\u103f\\u1050-\\u1055\\u105a-\\u105d\\u1061\\u1065\\u1066\\u106e-\\u1070\\u1075-\\u1081\\u108e\\u10a0-\\u10c5\\u10c7\\u10cd\\u10d0-\\u10fa\\u10fc-\\u1248\\u124a-\\u124d\\u1250-\\u1256\\u1258\\u125a-\\u125d\\u1260-\\u1288\\u128a-\\u128d\\u1290-\\u12b0\\u12b2-\\u12b5\\u12b8-\\u12be\\u12c0\\u12c2-\\u12c5\\u12c8-\\u12d6\\u12d8-\\u1310\\u1312-\\u1315\\u1318-\\u135a\\u1380-\\u138f\\u13a0-\\u13f4\\u1401-\\u166c\\u166f-\\u167f\\u1681-\\u169a\\u16a0-\\u16ea\\u16ee-\\u16f0\\u1700-\\u170c\\u170e-\\u1711\\u1720-\\u1731\\u1740-\\u1751\\u1760-\\u176c\\u176e-\\u1770\\u1780-\\u17b3\\u17d7\\u17dc\\u1820-\\u1877\\u1880-\\u18a8\\u18aa\\u18b0-\\u18f5\\u1900-\\u191c\\u1950-\\u196d\\u1970-\\u1974\\u1980-\\u19ab\\u19c1-\\u19c7\\u1a00-\\u1a16\\u1a20-\\u1a54\\u1aa7\\u1b05-\\u1b33\\u1b45-\\u1b4b\\u1b83-\\u1ba0\\u1bae\\u1baf\\u1bba-\\u1be5\\u1c00-\\u1c23\\u1c4d-\\u1c4f\\u1c5a-\\u1c7d\\u1ce9-\\u1cec\\u1cee-\\u1cf1\\u1cf5\\u1cf6\\u1d00-\\u1dbf\\u1e00-\\u1f15\\u1f18-\\u1f1d\\u1f20-\\u1f45\\u1f48-\\u1f4d\\u1f50-\\u1f57\\u1f59\\u1f5b\\u1f5d\\u1f5f-\\u1f7d\\u1f80-\\u1fb4\\u1fb6-\\u1fbc\\u1fbe\\u1fc2-\\u1fc4\\u1fc6-\\u1fcc\\u1fd0-\\u1fd3\\u1fd6-\\u1fdb\\u1fe0-\\u1fec\\u1ff2-\\u1ff4\\u1ff6-\\u1ffc\\u2071\\u207f\\u2090-\\u209c\\u2102\\u2107\\u210a-\\u2113\\u2115\\u2119-\\u211d\\u2124\\u2126\\u2128\\u212a-\\u212d\\u212f-\\u2139\\u213c-\\u213f\\u2145-\\u2149\\u214e\\u2160-\\u2188\\u2c00-\\u2c2e\\u2c30-\\u2c5e\\u2c60-\\u2ce4\\u2ceb-\\u2cee\\u2cf2\\u2cf3\\u2d00-\\u2d25\\u2d27\\u2d2d\\u2d30-\\u2d67\\u2d6f\\u2d80-\\u2d96\\u2da0-\\u2da6\\u2da8-\\u2dae\\u2db0-\\u2db6\\u2db8-\\u2dbe\\u2dc0-\\u2dc6\\u2dc8-\\u2dce\\u2dd0-\\u2dd6\\u2dd8-\\u2dde\\u2e2f\\u3005-\\u3007\\u3021-\\u3029\\u3031-\\u3035\\u3038-\\u303c\\u3041-\\u3096\\u309d-\\u309f\\u30a1-\\u30fa\\u30fc-\\u30ff\\u3105-\\u312d\\u3131-\\u318e\\u31a0-\\u31ba\\u31f0-\\u31ff\\u3400-\\u4db5\\u4e00-\\u9fcc\\ua000-\\ua48c\\ua4d0-\\ua4fd\\ua500-\\ua60c\\ua610-\\ua61f\\ua62a\\ua62b\\ua640-\\ua66e\\ua67f-\\ua697\\ua6a0-\\ua6ef\\ua717-\\ua71f\\ua722-\\ua788\\ua78b-\\ua78e\\ua790-\\ua793\\ua7a0-\\ua7aa\\ua7f8-\\ua801\\ua803-\\ua805\\ua807-\\ua80a\\ua80c-\\ua822\\ua840-\\ua873\\ua882-\\ua8b3\\ua8f2-\\ua8f7\\ua8fb\\ua90a-\\ua925\\ua930-\\ua946\\ua960-\\ua97c\\ua984-\\ua9b2\\ua9cf\\uaa00-\\uaa28\\uaa40-\\uaa42\\uaa44-\\uaa4b\\uaa60-\\uaa76\\uaa7a\\uaa80-\\uaaaf\\uaab1\\uaab5\\uaab6\\uaab9-\\uaabd\\uaac0\\uaac2\\uaadb-\\uaadd\\uaae0-\\uaaea\\uaaf2-\\uaaf4\\uab01-\\uab06\\uab09-\\uab0e\\uab11-\\uab16\\uab20-\\uab26\\uab28-\\uab2e\\uabc0-\\uabe2\\uac00-\\ud7a3\\ud7b0-\\ud7c6\\ud7cb-\\ud7fb\\uf900-\\ufa6d\\ufa70-\\ufad9\\ufb00-\\ufb06\\ufb13-\\ufb17\\ufb1d\\ufb1f-\\ufb28\\ufb2a-\\ufb36\\ufb38-\\ufb3c\\ufb3e\\ufb40\\ufb41\\ufb43\\ufb44\\ufb46-\\ufbb1\\ufbd3-\\ufd3d\\ufd50-\\ufd8f\\ufd92-\\ufdc7\\ufdf0-\\ufdfb\\ufe70-\\ufe74\\ufe76-\\ufefc\\uff21-\\uff3a\\uff41-\\uff5a\\uff66-\\uffbe\\uffc2-\\uffc7\\uffca-\\uffcf\\uffd2-\\uffd7\\uffda-\\uffdc", i = "\\u0300-\\u036f\\u0483-\\u0487\\u0591-\\u05bd\\u05bf\\u05c1\\u05c2\\u05c4\\u05c5\\u05c7\\u0610-\\u061a\\u0620-\\u0649\\u0672-\\u06d3\\u06e7-\\u06e8\\u06fb-\\u06fc\\u0730-\\u074a\\u0800-\\u0814\\u081b-\\u0823\\u0825-\\u0827\\u0829-\\u082d\\u0840-\\u0857\\u08e4-\\u08fe\\u0900-\\u0903\\u093a-\\u093c\\u093e-\\u094f\\u0951-\\u0957\\u0962-\\u0963\\u0966-\\u096f\\u0981-\\u0983\\u09bc\\u09be-\\u09c4\\u09c7\\u09c8\\u09d7\\u09df-\\u09e0\\u0a01-\\u0a03\\u0a3c\\u0a3e-\\u0a42\\u0a47\\u0a48\\u0a4b-\\u0a4d\\u0a51\\u0a66-\\u0a71\\u0a75\\u0a81-\\u0a83\\u0abc\\u0abe-\\u0ac5\\u0ac7-\\u0ac9\\u0acb-\\u0acd\\u0ae2-\\u0ae3\\u0ae6-\\u0aef\\u0b01-\\u0b03\\u0b3c\\u0b3e-\\u0b44\\u0b47\\u0b48\\u0b4b-\\u0b4d\\u0b56\\u0b57\\u0b5f-\\u0b60\\u0b66-\\u0b6f\\u0b82\\u0bbe-\\u0bc2\\u0bc6-\\u0bc8\\u0bca-\\u0bcd\\u0bd7\\u0be6-\\u0bef\\u0c01-\\u0c03\\u0c46-\\u0c48\\u0c4a-\\u0c4d\\u0c55\\u0c56\\u0c62-\\u0c63\\u0c66-\\u0c6f\\u0c82\\u0c83\\u0cbc\\u0cbe-\\u0cc4\\u0cc6-\\u0cc8\\u0cca-\\u0ccd\\u0cd5\\u0cd6\\u0ce2-\\u0ce3\\u0ce6-\\u0cef\\u0d02\\u0d03\\u0d46-\\u0d48\\u0d57\\u0d62-\\u0d63\\u0d66-\\u0d6f\\u0d82\\u0d83\\u0dca\\u0dcf-\\u0dd4\\u0dd6\\u0dd8-\\u0ddf\\u0df2\\u0df3\\u0e34-\\u0e3a\\u0e40-\\u0e45\\u0e50-\\u0e59\\u0eb4-\\u0eb9\\u0ec8-\\u0ecd\\u0ed0-\\u0ed9\\u0f18\\u0f19\\u0f20-\\u0f29\\u0f35\\u0f37\\u0f39\\u0f41-\\u0f47\\u0f71-\\u0f84\\u0f86-\\u0f87\\u0f8d-\\u0f97\\u0f99-\\u0fbc\\u0fc6\\u1000-\\u1029\\u1040-\\u1049\\u1067-\\u106d\\u1071-\\u1074\\u1082-\\u108d\\u108f-\\u109d\\u135d-\\u135f\\u170e-\\u1710\\u1720-\\u1730\\u1740-\\u1750\\u1772\\u1773\\u1780-\\u17b2\\u17dd\\u17e0-\\u17e9\\u180b-\\u180d\\u1810-\\u1819\\u1920-\\u192b\\u1930-\\u193b\\u1951-\\u196d\\u19b0-\\u19c0\\u19c8-\\u19c9\\u19d0-\\u19d9\\u1a00-\\u1a15\\u1a20-\\u1a53\\u1a60-\\u1a7c\\u1a7f-\\u1a89\\u1a90-\\u1a99\\u1b46-\\u1b4b\\u1b50-\\u1b59\\u1b6b-\\u1b73\\u1bb0-\\u1bb9\\u1be6-\\u1bf3\\u1c00-\\u1c22\\u1c40-\\u1c49\\u1c5b-\\u1c7d\\u1cd0-\\u1cd2\\u1d00-\\u1dbe\\u1e01-\\u1f15\\u200c\\u200d\\u203f\\u2040\\u2054\\u20d0-\\u20dc\\u20e1\\u20e5-\\u20f0\\u2d81-\\u2d96\\u2de0-\\u2dff\\u3021-\\u3028\\u3099\\u309a\\ua640-\\ua66d\\ua674-\\ua67d\\ua69f\\ua6f0-\\ua6f1\\ua7f8-\\ua800\\ua806\\ua80b\\ua823-\\ua827\\ua880-\\ua881\\ua8b4-\\ua8c4\\ua8d0-\\ua8d9\\ua8f3-\\ua8f7\\ua900-\\ua909\\ua926-\\ua92d\\ua930-\\ua945\\ua980-\\ua983\\ua9b3-\\ua9c0\\uaa00-\\uaa27\\uaa40-\\uaa41\\uaa4c-\\uaa4d\\uaa50-\\uaa59\\uaa7b\\uaae0-\\uaae9\\uaaf2-\\uaaf3\\uabc0-\\uabe1\\uabec\\uabed\\uabf0-\\uabf9\\ufb20-\\ufb28\\ufe00-\\ufe0f\\ufe20-\\ufe26\\ufe33\\ufe34\\ufe4d-\\ufe4f\\uff10-\\uff19\\uff3f", r = "\\\\u[0-9a-fA-F]{4}|\\\\u\\{[0-9a-fA-F]+\\}", l = "(?:" + r + "|[" + t + e + "])", o = "(?:" + r + "|[" + n + e + i + "])*";
-    s.identifier = new RegExp(l + o, "g"), s.identifierStart = new RegExp(l), s.identifierMatch = new RegExp("(?:" + r + "|[" + n + e + i + "])+"), s.newline = /[\n\r\u2028\u2029]/, s.lineBreak = new RegExp(`\r
+var on = {}, Ui;
+function sa() {
+  return Ui || (Ui = 1, (function(s) {
+    var t = "\\x23\\x24\\x40\\x41-\\x5a\\x5f\\x61-\\x7a", n = "\\x24\\x30-\\x39\\x41-\\x5a\\x5f\\x61-\\x7a", e = "\\xaa\\xb5\\xba\\xc0-\\xd6\\xd8-\\xf6\\xf8-\\u02c1\\u02c6-\\u02d1\\u02e0-\\u02e4\\u02ec\\u02ee\\u0370-\\u0374\\u0376\\u0377\\u037a-\\u037d\\u0386\\u0388-\\u038a\\u038c\\u038e-\\u03a1\\u03a3-\\u03f5\\u03f7-\\u0481\\u048a-\\u0527\\u0531-\\u0556\\u0559\\u0561-\\u0587\\u05d0-\\u05ea\\u05f0-\\u05f2\\u0620-\\u064a\\u066e\\u066f\\u0671-\\u06d3\\u06d5\\u06e5\\u06e6\\u06ee\\u06ef\\u06fa-\\u06fc\\u06ff\\u0710\\u0712-\\u072f\\u074d-\\u07a5\\u07b1\\u07ca-\\u07ea\\u07f4\\u07f5\\u07fa\\u0800-\\u0815\\u081a\\u0824\\u0828\\u0840-\\u0858\\u08a0\\u08a2-\\u08ac\\u0904-\\u0939\\u093d\\u0950\\u0958-\\u0961\\u0971-\\u0977\\u0979-\\u097f\\u0985-\\u098c\\u098f\\u0990\\u0993-\\u09a8\\u09aa-\\u09b0\\u09b2\\u09b6-\\u09b9\\u09bd\\u09ce\\u09dc\\u09dd\\u09df-\\u09e1\\u09f0\\u09f1\\u0a05-\\u0a0a\\u0a0f\\u0a10\\u0a13-\\u0a28\\u0a2a-\\u0a30\\u0a32\\u0a33\\u0a35\\u0a36\\u0a38\\u0a39\\u0a59-\\u0a5c\\u0a5e\\u0a72-\\u0a74\\u0a85-\\u0a8d\\u0a8f-\\u0a91\\u0a93-\\u0aa8\\u0aaa-\\u0ab0\\u0ab2\\u0ab3\\u0ab5-\\u0ab9\\u0abd\\u0ad0\\u0ae0\\u0ae1\\u0b05-\\u0b0c\\u0b0f\\u0b10\\u0b13-\\u0b28\\u0b2a-\\u0b30\\u0b32\\u0b33\\u0b35-\\u0b39\\u0b3d\\u0b5c\\u0b5d\\u0b5f-\\u0b61\\u0b71\\u0b83\\u0b85-\\u0b8a\\u0b8e-\\u0b90\\u0b92-\\u0b95\\u0b99\\u0b9a\\u0b9c\\u0b9e\\u0b9f\\u0ba3\\u0ba4\\u0ba8-\\u0baa\\u0bae-\\u0bb9\\u0bd0\\u0c05-\\u0c0c\\u0c0e-\\u0c10\\u0c12-\\u0c28\\u0c2a-\\u0c33\\u0c35-\\u0c39\\u0c3d\\u0c58\\u0c59\\u0c60\\u0c61\\u0c85-\\u0c8c\\u0c8e-\\u0c90\\u0c92-\\u0ca8\\u0caa-\\u0cb3\\u0cb5-\\u0cb9\\u0cbd\\u0cde\\u0ce0\\u0ce1\\u0cf1\\u0cf2\\u0d05-\\u0d0c\\u0d0e-\\u0d10\\u0d12-\\u0d3a\\u0d3d\\u0d4e\\u0d60\\u0d61\\u0d7a-\\u0d7f\\u0d85-\\u0d96\\u0d9a-\\u0db1\\u0db3-\\u0dbb\\u0dbd\\u0dc0-\\u0dc6\\u0e01-\\u0e30\\u0e32\\u0e33\\u0e40-\\u0e46\\u0e81\\u0e82\\u0e84\\u0e87\\u0e88\\u0e8a\\u0e8d\\u0e94-\\u0e97\\u0e99-\\u0e9f\\u0ea1-\\u0ea3\\u0ea5\\u0ea7\\u0eaa\\u0eab\\u0ead-\\u0eb0\\u0eb2\\u0eb3\\u0ebd\\u0ec0-\\u0ec4\\u0ec6\\u0edc-\\u0edf\\u0f00\\u0f40-\\u0f47\\u0f49-\\u0f6c\\u0f88-\\u0f8c\\u1000-\\u102a\\u103f\\u1050-\\u1055\\u105a-\\u105d\\u1061\\u1065\\u1066\\u106e-\\u1070\\u1075-\\u1081\\u108e\\u10a0-\\u10c5\\u10c7\\u10cd\\u10d0-\\u10fa\\u10fc-\\u1248\\u124a-\\u124d\\u1250-\\u1256\\u1258\\u125a-\\u125d\\u1260-\\u1288\\u128a-\\u128d\\u1290-\\u12b0\\u12b2-\\u12b5\\u12b8-\\u12be\\u12c0\\u12c2-\\u12c5\\u12c8-\\u12d6\\u12d8-\\u1310\\u1312-\\u1315\\u1318-\\u135a\\u1380-\\u138f\\u13a0-\\u13f4\\u1401-\\u166c\\u166f-\\u167f\\u1681-\\u169a\\u16a0-\\u16ea\\u16ee-\\u16f0\\u1700-\\u170c\\u170e-\\u1711\\u1720-\\u1731\\u1740-\\u1751\\u1760-\\u176c\\u176e-\\u1770\\u1780-\\u17b3\\u17d7\\u17dc\\u1820-\\u1877\\u1880-\\u18a8\\u18aa\\u18b0-\\u18f5\\u1900-\\u191c\\u1950-\\u196d\\u1970-\\u1974\\u1980-\\u19ab\\u19c1-\\u19c7\\u1a00-\\u1a16\\u1a20-\\u1a54\\u1aa7\\u1b05-\\u1b33\\u1b45-\\u1b4b\\u1b83-\\u1ba0\\u1bae\\u1baf\\u1bba-\\u1be5\\u1c00-\\u1c23\\u1c4d-\\u1c4f\\u1c5a-\\u1c7d\\u1ce9-\\u1cec\\u1cee-\\u1cf1\\u1cf5\\u1cf6\\u1d00-\\u1dbf\\u1e00-\\u1f15\\u1f18-\\u1f1d\\u1f20-\\u1f45\\u1f48-\\u1f4d\\u1f50-\\u1f57\\u1f59\\u1f5b\\u1f5d\\u1f5f-\\u1f7d\\u1f80-\\u1fb4\\u1fb6-\\u1fbc\\u1fbe\\u1fc2-\\u1fc4\\u1fc6-\\u1fcc\\u1fd0-\\u1fd3\\u1fd6-\\u1fdb\\u1fe0-\\u1fec\\u1ff2-\\u1ff4\\u1ff6-\\u1ffc\\u2071\\u207f\\u2090-\\u209c\\u2102\\u2107\\u210a-\\u2113\\u2115\\u2119-\\u211d\\u2124\\u2126\\u2128\\u212a-\\u212d\\u212f-\\u2139\\u213c-\\u213f\\u2145-\\u2149\\u214e\\u2160-\\u2188\\u2c00-\\u2c2e\\u2c30-\\u2c5e\\u2c60-\\u2ce4\\u2ceb-\\u2cee\\u2cf2\\u2cf3\\u2d00-\\u2d25\\u2d27\\u2d2d\\u2d30-\\u2d67\\u2d6f\\u2d80-\\u2d96\\u2da0-\\u2da6\\u2da8-\\u2dae\\u2db0-\\u2db6\\u2db8-\\u2dbe\\u2dc0-\\u2dc6\\u2dc8-\\u2dce\\u2dd0-\\u2dd6\\u2dd8-\\u2dde\\u2e2f\\u3005-\\u3007\\u3021-\\u3029\\u3031-\\u3035\\u3038-\\u303c\\u3041-\\u3096\\u309d-\\u309f\\u30a1-\\u30fa\\u30fc-\\u30ff\\u3105-\\u312d\\u3131-\\u318e\\u31a0-\\u31ba\\u31f0-\\u31ff\\u3400-\\u4db5\\u4e00-\\u9fcc\\ua000-\\ua48c\\ua4d0-\\ua4fd\\ua500-\\ua60c\\ua610-\\ua61f\\ua62a\\ua62b\\ua640-\\ua66e\\ua67f-\\ua697\\ua6a0-\\ua6ef\\ua717-\\ua71f\\ua722-\\ua788\\ua78b-\\ua78e\\ua790-\\ua793\\ua7a0-\\ua7aa\\ua7f8-\\ua801\\ua803-\\ua805\\ua807-\\ua80a\\ua80c-\\ua822\\ua840-\\ua873\\ua882-\\ua8b3\\ua8f2-\\ua8f7\\ua8fb\\ua90a-\\ua925\\ua930-\\ua946\\ua960-\\ua97c\\ua984-\\ua9b2\\ua9cf\\uaa00-\\uaa28\\uaa40-\\uaa42\\uaa44-\\uaa4b\\uaa60-\\uaa76\\uaa7a\\uaa80-\\uaaaf\\uaab1\\uaab5\\uaab6\\uaab9-\\uaabd\\uaac0\\uaac2\\uaadb-\\uaadd\\uaae0-\\uaaea\\uaaf2-\\uaaf4\\uab01-\\uab06\\uab09-\\uab0e\\uab11-\\uab16\\uab20-\\uab26\\uab28-\\uab2e\\uabc0-\\uabe2\\uac00-\\ud7a3\\ud7b0-\\ud7c6\\ud7cb-\\ud7fb\\uf900-\\ufa6d\\ufa70-\\ufad9\\ufb00-\\ufb06\\ufb13-\\ufb17\\ufb1d\\ufb1f-\\ufb28\\ufb2a-\\ufb36\\ufb38-\\ufb3c\\ufb3e\\ufb40\\ufb41\\ufb43\\ufb44\\ufb46-\\ufbb1\\ufbd3-\\ufd3d\\ufd50-\\ufd8f\\ufd92-\\ufdc7\\ufdf0-\\ufdfb\\ufe70-\\ufe74\\ufe76-\\ufefc\\uff21-\\uff3a\\uff41-\\uff5a\\uff66-\\uffbe\\uffc2-\\uffc7\\uffca-\\uffcf\\uffd2-\\uffd7\\uffda-\\uffdc", i = "\\u0300-\\u036f\\u0483-\\u0487\\u0591-\\u05bd\\u05bf\\u05c1\\u05c2\\u05c4\\u05c5\\u05c7\\u0610-\\u061a\\u0620-\\u0649\\u0672-\\u06d3\\u06e7-\\u06e8\\u06fb-\\u06fc\\u0730-\\u074a\\u0800-\\u0814\\u081b-\\u0823\\u0825-\\u0827\\u0829-\\u082d\\u0840-\\u0857\\u08e4-\\u08fe\\u0900-\\u0903\\u093a-\\u093c\\u093e-\\u094f\\u0951-\\u0957\\u0962-\\u0963\\u0966-\\u096f\\u0981-\\u0983\\u09bc\\u09be-\\u09c4\\u09c7\\u09c8\\u09d7\\u09df-\\u09e0\\u0a01-\\u0a03\\u0a3c\\u0a3e-\\u0a42\\u0a47\\u0a48\\u0a4b-\\u0a4d\\u0a51\\u0a66-\\u0a71\\u0a75\\u0a81-\\u0a83\\u0abc\\u0abe-\\u0ac5\\u0ac7-\\u0ac9\\u0acb-\\u0acd\\u0ae2-\\u0ae3\\u0ae6-\\u0aef\\u0b01-\\u0b03\\u0b3c\\u0b3e-\\u0b44\\u0b47\\u0b48\\u0b4b-\\u0b4d\\u0b56\\u0b57\\u0b5f-\\u0b60\\u0b66-\\u0b6f\\u0b82\\u0bbe-\\u0bc2\\u0bc6-\\u0bc8\\u0bca-\\u0bcd\\u0bd7\\u0be6-\\u0bef\\u0c01-\\u0c03\\u0c46-\\u0c48\\u0c4a-\\u0c4d\\u0c55\\u0c56\\u0c62-\\u0c63\\u0c66-\\u0c6f\\u0c82\\u0c83\\u0cbc\\u0cbe-\\u0cc4\\u0cc6-\\u0cc8\\u0cca-\\u0ccd\\u0cd5\\u0cd6\\u0ce2-\\u0ce3\\u0ce6-\\u0cef\\u0d02\\u0d03\\u0d46-\\u0d48\\u0d57\\u0d62-\\u0d63\\u0d66-\\u0d6f\\u0d82\\u0d83\\u0dca\\u0dcf-\\u0dd4\\u0dd6\\u0dd8-\\u0ddf\\u0df2\\u0df3\\u0e34-\\u0e3a\\u0e40-\\u0e45\\u0e50-\\u0e59\\u0eb4-\\u0eb9\\u0ec8-\\u0ecd\\u0ed0-\\u0ed9\\u0f18\\u0f19\\u0f20-\\u0f29\\u0f35\\u0f37\\u0f39\\u0f41-\\u0f47\\u0f71-\\u0f84\\u0f86-\\u0f87\\u0f8d-\\u0f97\\u0f99-\\u0fbc\\u0fc6\\u1000-\\u1029\\u1040-\\u1049\\u1067-\\u106d\\u1071-\\u1074\\u1082-\\u108d\\u108f-\\u109d\\u135d-\\u135f\\u170e-\\u1710\\u1720-\\u1730\\u1740-\\u1750\\u1772\\u1773\\u1780-\\u17b2\\u17dd\\u17e0-\\u17e9\\u180b-\\u180d\\u1810-\\u1819\\u1920-\\u192b\\u1930-\\u193b\\u1951-\\u196d\\u19b0-\\u19c0\\u19c8-\\u19c9\\u19d0-\\u19d9\\u1a00-\\u1a15\\u1a20-\\u1a53\\u1a60-\\u1a7c\\u1a7f-\\u1a89\\u1a90-\\u1a99\\u1b46-\\u1b4b\\u1b50-\\u1b59\\u1b6b-\\u1b73\\u1bb0-\\u1bb9\\u1be6-\\u1bf3\\u1c00-\\u1c22\\u1c40-\\u1c49\\u1c5b-\\u1c7d\\u1cd0-\\u1cd2\\u1d00-\\u1dbe\\u1e01-\\u1f15\\u200c\\u200d\\u203f\\u2040\\u2054\\u20d0-\\u20dc\\u20e1\\u20e5-\\u20f0\\u2d81-\\u2d96\\u2de0-\\u2dff\\u3021-\\u3028\\u3099\\u309a\\ua640-\\ua66d\\ua674-\\ua67d\\ua69f\\ua6f0-\\ua6f1\\ua7f8-\\ua800\\ua806\\ua80b\\ua823-\\ua827\\ua880-\\ua881\\ua8b4-\\ua8c4\\ua8d0-\\ua8d9\\ua8f3-\\ua8f7\\ua900-\\ua909\\ua926-\\ua92d\\ua930-\\ua945\\ua980-\\ua983\\ua9b3-\\ua9c0\\uaa00-\\uaa27\\uaa40-\\uaa41\\uaa4c-\\uaa4d\\uaa50-\\uaa59\\uaa7b\\uaae0-\\uaae9\\uaaf2-\\uaaf3\\uabc0-\\uabe1\\uabec\\uabed\\uabf0-\\uabf9\\ufb20-\\ufb28\\ufe00-\\ufe0f\\ufe20-\\ufe26\\ufe33\\ufe34\\ufe4d-\\ufe4f\\uff10-\\uff19\\uff3f", a = "\\\\u[0-9a-fA-F]{4}|\\\\u\\{[0-9a-fA-F]+\\}", l = "(?:" + a + "|[" + t + e + "])", o = "(?:" + a + "|[" + n + e + i + "])*";
+    s.identifier = new RegExp(l + o, "g"), s.identifierStart = new RegExp(l), s.identifierMatch = new RegExp("(?:" + a + "|[" + n + e + i + "])+"), s.newline = /[\n\r\u2028\u2029]/, s.lineBreak = new RegExp(`\r
 |` + s.newline.source), s.allLineBreaks = new RegExp(s.lineBreak.source, "g");
   })(on)), on;
 }
-var ln = {}, dt = {}, Pi;
-function di() {
-  if (Pi) return dt;
-  Pi = 1;
+var ln = {}, pt = {}, $i;
+function pi() {
+  if ($i) return pt;
+  $i = 1;
   function s(e, i) {
     this.raw_options = t(e, i), this.disabled = this._get_boolean("disabled"), this.eol = this._get_characters("eol", "auto"), this.end_with_newline = this._get_boolean("end_with_newline"), this.indent_size = this._get_number("indent_size", 4), this.indent_char = this._get_characters("indent_char", " "), this.indent_level = this._get_number("indent_level"), this.preserve_newlines = this._get_boolean("preserve_newlines", !0), this.max_preserve_newlines = this._get_number("max_preserve_newlines", 32786), this.preserve_newlines || (this.max_preserve_newlines = 0), this.indent_with_tabs = this._get_boolean("indent_with_tabs", this.indent_char === "	"), this.indent_with_tabs && (this.indent_char = "	", this.indent_size === 1 && (this.indent_size = 4)), this.wrap_line_length = this._get_number("wrap_line_length", this._get_number("max_char")), this.indent_empty_lines = this._get_boolean("indent_empty_lines"), this.templating = this._get_selection_list("templating", ["auto", "none", "angular", "django", "erb", "handlebars", "php", "smarty"], ["auto"]);
   }
   s.prototype._get_array = function(e, i) {
-    var r = this.raw_options[e], l = i || [];
-    return typeof r == "object" ? r !== null && typeof r.concat == "function" && (l = r.concat()) : typeof r == "string" && (l = r.split(/[^a-zA-Z0-9_\/\-]+/)), l;
+    var a = this.raw_options[e], l = i || [];
+    return typeof a == "object" ? a !== null && typeof a.concat == "function" && (l = a.concat()) : typeof a == "string" && (l = a.split(/[^a-zA-Z0-9_\/\-]+/)), l;
   }, s.prototype._get_boolean = function(e, i) {
-    var r = this.raw_options[e], l = r === void 0 ? !!i : !!r;
+    var a = this.raw_options[e], l = a === void 0 ? !!i : !!a;
     return l;
   }, s.prototype._get_characters = function(e, i) {
-    var r = this.raw_options[e], l = i || "";
-    return typeof r == "string" && (l = r.replace(/\\r/, "\r").replace(/\\n/, `
+    var a = this.raw_options[e], l = i || "";
+    return typeof a == "string" && (l = a.replace(/\\r/, "\r").replace(/\\n/, `
 `).replace(/\\t/, "	")), l;
   }, s.prototype._get_number = function(e, i) {
-    var r = this.raw_options[e];
+    var a = this.raw_options[e];
     i = parseInt(i, 10), isNaN(i) && (i = 0);
-    var l = parseInt(r, 10);
+    var l = parseInt(a, 10);
     return isNaN(l) && (l = i), l;
-  }, s.prototype._get_selection = function(e, i, r) {
-    var l = this._get_selection_list(e, i, r);
+  }, s.prototype._get_selection = function(e, i, a) {
+    var l = this._get_selection_list(e, i, a);
     if (l.length !== 1)
       throw new Error(
         "Invalid Option Value: The option '" + e + `' can only be one of the following values:
@@ -2145,12 +2193,12 @@ function di() {
 You passed in: '` + this.raw_options[e] + "'"
       );
     return l[0];
-  }, s.prototype._get_selection_list = function(e, i, r) {
+  }, s.prototype._get_selection_list = function(e, i, a) {
     if (!i || i.length === 0)
       throw new Error("Selection list cannot be empty.");
-    if (r = r || [i[0]], !this._is_valid_selection(r, i))
+    if (a = a || [i[0]], !this._is_valid_selection(a, i))
       throw new Error("Invalid Default Value!");
-    var l = this._get_array(e, r);
+    var l = this._get_array(e, a);
     if (!this._is_valid_selection(l, i))
       throw new Error(
         "Invalid Option Value: The option '" + e + `' can contain only the following values:
@@ -2159,52 +2207,52 @@ You passed in: '` + this.raw_options[e] + "'"
       );
     return l;
   }, s.prototype._is_valid_selection = function(e, i) {
-    return e.length && i.length && !e.some(function(r) {
-      return i.indexOf(r) === -1;
+    return e.length && i.length && !e.some(function(a) {
+      return i.indexOf(a) === -1;
     });
   };
   function t(e, i) {
-    var r = {};
+    var a = {};
     e = n(e);
     var l;
     for (l in e)
-      l !== i && (r[l] = e[l]);
+      l !== i && (a[l] = e[l]);
     if (i && e[i])
       for (l in e[i])
-        r[l] = e[i][l];
-    return r;
+        a[l] = e[i][l];
+    return a;
   }
   function n(e) {
-    var i = {}, r;
-    for (r in e) {
-      var l = r.replace(/-/g, "_");
-      i[l] = e[r];
+    var i = {}, a;
+    for (a in e) {
+      var l = a.replace(/-/g, "_");
+      i[l] = e[a];
     }
     return i;
   }
-  return dt.Options = s, dt.normalizeOpts = n, dt.mergeOpts = t, dt;
+  return pt.Options = s, pt.normalizeOpts = n, pt.mergeOpts = t, pt;
 }
-var Ui;
-function ia() {
-  if (Ui) return ln;
-  Ui = 1;
-  var s = di().Options, t = ["before-newline", "after-newline", "preserve-newline"];
+var zi;
+function aa() {
+  if (zi) return ln;
+  zi = 1;
+  var s = pi().Options, t = ["before-newline", "after-newline", "preserve-newline"];
   function n(e) {
     s.call(this, e, "js");
     var i = this.raw_options.brace_style || null;
     i === "expand-strict" ? this.raw_options.brace_style = "expand" : i === "collapse-preserve-inline" ? this.raw_options.brace_style = "collapse,preserve-inline" : this.raw_options.braces_on_own_line !== void 0 && (this.raw_options.brace_style = this.raw_options.braces_on_own_line ? "expand" : "collapse");
-    var r = this._get_selection_list("brace_style", ["collapse", "expand", "end-expand", "none", "preserve-inline"]);
+    var a = this._get_selection_list("brace_style", ["collapse", "expand", "end-expand", "none", "preserve-inline"]);
     this.brace_preserve_inline = !1, this.brace_style = "collapse";
-    for (var l = 0; l < r.length; l++)
-      r[l] === "preserve-inline" ? this.brace_preserve_inline = !0 : this.brace_style = r[l];
+    for (var l = 0; l < a.length; l++)
+      a[l] === "preserve-inline" ? this.brace_preserve_inline = !0 : this.brace_style = a[l];
     this.unindent_chained_methods = this._get_boolean("unindent_chained_methods"), this.break_chained_methods = this._get_boolean("break_chained_methods"), this.space_in_paren = this._get_boolean("space_in_paren"), this.space_in_empty_paren = this._get_boolean("space_in_empty_paren"), this.jslint_happy = this._get_boolean("jslint_happy"), this.space_after_anon_function = this._get_boolean("space_after_anon_function"), this.space_after_named_function = this._get_boolean("space_after_named_function"), this.keep_array_indentation = this._get_boolean("keep_array_indentation"), this.space_before_conditional = this._get_boolean("space_before_conditional", !0), this.unescape_strings = this._get_boolean("unescape_strings"), this.e4x = this._get_boolean("e4x"), this.comma_first = this._get_boolean("comma_first"), this.operator_position = this._get_selection("operator_position", t), this.test_output_raw = this._get_boolean("test_output_raw"), this.jslint_happy && (this.space_after_anon_function = !0);
   }
   return n.prototype = new s(), ln.Options = n, ln;
 }
-var it = {}, cn = {}, $i;
-function pi() {
-  if ($i) return cn;
-  $i = 1;
+var it = {}, cn = {}, Fi;
+function fi() {
+  if (Fi) return cn;
+  Fi = 1;
   var s = RegExp.prototype.hasOwnProperty("sticky");
   function t(n) {
     this.__input = n || "", this.__input_length = this.__input.length, this.__position = 0;
@@ -2234,18 +2282,18 @@ function pi() {
     var e = this.__match(n, this.__position);
     return e ? this.__position += e[0].length : e = null, e;
   }, t.prototype.read = function(n, e, i) {
-    var r = "", l;
-    return n && (l = this.match(n), l && (r += l[0])), e && (l || !n) && (r += this.readUntil(e, i)), r;
+    var a = "", l;
+    return n && (l = this.match(n), l && (a += l[0])), e && (l || !n) && (a += this.readUntil(e, i)), a;
   }, t.prototype.readUntil = function(n, e) {
-    var i = "", r = this.__position;
+    var i = "", a = this.__position;
     n.lastIndex = this.__position;
     var l = n.exec(this.__input);
-    return l ? (r = l.index, e && (r += l[0].length)) : r = this.__input_length, i = this.__input.substring(this.__position, r), this.__position = r, i;
+    return l ? (a = l.index, e && (a += l[0].length)) : a = this.__input_length, i = this.__input.substring(this.__position, a), this.__position = a, i;
   }, t.prototype.readUntilAfter = function(n) {
     return this.readUntil(n, !0);
   }, t.prototype.get_regexp = function(n, e) {
-    var i = null, r = "g";
-    return e && s && (r = "y"), typeof n == "string" && n !== "" ? i = new RegExp(n, r) : n && (i = new RegExp(n.source, r)), i;
+    var i = null, a = "g";
+    return e && s && (a = "y"), typeof n == "string" && n !== "" ? i = new RegExp(n, a) : n && (i = new RegExp(n.source, a)), i;
   }, t.prototype.get_literal_regexp = function(n) {
     return RegExp(n.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"));
   }, t.prototype.peekUntilAfter = function(n) {
@@ -2256,10 +2304,10 @@ function pi() {
     return e >= n.length && this.__input.substring(e - n.length, e).toLowerCase() === n;
   }, cn.InputScanner = t, cn;
 }
-var Ct = {}, _n = {}, zi;
-function Jl() {
-  if (zi) return _n;
-  zi = 1;
+var Ct = {}, _n = {}, Ki;
+function ac() {
+  if (Ki) return _n;
+  Ki = 1;
   function s(t) {
     this.__tokens = [], this.__tokens_length = this.__tokens.length, this.__position = 0, this.__parent_token = t;
   }
@@ -2279,10 +2327,10 @@ function Jl() {
     this.__parent_token && (t.parent = this.__parent_token), this.__tokens.push(t), this.__tokens_length += 1;
   }, _n.TokenStream = s, _n;
 }
-var un = {}, dn = {}, Fi;
+var un = {}, dn = {}, Gi;
 function zt() {
-  if (Fi) return dn;
-  Fi = 1;
+  if (Gi) return dn;
+  Gi = 1;
   function s(t, n) {
     this._input = t, this._starting_pattern = null, this._match_pattern = null, this._until_pattern = null, this._until_after = !1, n && (this._starting_pattern = this._input.get_regexp(n._starting_pattern, !0), this._match_pattern = this._input.get_regexp(n._match_pattern, !0), this._until_pattern = this._input.get_regexp(n._until_pattern), this._until_after = n._until_after);
   }
@@ -2308,10 +2356,10 @@ function zt() {
   }, s.prototype._update = function() {
   }, dn.Pattern = s, dn;
 }
-var Ki;
-function ec() {
-  if (Ki) return un;
-  Ki = 1;
+var qi;
+function rc() {
+  if (qi) return un;
+  qi = 1;
   var s = zt().Pattern;
   function t(n, e) {
     s.call(this, n, e), e ? this._line_regexp = this._input.get_regexp(e._line_regexp) : this.__set_whitespace_patterns("", ""), this.newline_count = 0, this.whitespace_before_token = "";
@@ -2340,23 +2388,23 @@ function ec() {
     return new t(this._input, this);
   }, t.prototype.__split = function(n, e) {
     n.lastIndex = 0;
-    for (var i = 0, r = [], l = n.exec(e); l; )
-      r.push(e.substring(i, l.index)), i = l.index + l[0].length, l = n.exec(e);
-    return i < e.length ? r.push(e.substring(i, e.length)) : r.push(""), r;
+    for (var i = 0, a = [], l = n.exec(e); l; )
+      a.push(e.substring(i, l.index)), i = l.index + l[0].length, l = n.exec(e);
+    return i < e.length ? a.push(e.substring(i, e.length)) : a.push(""), a;
   }, un.WhitespacePattern = t, un;
 }
-var Gi;
+var Wi;
 function Pt() {
-  if (Gi) return Ct;
-  Gi = 1;
-  var s = pi().InputScanner, t = ta().Token, n = Jl().TokenStream, e = ec().WhitespacePattern, i = {
+  if (Wi) return Ct;
+  Wi = 1;
+  var s = fi().InputScanner, t = ia().Token, n = ac().TokenStream, e = rc().WhitespacePattern, i = {
     START: "TK_START",
     RAW: "TK_RAW",
     EOF: "TK_EOF"
-  }, r = function(l, o) {
+  }, a = function(l, o) {
     this._input = new s(l), this._options = o || {}, this.__tokens = null, this._patterns = {}, this._patterns.whitespace = new e(this._input);
   };
-  return r.prototype.tokenize = function() {
+  return a.prototype.tokenize = function() {
     this._input.restart(), this.__tokens = new n(), this._reset();
     for (var l, o = new t(i.START, ""), _ = null, g = [], u = new n(); o.type !== i.EOF; ) {
       for (l = this._get_next_token(o, _); this._is_comment(l); )
@@ -2364,20 +2412,20 @@ function Pt() {
       u.isEmpty() || (l.comments_before = u, u = new n()), l.parent = _, this._is_opening(l) ? (g.push(_), _ = l) : _ && this._is_closing(l, _) && (l.opened = _, _.closed = l, _ = g.pop(), l.parent = _), l.previous = o, o.next = l, this.__tokens.add(l), o = l;
     }
     return this.__tokens;
-  }, r.prototype._is_first_token = function() {
+  }, a.prototype._is_first_token = function() {
     return this.__tokens.isEmpty();
-  }, r.prototype._reset = function() {
-  }, r.prototype._get_next_token = function(l, o) {
+  }, a.prototype._reset = function() {
+  }, a.prototype._get_next_token = function(l, o) {
     this._readWhitespace();
     var _ = this._input.read(/.+/g);
     return _ ? this._create_token(i.RAW, _) : this._create_token(i.EOF, "");
-  }, r.prototype._is_comment = function(l) {
+  }, a.prototype._is_comment = function(l) {
     return !1;
-  }, r.prototype._is_opening = function(l) {
+  }, a.prototype._is_opening = function(l) {
     return !1;
-  }, r.prototype._is_closing = function(l, o) {
+  }, a.prototype._is_closing = function(l, o) {
     return !1;
-  }, r.prototype._create_token = function(l, o) {
+  }, a.prototype._create_token = function(l, o) {
     var _ = new t(
       l,
       o,
@@ -2385,14 +2433,14 @@ function Pt() {
       this._patterns.whitespace.whitespace_before_token
     );
     return _;
-  }, r.prototype._readWhitespace = function() {
+  }, a.prototype._readWhitespace = function() {
     return this._patterns.whitespace.read();
-  }, Ct.Tokenizer = r, Ct.TOKEN = i, Ct;
+  }, Ct.Tokenizer = a, Ct.TOKEN = i, Ct;
 }
-var pn = {}, qi;
-function fi() {
-  if (qi) return pn;
-  qi = 1;
+var pn = {}, Hi;
+function hi() {
+  if (Hi) return pn;
+  Hi = 1;
   function s(t, n) {
     t = typeof t == "string" ? t : t.source, n = typeof n == "string" ? n : n.source, this.__directives_block_pattern = new RegExp(t + / beautify( \w+[:]\w+)+ /.source + n, "g"), this.__directive_pattern = / (\w+)[:](\w+)/g, this.__directives_end_ignore_pattern = new RegExp(t + /\sbeautify\signore:end\s/.source + n, "g");
   }
@@ -2408,10 +2456,10 @@ function fi() {
     return t.readUntilAfter(this.__directives_end_ignore_pattern);
   }, pn.Directives = s, pn;
 }
-var fn = {}, Wi;
-function sa() {
-  if (Wi) return fn;
-  Wi = 1;
+var fn = {}, ji;
+function ra() {
+  if (ji) return fn;
+  ji = 1;
   var s = zt().Pattern, t = {
     django: !1,
     erb: !1,
@@ -2422,20 +2470,20 @@ function sa() {
   };
   function n(e, i) {
     s.call(this, e, i), this.__template_pattern = null, this._disabled = Object.assign({}, t), this._excluded = Object.assign({}, t), i && (this.__template_pattern = this._input.get_regexp(i.__template_pattern), this._excluded = Object.assign(this._excluded, i._excluded), this._disabled = Object.assign(this._disabled, i._disabled));
-    var r = new s(e);
+    var a = new s(e);
     this.__patterns = {
-      handlebars_comment: r.starting_with(/{{!--/).until_after(/--}}/),
-      handlebars_unescaped: r.starting_with(/{{{/).until_after(/}}}/),
-      handlebars: r.starting_with(/{{/).until_after(/}}/),
-      php: r.starting_with(/<\?(?:[= ]|php)/).until_after(/\?>/),
-      erb: r.starting_with(/<%[^%]/).until_after(/[^%]%>/),
+      handlebars_comment: a.starting_with(/{{!--/).until_after(/--}}/),
+      handlebars_unescaped: a.starting_with(/{{{/).until_after(/}}}/),
+      handlebars: a.starting_with(/{{/).until_after(/}}/),
+      php: a.starting_with(/<\?(?:[= ]|php)/).until_after(/\?>/),
+      erb: a.starting_with(/<%[^%]/).until_after(/[^%]%>/),
       // django coflicts with handlebars a bit.
-      django: r.starting_with(/{%/).until_after(/%}/),
-      django_value: r.starting_with(/{{/).until_after(/}}/),
-      django_comment: r.starting_with(/{#/).until_after(/#}/),
-      smarty: r.starting_with(/{(?=[^}{\s\n])/).until_after(/[^\s\n]}/),
-      smarty_comment: r.starting_with(/{\*/).until_after(/\*}/),
-      smarty_literal: r.starting_with(/{literal}/).until_after(/{\/literal}/)
+      django: a.starting_with(/{%/).until_after(/%}/),
+      django_value: a.starting_with(/{{/).until_after(/}}/),
+      django_comment: a.starting_with(/{#/).until_after(/#}/),
+      smarty: a.starting_with(/{(?=[^}{\s\n])/).until_after(/[^\s\n]}/),
+      smarty_comment: a.starting_with(/{\*/).until_after(/\*}/),
+      smarty_literal: a.starting_with(/{literal}/).until_after(/{\/literal}/)
     };
   }
   return n.prototype = new s(), n.prototype._create = function() {
@@ -2447,8 +2495,8 @@ function sa() {
     return i._disabled[e] = !0, i._update(), i;
   }, n.prototype.read_options = function(e) {
     var i = this._create();
-    for (var r in t)
-      i._disabled[r] = e.templating.indexOf(r) === -1;
+    for (var a in t)
+      i._disabled[a] = e.templating.indexOf(a) === -1;
     return i._update(), i;
   }, n.prototype.exclude = function(e) {
     var i = this._create();
@@ -2465,19 +2513,19 @@ function sa() {
   }, n.prototype._read_template = function() {
     var e = "", i = this._input.peek();
     if (i === "<") {
-      var r = this._input.peek(1);
-      !this._disabled.php && !this._excluded.php && r === "?" && (e = e || this.__patterns.php.read()), !this._disabled.erb && !this._excluded.erb && r === "%" && (e = e || this.__patterns.erb.read());
+      var a = this._input.peek(1);
+      !this._disabled.php && !this._excluded.php && a === "?" && (e = e || this.__patterns.php.read()), !this._disabled.erb && !this._excluded.erb && a === "%" && (e = e || this.__patterns.erb.read());
     } else i === "{" && (!this._disabled.handlebars && !this._excluded.handlebars && (e = e || this.__patterns.handlebars_comment.read(), e = e || this.__patterns.handlebars_unescaped.read(), e = e || this.__patterns.handlebars.read()), this._disabled.django || (!this._excluded.django && !this._excluded.handlebars && (e = e || this.__patterns.django_value.read()), this._excluded.django || (e = e || this.__patterns.django_comment.read(), e = e || this.__patterns.django.read())), this._disabled.smarty || this._disabled.django && this._disabled.handlebars && (e = e || this.__patterns.smarty_comment.read(), e = e || this.__patterns.smarty_literal.read(), e = e || this.__patterns.smarty.read()));
     return e;
   }, fn.TemplatablePattern = n, fn;
 }
-var Hi;
+var Vi;
 function It() {
-  if (Hi) return it;
-  Hi = 1;
-  var s = pi().InputScanner, t = Pt().Tokenizer, n = Pt().TOKEN, e = fi().Directives, i = na(), r = zt().Pattern, l = sa().TemplatablePattern;
-  function o(y, w) {
-    return w.indexOf(y) !== -1;
+  if (Vi) return it;
+  Vi = 1;
+  var s = fi().InputScanner, t = Pt().Tokenizer, n = Pt().TOKEN, e = hi().Directives, i = sa(), a = zt().Pattern, l = ra().TemplatablePattern;
+  function o(v, E) {
+    return E.indexOf(v) !== -1;
   }
   var _ = {
     START_EXPR: "TK_START_EXPR",
@@ -2498,19 +2546,19 @@ function It() {
     START: n.START,
     RAW: n.RAW,
     EOF: n.EOF
-  }, g = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, p = /[0-9]/, m = /[^\d\.]/, N = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), O = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
-  O = O.replace(/[-[\]{}()*+?.,\\^$|#]/g, "\\$&"), O = "\\?\\.(?!\\d) " + O, O = O.replace(/ /g, "|");
-  var T = new RegExp(O), d = "continue,try,throw,return,var,let,const,if,switch,case,default,for,while,break,function,import,export".split(","), c = d.concat(["do", "in", "of", "else", "get", "set", "new", "catch", "finally", "typeof", "yield", "async", "await", "from", "as", "class", "extends"]), f = new RegExp("^(?:" + c.join("|") + ")$"), S, k = function(y, w) {
-    t.call(this, y, w), this._patterns.whitespace = this._patterns.whitespace.matching(
+  }, g = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, p = /[0-9]/, m = /[^\d\.]/, w = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), x = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
+  x = x.replace(/[-[\]{}()*+?.,\\^$|#]/g, "\\$&"), x = "\\?\\.(?!\\d) " + x, x = x.replace(/ /g, "|");
+  var S = new RegExp(x), d = "continue,try,throw,return,var,let,const,if,switch,case,default,for,while,break,function,import,export".split(","), c = d.concat(["do", "in", "of", "else", "get", "set", "new", "catch", "finally", "typeof", "yield", "async", "await", "from", "as", "class", "extends"]), f = new RegExp("^(?:" + c.join("|") + ")$"), R, A = function(v, E) {
+    t.call(this, v, E), this._patterns.whitespace = this._patterns.whitespace.matching(
       /\u00A0\u1680\u180e\u2000-\u200a\u202f\u205f\u3000\ufeff/.source,
       /\u2028\u2029/.source
     );
-    var h = new r(this._input), E = new l(this._input).read_options(this._options);
+    var h = new a(this._input), T = new l(this._input).read_options(this._options);
     this.__patterns = {
-      template: E,
-      identifier: E.starting_with(i.identifier).matching(i.identifierMatch),
+      template: T,
+      identifier: T.starting_with(i.identifier).matching(i.identifierMatch),
       number: h.matching(u),
-      punct: h.matching(T),
+      punct: h.matching(S),
       // comment ends just before nearest linefeed or end of file
       comment: h.starting_with(/\/\//).until(/[\n\r\u2028\u2029]/),
       //  /* ... */ comment ends with nearest */ or end of file
@@ -2520,90 +2568,90 @@ function It() {
       include: h.starting_with(/#include/).until_after(i.lineBreak),
       shebang: h.starting_with(/#!/).until_after(i.lineBreak),
       xml: h.matching(/[\s\S]*?<(\/?)([-a-zA-Z:0-9_.]+|{[^}]+?}|!\[CDATA\[[^\]]*?\]\]|)(\s*{[^}]+?}|\s+[-a-zA-Z:0-9_.]+|\s+[-a-zA-Z:0-9_.]+\s*=\s*('[^']*'|"[^"]*"|{([^{}]|{[^}]+?})+?}))*\s*(\/?)\s*>/),
-      single_quote: E.until(/['\\\n\r\u2028\u2029]/),
-      double_quote: E.until(/["\\\n\r\u2028\u2029]/),
-      template_text: E.until(/[`\\$]/),
-      template_expression: E.until(/[`}\\]/)
+      single_quote: T.until(/['\\\n\r\u2028\u2029]/),
+      double_quote: T.until(/["\\\n\r\u2028\u2029]/),
+      template_text: T.until(/[`\\$]/),
+      template_expression: T.until(/[`}\\]/)
     };
   };
-  k.prototype = new t(), k.prototype._is_comment = function(y) {
-    return y.type === _.COMMENT || y.type === _.BLOCK_COMMENT || y.type === _.UNKNOWN;
-  }, k.prototype._is_opening = function(y) {
-    return y.type === _.START_BLOCK || y.type === _.START_EXPR;
-  }, k.prototype._is_closing = function(y, w) {
-    return (y.type === _.END_BLOCK || y.type === _.END_EXPR) && w && (y.text === "]" && w.text === "[" || y.text === ")" && w.text === "(" || y.text === "}" && w.text === "{");
-  }, k.prototype._reset = function() {
-    S = !1;
-  }, k.prototype._get_next_token = function(y, w) {
+  A.prototype = new t(), A.prototype._is_comment = function(v) {
+    return v.type === _.COMMENT || v.type === _.BLOCK_COMMENT || v.type === _.UNKNOWN;
+  }, A.prototype._is_opening = function(v) {
+    return v.type === _.START_BLOCK || v.type === _.START_EXPR;
+  }, A.prototype._is_closing = function(v, E) {
+    return (v.type === _.END_BLOCK || v.type === _.END_EXPR) && E && (v.text === "]" && E.text === "[" || v.text === ")" && E.text === "(" || v.text === "}" && E.text === "{");
+  }, A.prototype._reset = function() {
+    R = !1;
+  }, A.prototype._get_next_token = function(v, E) {
     var h = null;
     this._readWhitespace();
-    var E = this._input.peek();
-    return E === null ? this._create_token(_.EOF, "") : (h = h || this._read_non_javascript(E), h = h || this._read_string(E), h = h || this._read_pair(E, this._input.peek(1)), h = h || this._read_word(y), h = h || this._read_singles(E), h = h || this._read_comment(E), h = h || this._read_regexp(E, y), h = h || this._read_xml(E, y), h = h || this._read_punctuation(), h = h || this._create_token(_.UNKNOWN, this._input.next()), h);
-  }, k.prototype._read_word = function(y) {
-    var w;
-    if (w = this.__patterns.identifier.read(), w !== "")
-      return w = w.replace(i.allLineBreaks, `
-`), !(y.type === _.DOT || y.type === _.RESERVED && (y.text === "set" || y.text === "get")) && f.test(w) ? (w === "in" || w === "of") && (y.type === _.WORD || y.type === _.STRING) ? this._create_token(_.OPERATOR, w) : this._create_token(_.RESERVED, w) : this._create_token(_.WORD, w);
-    if (w = this.__patterns.number.read(), w !== "")
-      return this._create_token(_.WORD, w);
-  }, k.prototype._read_singles = function(y) {
-    var w = null;
-    return y === "(" || y === "[" ? w = this._create_token(_.START_EXPR, y) : y === ")" || y === "]" ? w = this._create_token(_.END_EXPR, y) : y === "{" ? w = this._create_token(_.START_BLOCK, y) : y === "}" ? w = this._create_token(_.END_BLOCK, y) : y === ";" ? w = this._create_token(_.SEMICOLON, y) : y === "." && m.test(this._input.peek(1)) ? w = this._create_token(_.DOT, y) : y === "," && (w = this._create_token(_.COMMA, y)), w && this._input.next(), w;
-  }, k.prototype._read_pair = function(y, w) {
+    var T = this._input.peek();
+    return T === null ? this._create_token(_.EOF, "") : (h = h || this._read_non_javascript(T), h = h || this._read_string(T), h = h || this._read_pair(T, this._input.peek(1)), h = h || this._read_word(v), h = h || this._read_singles(T), h = h || this._read_comment(T), h = h || this._read_regexp(T, v), h = h || this._read_xml(T, v), h = h || this._read_punctuation(), h = h || this._create_token(_.UNKNOWN, this._input.next()), h);
+  }, A.prototype._read_word = function(v) {
+    var E;
+    if (E = this.__patterns.identifier.read(), E !== "")
+      return E = E.replace(i.allLineBreaks, `
+`), !(v.type === _.DOT || v.type === _.RESERVED && (v.text === "set" || v.text === "get")) && f.test(E) ? (E === "in" || E === "of") && (v.type === _.WORD || v.type === _.STRING) ? this._create_token(_.OPERATOR, E) : this._create_token(_.RESERVED, E) : this._create_token(_.WORD, E);
+    if (E = this.__patterns.number.read(), E !== "")
+      return this._create_token(_.WORD, E);
+  }, A.prototype._read_singles = function(v) {
+    var E = null;
+    return v === "(" || v === "[" ? E = this._create_token(_.START_EXPR, v) : v === ")" || v === "]" ? E = this._create_token(_.END_EXPR, v) : v === "{" ? E = this._create_token(_.START_BLOCK, v) : v === "}" ? E = this._create_token(_.END_BLOCK, v) : v === ";" ? E = this._create_token(_.SEMICOLON, v) : v === "." && m.test(this._input.peek(1)) ? E = this._create_token(_.DOT, v) : v === "," && (E = this._create_token(_.COMMA, v)), E && this._input.next(), E;
+  }, A.prototype._read_pair = function(v, E) {
     var h = null;
-    return y === "#" && w === "{" && (h = this._create_token(_.START_BLOCK, y + w)), h && (this._input.next(), this._input.next()), h;
-  }, k.prototype._read_punctuation = function() {
-    var y = this.__patterns.punct.read();
-    if (y !== "")
-      return y === "=" ? this._create_token(_.EQUALS, y) : y === "?." ? this._create_token(_.DOT, y) : this._create_token(_.OPERATOR, y);
-  }, k.prototype._read_non_javascript = function(y) {
-    var w = "";
-    if (y === "#") {
-      if (this._is_first_token() && (w = this.__patterns.shebang.read(), w))
-        return this._create_token(_.UNKNOWN, w.trim() + `
+    return v === "#" && E === "{" && (h = this._create_token(_.START_BLOCK, v + E)), h && (this._input.next(), this._input.next()), h;
+  }, A.prototype._read_punctuation = function() {
+    var v = this.__patterns.punct.read();
+    if (v !== "")
+      return v === "=" ? this._create_token(_.EQUALS, v) : v === "?." ? this._create_token(_.DOT, v) : this._create_token(_.OPERATOR, v);
+  }, A.prototype._read_non_javascript = function(v) {
+    var E = "";
+    if (v === "#") {
+      if (this._is_first_token() && (E = this.__patterns.shebang.read(), E))
+        return this._create_token(_.UNKNOWN, E.trim() + `
 `);
-      if (w = this.__patterns.include.read(), w)
-        return this._create_token(_.UNKNOWN, w.trim() + `
+      if (E = this.__patterns.include.read(), E)
+        return this._create_token(_.UNKNOWN, E.trim() + `
 `);
-      y = this._input.next();
+      v = this._input.next();
       var h = "#";
       if (this._input.hasNext() && this._input.testChar(p)) {
         do
-          y = this._input.next(), h += y;
-        while (this._input.hasNext() && y !== "#" && y !== "=");
-        return y === "#" || (this._input.peek() === "[" && this._input.peek(1) === "]" ? (h += "[]", this._input.next(), this._input.next()) : this._input.peek() === "{" && this._input.peek(1) === "}" && (h += "{}", this._input.next(), this._input.next())), this._create_token(_.WORD, h);
+          v = this._input.next(), h += v;
+        while (this._input.hasNext() && v !== "#" && v !== "=");
+        return v === "#" || (this._input.peek() === "[" && this._input.peek(1) === "]" ? (h += "[]", this._input.next(), this._input.next()) : this._input.peek() === "{" && this._input.peek(1) === "}" && (h += "{}", this._input.next(), this._input.next())), this._create_token(_.WORD, h);
       }
       this._input.back();
-    } else if (y === "<" && this._is_first_token()) {
-      if (w = this.__patterns.html_comment_start.read(), w) {
+    } else if (v === "<" && this._is_first_token()) {
+      if (E = this.__patterns.html_comment_start.read(), E) {
         for (; this._input.hasNext() && !this._input.testChar(i.newline); )
-          w += this._input.next();
-        return S = !0, this._create_token(_.COMMENT, w);
+          E += this._input.next();
+        return R = !0, this._create_token(_.COMMENT, E);
       }
-    } else if (S && y === "-" && (w = this.__patterns.html_comment_end.read(), w))
-      return S = !1, this._create_token(_.COMMENT, w);
+    } else if (R && v === "-" && (E = this.__patterns.html_comment_end.read(), E))
+      return R = !1, this._create_token(_.COMMENT, E);
     return null;
-  }, k.prototype._read_comment = function(y) {
-    var w = null;
-    if (y === "/") {
+  }, A.prototype._read_comment = function(v) {
+    var E = null;
+    if (v === "/") {
       var h = "";
       if (this._input.peek(1) === "*") {
         h = this.__patterns.block_comment.read();
-        var E = g.get_directives(h);
-        E && E.ignore === "start" && (h += g.readIgnored(this._input)), h = h.replace(i.allLineBreaks, `
-`), w = this._create_token(_.BLOCK_COMMENT, h), w.directives = E;
-      } else this._input.peek(1) === "/" && (h = this.__patterns.comment.read(), w = this._create_token(_.COMMENT, h));
+        var T = g.get_directives(h);
+        T && T.ignore === "start" && (h += g.readIgnored(this._input)), h = h.replace(i.allLineBreaks, `
+`), E = this._create_token(_.BLOCK_COMMENT, h), E.directives = T;
+      } else this._input.peek(1) === "/" && (h = this.__patterns.comment.read(), E = this._create_token(_.COMMENT, h));
     }
-    return w;
-  }, k.prototype._read_string = function(y) {
-    if (y === "`" || y === "'" || y === '"') {
-      var w = this._input.next();
-      return this.has_char_escapes = !1, y === "`" ? w += this._read_string_recursive("`", !0, "${") : w += this._read_string_recursive(y), this.has_char_escapes && this._options.unescape_strings && (w = I(w)), this._input.peek() === y && (w += this._input.next()), w = w.replace(i.allLineBreaks, `
-`), this._create_token(_.STRING, w);
+    return E;
+  }, A.prototype._read_string = function(v) {
+    if (v === "`" || v === "'" || v === '"') {
+      var E = this._input.next();
+      return this.has_char_escapes = !1, v === "`" ? E += this._read_string_recursive("`", !0, "${") : E += this._read_string_recursive(v), this.has_char_escapes && this._options.unescape_strings && (E = D(E)), this._input.peek() === v && (E += this._input.next()), E = E.replace(i.allLineBreaks, `
+`), this._create_token(_.STRING, E);
     }
     return null;
-  }, k.prototype._allow_regexp_or_xml = function(y) {
-    return y.type === _.RESERVED && o(y.text, ["return", "case", "throw", "else", "do", "typeof", "yield"]) || y.type === _.END_EXPR && y.text === ")" && y.opened.previous.type === _.RESERVED && o(y.opened.previous.text, ["if", "while", "for"]) || o(y.type, [
+  }, A.prototype._allow_regexp_or_xml = function(v) {
+    return v.type === _.RESERVED && o(v.text, ["return", "case", "throw", "else", "do", "typeof", "yield"]) || v.type === _.END_EXPR && v.text === ")" && v.opened.previous.type === _.RESERVED && o(v.opened.previous.text, ["if", "while", "for"]) || o(v.type, [
       _.COMMENT,
       _.START_EXPR,
       _.START_BLOCK,
@@ -2615,83 +2663,83 @@ function It() {
       _.SEMICOLON,
       _.COMMA
     ]);
-  }, k.prototype._read_regexp = function(y, w) {
-    if (y === "/" && this._allow_regexp_or_xml(w)) {
-      for (var h = this._input.next(), E = !1, a = !1; this._input.hasNext() && (E || a || this._input.peek() !== y) && !this._input.testChar(i.newline); )
-        h += this._input.peek(), E ? E = !1 : (E = this._input.peek() === "\\", this._input.peek() === "[" ? a = !0 : this._input.peek() === "]" && (a = !1)), this._input.next();
-      return this._input.peek() === y && (h += this._input.next(), h += this._input.read(i.identifier)), this._create_token(_.STRING, h);
+  }, A.prototype._read_regexp = function(v, E) {
+    if (v === "/" && this._allow_regexp_or_xml(E)) {
+      for (var h = this._input.next(), T = !1, r = !1; this._input.hasNext() && (T || r || this._input.peek() !== v) && !this._input.testChar(i.newline); )
+        h += this._input.peek(), T ? T = !1 : (T = this._input.peek() === "\\", this._input.peek() === "[" ? r = !0 : this._input.peek() === "]" && (r = !1)), this._input.next();
+      return this._input.peek() === v && (h += this._input.next(), h += this._input.read(i.identifier)), this._create_token(_.STRING, h);
     }
     return null;
-  }, k.prototype._read_xml = function(y, w) {
-    if (this._options.e4x && y === "<" && this._allow_regexp_or_xml(w)) {
-      var h = "", E = this.__patterns.xml.read_match();
-      if (E) {
-        for (var a = E[2].replace(/^{\s+/, "{").replace(/\s+}$/, "}"), v = a.indexOf("{") === 0, x = 0; E; ) {
-          var D = !!E[1], K = E[2], H = !!E[E.length - 1] || K.slice(0, 8) === "![CDATA[";
-          if (!H && (K === a || v && K.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (D ? --x : ++x), h += E[0], x <= 0)
+  }, A.prototype._read_xml = function(v, E) {
+    if (this._options.e4x && v === "<" && this._allow_regexp_or_xml(E)) {
+      var h = "", T = this.__patterns.xml.read_match();
+      if (T) {
+        for (var r = T[2].replace(/^{\s+/, "{").replace(/\s+}$/, "}"), y = r.indexOf("{") === 0, N = 0; T; ) {
+          var F = !!T[1], q = T[2], M = !!T[T.length - 1] || q.slice(0, 8) === "![CDATA[";
+          if (!M && (q === r || y && q.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (F ? --N : ++N), h += T[0], N <= 0)
             break;
-          E = this.__patterns.xml.read_match();
+          T = this.__patterns.xml.read_match();
         }
-        return E || (h += this._input.match(/[\s\S]*/g)[0]), h = h.replace(i.allLineBreaks, `
+        return T || (h += this._input.match(/[\s\S]*/g)[0]), h = h.replace(i.allLineBreaks, `
 `), this._create_token(_.STRING, h);
       }
     }
     return null;
   };
-  function I(y) {
-    for (var w = "", h = 0, E = new s(y), a = null; E.hasNext(); )
-      if (a = E.match(/([\s]|[^\\]|\\\\)+/g), a && (w += a[0]), E.peek() === "\\") {
-        if (E.next(), E.peek() === "x")
-          a = E.match(/x([0-9A-Fa-f]{2})/g);
-        else if (E.peek() === "u")
-          a = E.match(/u([0-9A-Fa-f]{4})/g), a || (a = E.match(/u\{([0-9A-Fa-f]+)\}/g));
+  function D(v) {
+    for (var E = "", h = 0, T = new s(v), r = null; T.hasNext(); )
+      if (r = T.match(/([\s]|[^\\]|\\\\)+/g), r && (E += r[0]), T.peek() === "\\") {
+        if (T.next(), T.peek() === "x")
+          r = T.match(/x([0-9A-Fa-f]{2})/g);
+        else if (T.peek() === "u")
+          r = T.match(/u([0-9A-Fa-f]{4})/g), r || (r = T.match(/u\{([0-9A-Fa-f]+)\}/g));
         else {
-          w += "\\", E.hasNext() && (w += E.next());
+          E += "\\", T.hasNext() && (E += T.next());
           continue;
         }
-        if (!a || (h = parseInt(a[1], 16), h > 126 && h <= 255 && a[0].indexOf("x") === 0))
-          return y;
-        h >= 0 && h < 32 || h > 1114111 ? w += "\\" + a[0] : h === 34 || h === 39 || h === 92 ? w += "\\" + String.fromCharCode(h) : w += String.fromCharCode(h);
+        if (!r || (h = parseInt(r[1], 16), h > 126 && h <= 255 && r[0].indexOf("x") === 0))
+          return v;
+        h >= 0 && h < 32 || h > 1114111 ? E += "\\" + r[0] : h === 34 || h === 39 || h === 92 ? E += "\\" + String.fromCharCode(h) : E += String.fromCharCode(h);
       }
-    return w;
+    return E;
   }
-  return k.prototype._read_string_recursive = function(y, w, h) {
-    var E, a;
-    y === "'" ? a = this.__patterns.single_quote : y === '"' ? a = this.__patterns.double_quote : y === "`" ? a = this.__patterns.template_text : y === "}" && (a = this.__patterns.template_expression);
-    for (var v = a.read(), x = ""; this._input.hasNext(); ) {
-      if (x = this._input.next(), x === y || !w && i.newline.test(x)) {
+  return A.prototype._read_string_recursive = function(v, E, h) {
+    var T, r;
+    v === "'" ? r = this.__patterns.single_quote : v === '"' ? r = this.__patterns.double_quote : v === "`" ? r = this.__patterns.template_text : v === "}" && (r = this.__patterns.template_expression);
+    for (var y = r.read(), N = ""; this._input.hasNext(); ) {
+      if (N = this._input.next(), N === v || !E && i.newline.test(N)) {
         this._input.back();
         break;
-      } else x === "\\" && this._input.hasNext() ? (E = this._input.peek(), E === "x" || E === "u" ? this.has_char_escapes = !0 : E === "\r" && this._input.peek(1) === `
-` && this._input.next(), x += this._input.next()) : h && (h === "${" && x === "$" && this._input.peek() === "{" && (x += this._input.next()), h === x && (y === "`" ? x += this._read_string_recursive("}", w, "`") : x += this._read_string_recursive("`", w, "${"), this._input.hasNext() && (x += this._input.next())));
-      x += a.read(), v += x;
+      } else N === "\\" && this._input.hasNext() ? (T = this._input.peek(), T === "x" || T === "u" ? this.has_char_escapes = !0 : T === "\r" && this._input.peek(1) === `
+` && this._input.next(), N += this._input.next()) : h && (h === "${" && N === "$" && this._input.peek() === "{" && (N += this._input.next()), h === N && (v === "`" ? N += this._read_string_recursive("}", E, "`") : N += this._read_string_recursive("`", E, "${"), this._input.hasNext() && (N += this._input.next())));
+      N += r.read(), y += N;
     }
-    return v;
-  }, it.Tokenizer = k, it.TOKEN = _, it.positionable_operators = N.slice(), it.line_starters = d.slice(), it;
+    return y;
+  }, it.Tokenizer = A, it.TOKEN = _, it.positionable_operators = w.slice(), it.line_starters = d.slice(), it;
 }
-var ji;
-function tc() {
-  if (ji) return sn;
-  ji = 1;
-  var s = ui().Output, t = ta().Token, n = na(), e = ia().Options, i = It().Tokenizer, r = It().line_starters, l = It().positionable_operators, o = It().TOKEN;
-  function _(a, v) {
-    return v.indexOf(a) !== -1;
+var Zi;
+function oc() {
+  if (Zi) return sn;
+  Zi = 1;
+  var s = di().Output, t = ia().Token, n = sa(), e = aa().Options, i = It().Tokenizer, a = It().line_starters, l = It().positionable_operators, o = It().TOKEN;
+  function _(r, y) {
+    return y.indexOf(r) !== -1;
   }
-  function g(a) {
-    return a.replace(/^\s+/g, "");
+  function g(r) {
+    return r.replace(/^\s+/g, "");
   }
-  function u(a) {
-    for (var v = {}, x = 0; x < a.length; x++)
-      v[a[x].replace(/-/g, "_")] = a[x];
-    return v;
+  function u(r) {
+    for (var y = {}, N = 0; N < r.length; N++)
+      y[r[N].replace(/-/g, "_")] = r[N];
+    return y;
   }
-  function p(a, v) {
-    return a && a.type === o.RESERVED && a.text === v;
+  function p(r, y) {
+    return r && r.type === o.RESERVED && r.text === y;
   }
-  function m(a, v) {
-    return a && a.type === o.RESERVED && _(a.text, v);
+  function m(r, y) {
+    return r && r.type === o.RESERVED && _(r.text, y);
   }
-  var N = ["case", "return", "do", "if", "throw", "else", "await", "break", "continue", "async"], O = ["before-newline", "after-newline", "preserve-newline"], T = u(O), d = [T.before_newline, T.preserve_newline], c = {
+  var w = ["case", "return", "do", "if", "throw", "else", "await", "break", "continue", "async"], x = ["before-newline", "after-newline", "preserve-newline"], S = u(x), d = [S.before_newline, S.preserve_newline], c = {
     BlockStatement: "BlockStatement",
     // 'BLOCK'
     Statement: "Statement",
@@ -2707,50 +2755,50 @@ function tc() {
     Expression: "Expression"
     //'(EXPRESSION)'
   };
-  function f(a, v) {
-    v.multiline_frame || v.mode === c.ForInitializer || v.mode === c.Conditional || a.remove_indent(v.start_line_index);
+  function f(r, y) {
+    y.multiline_frame || y.mode === c.ForInitializer || y.mode === c.Conditional || r.remove_indent(y.start_line_index);
   }
-  function S(a) {
-    a = a.replace(n.allLineBreaks, `
+  function R(r) {
+    r = r.replace(n.allLineBreaks, `
 `);
-    for (var v = [], x = a.indexOf(`
-`); x !== -1; )
-      v.push(a.substring(0, x)), a = a.substring(x + 1), x = a.indexOf(`
+    for (var y = [], N = r.indexOf(`
+`); N !== -1; )
+      y.push(r.substring(0, N)), r = r.substring(N + 1), N = r.indexOf(`
 `);
-    return a.length && v.push(a), v;
+    return r.length && y.push(r), y;
   }
-  function k(a) {
-    return a === c.ArrayLiteral;
+  function A(r) {
+    return r === c.ArrayLiteral;
   }
-  function I(a) {
-    return _(a, [c.Expression, c.ForInitializer, c.Conditional]);
+  function D(r) {
+    return _(r, [c.Expression, c.ForInitializer, c.Conditional]);
   }
-  function y(a, v) {
-    for (var x = 0; x < a.length; x++) {
-      var D = a[x].trim();
-      if (D.charAt(0) !== v)
+  function v(r, y) {
+    for (var N = 0; N < r.length; N++) {
+      var F = r[N].trim();
+      if (F.charAt(0) !== y)
         return !1;
     }
     return !0;
   }
-  function w(a, v) {
-    for (var x = 0, D = a.length, K; x < D; x++)
-      if (K = a[x], K && K.indexOf(v) !== 0)
+  function E(r, y) {
+    for (var N = 0, F = r.length, q; N < F; N++)
+      if (q = r[N], q && q.indexOf(y) !== 0)
         return !1;
     return !0;
   }
-  function h(a, v) {
-    v = v || {}, this._source_text = a || "", this._output = null, this._tokens = null, this._last_last_text = null, this._flags = null, this._previous_flags = null, this._flag_store = null, this._options = new e(v);
+  function h(r, y) {
+    y = y || {}, this._source_text = r || "", this._output = null, this._tokens = null, this._last_last_text = null, this._flags = null, this._previous_flags = null, this._flag_store = null, this._options = new e(y);
   }
-  h.prototype.create_flags = function(a, v) {
-    var x = 0;
-    a && (x = a.indentation_level, !this._output.just_added_newline() && a.line_indent_level > x && (x = a.line_indent_level));
-    var D = {
-      mode: v,
-      parent: a,
-      last_token: a ? a.last_token : new t(o.START_BLOCK, ""),
+  h.prototype.create_flags = function(r, y) {
+    var N = 0;
+    r && (N = r.indentation_level, !this._output.just_added_newline() && r.line_indent_level > N && (N = r.line_indent_level));
+    var F = {
+      mode: y,
+      parent: r,
+      last_token: r ? r.last_token : new t(o.START_BLOCK, ""),
       // last token text
-      last_word: a ? a.last_word : "",
+      last_word: r ? r.last_word : "",
       // last TOKEN.WORD passed
       declaration_statement: !1,
       declaration_assignment: !1,
@@ -2771,328 +2819,328 @@ function tc() {
       // the indented case-action block
       case_block: !1,
       // the indented case-action block is wrapped with {}
-      indentation_level: x,
+      indentation_level: N,
       alignment: 0,
-      line_indent_level: a ? a.line_indent_level : x,
+      line_indent_level: r ? r.line_indent_level : N,
       start_line_index: this._output.get_line_number(),
       ternary_depth: 0
     };
-    return D;
-  }, h.prototype._reset = function(a) {
-    var v = a.match(/^[\t ]*/)[0];
-    this._last_last_text = "", this._output = new s(this._options, v), this._output.raw = this._options.test_output_raw, this._flag_store = [], this.set_mode(c.BlockStatement);
-    var x = new i(a, this._options);
-    return this._tokens = x.tokenize(), a;
+    return F;
+  }, h.prototype._reset = function(r) {
+    var y = r.match(/^[\t ]*/)[0];
+    this._last_last_text = "", this._output = new s(this._options, y), this._output.raw = this._options.test_output_raw, this._flag_store = [], this.set_mode(c.BlockStatement);
+    var N = new i(r, this._options);
+    return this._tokens = N.tokenize(), r;
   }, h.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
-    var a, v = this._reset(this._source_text), x = this._options.eol;
-    this._options.eol === "auto" && (x = `
-`, v && n.lineBreak.test(v || "") && (x = v.match(n.lineBreak)[0]));
-    for (var D = this._tokens.next(); D; )
-      this.handle_token(D), this._last_last_text = this._flags.last_token.text, this._flags.last_token = D, D = this._tokens.next();
-    return a = this._output.get_code(x), a;
-  }, h.prototype.handle_token = function(a, v) {
-    a.type === o.START_EXPR ? this.handle_start_expr(a) : a.type === o.END_EXPR ? this.handle_end_expr(a) : a.type === o.START_BLOCK ? this.handle_start_block(a) : a.type === o.END_BLOCK ? this.handle_end_block(a) : a.type === o.WORD ? this.handle_word(a) : a.type === o.RESERVED ? this.handle_word(a) : a.type === o.SEMICOLON ? this.handle_semicolon(a) : a.type === o.STRING ? this.handle_string(a) : a.type === o.EQUALS ? this.handle_equals(a) : a.type === o.OPERATOR ? this.handle_operator(a) : a.type === o.COMMA ? this.handle_comma(a) : a.type === o.BLOCK_COMMENT ? this.handle_block_comment(a, v) : a.type === o.COMMENT ? this.handle_comment(a, v) : a.type === o.DOT ? this.handle_dot(a) : a.type === o.EOF ? this.handle_eof(a) : a.type === o.UNKNOWN ? this.handle_unknown(a, v) : this.handle_unknown(a, v);
-  }, h.prototype.handle_whitespace_and_comments = function(a, v) {
-    var x = a.newlines, D = this._options.keep_array_indentation && k(this._flags.mode);
-    if (a.comments_before)
-      for (var K = a.comments_before.next(); K; )
-        this.handle_whitespace_and_comments(K, v), this.handle_token(K, v), K = a.comments_before.next();
-    if (D)
-      for (var H = 0; H < x; H += 1)
-        this.print_newline(H > 0, v);
-    else if (this._options.max_preserve_newlines && x > this._options.max_preserve_newlines && (x = this._options.max_preserve_newlines), this._options.preserve_newlines && x > 1) {
-      this.print_newline(!1, v);
-      for (var M = 1; M < x; M += 1)
-        this.print_newline(!0, v);
+    var r, y = this._reset(this._source_text), N = this._options.eol;
+    this._options.eol === "auto" && (N = `
+`, y && n.lineBreak.test(y || "") && (N = y.match(n.lineBreak)[0]));
+    for (var F = this._tokens.next(); F; )
+      this.handle_token(F), this._last_last_text = this._flags.last_token.text, this._flags.last_token = F, F = this._tokens.next();
+    return r = this._output.get_code(N), r;
+  }, h.prototype.handle_token = function(r, y) {
+    r.type === o.START_EXPR ? this.handle_start_expr(r) : r.type === o.END_EXPR ? this.handle_end_expr(r) : r.type === o.START_BLOCK ? this.handle_start_block(r) : r.type === o.END_BLOCK ? this.handle_end_block(r) : r.type === o.WORD ? this.handle_word(r) : r.type === o.RESERVED ? this.handle_word(r) : r.type === o.SEMICOLON ? this.handle_semicolon(r) : r.type === o.STRING ? this.handle_string(r) : r.type === o.EQUALS ? this.handle_equals(r) : r.type === o.OPERATOR ? this.handle_operator(r) : r.type === o.COMMA ? this.handle_comma(r) : r.type === o.BLOCK_COMMENT ? this.handle_block_comment(r, y) : r.type === o.COMMENT ? this.handle_comment(r, y) : r.type === o.DOT ? this.handle_dot(r) : r.type === o.EOF ? this.handle_eof(r) : r.type === o.UNKNOWN ? this.handle_unknown(r, y) : this.handle_unknown(r, y);
+  }, h.prototype.handle_whitespace_and_comments = function(r, y) {
+    var N = r.newlines, F = this._options.keep_array_indentation && A(this._flags.mode);
+    if (r.comments_before)
+      for (var q = r.comments_before.next(); q; )
+        this.handle_whitespace_and_comments(q, y), this.handle_token(q, y), q = r.comments_before.next();
+    if (F)
+      for (var M = 0; M < N; M += 1)
+        this.print_newline(M > 0, y);
+    else if (this._options.max_preserve_newlines && N > this._options.max_preserve_newlines && (N = this._options.max_preserve_newlines), this._options.preserve_newlines && N > 1) {
+      this.print_newline(!1, y);
+      for (var O = 1; O < N; O += 1)
+        this.print_newline(!0, y);
     }
   };
-  var E = ["async", "break", "continue", "return", "throw", "yield"];
-  return h.prototype.allow_wrap_or_preserved_newline = function(a, v) {
-    if (v = v === void 0 ? !1 : v, !this._output.just_added_newline()) {
-      var x = this._options.preserve_newlines && a.newlines || v, D = _(this._flags.last_token.text, l) || _(a.text, l);
-      if (D) {
-        var K = _(this._flags.last_token.text, l) && _(this._options.operator_position, d) || _(a.text, l);
-        x = x && K;
+  var T = ["async", "break", "continue", "return", "throw", "yield"];
+  return h.prototype.allow_wrap_or_preserved_newline = function(r, y) {
+    if (y = y === void 0 ? !1 : y, !this._output.just_added_newline()) {
+      var N = this._options.preserve_newlines && r.newlines || y, F = _(this._flags.last_token.text, l) || _(r.text, l);
+      if (F) {
+        var q = _(this._flags.last_token.text, l) && _(this._options.operator_position, d) || _(r.text, l);
+        N = N && q;
       }
-      if (x)
+      if (N)
         this.print_newline(!1, !0);
       else if (this._options.wrap_line_length) {
-        if (m(this._flags.last_token, E))
+        if (m(this._flags.last_token, T))
           return;
         this._output.set_wrap_point();
       }
     }
-  }, h.prototype.print_newline = function(a, v) {
-    if (!v && this._flags.last_token.text !== ";" && this._flags.last_token.text !== "," && this._flags.last_token.text !== "=" && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++"))
-      for (var x = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(x, "else")) && !this._flags.do_block; )
+  }, h.prototype.print_newline = function(r, y) {
+    if (!y && this._flags.last_token.text !== ";" && this._flags.last_token.text !== "," && this._flags.last_token.text !== "=" && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++"))
+      for (var N = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(N, "else")) && !this._flags.do_block; )
         this.restore_mode();
-    this._output.add_new_line(a) && (this._flags.multiline_frame = !0);
-  }, h.prototype.print_token_line_indentation = function(a) {
-    this._output.just_added_newline() && (this._options.keep_array_indentation && a.newlines && (a.text === "[" || k(this._flags.mode)) ? (this._output.current_line.set_indent(-1), this._output.current_line.push(a.whitespace_before), this._output.space_before_token = !1) : this._output.set_indent(this._flags.indentation_level, this._flags.alignment) && (this._flags.line_indent_level = this._flags.indentation_level));
-  }, h.prototype.print_token = function(a) {
+    this._output.add_new_line(r) && (this._flags.multiline_frame = !0);
+  }, h.prototype.print_token_line_indentation = function(r) {
+    this._output.just_added_newline() && (this._options.keep_array_indentation && r.newlines && (r.text === "[" || A(this._flags.mode)) ? (this._output.current_line.set_indent(-1), this._output.current_line.push(r.whitespace_before), this._output.space_before_token = !1) : this._output.set_indent(this._flags.indentation_level, this._flags.alignment) && (this._flags.line_indent_level = this._flags.indentation_level));
+  }, h.prototype.print_token = function(r) {
     if (this._output.raw) {
-      this._output.add_raw_token(a);
+      this._output.add_raw_token(r);
       return;
     }
-    if (this._options.comma_first && a.previous && a.previous.type === o.COMMA && this._output.just_added_newline() && this._output.previous_line.last() === ",") {
-      var v = this._output.previous_line.pop();
-      this._output.previous_line.is_empty() && (this._output.previous_line.push(v), this._output.trim(!0), this._output.current_line.pop(), this._output.trim()), this.print_token_line_indentation(a), this._output.add_token(","), this._output.space_before_token = !0;
+    if (this._options.comma_first && r.previous && r.previous.type === o.COMMA && this._output.just_added_newline() && this._output.previous_line.last() === ",") {
+      var y = this._output.previous_line.pop();
+      this._output.previous_line.is_empty() && (this._output.previous_line.push(y), this._output.trim(!0), this._output.current_line.pop(), this._output.trim()), this.print_token_line_indentation(r), this._output.add_token(","), this._output.space_before_token = !0;
     }
-    this.print_token_line_indentation(a), this._output.non_breaking_space = !0, this._output.add_token(a.text), this._output.previous_token_wrapped && (this._flags.multiline_frame = !0);
+    this.print_token_line_indentation(r), this._output.non_breaking_space = !0, this._output.add_token(r.text), this._output.previous_token_wrapped && (this._flags.multiline_frame = !0);
   }, h.prototype.indent = function() {
     this._flags.indentation_level += 1, this._output.set_indent(this._flags.indentation_level, this._flags.alignment);
   }, h.prototype.deindent = function() {
     this._flags.indentation_level > 0 && (!this._flags.parent || this._flags.indentation_level > this._flags.parent.indentation_level) && (this._flags.indentation_level -= 1, this._output.set_indent(this._flags.indentation_level, this._flags.alignment));
-  }, h.prototype.set_mode = function(a) {
-    this._flags ? (this._flag_store.push(this._flags), this._previous_flags = this._flags) : this._previous_flags = this.create_flags(null, a), this._flags = this.create_flags(this._previous_flags, a), this._output.set_indent(this._flags.indentation_level, this._flags.alignment);
+  }, h.prototype.set_mode = function(r) {
+    this._flags ? (this._flag_store.push(this._flags), this._previous_flags = this._flags) : this._previous_flags = this.create_flags(null, r), this._flags = this.create_flags(this._previous_flags, r), this._output.set_indent(this._flags.indentation_level, this._flags.alignment);
   }, h.prototype.restore_mode = function() {
     this._flag_store.length > 0 && (this._previous_flags = this._flags, this._flags = this._flag_store.pop(), this._previous_flags.mode === c.Statement && f(this._output, this._previous_flags), this._output.set_indent(this._flags.indentation_level, this._flags.alignment));
   }, h.prototype.start_of_object_property = function() {
     return this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"]));
-  }, h.prototype.start_of_statement = function(a) {
-    var v = !1;
-    return v = v || m(this._flags.last_token, ["var", "let", "const"]) && a.type === o.WORD, v = v || p(this._flags.last_token, "do"), v = v || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && m(this._flags.last_token, E) && !a.newlines, v = v || p(this._flags.last_token, "else") && !(p(a, "if") && !a.comments_before), v = v || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), v = v || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(a.text === "--" || a.text === "++") && this._last_last_text !== "function" && a.type !== o.WORD && a.type !== o.RESERVED, v = v || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"])), v ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(a, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
-      a,
-      m(a, ["do", "for", "if", "while"])
+  }, h.prototype.start_of_statement = function(r) {
+    var y = !1;
+    return y = y || m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD, y = y || p(this._flags.last_token, "do"), y = y || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && m(this._flags.last_token, T) && !r.newlines, y = y || p(this._flags.last_token, "else") && !(p(r, "if") && !r.comments_before), y = y || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), y = y || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(r.text === "--" || r.text === "++") && this._last_last_text !== "function" && r.type !== o.WORD && r.type !== o.RESERVED, y = y || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"])), y ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(r, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
+      r,
+      m(r, ["do", "for", "if", "while"])
     ), !0) : !1;
-  }, h.prototype.handle_start_expr = function(a) {
-    this.start_of_statement(a) || this.handle_whitespace_and_comments(a);
-    var v = c.Expression;
-    if (a.text === "[") {
+  }, h.prototype.handle_start_expr = function(r) {
+    this.start_of_statement(r) || this.handle_whitespace_and_comments(r);
+    var y = c.Expression;
+    if (r.text === "[") {
       if (this._flags.last_token.type === o.WORD || this._flags.last_token.text === ")") {
-        m(this._flags.last_token, r) && (this._output.space_before_token = !0), this.print_token(a), this.set_mode(v), this.indent(), this._options.space_in_paren && (this._output.space_before_token = !0);
+        m(this._flags.last_token, a) && (this._output.space_before_token = !0), this.print_token(r), this.set_mode(y), this.indent(), this._options.space_in_paren && (this._output.space_before_token = !0);
         return;
       }
-      v = c.ArrayLiteral, k(this._flags.mode) && (this._flags.last_token.text === "[" || this._flags.last_token.text === "," && (this._last_last_text === "]" || this._last_last_text === "}")) && (this._options.keep_array_indentation || this.print_newline()), _(this._flags.last_token.type, [o.START_EXPR, o.END_EXPR, o.WORD, o.OPERATOR, o.DOT]) || (this._output.space_before_token = !0);
+      y = c.ArrayLiteral, A(this._flags.mode) && (this._flags.last_token.text === "[" || this._flags.last_token.text === "," && (this._last_last_text === "]" || this._last_last_text === "}")) && (this._options.keep_array_indentation || this.print_newline()), _(this._flags.last_token.type, [o.START_EXPR, o.END_EXPR, o.WORD, o.OPERATOR, o.DOT]) || (this._output.space_before_token = !0);
     } else {
       if (this._flags.last_token.type === o.RESERVED)
-        this._flags.last_token.text === "for" ? (this._output.space_before_token = this._options.space_before_conditional, v = c.ForInitializer) : _(this._flags.last_token.text, ["if", "while", "switch"]) ? (this._output.space_before_token = this._options.space_before_conditional, v = c.Conditional) : _(this._flags.last_word, ["await", "async"]) ? this._output.space_before_token = !0 : this._flags.last_token.text === "import" && a.whitespace_before === "" ? this._output.space_before_token = !1 : (_(this._flags.last_token.text, r) || this._flags.last_token.text === "catch") && (this._output.space_before_token = !0);
+        this._flags.last_token.text === "for" ? (this._output.space_before_token = this._options.space_before_conditional, y = c.ForInitializer) : _(this._flags.last_token.text, ["if", "while", "switch"]) ? (this._output.space_before_token = this._options.space_before_conditional, y = c.Conditional) : _(this._flags.last_word, ["await", "async"]) ? this._output.space_before_token = !0 : this._flags.last_token.text === "import" && r.whitespace_before === "" ? this._output.space_before_token = !1 : (_(this._flags.last_token.text, a) || this._flags.last_token.text === "catch") && (this._output.space_before_token = !0);
       else if (this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR)
-        this.start_of_object_property() || this.allow_wrap_or_preserved_newline(a);
+        this.start_of_object_property() || this.allow_wrap_or_preserved_newline(r);
       else if (this._flags.last_token.type === o.WORD) {
         this._output.space_before_token = !1;
-        var x = this._tokens.peek(-3);
-        if (this._options.space_after_named_function && x) {
-          var D = this._tokens.peek(-4);
-          m(x, ["async", "function"]) || x.text === "*" && m(D, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (x.text === "{" || x.text === "," || x.text === "*" && (D.text === "{" || D.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
+        var N = this._tokens.peek(-3);
+        if (this._options.space_after_named_function && N) {
+          var F = this._tokens.peek(-4);
+          m(N, ["async", "function"]) || N.text === "*" && m(F, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (N.text === "{" || N.text === "," || N.text === "*" && (F.text === "{" || F.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
         }
       } else
-        this.allow_wrap_or_preserved_newline(a);
+        this.allow_wrap_or_preserved_newline(r);
       (this._flags.last_token.type === o.RESERVED && (this._flags.last_word === "function" || this._flags.last_word === "typeof") || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","]))) && (this._output.space_before_token = this._options.space_after_anon_function);
     }
-    this._flags.last_token.text === ";" || this._flags.last_token.type === o.START_BLOCK ? this.print_newline() : (this._flags.last_token.type === o.END_EXPR || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.END_BLOCK || this._flags.last_token.text === "." || this._flags.last_token.type === o.COMMA) && this.allow_wrap_or_preserved_newline(a, a.newlines), this.print_token(a), this.set_mode(v), this._options.space_in_paren && (this._output.space_before_token = !0), this.indent();
-  }, h.prototype.handle_end_expr = function(a) {
+    this._flags.last_token.text === ";" || this._flags.last_token.type === o.START_BLOCK ? this.print_newline() : (this._flags.last_token.type === o.END_EXPR || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.END_BLOCK || this._flags.last_token.text === "." || this._flags.last_token.type === o.COMMA) && this.allow_wrap_or_preserved_newline(r, r.newlines), this.print_token(r), this.set_mode(y), this._options.space_in_paren && (this._output.space_before_token = !0), this.indent();
+  }, h.prototype.handle_end_expr = function(r) {
     for (; this._flags.mode === c.Statement; )
       this.restore_mode();
-    this.handle_whitespace_and_comments(a), this._flags.multiline_frame && this.allow_wrap_or_preserved_newline(
-      a,
-      a.text === "]" && k(this._flags.mode) && !this._options.keep_array_indentation
-    ), this._options.space_in_paren && (this._flags.last_token.type === o.START_EXPR && !this._options.space_in_empty_paren ? (this._output.trim(), this._output.space_before_token = !1) : this._output.space_before_token = !0), this.deindent(), this.print_token(a), this.restore_mode(), f(this._output, this._previous_flags), this._flags.do_while && this._previous_flags.mode === c.Conditional && (this._previous_flags.mode = c.Expression, this._flags.do_block = !1, this._flags.do_while = !1);
-  }, h.prototype.handle_start_block = function(a) {
-    this.handle_whitespace_and_comments(a);
-    var v = this._tokens.peek(), x = this._tokens.peek(1);
-    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : x && (_(x.text, [":", ","]) && _(v.type, [o.STRING, o.WORD, o.RESERVED]) || _(v.text, ["get", "set", "..."]) && _(x.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(x.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || m(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && m(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
-    var D = !v.comments_before && v.text === "}", K = D && this._flags.last_word === "function" && this._flags.last_token.type === o.END_EXPR;
+    this.handle_whitespace_and_comments(r), this._flags.multiline_frame && this.allow_wrap_or_preserved_newline(
+      r,
+      r.text === "]" && A(this._flags.mode) && !this._options.keep_array_indentation
+    ), this._options.space_in_paren && (this._flags.last_token.type === o.START_EXPR && !this._options.space_in_empty_paren ? (this._output.trim(), this._output.space_before_token = !1) : this._output.space_before_token = !0), this.deindent(), this.print_token(r), this.restore_mode(), f(this._output, this._previous_flags), this._flags.do_while && this._previous_flags.mode === c.Conditional && (this._previous_flags.mode = c.Expression, this._flags.do_block = !1, this._flags.do_while = !1);
+  }, h.prototype.handle_start_block = function(r) {
+    this.handle_whitespace_and_comments(r);
+    var y = this._tokens.peek(), N = this._tokens.peek(1);
+    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : N && (_(N.text, [":", ","]) && _(y.type, [o.STRING, o.WORD, o.RESERVED]) || _(y.text, ["get", "set", "..."]) && _(N.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(N.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || m(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && m(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
+    var F = !y.comments_before && y.text === "}", q = F && this._flags.last_word === "function" && this._flags.last_token.type === o.END_EXPR;
     if (this._options.brace_preserve_inline) {
-      var H = 0, M = null;
+      var M = 0, O = null;
       this._flags.inline_frame = !0;
       do
-        if (H += 1, M = this._tokens.peek(H - 1), M.newlines) {
+        if (M += 1, O = this._tokens.peek(M - 1), O.newlines) {
           this._flags.inline_frame = !1;
           break;
         }
-      while (M.type !== o.EOF && !(M.type === o.END_BLOCK && M.opened === a));
+      while (O.type !== o.EOF && !(O.type === o.END_BLOCK && O.opened === r));
     }
-    (this._options.brace_style === "expand" || this._options.brace_style === "none" && a.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (K || this._flags.last_token.type === o.EQUALS || m(this._flags.last_token, N) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (k(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(a), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(a), this.indent(), !D && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
-  }, h.prototype.handle_end_block = function(a) {
-    for (this.handle_whitespace_and_comments(a); this._flags.mode === c.Statement; )
+    (this._options.brace_style === "expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (q || this._flags.last_token.type === o.EQUALS || m(this._flags.last_token, w) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (A(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(r), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(r), this.indent(), !F && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
+  }, h.prototype.handle_end_block = function(r) {
+    for (this.handle_whitespace_and_comments(r); this._flags.mode === c.Statement; )
       this.restore_mode();
-    var v = this._flags.last_token.type === o.START_BLOCK;
-    this._flags.inline_frame && !v ? this._output.space_before_token = !0 : this._options.brace_style === "expand" ? v || this.print_newline() : v || (k(this._flags.mode) && this._options.keep_array_indentation ? (this._options.keep_array_indentation = !1, this.print_newline(), this._options.keep_array_indentation = !0) : this.print_newline()), this.restore_mode(), this.print_token(a);
-  }, h.prototype.handle_word = function(a) {
-    if (a.type === o.RESERVED) {
-      if (_(a.text, ["set", "get"]) && this._flags.mode !== c.ObjectLiteral)
-        a.type = o.WORD;
-      else if (a.text === "import" && _(this._tokens.peek().text, ["(", "."]))
-        a.type = o.WORD;
-      else if (_(a.text, ["as", "from"]) && !this._flags.import_block)
-        a.type = o.WORD;
+    var y = this._flags.last_token.type === o.START_BLOCK;
+    this._flags.inline_frame && !y ? this._output.space_before_token = !0 : this._options.brace_style === "expand" ? y || this.print_newline() : y || (A(this._flags.mode) && this._options.keep_array_indentation ? (this._options.keep_array_indentation = !1, this.print_newline(), this._options.keep_array_indentation = !0) : this.print_newline()), this.restore_mode(), this.print_token(r);
+  }, h.prototype.handle_word = function(r) {
+    if (r.type === o.RESERVED) {
+      if (_(r.text, ["set", "get"]) && this._flags.mode !== c.ObjectLiteral)
+        r.type = o.WORD;
+      else if (r.text === "import" && _(this._tokens.peek().text, ["(", "."]))
+        r.type = o.WORD;
+      else if (_(r.text, ["as", "from"]) && !this._flags.import_block)
+        r.type = o.WORD;
       else if (this._flags.mode === c.ObjectLiteral) {
-        var v = this._tokens.peek();
-        v.text === ":" && (a.type = o.WORD);
+        var y = this._tokens.peek();
+        y.text === ":" && (r.type = o.WORD);
       }
     }
-    if (this.start_of_statement(a) ? m(this._flags.last_token, ["var", "let", "const"]) && a.type === o.WORD && (this._flags.declaration_statement = !0) : a.newlines && !I(this._flags.mode) && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++") && this._flags.last_token.type !== o.EQUALS && (this._options.preserve_newlines || !m(this._flags.last_token, ["var", "let", "const", "set", "get"])) ? (this.handle_whitespace_and_comments(a), this.print_newline()) : this.handle_whitespace_and_comments(a), this._flags.do_block && !this._flags.do_while)
-      if (p(a, "while")) {
-        this._output.space_before_token = !0, this.print_token(a), this._output.space_before_token = !0, this._flags.do_while = !0;
+    if (this.start_of_statement(r) ? m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD && (this._flags.declaration_statement = !0) : r.newlines && !D(this._flags.mode) && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++") && this._flags.last_token.type !== o.EQUALS && (this._options.preserve_newlines || !m(this._flags.last_token, ["var", "let", "const", "set", "get"])) ? (this.handle_whitespace_and_comments(r), this.print_newline()) : this.handle_whitespace_and_comments(r), this._flags.do_block && !this._flags.do_while)
+      if (p(r, "while")) {
+        this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0, this._flags.do_while = !0;
         return;
       } else
         this.print_newline(), this._flags.do_block = !1;
     if (this._flags.if_block)
-      if (!this._flags.else_block && p(a, "else"))
+      if (!this._flags.else_block && p(r, "else"))
         this._flags.else_block = !0;
       else {
         for (; this._flags.mode === c.Statement; )
           this.restore_mode();
         this._flags.if_block = !1, this._flags.else_block = !1;
       }
-    if (this._flags.in_case_statement && m(a, ["case", "default"])) {
-      this.print_newline(), !this._flags.case_block && (this._flags.case_body || this._options.jslint_happy) && this.deindent(), this._flags.case_body = !1, this.print_token(a), this._flags.in_case = !0;
+    if (this._flags.in_case_statement && m(r, ["case", "default"])) {
+      this.print_newline(), !this._flags.case_block && (this._flags.case_body || this._options.jslint_happy) && this.deindent(), this._flags.case_body = !1, this.print_token(r), this._flags.in_case = !0;
       return;
     }
     if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR) && !this.start_of_object_property() && !// start of object property is different for numeric values with +/- prefix operators
-    (_(this._flags.last_token.text, ["+", "-"]) && this._last_last_text === ":" && this._flags.parent.mode === c.ObjectLiteral) && this.allow_wrap_or_preserved_newline(a), p(a, "function")) {
-      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !a.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? m(this._flags.last_token, ["get", "set", "new", "export"]) || m(this._flags.last_token, E) ? this._output.space_before_token = !0 : p(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (I(this._flags.mode) || k(this._flags.mode)) || this.print_newline(), this.print_token(a), this._flags.last_word = a.text;
+    (_(this._flags.last_token.text, ["+", "-"]) && this._last_last_text === ":" && this._flags.parent.mode === c.ObjectLiteral) && this.allow_wrap_or_preserved_newline(r), p(r, "function")) {
+      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !r.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? m(this._flags.last_token, ["get", "set", "new", "export"]) || m(this._flags.last_token, T) ? this._output.space_before_token = !0 : p(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (D(this._flags.mode) || A(this._flags.mode)) || this.print_newline(), this.print_token(r), this._flags.last_word = r.text;
       return;
     }
-    var x = "NONE";
-    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? x = "SPACE" : m(a, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && a.newlines ? x = "NEWLINE" : (x = "SPACE", this._output.space_before_token = !0) : x = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? x = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && I(this._flags.mode) ? x = "SPACE" : this._flags.last_token.type === o.STRING ? x = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? x = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? x = "SPACE" : x = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, x = "NEWLINE"), m(a, r) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? x = "SPACE" : x = "NEWLINE"), m(a, ["else", "catch", "finally"]))
-      if ((!(this._flags.last_token.type === o.END_BLOCK && this._previous_flags.mode === c.BlockStatement) || this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && a.newlines) && !this._flags.inline_frame)
+    var N = "NONE";
+    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? N = "SPACE" : m(r, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines ? N = "NEWLINE" : (N = "SPACE", this._output.space_before_token = !0) : N = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? N = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && D(this._flags.mode) ? N = "SPACE" : this._flags.last_token.type === o.STRING ? N = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? N = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? N = "SPACE" : N = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, N = "NEWLINE"), m(r, a) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? N = "SPACE" : N = "NEWLINE"), m(r, ["else", "catch", "finally"]))
+      if ((!(this._flags.last_token.type === o.END_BLOCK && this._previous_flags.mode === c.BlockStatement) || this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame)
         this.print_newline();
       else {
         this._output.trim(!0);
-        var D = this._output.current_line;
-        D.last() !== "}" && this.print_newline(), this._output.space_before_token = !0;
+        var F = this._output.current_line;
+        F.last() !== "}" && this.print_newline(), this._output.space_before_token = !0;
       }
-    else x === "NEWLINE" ? m(this._flags.last_token, N) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && m(a, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !m(a, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (p(a, "if") && p(a.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : m(a, r) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && k(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : x === "SPACE" && (this._output.space_before_token = !0);
-    a.previous && (a.previous.type === o.WORD || a.previous.type === o.RESERVED) && (this._output.space_before_token = !0), this.print_token(a), this._flags.last_word = a.text, a.type === o.RESERVED && (a.text === "do" ? this._flags.do_block = !0 : a.text === "if" ? this._flags.if_block = !0 : a.text === "import" ? this._flags.import_block = !0 : this._flags.import_block && p(a, "from") && (this._flags.import_block = !1));
-  }, h.prototype.handle_semicolon = function(a) {
-    this.start_of_statement(a) ? this._output.space_before_token = !1 : this.handle_whitespace_and_comments(a);
-    for (var v = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(v, "else")) && !this._flags.do_block; )
+    else N === "NEWLINE" ? m(this._flags.last_token, w) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && m(r, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !m(r, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (p(r, "if") && p(r.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : m(r, a) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && A(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : N === "SPACE" && (this._output.space_before_token = !0);
+    r.previous && (r.previous.type === o.WORD || r.previous.type === o.RESERVED) && (this._output.space_before_token = !0), this.print_token(r), this._flags.last_word = r.text, r.type === o.RESERVED && (r.text === "do" ? this._flags.do_block = !0 : r.text === "if" ? this._flags.if_block = !0 : r.text === "import" ? this._flags.import_block = !0 : this._flags.import_block && p(r, "from") && (this._flags.import_block = !1));
+  }, h.prototype.handle_semicolon = function(r) {
+    this.start_of_statement(r) ? this._output.space_before_token = !1 : this.handle_whitespace_and_comments(r);
+    for (var y = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(y, "else")) && !this._flags.do_block; )
       this.restore_mode();
-    this._flags.import_block && (this._flags.import_block = !1), this.print_token(a);
-  }, h.prototype.handle_string = function(a) {
-    a.text.startsWith("`") && a.newlines === 0 && a.whitespace_before === "" && (a.previous.text === ")" || this._flags.last_token.type === o.WORD) || (this.start_of_statement(a) ? this._output.space_before_token = !0 : (this.handle_whitespace_and_comments(a), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.inline_frame ? this._output.space_before_token = !0 : this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR ? this.start_of_object_property() || this.allow_wrap_or_preserved_newline(a) : a.text.startsWith("`") && this._flags.last_token.type === o.END_EXPR && (a.previous.text === "]" || a.previous.text === ")") && a.newlines === 0 ? this._output.space_before_token = !0 : this.print_newline())), this.print_token(a);
-  }, h.prototype.handle_equals = function(a) {
-    this.start_of_statement(a) || this.handle_whitespace_and_comments(a), this._flags.declaration_statement && (this._flags.declaration_assignment = !0), this._output.space_before_token = !0, this.print_token(a), this._output.space_before_token = !0;
-  }, h.prototype.handle_comma = function(a) {
-    this.handle_whitespace_and_comments(a, !0), this.print_token(a), this._output.space_before_token = !0, this._flags.declaration_statement ? (I(this._flags.parent.mode) && (this._flags.declaration_assignment = !1), this._flags.declaration_assignment ? (this._flags.declaration_assignment = !1, this.print_newline(!1, !0)) : this._options.comma_first && this.allow_wrap_or_preserved_newline(a)) : this._flags.mode === c.ObjectLiteral || this._flags.mode === c.Statement && this._flags.parent.mode === c.ObjectLiteral ? (this._flags.mode === c.Statement && this.restore_mode(), this._flags.inline_frame || this.print_newline()) : this._options.comma_first && this.allow_wrap_or_preserved_newline(a);
-  }, h.prototype.handle_operator = function(a) {
-    var v = a.text === "*" && (m(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), x = _(a.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, r) || this._flags.last_token.text === ",");
-    if (!this.start_of_statement(a)) {
-      var D = !v;
-      this.handle_whitespace_and_comments(a, D);
+    this._flags.import_block && (this._flags.import_block = !1), this.print_token(r);
+  }, h.prototype.handle_string = function(r) {
+    r.text.startsWith("`") && r.newlines === 0 && r.whitespace_before === "" && (r.previous.text === ")" || this._flags.last_token.type === o.WORD) || (this.start_of_statement(r) ? this._output.space_before_token = !0 : (this.handle_whitespace_and_comments(r), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.inline_frame ? this._output.space_before_token = !0 : this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR ? this.start_of_object_property() || this.allow_wrap_or_preserved_newline(r) : r.text.startsWith("`") && this._flags.last_token.type === o.END_EXPR && (r.previous.text === "]" || r.previous.text === ")") && r.newlines === 0 ? this._output.space_before_token = !0 : this.print_newline())), this.print_token(r);
+  }, h.prototype.handle_equals = function(r) {
+    this.start_of_statement(r) || this.handle_whitespace_and_comments(r), this._flags.declaration_statement && (this._flags.declaration_assignment = !0), this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0;
+  }, h.prototype.handle_comma = function(r) {
+    this.handle_whitespace_and_comments(r, !0), this.print_token(r), this._output.space_before_token = !0, this._flags.declaration_statement ? (D(this._flags.parent.mode) && (this._flags.declaration_assignment = !1), this._flags.declaration_assignment ? (this._flags.declaration_assignment = !1, this.print_newline(!1, !0)) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r)) : this._flags.mode === c.ObjectLiteral || this._flags.mode === c.Statement && this._flags.parent.mode === c.ObjectLiteral ? (this._flags.mode === c.Statement && this.restore_mode(), this._flags.inline_frame || this.print_newline()) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r);
+  }, h.prototype.handle_operator = function(r) {
+    var y = r.text === "*" && (m(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), N = _(r.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, a) || this._flags.last_token.text === ",");
+    if (!this.start_of_statement(r)) {
+      var F = !y;
+      this.handle_whitespace_and_comments(r, F);
     }
-    if (a.text === "*" && this._flags.last_token.type === o.DOT) {
-      this.print_token(a);
+    if (r.text === "*" && this._flags.last_token.type === o.DOT) {
+      this.print_token(r);
       return;
     }
-    if (a.text === "::") {
-      this.print_token(a);
+    if (r.text === "::") {
+      this.print_token(r);
       return;
     }
-    if (_(a.text, ["-", "+"]) && this.start_of_object_property()) {
-      this.print_token(a);
+    if (_(r.text, ["-", "+"]) && this.start_of_object_property()) {
+      this.print_token(r);
       return;
     }
-    if (this._flags.last_token.type === o.OPERATOR && _(this._options.operator_position, d) && this.allow_wrap_or_preserved_newline(a), a.text === ":" && this._flags.in_case) {
-      this.print_token(a), this._flags.in_case = !1, this._flags.case_body = !0, this._tokens.peek().type !== o.START_BLOCK ? (this.indent(), this.print_newline(), this._flags.case_block = !1) : (this._flags.case_block = !0, this._output.space_before_token = !0);
+    if (this._flags.last_token.type === o.OPERATOR && _(this._options.operator_position, d) && this.allow_wrap_or_preserved_newline(r), r.text === ":" && this._flags.in_case) {
+      this.print_token(r), this._flags.in_case = !1, this._flags.case_body = !0, this._tokens.peek().type !== o.START_BLOCK ? (this.indent(), this.print_newline(), this._flags.case_block = !1) : (this._flags.case_block = !0, this._output.space_before_token = !0);
       return;
     }
-    var K = !0, H = !0, M = !1;
-    if (a.text === ":" ? this._flags.ternary_depth === 0 ? K = !1 : (this._flags.ternary_depth -= 1, M = !0) : a.text === "?" && (this._flags.ternary_depth += 1), !x && !v && this._options.preserve_newlines && _(a.text, l)) {
-      var z = a.text === ":", J = z && M, me = z && !M;
+    var q = !0, M = !0, O = !1;
+    if (r.text === ":" ? this._flags.ternary_depth === 0 ? q = !1 : (this._flags.ternary_depth -= 1, O = !0) : r.text === "?" && (this._flags.ternary_depth += 1), !N && !y && this._options.preserve_newlines && _(r.text, l)) {
+      var I = r.text === ":", K = I && O, se = I && !O;
       switch (this._options.operator_position) {
-        case T.before_newline:
-          this._output.space_before_token = !me, this.print_token(a), (!z || J) && this.allow_wrap_or_preserved_newline(a), this._output.space_before_token = !0;
+        case S.before_newline:
+          this._output.space_before_token = !se, this.print_token(r), (!I || K) && this.allow_wrap_or_preserved_newline(r), this._output.space_before_token = !0;
           return;
-        case T.after_newline:
-          this._output.space_before_token = !0, !z || J ? this._tokens.peek().newlines ? this.print_newline(!1, !0) : this.allow_wrap_or_preserved_newline(a) : this._output.space_before_token = !1, this.print_token(a), this._output.space_before_token = !0;
+        case S.after_newline:
+          this._output.space_before_token = !0, !I || K ? this._tokens.peek().newlines ? this.print_newline(!1, !0) : this.allow_wrap_or_preserved_newline(r) : this._output.space_before_token = !1, this.print_token(r), this._output.space_before_token = !0;
           return;
-        case T.preserve_newline:
-          me || this.allow_wrap_or_preserved_newline(a), K = !(this._output.just_added_newline() || me), this._output.space_before_token = K, this.print_token(a), this._output.space_before_token = !0;
+        case S.preserve_newline:
+          se || this.allow_wrap_or_preserved_newline(r), q = !(this._output.just_added_newline() || se), this._output.space_before_token = q, this.print_token(r), this._output.space_before_token = !0;
           return;
       }
     }
-    if (v) {
-      this.allow_wrap_or_preserved_newline(a), K = !1;
-      var Q = this._tokens.peek();
-      H = Q && _(Q.type, [o.WORD, o.RESERVED]);
-    } else if (a.text === "...")
-      this.allow_wrap_or_preserved_newline(a), K = this._flags.last_token.type === o.START_BLOCK, H = !1;
-    else if (_(a.text, ["--", "++", "!", "~"]) || x) {
-      if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR) && this.allow_wrap_or_preserved_newline(a), K = !1, H = !1, a.newlines && (a.text === "--" || a.text === "++" || a.text === "~")) {
-        var ce = m(this._flags.last_token, N) && a.newlines;
-        ce && (this._previous_flags.if_block || this._previous_flags.else_block) && this.restore_mode(), this.print_newline(ce, !0);
+    if (y) {
+      this.allow_wrap_or_preserved_newline(r), q = !1;
+      var Z = this._tokens.peek();
+      M = Z && _(Z.type, [o.WORD, o.RESERVED]);
+    } else if (r.text === "...")
+      this.allow_wrap_or_preserved_newline(r), q = this._flags.last_token.type === o.START_BLOCK, M = !1;
+    else if (_(r.text, ["--", "++", "!", "~"]) || N) {
+      if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR) && this.allow_wrap_or_preserved_newline(r), q = !1, M = !1, r.newlines && (r.text === "--" || r.text === "++" || r.text === "~")) {
+        var le = m(this._flags.last_token, w) && r.newlines;
+        le && (this._previous_flags.if_block || this._previous_flags.else_block) && this.restore_mode(), this.print_newline(le, !0);
       }
-      this._flags.last_token.text === ";" && I(this._flags.mode) && (K = !0), this._flags.last_token.type === o.RESERVED ? K = !0 : this._flags.last_token.type === o.END_EXPR ? K = !(this._flags.last_token.text === "]" && (a.text === "--" || a.text === "++")) : this._flags.last_token.type === o.OPERATOR && (K = _(a.text, ["--", "-", "++", "+"]) && _(this._flags.last_token.text, ["--", "-", "++", "+"]), _(a.text, ["+", "-"]) && _(this._flags.last_token.text, ["--", "++"]) && (H = !0)), (this._flags.mode === c.BlockStatement && !this._flags.inline_frame || this._flags.mode === c.Statement) && (this._flags.last_token.text === "{" || this._flags.last_token.text === ";") && this.print_newline();
+      this._flags.last_token.text === ";" && D(this._flags.mode) && (q = !0), this._flags.last_token.type === o.RESERVED ? q = !0 : this._flags.last_token.type === o.END_EXPR ? q = !(this._flags.last_token.text === "]" && (r.text === "--" || r.text === "++")) : this._flags.last_token.type === o.OPERATOR && (q = _(r.text, ["--", "-", "++", "+"]) && _(this._flags.last_token.text, ["--", "-", "++", "+"]), _(r.text, ["+", "-"]) && _(this._flags.last_token.text, ["--", "++"]) && (M = !0)), (this._flags.mode === c.BlockStatement && !this._flags.inline_frame || this._flags.mode === c.Statement) && (this._flags.last_token.text === "{" || this._flags.last_token.text === ";") && this.print_newline();
     }
-    this._output.space_before_token = this._output.space_before_token || K, this.print_token(a), this._output.space_before_token = H;
-  }, h.prototype.handle_block_comment = function(a, v) {
+    this._output.space_before_token = this._output.space_before_token || q, this.print_token(r), this._output.space_before_token = M;
+  }, h.prototype.handle_block_comment = function(r, y) {
     if (this._output.raw) {
-      this._output.add_raw_token(a), a.directives && a.directives.preserve === "end" && (this._output.raw = this._options.test_output_raw);
+      this._output.add_raw_token(r), r.directives && r.directives.preserve === "end" && (this._output.raw = this._options.test_output_raw);
       return;
     }
-    if (a.directives) {
-      this.print_newline(!1, v), this.print_token(a), a.directives.preserve === "start" && (this._output.raw = !0), this.print_newline(!1, !0);
+    if (r.directives) {
+      this.print_newline(!1, y), this.print_token(r), r.directives.preserve === "start" && (this._output.raw = !0), this.print_newline(!1, !0);
       return;
     }
-    if (!n.newline.test(a.text) && !a.newlines) {
-      this._output.space_before_token = !0, this.print_token(a), this._output.space_before_token = !0;
+    if (!n.newline.test(r.text) && !r.newlines) {
+      this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0;
       return;
     } else
-      this.print_block_commment(a, v);
-  }, h.prototype.print_block_commment = function(a, v) {
-    var x = S(a.text), D, K = !1, H = !1, M = a.whitespace_before, z = M.length;
-    if (this.print_newline(!1, v), this.print_token_line_indentation(a), this._output.add_token(x[0]), this.print_newline(!1, v), x.length > 1) {
-      for (x = x.slice(1), K = y(x, "*"), H = w(x, M), K && (this._flags.alignment = 1), D = 0; D < x.length; D++)
-        K ? (this.print_token_line_indentation(a), this._output.add_token(g(x[D]))) : H && x[D] ? (this.print_token_line_indentation(a), this._output.add_token(x[D].substring(z))) : (this._output.current_line.set_indent(-1), this._output.add_token(x[D])), this.print_newline(!1, v);
+      this.print_block_commment(r, y);
+  }, h.prototype.print_block_commment = function(r, y) {
+    var N = R(r.text), F, q = !1, M = !1, O = r.whitespace_before, I = O.length;
+    if (this.print_newline(!1, y), this.print_token_line_indentation(r), this._output.add_token(N[0]), this.print_newline(!1, y), N.length > 1) {
+      for (N = N.slice(1), q = v(N, "*"), M = E(N, O), q && (this._flags.alignment = 1), F = 0; F < N.length; F++)
+        q ? (this.print_token_line_indentation(r), this._output.add_token(g(N[F]))) : M && N[F] ? (this.print_token_line_indentation(r), this._output.add_token(N[F].substring(I))) : (this._output.current_line.set_indent(-1), this._output.add_token(N[F])), this.print_newline(!1, y);
       this._flags.alignment = 0;
     }
-  }, h.prototype.handle_comment = function(a, v) {
-    a.newlines ? this.print_newline(!1, v) : this._output.trim(!0), this._output.space_before_token = !0, this.print_token(a), this.print_newline(!1, v);
-  }, h.prototype.handle_dot = function(a) {
-    this.start_of_statement(a) || this.handle_whitespace_and_comments(a, !0), this._flags.last_token.text.match("^[0-9]+$") && (this._output.space_before_token = !0), m(this._flags.last_token, N) ? this._output.space_before_token = !1 : this.allow_wrap_or_preserved_newline(
-      a,
+  }, h.prototype.handle_comment = function(r, y) {
+    r.newlines ? this.print_newline(!1, y) : this._output.trim(!0), this._output.space_before_token = !0, this.print_token(r), this.print_newline(!1, y);
+  }, h.prototype.handle_dot = function(r) {
+    this.start_of_statement(r) || this.handle_whitespace_and_comments(r, !0), this._flags.last_token.text.match("^[0-9]+$") && (this._output.space_before_token = !0), m(this._flags.last_token, w) ? this._output.space_before_token = !1 : this.allow_wrap_or_preserved_newline(
+      r,
       this._flags.last_token.text === ")" && this._options.break_chained_methods
-    ), this._options.unindent_chained_methods && this._output.just_added_newline() && this.deindent(), this.print_token(a);
-  }, h.prototype.handle_unknown = function(a, v) {
-    this.print_token(a), a.text[a.text.length - 1] === `
-` && this.print_newline(!1, v);
-  }, h.prototype.handle_eof = function(a) {
+    ), this._options.unindent_chained_methods && this._output.just_added_newline() && this.deindent(), this.print_token(r);
+  }, h.prototype.handle_unknown = function(r, y) {
+    this.print_token(r), r.text[r.text.length - 1] === `
+` && this.print_newline(!1, y);
+  }, h.prototype.handle_eof = function(r) {
     for (; this._flags.mode === c.Statement; )
       this.restore_mode();
-    this.handle_whitespace_and_comments(a);
+    this.handle_whitespace_and_comments(r);
   }, sn.Beautifier = h, sn;
 }
-var Vi;
-function nc() {
-  if (Vi) return At.exports;
-  Vi = 1;
-  var s = tc().Beautifier, t = ia().Options;
+var Xi;
+function lc() {
+  if (Xi) return At.exports;
+  Xi = 1;
+  var s = oc().Beautifier, t = aa().Options;
   function n(e, i) {
-    var r = new s(e, i);
-    return r.beautify();
+    var a = new s(e, i);
+    return a.beautify();
   }
   return At.exports = n, At.exports.defaultOptions = function() {
     return new t();
   }, At.exports;
 }
-var Mt = { exports: {} }, hn = {}, gn = {}, Zi;
-function aa() {
-  if (Zi) return gn;
-  Zi = 1;
-  var s = di().Options;
+var Mt = { exports: {} }, hn = {}, gn = {}, Yi;
+function oa() {
+  if (Yi) return gn;
+  Yi = 1;
+  var s = pi().Options;
   function t(n) {
     s.call(this, n, "css"), this.selector_separator_newline = this._get_boolean("selector_separator_newline", !0), this.newline_between_rules = this._get_boolean("newline_between_rules", !0);
     var e = this._get_boolean("space_around_selector_separator");
     this.space_around_combinator = this._get_boolean("space_around_combinator") || e;
     var i = this._get_selection_list("brace_style", ["collapse", "expand", "end-expand", "none", "preserve-inline"]);
     this.brace_style = "collapse";
-    for (var r = 0; r < i.length; r++)
-      i[r] !== "expand" ? this.brace_style = "collapse" : this.brace_style = i[r];
+    for (var a = 0; a < i.length; a++)
+      i[a] !== "expand" ? this.brace_style = "collapse" : this.brace_style = i[a];
   }
   return t.prototype = new s(), gn.Options = t, gn;
 }
-var Xi;
-function ic() {
-  if (Xi) return hn;
-  Xi = 1;
-  var s = aa().Options, t = ui().Output, n = pi().InputScanner, e = fi().Directives, i = new e(/\/\*/, /\*\//), r = /\r\n|[\r\n]/, l = /\r\n|[\r\n]/g, o = /\s/, _ = /(?:\s|\n)+/g, g = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, u = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
-  function p(m, N) {
-    this._source_text = m || "", this._options = new s(N), this._ch = null, this._input = null, this.NESTED_AT_RULE = {
+var Qi;
+function cc() {
+  if (Qi) return hn;
+  Qi = 1;
+  var s = oa().Options, t = di().Output, n = fi().InputScanner, e = hi().Directives, i = new e(/\/\*/, /\*\//), a = /\r\n|[\r\n]/, l = /\r\n|[\r\n]/g, o = /\s/, _ = /(?:\s|\n)+/g, g = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, u = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
+  function p(m, w) {
+    this._source_text = m || "", this._options = new s(w), this._ch = null, this._input = null, this.NESTED_AT_RULE = {
       page: !0,
       "font-face": !0,
       keyframes: !0,
@@ -3110,34 +3158,34 @@ function ic() {
     ];
   }
   return p.prototype.eatString = function(m) {
-    var N = "";
+    var w = "";
     for (this._ch = this._input.next(); this._ch; ) {
-      if (N += this._ch, this._ch === "\\")
-        N += this._input.next();
+      if (w += this._ch, this._ch === "\\")
+        w += this._input.next();
       else if (m.indexOf(this._ch) !== -1 || this._ch === `
 `)
         break;
       this._ch = this._input.next();
     }
-    return N;
+    return w;
   }, p.prototype.eatWhitespace = function(m) {
-    for (var N = o.test(this._input.peek()), O = 0; o.test(this._input.peek()); )
+    for (var w = o.test(this._input.peek()), x = 0; o.test(this._input.peek()); )
       this._ch = this._input.next(), m && this._ch === `
-` && (O === 0 || O < this._options.max_preserve_newlines) && (O++, this._output.add_new_line(!0));
-    return N;
+` && (x === 0 || x < this._options.max_preserve_newlines) && (x++, this._output.add_new_line(!0));
+    return w;
   }, p.prototype.foundNestedPseudoClass = function() {
-    for (var m = 0, N = 1, O = this._input.peek(N); O; ) {
-      if (O === "{")
+    for (var m = 0, w = 1, x = this._input.peek(w); x; ) {
+      if (x === "{")
         return !0;
-      if (O === "(")
+      if (x === "(")
         m += 1;
-      else if (O === ")") {
+      else if (x === ")") {
         if (m === 0)
           return !1;
         m -= 1;
-      } else if (O === ";" || O === "}")
+      } else if (x === ";" || x === "}")
         return !1;
-      N++, O = this._input.peek(N);
+      w++, x = this._input.peek(w);
     }
     return !1;
   }, p.prototype.print_string = function(m) {
@@ -3151,61 +3199,61 @@ function ic() {
   }, p.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
-    var m = this._source_text, N = this._options.eol;
-    N === "auto" && (N = `
-`, m && r.test(m || "") && (N = m.match(r)[0])), m = m.replace(l, `
+    var m = this._source_text, w = this._options.eol;
+    w === "auto" && (w = `
+`, m && a.test(m || "") && (w = m.match(a)[0])), m = m.replace(l, `
 `);
-    var O = m.match(/^[\t ]*/)[0];
-    this._output = new t(this._options, O), this._input = new n(m), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
-    for (var T = 0, d = !1, c = !1, f = !1, S = !1, k = !1, I = this._ch, y = !1, w, h, E; w = this._input.read(_), h = w !== "", E = I, this._ch = this._input.next(), this._ch === "\\" && this._input.hasNext() && (this._ch += this._input.next()), I = this._ch, this._ch; )
+    var x = m.match(/^[\t ]*/)[0];
+    this._output = new t(this._options, x), this._input = new n(m), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
+    for (var S = 0, d = !1, c = !1, f = !1, R = !1, A = !1, D = this._ch, v = !1, E, h, T; E = this._input.read(_), h = E !== "", T = D, this._ch = this._input.next(), this._ch === "\\" && this._input.hasNext() && (this._ch += this._input.next()), D = this._ch, this._ch; )
       if (this._ch === "/" && this._input.peek() === "*") {
         this._output.add_new_line(), this._input.back();
-        var a = this._input.read(g), v = i.get_directives(a);
-        v && v.ignore === "start" && (a += i.readIgnored(this._input)), this.print_string(a), this.eatWhitespace(!0), this._output.add_new_line();
+        var r = this._input.read(g), y = i.get_directives(r);
+        y && y.ignore === "start" && (r += i.readIgnored(this._input)), this.print_string(r), this.eatWhitespace(!0), this._output.add_new_line();
       } else if (this._ch === "/" && this._input.peek() === "/")
         this._output.space_before_token = !0, this._input.back(), this.print_string(this._input.read(u)), this.eatWhitespace(!0);
       else if (this._ch === "$") {
         this.preserveSingleSpace(h), this.print_string(this._ch);
-        var x = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
-        x.match(/[ :]$/) && (x = this.eatString(": ").replace(/\s+$/, ""), this.print_string(x), this._output.space_before_token = !0), T === 0 && x.indexOf(":") !== -1 && (c = !0, this.indent());
+        var N = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
+        N.match(/[ :]$/) && (N = this.eatString(": ").replace(/\s+$/, ""), this.print_string(N), this._output.space_before_token = !0), S === 0 && N.indexOf(":") !== -1 && (c = !0, this.indent());
       } else if (this._ch === "@")
         if (this.preserveSingleSpace(h), this._input.peek() === "{")
           this.print_string(this._ch + this.eatString("}"));
         else {
           this.print_string(this._ch);
-          var D = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
-          D.match(/[ :]$/) && (D = this.eatString(": ").replace(/\s+$/, ""), this.print_string(D), this._output.space_before_token = !0), T === 0 && D.indexOf(":") !== -1 ? (c = !0, this.indent()) : D in this.NESTED_AT_RULE ? (this._nestedLevel += 1, D in this.CONDITIONAL_GROUP_RULE && (f = !0)) : T === 0 && !c && (S = !0);
+          var F = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
+          F.match(/[ :]$/) && (F = this.eatString(": ").replace(/\s+$/, ""), this.print_string(F), this._output.space_before_token = !0), S === 0 && F.indexOf(":") !== -1 ? (c = !0, this.indent()) : F in this.NESTED_AT_RULE ? (this._nestedLevel += 1, F in this.CONDITIONAL_GROUP_RULE && (f = !0)) : S === 0 && !c && (R = !0);
         }
       else if (this._ch === "#" && this._input.peek() === "{")
         this.preserveSingleSpace(h), this.print_string(this._ch + this.eatString("}"));
       else if (this._ch === "{")
-        c && (c = !1, this.outdent()), S = !1, f ? (f = !1, d = this._indentLevel >= this._nestedLevel) : d = this._indentLevel >= this._nestedLevel - 1, this._options.newline_between_rules && d && this._output.previous_line && this._output.previous_line.item(-1) !== "{" && this._output.ensure_empty_line_above("/", ","), this._output.space_before_token = !0, this._options.brace_style === "expand" ? (this._output.add_new_line(), this.print_string(this._ch), this.indent(), this._output.set_indent(this._indentLevel)) : (E === "(" ? this._output.space_before_token = !1 : E !== "," && this.indent(), this.print_string(this._ch)), this.eatWhitespace(!0), this._output.add_new_line();
+        c && (c = !1, this.outdent()), R = !1, f ? (f = !1, d = this._indentLevel >= this._nestedLevel) : d = this._indentLevel >= this._nestedLevel - 1, this._options.newline_between_rules && d && this._output.previous_line && this._output.previous_line.item(-1) !== "{" && this._output.ensure_empty_line_above("/", ","), this._output.space_before_token = !0, this._options.brace_style === "expand" ? (this._output.add_new_line(), this.print_string(this._ch), this.indent(), this._output.set_indent(this._indentLevel)) : (T === "(" ? this._output.space_before_token = !1 : T !== "," && this.indent(), this.print_string(this._ch)), this.eatWhitespace(!0), this._output.add_new_line();
       else if (this._ch === "}")
-        this.outdent(), this._output.add_new_line(), E === "{" && this._output.trim(!0), c && (this.outdent(), c = !1), this.print_string(this._ch), d = !1, this._nestedLevel && this._nestedLevel--, this.eatWhitespace(!0), this._output.add_new_line(), this._options.newline_between_rules && !this._output.just_added_blankline() && this._input.peek() !== "}" && this._output.add_new_line(!0), this._input.peek() === ")" && (this._output.trim(!0), this._options.brace_style === "expand" && this._output.add_new_line(!0));
+        this.outdent(), this._output.add_new_line(), T === "{" && this._output.trim(!0), c && (this.outdent(), c = !1), this.print_string(this._ch), d = !1, this._nestedLevel && this._nestedLevel--, this.eatWhitespace(!0), this._output.add_new_line(), this._options.newline_between_rules && !this._output.just_added_blankline() && this._input.peek() !== "}" && this._output.add_new_line(!0), this._input.peek() === ")" && (this._output.trim(!0), this._options.brace_style === "expand" && this._output.add_new_line(!0));
       else if (this._ch === ":") {
-        for (var K = 0; K < this.NON_SEMICOLON_NEWLINE_PROPERTY.length; K++)
-          if (this._input.lookBack(this.NON_SEMICOLON_NEWLINE_PROPERTY[K])) {
-            y = !0;
+        for (var q = 0; q < this.NON_SEMICOLON_NEWLINE_PROPERTY.length; q++)
+          if (this._input.lookBack(this.NON_SEMICOLON_NEWLINE_PROPERTY[q])) {
+            v = !0;
             break;
           }
-        (d || f) && !(this._input.lookBack("&") || this.foundNestedPseudoClass()) && !this._input.lookBack("(") && !S && T === 0 ? (this.print_string(":"), c || (c = !0, this._output.space_before_token = !0, this.eatWhitespace(!0), this.indent())) : (this._input.lookBack(" ") && (this._output.space_before_token = !0), this._input.peek() === ":" ? (this._ch = this._input.next(), this.print_string("::")) : this.print_string(":"));
+        (d || f) && !(this._input.lookBack("&") || this.foundNestedPseudoClass()) && !this._input.lookBack("(") && !R && S === 0 ? (this.print_string(":"), c || (c = !0, this._output.space_before_token = !0, this.eatWhitespace(!0), this.indent())) : (this._input.lookBack(" ") && (this._output.space_before_token = !0), this._input.peek() === ":" ? (this._ch = this._input.next(), this.print_string("::")) : this.print_string(":"));
       } else if (this._ch === '"' || this._ch === "'") {
-        var H = E === '"' || E === "'";
-        this.preserveSingleSpace(H || h), this.print_string(this._ch + this.eatString(this._ch)), this.eatWhitespace(!0);
+        var M = T === '"' || T === "'";
+        this.preserveSingleSpace(M || h), this.print_string(this._ch + this.eatString(this._ch)), this.eatWhitespace(!0);
       } else if (this._ch === ";")
-        y = !1, T === 0 ? (c && (this.outdent(), c = !1), S = !1, this.print_string(this._ch), this.eatWhitespace(!0), this._input.peek() !== "/" && this._output.add_new_line()) : (this.print_string(this._ch), this.eatWhitespace(!0), this._output.space_before_token = !0);
+        v = !1, S === 0 ? (c && (this.outdent(), c = !1), R = !1, this.print_string(this._ch), this.eatWhitespace(!0), this._input.peek() !== "/" && this._output.add_new_line()) : (this.print_string(this._ch), this.eatWhitespace(!0), this._output.space_before_token = !0);
       else if (this._ch === "(")
         if (this._input.lookBack("url"))
-          this.print_string(this._ch), this.eatWhitespace(), T++, this.indent(), this._ch = this._input.next(), this._ch === ")" || this._ch === '"' || this._ch === "'" ? this._input.back() : this._ch && (this.print_string(this._ch + this.eatString(")")), T && (T--, this.outdent()));
+          this.print_string(this._ch), this.eatWhitespace(), S++, this.indent(), this._ch = this._input.next(), this._ch === ")" || this._ch === '"' || this._ch === "'" ? this._input.back() : this._ch && (this.print_string(this._ch + this.eatString(")")), S && (S--, this.outdent()));
         else {
-          var M = !1;
-          this._input.lookBack("with") && (M = !0), this.preserveSingleSpace(h || M), this.print_string(this._ch), c && E === "$" && this._options.selector_separator_newline ? (this._output.add_new_line(), k = !0) : (this.eatWhitespace(), T++, this.indent());
+          var O = !1;
+          this._input.lookBack("with") && (O = !0), this.preserveSingleSpace(h || O), this.print_string(this._ch), c && T === "$" && this._options.selector_separator_newline ? (this._output.add_new_line(), A = !0) : (this.eatWhitespace(), S++, this.indent());
         }
       else if (this._ch === ")")
-        T && (T--, this.outdent()), k && this._input.peek() === ";" && this._options.selector_separator_newline && (k = !1, this.outdent(), this._output.add_new_line()), this.print_string(this._ch);
+        S && (S--, this.outdent()), A && this._input.peek() === ";" && this._options.selector_separator_newline && (A = !1, this.outdent(), this._output.add_new_line()), this.print_string(this._ch);
       else if (this._ch === ",")
-        this.print_string(this._ch), this.eatWhitespace(!0), this._options.selector_separator_newline && (!c || k) && T === 0 && !S ? this._output.add_new_line() : this._output.space_before_token = !0;
-      else if ((this._ch === ">" || this._ch === "+" || this._ch === "~") && !c && T === 0)
+        this.print_string(this._ch), this.eatWhitespace(!0), this._options.selector_separator_newline && (!c || A) && S === 0 && !R ? this._output.add_new_line() : this._output.space_before_token = !0;
+      else if ((this._ch === ">" || this._ch === "+" || this._ch === "~") && !c && S === 0)
         this._options.space_around_combinator ? (this._output.space_before_token = !0, this.print_string(this._ch), this._output.space_before_token = !0) : (this.print_string(this._ch), this.eatWhitespace(), this._ch && o.test(this._ch) && (this._ch = ""));
       else if (this._ch === "]")
         this.print_string(this._ch);
@@ -3216,32 +3264,32 @@ function ic() {
       else if (this._ch === "!" && !this._input.lookBack("\\"))
         this._output.space_before_token = !0, this.print_string(this._ch);
       else {
-        var z = E === '"' || E === "'";
-        this.preserveSingleSpace(z || h), this.print_string(this._ch), !this._output.just_added_newline() && this._input.peek() === `
-` && y && this._output.add_new_line();
+        var I = T === '"' || T === "'";
+        this.preserveSingleSpace(I || h), this.print_string(this._ch), !this._output.just_added_newline() && this._input.peek() === `
+` && v && this._output.add_new_line();
       }
-    var J = this._output.get_code(N);
-    return J;
+    var K = this._output.get_code(w);
+    return K;
   }, hn.Beautifier = p, hn;
 }
-var Yi;
-function sc() {
-  if (Yi) return Mt.exports;
-  Yi = 1;
-  var s = ic().Beautifier, t = aa().Options;
+var Ji;
+function _c() {
+  if (Ji) return Mt.exports;
+  Ji = 1;
+  var s = cc().Beautifier, t = oa().Options;
   function n(e, i) {
-    var r = new s(e, i);
-    return r.beautify();
+    var a = new s(e, i);
+    return a.beautify();
   }
   return Mt.exports = n, Mt.exports.defaultOptions = function() {
     return new t();
   }, Mt.exports;
 }
-var Lt = { exports: {} }, bn = {}, mn = {}, Qi;
-function ra() {
-  if (Qi) return mn;
-  Qi = 1;
-  var s = di().Options;
+var Lt = { exports: {} }, bn = {}, mn = {}, es;
+function la() {
+  if (es) return mn;
+  es = 1;
+  var s = pi().Options;
   function t(n) {
     s.call(this, n, "html"), this.templating.length === 1 && this.templating[0] === "auto" && (this.templating = ["django", "erb", "handlebars", "php"]), this.indent_inner_html = this._get_boolean("indent_inner_html"), this.indent_body_inner_html = this._get_boolean("indent_body_inner_html", !0), this.indent_head_inner_html = this._get_boolean("indent_head_inner_html", !0), this.indent_handlebars = this._get_boolean("indent_handlebars", !0), this.wrap_attributes = this._get_selection(
       "wrap_attributes",
@@ -3342,11 +3390,11 @@ function ra() {
   }
   return t.prototype = new s(), mn.Options = t, mn;
 }
-var Dt = {}, Ji;
-function es() {
-  if (Ji) return Dt;
-  Ji = 1;
-  var s = Pt().Tokenizer, t = Pt().TOKEN, n = fi().Directives, e = sa().TemplatablePattern, i = zt().Pattern, r = {
+var Dt = {}, ts;
+function ns() {
+  if (ts) return Dt;
+  ts = 1;
+  var s = Pt().Tokenizer, t = Pt().TOKEN, n = hi().Directives, e = ra().TemplatablePattern, i = zt().Pattern, a = {
     TAG_OPEN: "TK_TAG_OPEN",
     TAG_CLOSE: "TK_TAG_CLOSE",
     CONTROL_FLOW_OPEN: "TK_CONTROL_FLOW_OPEN",
@@ -3388,36 +3436,36 @@ function es() {
   return o.prototype = new s(), o.prototype._is_comment = function(_) {
     return !1;
   }, o.prototype._is_opening = function(_) {
-    return _.type === r.TAG_OPEN || _.type === r.CONTROL_FLOW_OPEN;
+    return _.type === a.TAG_OPEN || _.type === a.CONTROL_FLOW_OPEN;
   }, o.prototype._is_closing = function(_, g) {
-    return _.type === r.TAG_CLOSE && g && ((_.text === ">" || _.text === "/>") && g.text[0] === "<" || _.text === "}}" && g.text[0] === "{" && g.text[1] === "{") || _.type === r.CONTROL_FLOW_CLOSE && _.text === "}" && g.text.endsWith("{");
+    return _.type === a.TAG_CLOSE && g && ((_.text === ">" || _.text === "/>") && g.text[0] === "<" || _.text === "}}" && g.text[0] === "{" && g.text[1] === "{") || _.type === a.CONTROL_FLOW_CLOSE && _.text === "}" && g.text.endsWith("{");
   }, o.prototype._reset = function() {
     this._current_tag_name = "";
   }, o.prototype._get_next_token = function(_, g) {
     var u = null;
     this._readWhitespace();
     var p = this._input.peek();
-    return p === null ? this._create_token(r.EOF, "") : (u = u || this._read_open_handlebars(p, g), u = u || this._read_attribute(p, _, g), u = u || this._read_close(p, g), u = u || this._read_script_and_style(p, _), u = u || this._read_control_flows(p, g), u = u || this._read_raw_content(p, _, g), u = u || this._read_content_word(p, g), u = u || this._read_comment_or_cdata(p), u = u || this._read_processing(p), u = u || this._read_open(p, g), u = u || this._create_token(r.UNKNOWN, this._input.next()), u);
+    return p === null ? this._create_token(a.EOF, "") : (u = u || this._read_open_handlebars(p, g), u = u || this._read_attribute(p, _, g), u = u || this._read_close(p, g), u = u || this._read_script_and_style(p, _), u = u || this._read_control_flows(p, g), u = u || this._read_raw_content(p, _, g), u = u || this._read_content_word(p, g), u = u || this._read_comment_or_cdata(p), u = u || this._read_processing(p), u = u || this._read_open(p, g), u = u || this._create_token(a.UNKNOWN, this._input.next()), u);
   }, o.prototype._read_comment_or_cdata = function(_) {
     var g = null, u = null, p = null;
     if (_ === "<") {
       var m = this._input.peek(1);
-      m === "!" && (u = this.__patterns.comment.read(), u ? (p = l.get_directives(u), p && p.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (g = this._create_token(r.COMMENT, u), g.directives = p);
+      m === "!" && (u = this.__patterns.comment.read(), u ? (p = l.get_directives(u), p && p.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (g = this._create_token(a.COMMENT, u), g.directives = p);
     }
     return g;
   }, o.prototype._read_processing = function(_) {
     var g = null, u = null, p = null;
     if (_ === "<") {
       var m = this._input.peek(1);
-      (m === "!" || m === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (g = this._create_token(r.COMMENT, u), g.directives = p);
+      (m === "!" || m === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (g = this._create_token(a.COMMENT, u), g.directives = p);
     }
     return g;
   }, o.prototype._read_open = function(_, g) {
     var u = null, p = null;
-    return (!g || g.type === r.CONTROL_FLOW_OPEN) && _ === "<" && (u = this._input.next(), this._input.peek() === "/" && (u += this._input.next()), u += this.__patterns.element_name.read(), p = this._create_token(r.TAG_OPEN, u)), p;
+    return (!g || g.type === a.CONTROL_FLOW_OPEN) && _ === "<" && (u = this._input.next(), this._input.peek() === "/" && (u += this._input.next()), u += this.__patterns.element_name.read(), p = this._create_token(a.TAG_OPEN, u)), p;
   }, o.prototype._read_open_handlebars = function(_, g) {
     var u = null, p = null;
-    return (!g || g.type === r.CONTROL_FLOW_OPEN) && (this._options.templating.includes("angular") || this._options.indent_handlebars) && _ === "{" && this._input.peek(1) === "{" && (this._options.indent_handlebars && this._input.peek(2) === "!" ? (u = this.__patterns.handlebars_comment.read(), u = u || this.__patterns.handlebars.read(), p = this._create_token(r.COMMENT, u)) : (u = this.__patterns.handlebars_open.read(), p = this._create_token(r.TAG_OPEN, u))), p;
+    return (!g || g.type === a.CONTROL_FLOW_OPEN) && (this._options.templating.includes("angular") || this._options.indent_handlebars) && _ === "{" && this._input.peek(1) === "{" && (this._options.indent_handlebars && this._input.peek(2) === "!" ? (u = this.__patterns.handlebars_comment.read(), u = u || this.__patterns.handlebars.read(), p = this._create_token(a.COMMENT, u)) : (u = this.__patterns.handlebars_open.read(), p = this._create_token(a.TAG_OPEN, u))), p;
   }, o.prototype._read_control_flows = function(_, g) {
     var u = "", p = null;
     if (!this._options.templating.includes("angular"))
@@ -3425,28 +3473,28 @@ function es() {
     if (_ === "@") {
       if (u = this.__patterns.angular_control_flow_start.read(), u === "")
         return p;
-      for (var m = u.endsWith("(") ? 1 : 0, N = 0; !(u.endsWith("{") && m === N); ) {
-        var O = this._input.next();
-        if (O === null)
+      for (var m = u.endsWith("(") ? 1 : 0, w = 0; !(u.endsWith("{") && m === w); ) {
+        var x = this._input.next();
+        if (x === null)
           break;
-        O === "(" ? m++ : O === ")" && N++, u += O;
+        x === "(" ? m++ : x === ")" && w++, u += x;
       }
-      p = this._create_token(r.CONTROL_FLOW_OPEN, u);
-    } else _ === "}" && g && g.type === r.CONTROL_FLOW_OPEN && (u = this._input.next(), p = this._create_token(r.CONTROL_FLOW_CLOSE, u));
+      p = this._create_token(a.CONTROL_FLOW_OPEN, u);
+    } else _ === "}" && g && g.type === a.CONTROL_FLOW_OPEN && (u = this._input.next(), p = this._create_token(a.CONTROL_FLOW_CLOSE, u));
     return p;
   }, o.prototype._read_close = function(_, g) {
     var u = null, p = null;
-    return g && g.type === r.TAG_OPEN && (g.text[0] === "<" && (_ === ">" || _ === "/" && this._input.peek(1) === ">") ? (u = this._input.next(), _ === "/" && (u += this._input.next()), p = this._create_token(r.TAG_CLOSE, u)) : g.text[0] === "{" && _ === "}" && this._input.peek(1) === "}" && (this._input.next(), this._input.next(), p = this._create_token(r.TAG_CLOSE, "}}"))), p;
+    return g && g.type === a.TAG_OPEN && (g.text[0] === "<" && (_ === ">" || _ === "/" && this._input.peek(1) === ">") ? (u = this._input.next(), _ === "/" && (u += this._input.next()), p = this._create_token(a.TAG_CLOSE, u)) : g.text[0] === "{" && _ === "}" && this._input.peek(1) === "}" && (this._input.next(), this._input.next(), p = this._create_token(a.TAG_CLOSE, "}}"))), p;
   }, o.prototype._read_attribute = function(_, g, u) {
     var p = null, m = "";
     if (u && u.text[0] === "<")
       if (_ === "=")
-        p = this._create_token(r.EQUALS, this._input.next());
+        p = this._create_token(a.EQUALS, this._input.next());
       else if (_ === '"' || _ === "'") {
-        var N = this._input.next();
-        _ === '"' ? N += this.__patterns.double_quote.read() : N += this.__patterns.single_quote.read(), p = this._create_token(r.VALUE, N);
+        var w = this._input.next();
+        _ === '"' ? w += this.__patterns.double_quote.read() : w += this.__patterns.single_quote.read(), p = this._create_token(a.VALUE, w);
       } else
-        m = this.__patterns.attribute.read(), m && (g.type === r.EQUALS ? p = this._create_token(r.VALUE, m) : p = this._create_token(r.ATTRIBUTE, m));
+        m = this.__patterns.attribute.read(), m && (g.type === a.EQUALS ? p = this._create_token(a.VALUE, m) : p = this._create_token(a.ATTRIBUTE, m));
     return p;
   }, o.prototype._is_content_unformatted = function(_) {
     return this._options.void_elements.indexOf(_) === -1 && (this._options.content_unformatted.indexOf(_) !== -1 || this._options.unformatted.indexOf(_) !== -1);
@@ -3454,34 +3502,34 @@ function es() {
     var p = "";
     if (u && u.text[0] === "{")
       p = this.__patterns.handlebars_raw_close.read();
-    else if (g.type === r.TAG_CLOSE && g.opened.text[0] === "<" && g.text[0] !== "/") {
+    else if (g.type === a.TAG_CLOSE && g.opened.text[0] === "<" && g.text[0] !== "/") {
       var m = g.opened.text.substr(1).toLowerCase();
       this._is_content_unformatted(m) && (p = this._input.readUntil(new RegExp("</" + m + "[\\n\\r\\t ]*?>", "ig")));
     }
-    return p ? this._create_token(r.TEXT, p) : null;
+    return p ? this._create_token(a.TEXT, p) : null;
   }, o.prototype._read_script_and_style = function(_, g) {
-    if (g.type === r.TAG_CLOSE && g.opened.text[0] === "<" && g.text[0] !== "/") {
+    if (g.type === a.TAG_CLOSE && g.opened.text[0] === "<" && g.text[0] !== "/") {
       var u = g.opened.text.substr(1).toLowerCase();
       if (u === "script" || u === "style") {
         var p = this._read_comment_or_cdata(_);
         if (p)
-          return p.type = r.TEXT, p;
+          return p.type = a.TEXT, p;
         var m = this._input.readUntil(new RegExp("</" + u + "[\\n\\r\\t ]*?>", "ig"));
         if (m)
-          return this._create_token(r.TEXT, m);
+          return this._create_token(a.TEXT, m);
       }
     }
     return null;
   }, o.prototype._read_content_word = function(_, g) {
     var u = "";
-    return this._options.unformatted_content_delimiter && _ === this._options.unformatted_content_delimiter[0] && (u = this.__patterns.unformatted_content_delimiter.read()), u || (u = g && g.type === r.CONTROL_FLOW_OPEN ? this.__patterns.word_control_flow_close_excluded.read() : this.__patterns.word.read()), u ? this._create_token(r.TEXT, u) : null;
-  }, Dt.Tokenizer = o, Dt.TOKEN = r, Dt;
+    return this._options.unformatted_content_delimiter && _ === this._options.unformatted_content_delimiter[0] && (u = this.__patterns.unformatted_content_delimiter.read()), u || (u = g && g.type === a.CONTROL_FLOW_OPEN ? this.__patterns.word_control_flow_close_excluded.read() : this.__patterns.word.read()), u ? this._create_token(a.TEXT, u) : null;
+  }, Dt.Tokenizer = o, Dt.TOKEN = a, Dt;
 }
-var ts;
-function ac() {
-  if (ts) return bn;
-  ts = 1;
-  var s = ra().Options, t = ui().Output, n = es().Tokenizer, e = es().TOKEN, i = /\r\n|[\r\n]/, r = /\r\n|[\r\n]/g, l = function(d, c) {
+var is;
+function uc() {
+  if (is) return bn;
+  is = 1;
+  var s = la().Options, t = di().Output, n = ns().Tokenizer, e = ns().TOKEN, i = /\r\n|[\r\n]/, a = /\r\n|[\r\n]/g, l = function(d, c) {
     this.indent_level = 0, this.alignment_size = 0, this.max_preserve_newlines = d.max_preserve_newlines, this.preserve_newlines = d.preserve_newlines, this._output = new t(d, c);
   };
   l.prototype.current_line_has_match = function(d) {
@@ -3523,8 +3571,8 @@ function ac() {
     }
     return c;
   }, _ = function(d, c) {
-    var f = null, S = null;
-    return c.closed ? (d === "script" ? f = "text/javascript" : d === "style" && (f = "text/css"), f = o(c) || f, f.search("text/css") > -1 ? S = "css" : f.search(/module|((text|application|dojo)\/(x-)?(javascript|ecmascript|jscript|livescript|(ld\+)?json|method|aspect))/) > -1 ? S = "javascript" : f.search(/(text|application|dojo)\/(x-)?(html)/) > -1 ? S = "html" : f.search(/test\/null/) > -1 && (S = "null"), S) : null;
+    var f = null, R = null;
+    return c.closed ? (d === "script" ? f = "text/javascript" : d === "style" && (f = "text/css"), f = o(c) || f, f.search("text/css") > -1 ? R = "css" : f.search(/module|((text|application|dojo)\/(x-)?(javascript|ecmascript|jscript|livescript|(ld\+)?json|method|aspect))/) > -1 ? R = "javascript" : f.search(/(text|application|dojo)\/(x-)?(html)/) > -1 ? R = "html" : f.search(/test\/null/) > -1 && (R = "null"), R) : null;
   };
   function g(d, c) {
     return c.indexOf(d) !== -1;
@@ -3559,27 +3607,27 @@ function ac() {
     var c = this._get_frame(d);
     c && (this._printer.indent_level = c.indent_level);
   };
-  function m(d, c, f, S) {
-    this._source_text = d || "", c = c || {}, this._js_beautify = f, this._css_beautify = S, this._tag_stack = null;
-    var k = new s(c, "html");
-    this._options = k, this._is_wrap_attributes_force = this._options.wrap_attributes.substr(0, 5) === "force", this._is_wrap_attributes_force_expand_multiline = this._options.wrap_attributes === "force-expand-multiline", this._is_wrap_attributes_force_aligned = this._options.wrap_attributes === "force-aligned", this._is_wrap_attributes_aligned_multiple = this._options.wrap_attributes === "aligned-multiple", this._is_wrap_attributes_preserve = this._options.wrap_attributes.substr(0, 8) === "preserve", this._is_wrap_attributes_preserve_aligned = this._options.wrap_attributes === "preserve-aligned";
+  function m(d, c, f, R) {
+    this._source_text = d || "", c = c || {}, this._js_beautify = f, this._css_beautify = R, this._tag_stack = null;
+    var A = new s(c, "html");
+    this._options = A, this._is_wrap_attributes_force = this._options.wrap_attributes.substr(0, 5) === "force", this._is_wrap_attributes_force_expand_multiline = this._options.wrap_attributes === "force-expand-multiline", this._is_wrap_attributes_force_aligned = this._options.wrap_attributes === "force-aligned", this._is_wrap_attributes_aligned_multiple = this._options.wrap_attributes === "aligned-multiple", this._is_wrap_attributes_preserve = this._options.wrap_attributes.substr(0, 8) === "preserve", this._is_wrap_attributes_preserve_aligned = this._options.wrap_attributes === "preserve-aligned";
   }
   m.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
     var d = this._source_text, c = this._options.eol;
     this._options.eol === "auto" && (c = `
-`, d && i.test(d) && (c = d.match(i)[0])), d = d.replace(r, `
+`, d && i.test(d) && (c = d.match(i)[0])), d = d.replace(a, `
 `);
-    var f = d.match(/^[\t ]*/)[0], S = {
+    var f = d.match(/^[\t ]*/)[0], R = {
       text: "",
       type: ""
-    }, k = new N(this._options), I = new l(this._options, f), y = new n(d, this._options).tokenize();
-    this._tag_stack = new p(I);
-    for (var w = null, h = y.next(); h.type !== e.EOF; )
-      h.type === e.TAG_OPEN || h.type === e.COMMENT ? (w = this._handle_tag_open(I, h, k, S, y), k = w) : h.type === e.ATTRIBUTE || h.type === e.EQUALS || h.type === e.VALUE || h.type === e.TEXT && !k.tag_complete ? w = this._handle_inside_tag(I, h, k, S) : h.type === e.TAG_CLOSE ? w = this._handle_tag_close(I, h, k) : h.type === e.TEXT ? w = this._handle_text(I, h, k) : h.type === e.CONTROL_FLOW_OPEN ? w = this._handle_control_flow_open(I, h) : h.type === e.CONTROL_FLOW_CLOSE ? w = this._handle_control_flow_close(I, h) : I.add_raw_token(h), S = w, h = y.next();
-    var E = I._output.get_code(c);
-    return E;
+    }, A = new w(this._options), D = new l(this._options, f), v = new n(d, this._options).tokenize();
+    this._tag_stack = new p(D);
+    for (var E = null, h = v.next(); h.type !== e.EOF; )
+      h.type === e.TAG_OPEN || h.type === e.COMMENT ? (E = this._handle_tag_open(D, h, A, R, v), A = E) : h.type === e.ATTRIBUTE || h.type === e.EQUALS || h.type === e.VALUE || h.type === e.TEXT && !A.tag_complete ? E = this._handle_inside_tag(D, h, A, R) : h.type === e.TAG_CLOSE ? E = this._handle_tag_close(D, h, A) : h.type === e.TEXT ? E = this._handle_text(D, h, A) : h.type === e.CONTROL_FLOW_OPEN ? E = this._handle_control_flow_open(D, h) : h.type === e.CONTROL_FLOW_CLOSE ? E = this._handle_control_flow_close(D, h) : D.add_raw_token(h), R = E, h = v.next();
+    var T = D._output.get_code(c);
+    return T;
   }, m.prototype._handle_control_flow_open = function(d, c) {
     var f = {
       text: c.text,
@@ -3593,103 +3641,103 @@ function ac() {
     };
     return d.deindent(), c.newlines ? d.print_preserved_newlines(c) : d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), d.print_token(c), f;
   }, m.prototype._handle_tag_close = function(d, c, f) {
-    var S = {
+    var R = {
       text: c.text,
       type: c.type
     };
-    return d.alignment_size = 0, f.tag_complete = !0, d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : (f.tag_start_char === "<" && (d.set_space_before_token(c.text[0] === "/", !0), this._is_wrap_attributes_force_expand_multiline && f.has_wrapped_attrs && d.print_newline(!1)), d.print_token(c)), f.indent_content && !(f.is_unformatted || f.is_content_unformatted) && (d.indent(), f.indent_content = !1), !f.is_inline_element && !(f.is_unformatted || f.is_content_unformatted) && d.set_wrap_point(), S;
-  }, m.prototype._handle_inside_tag = function(d, c, f, S) {
-    var k = f.has_wrapped_attrs, I = {
+    return d.alignment_size = 0, f.tag_complete = !0, d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : (f.tag_start_char === "<" && (d.set_space_before_token(c.text[0] === "/", !0), this._is_wrap_attributes_force_expand_multiline && f.has_wrapped_attrs && d.print_newline(!1)), d.print_token(c)), f.indent_content && !(f.is_unformatted || f.is_content_unformatted) && (d.indent(), f.indent_content = !1), !f.is_inline_element && !(f.is_unformatted || f.is_content_unformatted) && d.set_wrap_point(), R;
+  }, m.prototype._handle_inside_tag = function(d, c, f, R) {
+    var A = f.has_wrapped_attrs, D = {
       text: c.text,
       type: c.type
     };
-    return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : f.tag_start_char === "{" && c.type === e.TEXT ? d.print_preserved_newlines(c) ? (c.newlines = 0, d.add_raw_token(c)) : d.print_token(c) : (c.type === e.ATTRIBUTE ? d.set_space_before_token(!0) : (c.type === e.EQUALS || c.type === e.VALUE && c.previous.type === e.EQUALS) && d.set_space_before_token(!1), c.type === e.ATTRIBUTE && f.tag_start_char === "<" && ((this._is_wrap_attributes_preserve || this._is_wrap_attributes_preserve_aligned) && (d.traverse_whitespace(c), k = k || c.newlines !== 0), this._is_wrap_attributes_force && f.attr_count >= this._options.wrap_attributes_min_attrs && (S.type !== e.TAG_OPEN || // ie. second attribute and beyond
-    this._is_wrap_attributes_force_expand_multiline) && (d.print_newline(!1), k = !0)), d.print_token(c), k = k || d.previous_token_wrapped(), f.has_wrapped_attrs = k), I;
+    return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : f.tag_start_char === "{" && c.type === e.TEXT ? d.print_preserved_newlines(c) ? (c.newlines = 0, d.add_raw_token(c)) : d.print_token(c) : (c.type === e.ATTRIBUTE ? d.set_space_before_token(!0) : (c.type === e.EQUALS || c.type === e.VALUE && c.previous.type === e.EQUALS) && d.set_space_before_token(!1), c.type === e.ATTRIBUTE && f.tag_start_char === "<" && ((this._is_wrap_attributes_preserve || this._is_wrap_attributes_preserve_aligned) && (d.traverse_whitespace(c), A = A || c.newlines !== 0), this._is_wrap_attributes_force && f.attr_count >= this._options.wrap_attributes_min_attrs && (R.type !== e.TAG_OPEN || // ie. second attribute and beyond
+    this._is_wrap_attributes_force_expand_multiline) && (d.print_newline(!1), A = !0)), d.print_token(c), A = A || d.previous_token_wrapped(), f.has_wrapped_attrs = A), D;
   }, m.prototype._handle_text = function(d, c, f) {
-    var S = {
+    var R = {
       text: c.text,
       type: "TK_CONTENT"
     };
-    return f.custom_beautifier_name ? this._print_custom_beatifier_text(d, c, f) : f.is_unformatted || f.is_content_unformatted ? d.add_raw_token(c) : (d.traverse_whitespace(c), d.print_token(c)), S;
+    return f.custom_beautifier_name ? this._print_custom_beatifier_text(d, c, f) : f.is_unformatted || f.is_content_unformatted ? d.add_raw_token(c) : (d.traverse_whitespace(c), d.print_token(c)), R;
   }, m.prototype._print_custom_beatifier_text = function(d, c, f) {
-    var S = this;
+    var R = this;
     if (c.text !== "") {
-      var k = c.text, I, y = 1, w = "", h = "";
-      f.custom_beautifier_name === "javascript" && typeof this._js_beautify == "function" ? I = this._js_beautify : f.custom_beautifier_name === "css" && typeof this._css_beautify == "function" ? I = this._css_beautify : f.custom_beautifier_name === "html" && (I = function(K, H) {
-        var M = new m(K, H, S._js_beautify, S._css_beautify);
-        return M.beautify();
-      }), this._options.indent_scripts === "keep" ? y = 0 : this._options.indent_scripts === "separate" && (y = -d.indent_level);
-      var E = d.get_full_indent(y);
-      if (k = k.replace(/\n[ \t]*$/, ""), f.custom_beautifier_name !== "html" && k[0] === "<" && k.match(/^(<!--|<!\[CDATA\[)/)) {
-        var a = /^(<!--[^\n]*|<!\[CDATA\[)(\n?)([ \t\n]*)([\s\S]*)(-->|]]>)$/.exec(k);
-        if (!a) {
+      var A = c.text, D, v = 1, E = "", h = "";
+      f.custom_beautifier_name === "javascript" && typeof this._js_beautify == "function" ? D = this._js_beautify : f.custom_beautifier_name === "css" && typeof this._css_beautify == "function" ? D = this._css_beautify : f.custom_beautifier_name === "html" && (D = function(q, M) {
+        var O = new m(q, M, R._js_beautify, R._css_beautify);
+        return O.beautify();
+      }), this._options.indent_scripts === "keep" ? v = 0 : this._options.indent_scripts === "separate" && (v = -d.indent_level);
+      var T = d.get_full_indent(v);
+      if (A = A.replace(/\n[ \t]*$/, ""), f.custom_beautifier_name !== "html" && A[0] === "<" && A.match(/^(<!--|<!\[CDATA\[)/)) {
+        var r = /^(<!--[^\n]*|<!\[CDATA\[)(\n?)([ \t\n]*)([\s\S]*)(-->|]]>)$/.exec(A);
+        if (!r) {
           d.add_raw_token(c);
           return;
         }
-        w = E + a[1] + `
-`, k = a[4], a[5] && (h = E + a[5]), k = k.replace(/\n[ \t]*$/, ""), (a[2] || a[3].indexOf(`
-`) !== -1) && (a = a[3].match(/[ \t]+$/), a && (c.whitespace_before = a[0]));
+        E = T + r[1] + `
+`, A = r[4], r[5] && (h = T + r[5]), A = A.replace(/\n[ \t]*$/, ""), (r[2] || r[3].indexOf(`
+`) !== -1) && (r = r[3].match(/[ \t]+$/), r && (c.whitespace_before = r[0]));
       }
-      if (k)
-        if (I) {
-          var v = function() {
+      if (A)
+        if (D) {
+          var y = function() {
             this.eol = `
 `;
           };
-          v.prototype = this._options.raw_options;
-          var x = new v();
-          k = I(E + k, x);
+          y.prototype = this._options.raw_options;
+          var N = new y();
+          A = D(T + A, N);
         } else {
-          var D = c.whitespace_before;
-          D && (k = k.replace(new RegExp(`
-(` + D + ")?", "g"), `
-`)), k = E + k.replace(/\n/g, `
-` + E);
+          var F = c.whitespace_before;
+          F && (A = A.replace(new RegExp(`
+(` + F + ")?", "g"), `
+`)), A = T + A.replace(/\n/g, `
+` + T);
         }
-      w && (k ? k = w + k + `
-` + h : k = w + h), d.print_newline(!1), k && (c.text = k, c.whitespace_before = "", c.newlines = 0, d.add_raw_token(c), d.print_newline(!0));
+      E && (A ? A = E + A + `
+` + h : A = E + h), d.print_newline(!1), A && (c.text = A, c.whitespace_before = "", c.newlines = 0, d.add_raw_token(c), d.print_newline(!0));
     }
-  }, m.prototype._handle_tag_open = function(d, c, f, S, k) {
-    var I = this._get_tag_open_token(c);
-    if ((f.is_unformatted || f.is_content_unformatted) && !f.is_empty_element && c.type === e.TAG_OPEN && !I.is_start_tag ? (d.add_raw_token(c), I.start_tag_token = this._tag_stack.try_pop(I.tag_name)) : (d.traverse_whitespace(c), this._set_tag_position(d, c, I, f, S), I.is_inline_element || d.set_wrap_point(), d.print_token(c)), I.is_start_tag && this._is_wrap_attributes_force) {
-      var y = 0, w;
+  }, m.prototype._handle_tag_open = function(d, c, f, R, A) {
+    var D = this._get_tag_open_token(c);
+    if ((f.is_unformatted || f.is_content_unformatted) && !f.is_empty_element && c.type === e.TAG_OPEN && !D.is_start_tag ? (d.add_raw_token(c), D.start_tag_token = this._tag_stack.try_pop(D.tag_name)) : (d.traverse_whitespace(c), this._set_tag_position(d, c, D, f, R), D.is_inline_element || d.set_wrap_point(), d.print_token(c)), D.is_start_tag && this._is_wrap_attributes_force) {
+      var v = 0, E;
       do
-        w = k.peek(y), w.type === e.ATTRIBUTE && (I.attr_count += 1), y += 1;
-      while (w.type !== e.EOF && w.type !== e.TAG_CLOSE);
+        E = A.peek(v), E.type === e.ATTRIBUTE && (D.attr_count += 1), v += 1;
+      while (E.type !== e.EOF && E.type !== e.TAG_CLOSE);
     }
-    return (this._is_wrap_attributes_force_aligned || this._is_wrap_attributes_aligned_multiple || this._is_wrap_attributes_preserve_aligned) && (I.alignment_size = c.text.length + 1), !I.tag_complete && !I.is_unformatted && (d.alignment_size = I.alignment_size), I;
+    return (this._is_wrap_attributes_force_aligned || this._is_wrap_attributes_aligned_multiple || this._is_wrap_attributes_preserve_aligned) && (D.alignment_size = c.text.length + 1), !D.tag_complete && !D.is_unformatted && (d.alignment_size = D.alignment_size), D;
   };
-  var N = function(d, c, f) {
+  var w = function(d, c, f) {
     if (this.parent = c || null, this.text = "", this.type = "TK_TAG_OPEN", this.tag_name = "", this.is_inline_element = !1, this.is_unformatted = !1, this.is_content_unformatted = !1, this.is_empty_element = !1, this.is_start_tag = !1, this.is_end_tag = !1, this.indent_content = !1, this.multiline_content = !1, this.custom_beautifier_name = null, this.start_tag_token = null, this.attr_count = 0, this.has_wrapped_attrs = !1, this.alignment_size = 0, this.tag_complete = !1, this.tag_start_char = "", this.tag_check = "", !f)
       this.tag_complete = !0;
     else {
-      var S;
-      this.tag_start_char = f.text[0], this.text = f.text, this.tag_start_char === "<" ? (S = f.text.match(/^<([^\s>]*)/), this.tag_check = S ? S[1] : "") : (S = f.text.match(/^{{~?(?:[\^]|#\*?)?([^\s}]+)/), this.tag_check = S ? S[1] : "", (f.text.startsWith("{{#>") || f.text.startsWith("{{~#>")) && this.tag_check[0] === ">" && (this.tag_check === ">" && f.next !== null ? this.tag_check = f.next.text.split(" ")[0] : this.tag_check = f.text.split(">")[1])), this.tag_check = this.tag_check.toLowerCase(), f.type === e.COMMENT && (this.tag_complete = !0), this.is_start_tag = this.tag_check.charAt(0) !== "/", this.tag_name = this.is_start_tag ? this.tag_check : this.tag_check.substr(1), this.is_end_tag = !this.is_start_tag || f.closed && f.closed.text === "/>";
-      var k = 2;
-      this.tag_start_char === "{" && this.text.length >= 3 && this.text.charAt(2) === "~" && (k = 3), this.is_end_tag = this.is_end_tag || this.tag_start_char === "{" && (!d.indent_handlebars || this.text.length < 3 || /[^#\^]/.test(this.text.charAt(k)));
+      var R;
+      this.tag_start_char = f.text[0], this.text = f.text, this.tag_start_char === "<" ? (R = f.text.match(/^<([^\s>]*)/), this.tag_check = R ? R[1] : "") : (R = f.text.match(/^{{~?(?:[\^]|#\*?)?([^\s}]+)/), this.tag_check = R ? R[1] : "", (f.text.startsWith("{{#>") || f.text.startsWith("{{~#>")) && this.tag_check[0] === ">" && (this.tag_check === ">" && f.next !== null ? this.tag_check = f.next.text.split(" ")[0] : this.tag_check = f.text.split(">")[1])), this.tag_check = this.tag_check.toLowerCase(), f.type === e.COMMENT && (this.tag_complete = !0), this.is_start_tag = this.tag_check.charAt(0) !== "/", this.tag_name = this.is_start_tag ? this.tag_check : this.tag_check.substr(1), this.is_end_tag = !this.is_start_tag || f.closed && f.closed.text === "/>";
+      var A = 2;
+      this.tag_start_char === "{" && this.text.length >= 3 && this.text.charAt(2) === "~" && (A = 3), this.is_end_tag = this.is_end_tag || this.tag_start_char === "{" && (!d.indent_handlebars || this.text.length < 3 || /[^#\^]/.test(this.text.charAt(A)));
     }
   };
   m.prototype._get_tag_open_token = function(d) {
-    var c = new N(this._options, this._tag_stack.get_parser_token(), d);
+    var c = new w(this._options, this._tag_stack.get_parser_token(), d);
     return c.alignment_size = this._options.wrap_attributes_indent_size, c.is_end_tag = c.is_end_tag || g(c.tag_check, this._options.void_elements), c.is_empty_element = c.tag_complete || c.is_start_tag && c.is_end_tag, c.is_unformatted = !c.tag_complete && g(c.tag_check, this._options.unformatted), c.is_content_unformatted = !c.is_empty_element && g(c.tag_check, this._options.content_unformatted), c.is_inline_element = g(c.tag_name, this._options.inline) || this._options.inline_custom_elements && c.tag_name.includes("-") || c.tag_start_char === "{", c;
-  }, m.prototype._set_tag_position = function(d, c, f, S, k) {
+  }, m.prototype._set_tag_position = function(d, c, f, R, A) {
     if (f.is_empty_element || (f.is_end_tag ? f.start_tag_token = this._tag_stack.try_pop(f.tag_name) : (this._do_optional_end_element(f) && (f.is_inline_element || d.print_newline(!1)), this._tag_stack.record_tag(f), (f.tag_name === "script" || f.tag_name === "style") && !(f.is_unformatted || f.is_content_unformatted) && (f.custom_beautifier_name = _(f.tag_check, c)))), g(f.tag_check, this._options.extra_liners) && (d.print_newline(!1), d._output.just_added_blankline() || d.print_newline(!0)), f.is_empty_element) {
       if (f.tag_start_char === "{" && f.tag_check === "else") {
         this._tag_stack.indent_to_tag(["if", "unless", "each"]), f.indent_content = !0;
-        var I = d.current_line_has_match(/{{#if/);
-        I || d.print_newline(!1);
+        var D = d.current_line_has_match(/{{#if/);
+        D || d.print_newline(!1);
       }
-      f.tag_name === "!--" && k.type === e.TAG_CLOSE && S.is_end_tag && f.text.indexOf(`
+      f.tag_name === "!--" && A.type === e.TAG_CLOSE && R.is_end_tag && f.text.indexOf(`
 `) === -1 || (f.is_inline_element || f.is_unformatted || d.print_newline(!1), this._calcluate_parent_multiline(d, f));
     } else if (f.is_end_tag) {
-      var y = !1;
-      y = f.start_tag_token && f.start_tag_token.multiline_content, y = y || !f.is_inline_element && !(S.is_inline_element || S.is_unformatted) && !(k.type === e.TAG_CLOSE && f.start_tag_token === S) && k.type !== "TK_CONTENT", (f.is_content_unformatted || f.is_unformatted) && (y = !1), y && d.print_newline(!1);
+      var v = !1;
+      v = f.start_tag_token && f.start_tag_token.multiline_content, v = v || !f.is_inline_element && !(R.is_inline_element || R.is_unformatted) && !(A.type === e.TAG_CLOSE && f.start_tag_token === R) && A.type !== "TK_CONTENT", (f.is_content_unformatted || f.is_unformatted) && (v = !1), v && d.print_newline(!1);
     } else
-      f.indent_content = !f.custom_beautifier_name, f.tag_start_char === "<" && (f.tag_name === "html" ? f.indent_content = this._options.indent_inner_html : f.tag_name === "head" ? f.indent_content = this._options.indent_head_inner_html : f.tag_name === "body" && (f.indent_content = this._options.indent_body_inner_html)), !(f.is_inline_element || f.is_unformatted) && (k.type !== "TK_CONTENT" || f.is_content_unformatted) && d.print_newline(!1), this._calcluate_parent_multiline(d, f);
+      f.indent_content = !f.custom_beautifier_name, f.tag_start_char === "<" && (f.tag_name === "html" ? f.indent_content = this._options.indent_inner_html : f.tag_name === "head" ? f.indent_content = this._options.indent_head_inner_html : f.tag_name === "body" && (f.indent_content = this._options.indent_body_inner_html)), !(f.is_inline_element || f.is_unformatted) && (A.type !== "TK_CONTENT" || f.is_content_unformatted) && d.print_newline(!1), this._calcluate_parent_multiline(d, f);
   }, m.prototype._calcluate_parent_multiline = function(d, c) {
     c.parent && d._output.just_added_newline() && !((c.is_inline_element || c.is_unformatted) && c.parent.is_inline_element) && (c.parent.multiline_content = !0);
   };
-  var O = ["address", "article", "aside", "blockquote", "details", "div", "dl", "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr", "main", "menu", "nav", "ol", "p", "pre", "section", "table", "ul"], T = ["a", "audio", "del", "ins", "map", "noscript", "video"];
+  var x = ["address", "article", "aside", "blockquote", "details", "div", "dl", "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr", "main", "menu", "nav", "ol", "p", "pre", "section", "table", "ul"], S = ["a", "audio", "del", "ins", "map", "noscript", "video"];
   return m.prototype._do_optional_end_element = function(d) {
     var c = null;
     if (!(d.is_empty_element || !d.is_start_tag || !d.parent)) {
@@ -3699,72 +3747,72 @@ function ac() {
         c = c || this._tag_stack.try_pop("li", ["ol", "ul", "menu"]);
       else if (d.tag_name === "dd" || d.tag_name === "dt")
         c = c || this._tag_stack.try_pop("dt", ["dl"]), c = c || this._tag_stack.try_pop("dd", ["dl"]);
-      else if (d.parent.tag_name === "p" && O.indexOf(d.tag_name) !== -1) {
+      else if (d.parent.tag_name === "p" && x.indexOf(d.tag_name) !== -1) {
         var f = d.parent.parent;
-        (!f || T.indexOf(f.tag_name) === -1) && (c = c || this._tag_stack.try_pop("p"));
+        (!f || S.indexOf(f.tag_name) === -1) && (c = c || this._tag_stack.try_pop("p"));
       } else d.tag_name === "rp" || d.tag_name === "rt" ? (c = c || this._tag_stack.try_pop("rt", ["ruby", "rtc"]), c = c || this._tag_stack.try_pop("rp", ["ruby", "rtc"])) : d.tag_name === "optgroup" ? c = c || this._tag_stack.try_pop("optgroup", ["select"]) : d.tag_name === "option" ? c = c || this._tag_stack.try_pop("option", ["select", "datalist", "optgroup"]) : d.tag_name === "colgroup" ? c = c || this._tag_stack.try_pop("caption", ["table"]) : d.tag_name === "thead" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"])) : d.tag_name === "tbody" || d.tag_name === "tfoot" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("thead", ["table"]), c = c || this._tag_stack.try_pop("tbody", ["table"])) : d.tag_name === "tr" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("tr", ["table", "thead", "tbody", "tfoot"])) : (d.tag_name === "th" || d.tag_name === "td") && (c = c || this._tag_stack.try_pop("td", ["table", "thead", "tbody", "tfoot", "tr"]), c = c || this._tag_stack.try_pop("th", ["table", "thead", "tbody", "tfoot", "tr"]));
       return d.parent = this._tag_stack.get_parser_token(), c;
     }
   }, bn.Beautifier = m, bn;
 }
-var ns;
-function rc() {
-  if (ns) return Lt.exports;
-  ns = 1;
-  var s = ac().Beautifier, t = ra().Options;
-  function n(e, i, r, l) {
-    var o = new s(e, i, r, l);
+var ss;
+function dc() {
+  if (ss) return Lt.exports;
+  ss = 1;
+  var s = uc().Beautifier, t = la().Options;
+  function n(e, i, a, l) {
+    var o = new s(e, i, a, l);
     return o.beautify();
   }
   return Lt.exports = n, Lt.exports.defaultOptions = function() {
     return new t();
   }, Lt.exports;
 }
-var is;
-function oc() {
-  if (is) return ut;
-  is = 1;
-  var s = nc(), t = sc(), n = rc();
-  function e(i, r, l, o) {
-    return l = l || s, o = o || t, n(i, r, l, o);
+var as;
+function pc() {
+  if (as) return dt;
+  as = 1;
+  var s = lc(), t = _c(), n = dc();
+  function e(i, a, l, o) {
+    return l = l || s, o = o || t, n(i, a, l, o);
   }
-  return e.defaultOptions = n.defaultOptions, ut.js = s, ut.css = t, ut.html = e, ut;
+  return e.defaultOptions = n.defaultOptions, dt.js = s, dt.css = t, dt.html = e, dt;
 }
-var ss;
-function lc() {
-  return ss || (ss = 1, (function(s) {
+var rs;
+function fc() {
+  return rs || (rs = 1, (function(s) {
     function t(n, e, i) {
-      var r = function(l, o) {
+      var a = function(l, o) {
         return n.js_beautify(l, o);
       };
-      return r.js = n.js_beautify, r.css = e.css_beautify, r.html = i.html_beautify, r.js_beautify = n.js_beautify, r.css_beautify = e.css_beautify, r.html_beautify = i.html_beautify, r;
+      return a.js = n.js_beautify, a.css = e.css_beautify, a.html = i.html_beautify, a.js_beautify = n.js_beautify, a.css_beautify = e.css_beautify, a.html_beautify = i.html_beautify, a;
     }
     (function(n) {
-      var e = oc();
+      var e = pc();
       e.js_beautify = e.js, e.css_beautify = e.css, e.html_beautify = e.html, n.exports = t(e, e, e);
     })(s);
   })(nn)), nn.exports;
 }
-var as = lc(), vn, rs;
-function oa() {
-  if (rs) return vn;
-  rs = 1;
+var os = fc(), vn, ls;
+function ca() {
+  if (ls) return vn;
+  ls = 1;
   function s(b) {
     return b instanceof Map ? b.clear = b.delete = b.set = function() {
       throw new Error("map is read-only");
     } : b instanceof Set && (b.add = b.clear = b.delete = function() {
       throw new Error("set is read-only");
-    }), Object.freeze(b), Object.getOwnPropertyNames(b).forEach((A) => {
-      const P = b[A], Z = typeof P;
-      (Z === "object" || Z === "function") && !Object.isFrozen(P) && s(P);
+    }), Object.freeze(b), Object.getOwnPropertyNames(b).forEach((C) => {
+      const U = b[C], Q = typeof U;
+      (Q === "object" || Q === "function") && !Object.isFrozen(U) && s(U);
     }), b;
   }
   class t {
     /**
      * @param {CompiledMode} mode
      */
-    constructor(A) {
-      A.data === void 0 && (A.data = {}), this.data = A.data, this.isMatchIgnored = !1;
+    constructor(C) {
+      C.data === void 0 && (C.data = {}), this.data = C.data, this.isMatchIgnored = !1;
     }
     ignoreMatch() {
       this.isMatchIgnored = !0;
@@ -3773,27 +3821,27 @@ function oa() {
   function n(b) {
     return b.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
   }
-  function e(b, ...A) {
-    const P = /* @__PURE__ */ Object.create(null);
-    for (const Z in b)
-      P[Z] = b[Z];
-    return A.forEach(function(Z) {
-      for (const de in Z)
-        P[de] = Z[de];
+  function e(b, ...C) {
+    const U = /* @__PURE__ */ Object.create(null);
+    for (const Q in b)
+      U[Q] = b[Q];
+    return C.forEach(function(Q) {
+      for (const fe in Q)
+        U[fe] = Q[fe];
     }), /** @type {T} */
-    P;
+    U;
   }
-  const i = "</span>", r = (b) => !!b.scope, l = (b, { prefix: A }) => {
+  const i = "</span>", a = (b) => !!b.scope, l = (b, { prefix: C }) => {
     if (b.startsWith("language:"))
       return b.replace("language:", "language-");
     if (b.includes(".")) {
-      const P = b.split(".");
+      const U = b.split(".");
       return [
-        `${A}${P.shift()}`,
-        ...P.map((Z, de) => `${Z}${"_".repeat(de + 1)}`)
+        `${C}${U.shift()}`,
+        ...U.map((Q, fe) => `${Q}${"_".repeat(fe + 1)}`)
       ].join(" ");
     }
-    return `${A}${b}`;
+    return `${C}${b}`;
   };
   class o {
     /**
@@ -3802,34 +3850,34 @@ function oa() {
      * @param {Tree} parseTree - the parse tree (must support `walk` API)
      * @param {{classPrefix: string}} options
      */
-    constructor(A, P) {
-      this.buffer = "", this.classPrefix = P.classPrefix, A.walk(this);
+    constructor(C, U) {
+      this.buffer = "", this.classPrefix = U.classPrefix, C.walk(this);
     }
     /**
      * Adds texts to the output stream
      *
      * @param {string} text */
-    addText(A) {
-      this.buffer += n(A);
+    addText(C) {
+      this.buffer += n(C);
     }
     /**
      * Adds a node open to the output stream (if needed)
      *
      * @param {Node} node */
-    openNode(A) {
-      if (!r(A)) return;
-      const P = l(
-        A.scope,
+    openNode(C) {
+      if (!a(C)) return;
+      const U = l(
+        C.scope,
         { prefix: this.classPrefix }
       );
-      this.span(P);
+      this.span(U);
     }
     /**
      * Adds a node close to the output stream (if needed)
      *
      * @param {Node} node */
-    closeNode(A) {
-      r(A) && (this.buffer += i);
+    closeNode(C) {
+      a(C) && (this.buffer += i);
     }
     /**
      * returns the accumulated buffer
@@ -3842,13 +3890,13 @@ function oa() {
      * Builds a span element
      *
      * @param {string} className */
-    span(A) {
-      this.buffer += `<span class="${A}">`;
+    span(C) {
+      this.buffer += `<span class="${C}">`;
     }
   }
   const _ = (b = {}) => {
-    const A = { children: [] };
-    return Object.assign(A, b), A;
+    const C = { children: [] };
+    return Object.assign(C, b), C;
   };
   class g {
     constructor() {
@@ -3861,13 +3909,13 @@ function oa() {
       return this.rootNode;
     }
     /** @param {Node} node */
-    add(A) {
-      this.top.children.push(A);
+    add(C) {
+      this.top.children.push(C);
     }
     /** @param {string} scope */
-    openNode(A) {
-      const P = _({ scope: A });
-      this.add(P), this.stack.push(P);
+    openNode(C) {
+      const U = _({ scope: C });
+      this.add(U), this.stack.push(U);
     }
     closeNode() {
       if (this.stack.length > 1)
@@ -3883,22 +3931,22 @@ function oa() {
      * @typedef { import("./html_renderer").Renderer } Renderer
      * @param {Renderer} builder
      */
-    walk(A) {
-      return this.constructor._walk(A, this.rootNode);
+    walk(C) {
+      return this.constructor._walk(C, this.rootNode);
     }
     /**
      * @param {Renderer} builder
      * @param {Node} node
      */
-    static _walk(A, P) {
-      return typeof P == "string" ? A.addText(P) : P.children && (A.openNode(P), P.children.forEach((Z) => this._walk(A, Z)), A.closeNode(P)), A;
+    static _walk(C, U) {
+      return typeof U == "string" ? C.addText(U) : U.children && (C.openNode(U), U.children.forEach((Q) => this._walk(C, Q)), C.closeNode(U)), C;
     }
     /**
      * @param {Node} node
      */
-    static _collapse(A) {
-      typeof A != "string" && A.children && (A.children.every((P) => typeof P == "string") ? A.children = [A.children.join("")] : A.children.forEach((P) => {
-        g._collapse(P);
+    static _collapse(C) {
+      typeof C != "string" && C.children && (C.children.every((U) => typeof U == "string") ? C.children = [C.children.join("")] : C.children.forEach((U) => {
+        g._collapse(U);
       }));
     }
   }
@@ -3906,18 +3954,18 @@ function oa() {
     /**
      * @param {*} options
      */
-    constructor(A) {
-      super(), this.options = A;
+    constructor(C) {
+      super(), this.options = C;
     }
     /**
      * @param {string} text
      */
-    addText(A) {
-      A !== "" && this.add(A);
+    addText(C) {
+      C !== "" && this.add(C);
     }
     /** @param {string} scope */
-    startScope(A) {
-      this.openNode(A);
+    startScope(C) {
+      this.openNode(C);
     }
     endScope() {
       this.closeNode();
@@ -3926,9 +3974,9 @@ function oa() {
      * @param {Emitter & {root: DataNode}} emitter
      * @param {string} name
      */
-    __addSublanguage(A, P) {
-      const Z = A.root;
-      P && (Z.scope = `language:${P}`), this.add(Z);
+    __addSublanguage(C, U) {
+      const Q = C.root;
+      U && (Q.scope = `language:${U}`), this.add(Q);
     }
     toHTML() {
       return new o(this, this.options).value();
@@ -3941,94 +3989,94 @@ function oa() {
     return b ? typeof b == "string" ? b : b.source : null;
   }
   function m(b) {
-    return T("(?=", b, ")");
+    return S("(?=", b, ")");
   }
-  function N(b) {
-    return T("(?:", b, ")*");
+  function w(b) {
+    return S("(?:", b, ")*");
   }
-  function O(b) {
-    return T("(?:", b, ")?");
+  function x(b) {
+    return S("(?:", b, ")?");
   }
-  function T(...b) {
-    return b.map((P) => p(P)).join("");
+  function S(...b) {
+    return b.map((U) => p(U)).join("");
   }
   function d(b) {
-    const A = b[b.length - 1];
-    return typeof A == "object" && A.constructor === Object ? (b.splice(b.length - 1, 1), A) : {};
+    const C = b[b.length - 1];
+    return typeof C == "object" && C.constructor === Object ? (b.splice(b.length - 1, 1), C) : {};
   }
   function c(...b) {
-    return "(" + (d(b).capture ? "" : "?:") + b.map((Z) => p(Z)).join("|") + ")";
+    return "(" + (d(b).capture ? "" : "?:") + b.map((Q) => p(Q)).join("|") + ")";
   }
   function f(b) {
     return new RegExp(b.toString() + "|").exec("").length - 1;
   }
-  function S(b, A) {
-    const P = b && b.exec(A);
-    return P && P.index === 0;
+  function R(b, C) {
+    const U = b && b.exec(C);
+    return U && U.index === 0;
   }
-  const k = /\[(?:[^\\\]]|\\.)*\]|\(\??|\\([1-9][0-9]*)|\\./;
-  function I(b, { joinWith: A }) {
-    let P = 0;
-    return b.map((Z) => {
-      P += 1;
-      const de = P;
-      let pe = p(Z), G = "";
-      for (; pe.length > 0; ) {
-        const F = k.exec(pe);
-        if (!F) {
-          G += pe;
+  const A = /\[(?:[^\\\]]|\\.)*\]|\(\??|\\([1-9][0-9]*)|\\./;
+  function D(b, { joinWith: C }) {
+    let U = 0;
+    return b.map((Q) => {
+      U += 1;
+      const fe = U;
+      let he = p(Q), W = "";
+      for (; he.length > 0; ) {
+        const G = A.exec(he);
+        if (!G) {
+          W += he;
           break;
         }
-        G += pe.substring(0, F.index), pe = pe.substring(F.index + F[0].length), F[0][0] === "\\" && F[1] ? G += "\\" + String(Number(F[1]) + de) : (G += F[0], F[0] === "(" && P++);
+        W += he.substring(0, G.index), he = he.substring(G.index + G[0].length), G[0][0] === "\\" && G[1] ? W += "\\" + String(Number(G[1]) + fe) : (W += G[0], G[0] === "(" && U++);
       }
-      return G;
-    }).map((Z) => `(${Z})`).join(A);
+      return W;
+    }).map((Q) => `(${Q})`).join(C);
   }
-  const y = /\b\B/, w = "[a-zA-Z]\\w*", h = "[a-zA-Z_]\\w*", E = "\\b\\d+(\\.\\d+)?", a = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", v = "\\b(0b[01]+)", x = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", D = (b = {}) => {
-    const A = /^#![ ]*\//;
-    return b.binary && (b.begin = T(
-      A,
+  const v = /\b\B/, E = "[a-zA-Z]\\w*", h = "[a-zA-Z_]\\w*", T = "\\b\\d+(\\.\\d+)?", r = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", y = "\\b(0b[01]+)", N = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", F = (b = {}) => {
+    const C = /^#![ ]*\//;
+    return b.binary && (b.begin = S(
+      C,
       /.*\b/,
       b.binary,
       /\b.*/
     )), e({
       scope: "meta",
-      begin: A,
+      begin: C,
       end: /$/,
       relevance: 0,
       /** @type {ModeCallback} */
-      "on:begin": (P, Z) => {
-        P.index !== 0 && Z.ignoreMatch();
+      "on:begin": (U, Q) => {
+        U.index !== 0 && Q.ignoreMatch();
       }
     }, b);
-  }, K = {
+  }, q = {
     begin: "\\\\[\\s\\S]",
     relevance: 0
-  }, H = {
+  }, M = {
     scope: "string",
     begin: "'",
     end: "'",
     illegal: "\\n",
-    contains: [K]
-  }, M = {
+    contains: [q]
+  }, O = {
     scope: "string",
     begin: '"',
     end: '"',
     illegal: "\\n",
-    contains: [K]
-  }, z = {
+    contains: [q]
+  }, I = {
     begin: /\b(a|an|the|are|I'm|isn't|don't|doesn't|won't|but|just|should|pretty|simply|enough|gonna|going|wtf|so|such|will|you|your|they|like|more)\b/
-  }, J = function(b, A, P = {}) {
-    const Z = e(
+  }, K = function(b, C, U = {}) {
+    const Q = e(
       {
         scope: "comment",
         begin: b,
-        end: A,
+        end: C,
         contains: []
       },
-      P
+      U
     );
-    Z.contains.push({
+    Q.contains.push({
       scope: "doctag",
       // hack to avoid the space from being included. the space is necessary to
       // match here to prevent the plain text rule below from gobbling up doctags
@@ -4037,7 +4085,7 @@ function oa() {
       excludeBegin: !0,
       relevance: 0
     });
-    const de = c(
+    const fe = c(
       // list of common 1 and 2 letter words in English
       "I",
       "a",
@@ -4058,7 +4106,7 @@ function oa() {
       /[A-Za-z][a-z]{2,}/
       // allow capitalized words at beginning of sentences
     );
-    return Z.contains.push(
+    return Q.contains.push(
       {
         // TODO: how to include ", (, ) without breaking grammars that use these for
         // comment delimiters?
@@ -4073,129 +4121,129 @@ function oa() {
         //
         // for a visual example please see:
         // https://github.com/highlightjs/highlight.js/issues/2827
-        begin: T(
+        begin: S(
           /[ ]+/,
           // necessary to prevent us gobbling up doctags like /* @author Bob Mcgill */
           "(",
-          de,
+          fe,
           /[.]?[:]?([.][ ]|[ ])/,
           "){3}"
         )
         // look for 3 words in a row
       }
-    ), Z;
-  }, me = J("//", "$"), Q = J("/\\*", "\\*/"), ce = J("#", "$"), De = {
+    ), Q;
+  }, se = K("//", "$"), Z = K("/\\*", "\\*/"), le = K("#", "$"), De = {
     scope: "number",
-    begin: E,
+    begin: T,
     relevance: 0
-  }, $e = {
+  }, ze = {
     scope: "number",
-    begin: a,
+    begin: r,
     relevance: 0
   }, Ce = {
     scope: "number",
-    begin: v,
+    begin: y,
     relevance: 0
   }, Ie = {
     scope: "regexp",
     begin: /\/(?=[^/\n]*\/)/,
     end: /\/[gimuy]*/,
     contains: [
-      K,
+      q,
       {
         begin: /\[/,
         end: /\]/,
         relevance: 0,
-        contains: [K]
+        contains: [q]
       }
     ]
-  }, ze = {
+  }, Fe = {
     scope: "title",
-    begin: w,
+    begin: E,
     relevance: 0
-  }, ue = {
+  }, de = {
     scope: "title",
     begin: h,
     relevance: 0
-  }, _e = {
+  }, ue = {
     // excludes method names from keyword processing
     begin: "\\.\\s*" + h,
     relevance: 0
   };
-  var ve = /* @__PURE__ */ Object.freeze({
+  var Ee = /* @__PURE__ */ Object.freeze({
     __proto__: null,
-    APOS_STRING_MODE: H,
-    BACKSLASH_ESCAPE: K,
+    APOS_STRING_MODE: M,
+    BACKSLASH_ESCAPE: q,
     BINARY_NUMBER_MODE: Ce,
-    BINARY_NUMBER_RE: v,
-    COMMENT: J,
-    C_BLOCK_COMMENT_MODE: Q,
-    C_LINE_COMMENT_MODE: me,
-    C_NUMBER_MODE: $e,
-    C_NUMBER_RE: a,
+    BINARY_NUMBER_RE: y,
+    COMMENT: K,
+    C_BLOCK_COMMENT_MODE: Z,
+    C_LINE_COMMENT_MODE: se,
+    C_NUMBER_MODE: ze,
+    C_NUMBER_RE: r,
     END_SAME_AS_BEGIN: function(b) {
       return Object.assign(
         b,
         {
           /** @type {ModeCallback} */
-          "on:begin": (A, P) => {
-            P.data._beginMatch = A[1];
+          "on:begin": (C, U) => {
+            U.data._beginMatch = C[1];
           },
           /** @type {ModeCallback} */
-          "on:end": (A, P) => {
-            P.data._beginMatch !== A[1] && P.ignoreMatch();
+          "on:end": (C, U) => {
+            U.data._beginMatch !== C[1] && U.ignoreMatch();
           }
         }
       );
     },
-    HASH_COMMENT_MODE: ce,
-    IDENT_RE: w,
-    MATCH_NOTHING_RE: y,
-    METHOD_GUARD: _e,
+    HASH_COMMENT_MODE: le,
+    IDENT_RE: E,
+    MATCH_NOTHING_RE: v,
+    METHOD_GUARD: ue,
     NUMBER_MODE: De,
-    NUMBER_RE: E,
-    PHRASAL_WORDS_MODE: z,
-    QUOTE_STRING_MODE: M,
+    NUMBER_RE: T,
+    PHRASAL_WORDS_MODE: I,
+    QUOTE_STRING_MODE: O,
     REGEXP_MODE: Ie,
-    RE_STARTERS_RE: x,
-    SHEBANG: D,
-    TITLE_MODE: ze,
+    RE_STARTERS_RE: N,
+    SHEBANG: F,
+    TITLE_MODE: Fe,
     UNDERSCORE_IDENT_RE: h,
-    UNDERSCORE_TITLE_MODE: ue
+    UNDERSCORE_TITLE_MODE: de
   });
-  function Te(b, A) {
-    b.input[b.index - 1] === "." && A.ignoreMatch();
+  function Se(b, C) {
+    b.input[b.index - 1] === "." && C.ignoreMatch();
   }
-  function ke(b, A) {
+  function ke(b, C) {
     b.className !== void 0 && (b.scope = b.className, delete b.className);
   }
-  function Me(b, A) {
-    A && b.beginKeywords && (b.begin = "\\b(" + b.beginKeywords.split(" ").join("|") + ")(?!\\.)(?=\\b|\\s)", b.__beforeBegin = Te, b.keywords = b.keywords || b.beginKeywords, delete b.beginKeywords, b.relevance === void 0 && (b.relevance = 0));
+  function Me(b, C) {
+    C && b.beginKeywords && (b.begin = "\\b(" + b.beginKeywords.split(" ").join("|") + ")(?!\\.)(?=\\b|\\s)", b.__beforeBegin = Se, b.keywords = b.keywords || b.beginKeywords, delete b.beginKeywords, b.relevance === void 0 && (b.relevance = 0));
   }
-  function ht(b, A) {
+  function ht(b, C) {
     Array.isArray(b.illegal) && (b.illegal = c(...b.illegal));
   }
-  function Ft(b, A) {
+  function Ft(b, C) {
     if (b.match) {
       if (b.begin || b.end) throw new Error("begin & end are not supported with match");
       b.begin = b.match, delete b.match;
     }
   }
-  function rt(b, A) {
+  function ot(b, C) {
     b.relevance === void 0 && (b.relevance = 1);
   }
-  const gt = (b, A) => {
+  const gt = (b, C) => {
     if (!b.beforeMatch) return;
     if (b.starts) throw new Error("beforeMatch cannot be used with starts");
-    const P = Object.assign({}, b);
-    Object.keys(b).forEach((Z) => {
-      delete b[Z];
-    }), b.keywords = P.keywords, b.begin = T(P.beforeMatch, m(P.begin)), b.starts = {
+    const U = Object.assign({}, b);
+    Object.keys(b).forEach((Q) => {
+      delete b[Q];
+    }), b.keywords = U.keywords, b.begin = S(U.beforeMatch, m(U.begin)), b.starts = {
       relevance: 0,
       contains: [
-        Object.assign(P, { endsParent: !0 })
+        Object.assign(U, { endsParent: !0 })
       ]
-    }, b.relevance = 0, delete P.beforeMatch;
+    }, b.relevance = 0, delete U.beforeMatch;
   }, bt = [
     "of",
     "and",
@@ -4212,104 +4260,104 @@ function oa() {
     "value"
     // common variable name
   ], Kt = "keyword";
-  function mt(b, A, P = Kt) {
-    const Z = /* @__PURE__ */ Object.create(null);
-    return typeof b == "string" ? de(P, b.split(" ")) : Array.isArray(b) ? de(P, b) : Object.keys(b).forEach(function(pe) {
+  function mt(b, C, U = Kt) {
+    const Q = /* @__PURE__ */ Object.create(null);
+    return typeof b == "string" ? fe(U, b.split(" ")) : Array.isArray(b) ? fe(U, b) : Object.keys(b).forEach(function(he) {
       Object.assign(
-        Z,
-        mt(b[pe], A, pe)
+        Q,
+        mt(b[he], C, he)
       );
-    }), Z;
-    function de(pe, G) {
-      A && (G = G.map((F) => F.toLowerCase())), G.forEach(function(F) {
-        const V = F.split("|");
-        Z[V[0]] = [pe, ot(V[0], V[1])];
+    }), Q;
+    function fe(he, W) {
+      C && (W = W.map((G) => G.toLowerCase())), W.forEach(function(G) {
+        const X = G.split("|");
+        Q[X[0]] = [he, lt(X[0], X[1])];
       });
     }
   }
-  function ot(b, A) {
-    return A ? Number(A) : Gt(b) ? 0 : 1;
+  function lt(b, C) {
+    return C ? Number(C) : Gt(b) ? 0 : 1;
   }
   function Gt(b) {
     return bt.includes(b.toLowerCase());
   }
-  const vt = {}, Fe = (b) => {
+  const vt = {}, Ke = (b) => {
     console.error(b);
-  }, Qe = (b, ...A) => {
-    console.log(`WARN: ${b}`, ...A);
-  }, Se = (b, A) => {
-    vt[`${b}/${A}`] || (console.log(`Deprecated as of ${b}. ${A}`), vt[`${b}/${A}`] = !0);
+  }, Qe = (b, ...C) => {
+    console.log(`WARN: ${b}`, ...C);
+  }, Te = (b, C) => {
+    vt[`${b}/${C}`] || (console.log(`Deprecated as of ${b}. ${C}`), vt[`${b}/${C}`] = !0);
   }, tt = new Error();
-  function Et(b, A, { key: P }) {
-    let Z = 0;
-    const de = b[P], pe = {}, G = {};
-    for (let F = 1; F <= A.length; F++)
-      G[F + Z] = de[F], pe[F + Z] = !0, Z += f(A[F - 1]);
-    b[P] = G, b[P]._emit = pe, b[P]._multi = !0;
+  function Et(b, C, { key: U }) {
+    let Q = 0;
+    const fe = b[U], he = {}, W = {};
+    for (let G = 1; G <= C.length; G++)
+      W[G + Q] = fe[G], he[G + Q] = !0, Q += f(C[G - 1]);
+    b[U] = W, b[U]._emit = he, b[U]._multi = !0;
   }
   function yt(b) {
     if (Array.isArray(b.begin)) {
       if (b.skip || b.excludeBegin || b.returnBegin)
-        throw Fe("skip, excludeBegin, returnBegin not compatible with beginScope: {}"), tt;
+        throw Ke("skip, excludeBegin, returnBegin not compatible with beginScope: {}"), tt;
       if (typeof b.beginScope != "object" || b.beginScope === null)
-        throw Fe("beginScope must be object"), tt;
-      Et(b, b.begin, { key: "beginScope" }), b.begin = I(b.begin, { joinWith: "" });
+        throw Ke("beginScope must be object"), tt;
+      Et(b, b.begin, { key: "beginScope" }), b.begin = D(b.begin, { joinWith: "" });
     }
   }
-  function lt(b) {
+  function ct(b) {
     if (Array.isArray(b.end)) {
       if (b.skip || b.excludeEnd || b.returnEnd)
-        throw Fe("skip, excludeEnd, returnEnd not compatible with endScope: {}"), tt;
+        throw Ke("skip, excludeEnd, returnEnd not compatible with endScope: {}"), tt;
       if (typeof b.endScope != "object" || b.endScope === null)
-        throw Fe("endScope must be object"), tt;
-      Et(b, b.end, { key: "endScope" }), b.end = I(b.end, { joinWith: "" });
+        throw Ke("endScope must be object"), tt;
+      Et(b, b.end, { key: "endScope" }), b.end = D(b.end, { joinWith: "" });
     }
   }
   function qt(b) {
     b.scope && typeof b.scope == "object" && b.scope !== null && (b.beginScope = b.scope, delete b.scope);
   }
   function wt(b) {
-    qt(b), typeof b.beginScope == "string" && (b.beginScope = { _wrap: b.beginScope }), typeof b.endScope == "string" && (b.endScope = { _wrap: b.endScope }), yt(b), lt(b);
+    qt(b), typeof b.beginScope == "string" && (b.beginScope = { _wrap: b.beginScope }), typeof b.endScope == "string" && (b.endScope = { _wrap: b.endScope }), yt(b), ct(b);
   }
   function Wt(b) {
-    function A(G, F) {
+    function C(W, G) {
       return new RegExp(
-        p(G),
-        "m" + (b.case_insensitive ? "i" : "") + (b.unicodeRegex ? "u" : "") + (F ? "g" : "")
+        p(W),
+        "m" + (b.case_insensitive ? "i" : "") + (b.unicodeRegex ? "u" : "") + (G ? "g" : "")
       );
     }
-    class P {
+    class U {
       constructor() {
         this.matchIndexes = {}, this.regexes = [], this.matchAt = 1, this.position = 0;
       }
       // @ts-ignore
-      addRule(F, V) {
-        V.position = this.position++, this.matchIndexes[this.matchAt] = V, this.regexes.push([V, F]), this.matchAt += f(F) + 1;
+      addRule(G, X) {
+        X.position = this.position++, this.matchIndexes[this.matchAt] = X, this.regexes.push([X, G]), this.matchAt += f(G) + 1;
       }
       compile() {
         this.regexes.length === 0 && (this.exec = () => null);
-        const F = this.regexes.map((V) => V[1]);
-        this.matcherRe = A(I(F, { joinWith: "|" }), !0), this.lastIndex = 0;
+        const G = this.regexes.map((X) => X[1]);
+        this.matcherRe = C(D(G, { joinWith: "|" }), !0), this.lastIndex = 0;
       }
       /** @param {string} s */
-      exec(F) {
+      exec(G) {
         this.matcherRe.lastIndex = this.lastIndex;
-        const V = this.matcherRe.exec(F);
-        if (!V)
+        const X = this.matcherRe.exec(G);
+        if (!X)
           return null;
-        const Ee = V.findIndex((_t, Zt) => Zt > 0 && _t !== void 0), fe = this.matchIndexes[Ee];
-        return V.splice(0, Ee), Object.assign(V, fe);
+        const ye = X.findIndex((ut, Zt) => Zt > 0 && ut !== void 0), be = this.matchIndexes[ye];
+        return X.splice(0, ye), Object.assign(X, be);
       }
     }
-    class Z {
+    class Q {
       constructor() {
         this.rules = [], this.multiRegexes = [], this.count = 0, this.lastIndex = 0, this.regexIndex = 0;
       }
       // @ts-ignore
-      getMatcher(F) {
-        if (this.multiRegexes[F]) return this.multiRegexes[F];
-        const V = new P();
-        return this.rules.slice(F).forEach(([Ee, fe]) => V.addRule(Ee, fe)), V.compile(), this.multiRegexes[F] = V, V;
+      getMatcher(G) {
+        if (this.multiRegexes[G]) return this.multiRegexes[G];
+        const X = new U();
+        return this.rules.slice(G).forEach(([ye, be]) => X.addRule(ye, be)), X.compile(), this.multiRegexes[G] = X, X;
       }
       resumingScanAtSamePosition() {
         return this.regexIndex !== 0;
@@ -4318,31 +4366,31 @@ function oa() {
         this.regexIndex = 0;
       }
       // @ts-ignore
-      addRule(F, V) {
-        this.rules.push([F, V]), V.type === "begin" && this.count++;
+      addRule(G, X) {
+        this.rules.push([G, X]), X.type === "begin" && this.count++;
       }
       /** @param {string} s */
-      exec(F) {
-        const V = this.getMatcher(this.regexIndex);
-        V.lastIndex = this.lastIndex;
-        let Ee = V.exec(F);
-        if (this.resumingScanAtSamePosition() && !(Ee && Ee.index === this.lastIndex)) {
-          const fe = this.getMatcher(0);
-          fe.lastIndex = this.lastIndex + 1, Ee = fe.exec(F);
+      exec(G) {
+        const X = this.getMatcher(this.regexIndex);
+        X.lastIndex = this.lastIndex;
+        let ye = X.exec(G);
+        if (this.resumingScanAtSamePosition() && !(ye && ye.index === this.lastIndex)) {
+          const be = this.getMatcher(0);
+          be.lastIndex = this.lastIndex + 1, ye = be.exec(G);
         }
-        return Ee && (this.regexIndex += Ee.position + 1, this.regexIndex === this.count && this.considerAll()), Ee;
+        return ye && (this.regexIndex += ye.position + 1, this.regexIndex === this.count && this.considerAll()), ye;
       }
     }
-    function de(G) {
-      const F = new Z();
-      return G.contains.forEach((V) => F.addRule(V.begin, { rule: V, type: "begin" })), G.terminatorEnd && F.addRule(G.terminatorEnd, { type: "end" }), G.illegal && F.addRule(G.illegal, { type: "illegal" }), F;
+    function fe(W) {
+      const G = new Q();
+      return W.contains.forEach((X) => G.addRule(X.begin, { rule: X, type: "begin" })), W.terminatorEnd && G.addRule(W.terminatorEnd, { type: "end" }), W.illegal && G.addRule(W.illegal, { type: "illegal" }), G;
     }
-    function pe(G, F) {
-      const V = (
+    function he(W, G) {
+      const X = (
         /** @type CompiledMode */
-        G
+        W
       );
-      if (G.isCompiled) return V;
+      if (W.isCompiled) return X;
       [
         ke,
         // do this early so compiler extensions generally don't have to worry about
@@ -4350,31 +4398,31 @@ function oa() {
         Ft,
         wt,
         gt
-      ].forEach((fe) => fe(G, F)), b.compilerExtensions.forEach((fe) => fe(G, F)), G.__beforeBegin = null, [
+      ].forEach((be) => be(W, G)), b.compilerExtensions.forEach((be) => be(W, G)), W.__beforeBegin = null, [
         Me,
         // do this later so compiler extensions that come earlier have access to the
         // raw array if they wanted to perhaps manipulate it, etc.
         ht,
         // default to 1 relevance if not specified
-        rt
-      ].forEach((fe) => fe(G, F)), G.isCompiled = !0;
-      let Ee = null;
-      return typeof G.keywords == "object" && G.keywords.$pattern && (G.keywords = Object.assign({}, G.keywords), Ee = G.keywords.$pattern, delete G.keywords.$pattern), Ee = Ee || /\w+/, G.keywords && (G.keywords = mt(G.keywords, b.case_insensitive)), V.keywordPatternRe = A(Ee, !0), F && (G.begin || (G.begin = /\B|\b/), V.beginRe = A(V.begin), !G.end && !G.endsWithParent && (G.end = /\B|\b/), G.end && (V.endRe = A(V.end)), V.terminatorEnd = p(V.end) || "", G.endsWithParent && F.terminatorEnd && (V.terminatorEnd += (G.end ? "|" : "") + F.terminatorEnd)), G.illegal && (V.illegalRe = A(
+        ot
+      ].forEach((be) => be(W, G)), W.isCompiled = !0;
+      let ye = null;
+      return typeof W.keywords == "object" && W.keywords.$pattern && (W.keywords = Object.assign({}, W.keywords), ye = W.keywords.$pattern, delete W.keywords.$pattern), ye = ye || /\w+/, W.keywords && (W.keywords = mt(W.keywords, b.case_insensitive)), X.keywordPatternRe = C(ye, !0), G && (W.begin || (W.begin = /\B|\b/), X.beginRe = C(X.begin), !W.end && !W.endsWithParent && (W.end = /\B|\b/), W.end && (X.endRe = C(X.end)), X.terminatorEnd = p(X.end) || "", W.endsWithParent && G.terminatorEnd && (X.terminatorEnd += (W.end ? "|" : "") + G.terminatorEnd)), W.illegal && (X.illegalRe = C(
         /** @type {RegExp | string} */
-        G.illegal
-      )), G.contains || (G.contains = []), G.contains = [].concat(...G.contains.map(function(fe) {
-        return Ht(fe === "self" ? G : fe);
-      })), G.contains.forEach(function(fe) {
-        pe(
+        W.illegal
+      )), W.contains || (W.contains = []), W.contains = [].concat(...W.contains.map(function(be) {
+        return Ht(be === "self" ? W : be);
+      })), W.contains.forEach(function(be) {
+        he(
           /** @type Mode */
-          fe,
-          V
+          be,
+          X
         );
-      }), G.starts && pe(G.starts, F), V.matcher = de(V), V;
+      }), W.starts && he(W.starts, G), X.matcher = fe(X), X;
     }
     if (b.compilerExtensions || (b.compilerExtensions = []), b.contains && b.contains.includes("self"))
       throw new Error("ERR: contains `self` is not supported at the top-level of a language.  See documentation.");
-    return b.classNameAliases = e(b.classNameAliases || {}), pe(
+    return b.classNameAliases = e(b.classNameAliases || {}), he(
       /** @type Mode */
       b
     );
@@ -4383,21 +4431,21 @@ function oa() {
     return b ? b.endsWithParent || xt(b.starts) : !1;
   }
   function Ht(b) {
-    return b.variants && !b.cachedVariants && (b.cachedVariants = b.variants.map(function(A) {
-      return e(b, { variants: null }, A);
+    return b.variants && !b.cachedVariants && (b.cachedVariants = b.variants.map(function(C) {
+      return e(b, { variants: null }, C);
     })), b.cachedVariants ? b.cachedVariants : xt(b) ? e(b, { starts: b.starts ? e(b.starts) : null }) : Object.isFrozen(b) ? e(b) : b;
   }
   var jt = "11.11.1";
   class Vt extends Error {
-    constructor(A, P) {
-      super(A), this.name = "HTMLInjectionError", this.html = P;
+    constructor(C, U) {
+      super(C), this.name = "HTMLInjectionError", this.html = U;
     }
   }
-  const ct = n, Nt = e, se = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(b) {
-    const A = /* @__PURE__ */ Object.create(null), P = /* @__PURE__ */ Object.create(null), Z = [];
-    let de = !0;
-    const pe = "Could not find the language '{}', did you forget to load/include a language module?", G = { disableAutodetect: !0, name: "Plain text", contains: [] };
-    let F = {
+  const _t = n, Nt = e, re = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(b) {
+    const C = /* @__PURE__ */ Object.create(null), U = /* @__PURE__ */ Object.create(null), Q = [];
+    let fe = !0;
+    const he = "Could not find the language '{}', did you forget to load/include a language module?", W = { disableAutodetect: !0, name: "Plain text", contains: [] };
+    let G = {
       ignoreUnescapedHTML: !1,
       throwUnescapedHTML: !1,
       noHighlightRe: /^(no-?highlight)$/i,
@@ -4409,243 +4457,243 @@ function oa() {
       // https://github.com/highlightjs/highlight.js/issues/1086
       __emitter: u
     };
-    function V(L) {
-      return F.noHighlightRe.test(L);
+    function X(B) {
+      return G.noHighlightRe.test(B);
     }
-    function Ee(L) {
-      let W = L.className + " ";
-      W += L.parentNode ? L.parentNode.className : "";
-      const ie = F.languageDetectRe.exec(W);
+    function ye(B) {
+      let j = B.className + " ";
+      j += B.parentNode ? B.parentNode.className : "";
+      const ie = G.languageDetectRe.exec(j);
       if (ie) {
-        const oe = He(ie[1]);
-        return oe || (Qe(pe.replace("{}", ie[1])), Qe("Falling back to no-highlight mode for this block.", L)), oe ? ie[1] : "no-highlight";
+        const ce = He(ie[1]);
+        return ce || (Qe(he.replace("{}", ie[1])), Qe("Falling back to no-highlight mode for this block.", B)), ce ? ie[1] : "no-highlight";
       }
-      return W.split(/\s+/).find((oe) => V(oe) || He(oe));
+      return j.split(/\s+/).find((ce) => X(ce) || He(ce));
     }
-    function fe(L, W, ie) {
-      let oe = "", he = "";
-      typeof W == "object" ? (oe = L, ie = W.ignoreIllegals, he = W.language) : (Se("10.7.0", "highlight(lang, code, ...args) has been deprecated."), Se("10.7.0", `Please use highlight(code, options) instead.
-https://github.com/highlightjs/highlight.js/issues/2277`), he = L, oe = W), ie === void 0 && (ie = !0);
+    function be(B, j, ie) {
+      let ce = "", me = "";
+      typeof j == "object" ? (ce = B, ie = j.ignoreIllegals, me = j.language) : (Te("10.7.0", "highlight(lang, code, ...args) has been deprecated."), Te("10.7.0", `Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277`), me = B, ce = j), ie === void 0 && (ie = !0);
       const Le = {
-        code: oe,
-        language: he
+        code: ce,
+        language: me
       };
-      Tt("before:highlight", Le);
-      const je = Le.result ? Le.result : _t(Le.language, Le.code, ie);
-      return je.code = Le.code, Tt("after:highlight", je), je;
+      St("before:highlight", Le);
+      const je = Le.result ? Le.result : ut(Le.language, Le.code, ie);
+      return je.code = Le.code, St("after:highlight", je), je;
     }
-    function _t(L, W, ie, oe) {
-      const he = /* @__PURE__ */ Object.create(null);
-      function Le(U, q) {
-        return U.keywords[q];
+    function ut(B, j, ie, ce) {
+      const me = /* @__PURE__ */ Object.create(null);
+      function Le(z, H) {
+        return z.keywords[H];
       }
       function je() {
-        if (!X.keywords) {
-          we.addText(le);
+        if (!J.keywords) {
+          xe.addText(_e);
           return;
         }
-        let U = 0;
-        X.keywordPatternRe.lastIndex = 0;
-        let q = X.keywordPatternRe.exec(le), ee = "";
-        for (; q; ) {
-          ee += le.substring(U, q.index);
-          const ae = Pe.case_insensitive ? q[0].toLowerCase() : q[0], Ne = Le(X, ae);
+        let z = 0;
+        J.keywordPatternRe.lastIndex = 0;
+        let H = J.keywordPatternRe.exec(_e), ne = "";
+        for (; H; ) {
+          ne += _e.substring(z, H.index);
+          const oe = Pe.case_insensitive ? H[0].toLowerCase() : H[0], Ne = Le(J, oe);
           if (Ne) {
-            const [Ke, Oa] = Ne;
-            if (we.addText(ee), ee = "", he[ae] = (he[ae] || 0) + 1, he[ae] <= nt && (Rt += Oa), Ke.startsWith("_"))
-              ee += q[0];
+            const [Ge, Ta] = Ne;
+            if (xe.addText(ne), ne = "", me[oe] = (me[oe] || 0) + 1, me[oe] <= nt && (Rt += Ta), Ge.startsWith("_"))
+              ne += H[0];
             else {
-              const Ta = Pe.classNameAliases[Ke] || Ke;
-              Be(q[0], Ta);
+              const ka = Pe.classNameAliases[Ge] || Ge;
+              Be(H[0], ka);
             }
           } else
-            ee += q[0];
-          U = X.keywordPatternRe.lastIndex, q = X.keywordPatternRe.exec(le);
+            ne += H[0];
+          z = J.keywordPatternRe.lastIndex, H = J.keywordPatternRe.exec(_e);
         }
-        ee += le.substring(U), we.addText(ee);
+        ne += _e.substring(z), xe.addText(ne);
       }
-      function St() {
-        if (le === "") return;
-        let U = null;
-        if (typeof X.subLanguage == "string") {
-          if (!A[X.subLanguage]) {
-            we.addText(le);
+      function Tt() {
+        if (_e === "") return;
+        let z = null;
+        if (typeof J.subLanguage == "string") {
+          if (!C[J.subLanguage]) {
+            xe.addText(_e);
             return;
           }
-          U = _t(X.subLanguage, le, !0, wi[X.subLanguage]), wi[X.subLanguage] = /** @type {CompiledMode} */
-          U._top;
+          z = ut(J.subLanguage, _e, !0, xi[J.subLanguage]), xi[J.subLanguage] = /** @type {CompiledMode} */
+          z._top;
         } else
-          U = Xt(le, X.subLanguage.length ? X.subLanguage : null);
-        X.relevance > 0 && (Rt += U.relevance), we.__addSublanguage(U._emitter, U.language);
+          z = Xt(_e, J.subLanguage.length ? J.subLanguage : null);
+        J.relevance > 0 && (Rt += z.relevance), xe.__addSublanguage(z._emitter, z.language);
       }
       function Re() {
-        X.subLanguage != null ? St() : je(), le = "";
+        J.subLanguage != null ? Tt() : je(), _e = "";
       }
-      function Be(U, q) {
-        U !== "" && (we.startScope(q), we.addText(U), we.endScope());
+      function Be(z, H) {
+        z !== "" && (xe.startScope(H), xe.addText(z), xe.endScope());
       }
-      function mi(U, q) {
-        let ee = 1;
-        const ae = q.length - 1;
-        for (; ee <= ae; ) {
-          if (!U._emit[ee]) {
-            ee++;
+      function vi(z, H) {
+        let ne = 1;
+        const oe = H.length - 1;
+        for (; ne <= oe; ) {
+          if (!z._emit[ne]) {
+            ne++;
             continue;
           }
-          const Ne = Pe.classNameAliases[U[ee]] || U[ee], Ke = q[ee];
-          Ne ? Be(Ke, Ne) : (le = Ke, je(), le = ""), ee++;
+          const Ne = Pe.classNameAliases[z[ne]] || z[ne], Ge = H[ne];
+          Ne ? Be(Ge, Ne) : (_e = Ge, je(), _e = ""), ne++;
         }
       }
-      function vi(U, q) {
-        return U.scope && typeof U.scope == "string" && we.openNode(Pe.classNameAliases[U.scope] || U.scope), U.beginScope && (U.beginScope._wrap ? (Be(le, Pe.classNameAliases[U.beginScope._wrap] || U.beginScope._wrap), le = "") : U.beginScope._multi && (mi(U.beginScope, q), le = "")), X = Object.create(U, { parent: { value: X } }), X;
+      function Ei(z, H) {
+        return z.scope && typeof z.scope == "string" && xe.openNode(Pe.classNameAliases[z.scope] || z.scope), z.beginScope && (z.beginScope._wrap ? (Be(_e, Pe.classNameAliases[z.beginScope._wrap] || z.beginScope._wrap), _e = "") : z.beginScope._multi && (vi(z.beginScope, H), _e = "")), J = Object.create(z, { parent: { value: J } }), J;
       }
-      function Ei(U, q, ee) {
-        let ae = S(U.endRe, ee);
-        if (ae) {
-          if (U["on:end"]) {
-            const Ne = new t(U);
-            U["on:end"](q, Ne), Ne.isMatchIgnored && (ae = !1);
+      function yi(z, H, ne) {
+        let oe = R(z.endRe, ne);
+        if (oe) {
+          if (z["on:end"]) {
+            const Ne = new t(z);
+            z["on:end"](H, Ne), Ne.isMatchIgnored && (oe = !1);
           }
-          if (ae) {
-            for (; U.endsParent && U.parent; )
-              U = U.parent;
-            return U;
+          if (oe) {
+            for (; z.endsParent && z.parent; )
+              z = z.parent;
+            return z;
           }
         }
-        if (U.endsWithParent)
-          return Ei(U.parent, q, ee);
+        if (z.endsWithParent)
+          return yi(z.parent, H, ne);
       }
-      function Ea(U) {
-        return X.matcher.regexIndex === 0 ? (le += U[0], 1) : (en = !0, 0);
+      function wa(z) {
+        return J.matcher.regexIndex === 0 ? (_e += z[0], 1) : (en = !0, 0);
       }
-      function ya(U) {
-        const q = U[0], ee = U.rule, ae = new t(ee), Ne = [ee.__beforeBegin, ee["on:begin"]];
-        for (const Ke of Ne)
-          if (Ke && (Ke(U, ae), ae.isMatchIgnored))
-            return Ea(q);
-        return ee.skip ? le += q : (ee.excludeBegin && (le += q), Re(), !ee.returnBegin && !ee.excludeBegin && (le = q)), vi(ee, U), ee.returnBegin ? 0 : q.length;
+      function xa(z) {
+        const H = z[0], ne = z.rule, oe = new t(ne), Ne = [ne.__beforeBegin, ne["on:begin"]];
+        for (const Ge of Ne)
+          if (Ge && (Ge(z, oe), oe.isMatchIgnored))
+            return wa(H);
+        return ne.skip ? _e += H : (ne.excludeBegin && (_e += H), Re(), !ne.returnBegin && !ne.excludeBegin && (_e = H)), Ei(ne, z), ne.returnBegin ? 0 : H.length;
       }
-      function wa(U) {
-        const q = U[0], ee = W.substring(U.index), ae = Ei(X, U, ee);
-        if (!ae)
-          return se;
-        const Ne = X;
-        X.endScope && X.endScope._wrap ? (Re(), Be(q, X.endScope._wrap)) : X.endScope && X.endScope._multi ? (Re(), mi(X.endScope, U)) : Ne.skip ? le += q : (Ne.returnEnd || Ne.excludeEnd || (le += q), Re(), Ne.excludeEnd && (le = q));
+      function Na(z) {
+        const H = z[0], ne = j.substring(z.index), oe = yi(J, z, ne);
+        if (!oe)
+          return re;
+        const Ne = J;
+        J.endScope && J.endScope._wrap ? (Re(), Be(H, J.endScope._wrap)) : J.endScope && J.endScope._multi ? (Re(), vi(J.endScope, z)) : Ne.skip ? _e += H : (Ne.returnEnd || Ne.excludeEnd || (_e += H), Re(), Ne.excludeEnd && (_e = H));
         do
-          X.scope && we.closeNode(), !X.skip && !X.subLanguage && (Rt += X.relevance), X = X.parent;
-        while (X !== ae.parent);
-        return ae.starts && vi(ae.starts, U), Ne.returnEnd ? 0 : q.length;
+          J.scope && xe.closeNode(), !J.skip && !J.subLanguage && (Rt += J.relevance), J = J.parent;
+        while (J !== oe.parent);
+        return oe.starts && Ei(oe.starts, z), Ne.returnEnd ? 0 : H.length;
       }
-      function xa() {
-        const U = [];
-        for (let q = X; q !== Pe; q = q.parent)
-          q.scope && U.unshift(q.scope);
-        U.forEach((q) => we.openNode(q));
+      function Oa() {
+        const z = [];
+        for (let H = J; H !== Pe; H = H.parent)
+          H.scope && z.unshift(H.scope);
+        z.forEach((H) => xe.openNode(H));
       }
       let kt = {};
-      function yi(U, q) {
-        const ee = q && q[0];
-        if (le += U, ee == null)
+      function wi(z, H) {
+        const ne = H && H[0];
+        if (_e += z, ne == null)
           return Re(), 0;
-        if (kt.type === "begin" && q.type === "end" && kt.index === q.index && ee === "") {
-          if (le += W.slice(q.index, q.index + 1), !de) {
-            const ae = new Error(`0 width match regex (${L})`);
-            throw ae.languageName = L, ae.badRule = kt.rule, ae;
+        if (kt.type === "begin" && H.type === "end" && kt.index === H.index && ne === "") {
+          if (_e += j.slice(H.index, H.index + 1), !fe) {
+            const oe = new Error(`0 width match regex (${B})`);
+            throw oe.languageName = B, oe.badRule = kt.rule, oe;
           }
           return 1;
         }
-        if (kt = q, q.type === "begin")
-          return ya(q);
-        if (q.type === "illegal" && !ie) {
-          const ae = new Error('Illegal lexeme "' + ee + '" for mode "' + (X.scope || "<unnamed>") + '"');
-          throw ae.mode = X, ae;
-        } else if (q.type === "end") {
-          const ae = wa(q);
-          if (ae !== se)
-            return ae;
+        if (kt = H, H.type === "begin")
+          return xa(H);
+        if (H.type === "illegal" && !ie) {
+          const oe = new Error('Illegal lexeme "' + ne + '" for mode "' + (J.scope || "<unnamed>") + '"');
+          throw oe.mode = J, oe;
+        } else if (H.type === "end") {
+          const oe = Na(H);
+          if (oe !== re)
+            return oe;
         }
-        if (q.type === "illegal" && ee === "")
-          return le += `
+        if (H.type === "illegal" && ne === "")
+          return _e += `
 `, 1;
-        if (Jt > 1e5 && Jt > q.index * 3)
+        if (Jt > 1e5 && Jt > H.index * 3)
           throw new Error("potential infinite loop, way more iterations than matches");
-        return le += ee, ee.length;
+        return _e += ne, ne.length;
       }
-      const Pe = He(L);
+      const Pe = He(B);
       if (!Pe)
-        throw Fe(pe.replace("{}", L)), new Error('Unknown language: "' + L + '"');
-      const Na = Wt(Pe);
-      let Qt = "", X = oe || Na;
-      const wi = {}, we = new F.__emitter(F);
-      xa();
-      let le = "", Rt = 0, Je = 0, Jt = 0, en = !1;
+        throw Ke(he.replace("{}", B)), new Error('Unknown language: "' + B + '"');
+      const Sa = Wt(Pe);
+      let Qt = "", J = ce || Sa;
+      const xi = {}, xe = new G.__emitter(G);
+      Oa();
+      let _e = "", Rt = 0, Je = 0, Jt = 0, en = !1;
       try {
         if (Pe.__emitTokens)
-          Pe.__emitTokens(W, we);
+          Pe.__emitTokens(j, xe);
         else {
-          for (X.matcher.considerAll(); ; ) {
-            Jt++, en ? en = !1 : X.matcher.considerAll(), X.matcher.lastIndex = Je;
-            const U = X.matcher.exec(W);
-            if (!U) break;
-            const q = W.substring(Je, U.index), ee = yi(q, U);
-            Je = U.index + ee;
+          for (J.matcher.considerAll(); ; ) {
+            Jt++, en ? en = !1 : J.matcher.considerAll(), J.matcher.lastIndex = Je;
+            const z = J.matcher.exec(j);
+            if (!z) break;
+            const H = j.substring(Je, z.index), ne = wi(H, z);
+            Je = z.index + ne;
           }
-          yi(W.substring(Je));
+          wi(j.substring(Je));
         }
-        return we.finalize(), Qt = we.toHTML(), {
-          language: L,
+        return xe.finalize(), Qt = xe.toHTML(), {
+          language: B,
           value: Qt,
           relevance: Rt,
           illegal: !1,
-          _emitter: we,
-          _top: X
+          _emitter: xe,
+          _top: J
         };
-      } catch (U) {
-        if (U.message && U.message.includes("Illegal"))
+      } catch (z) {
+        if (z.message && z.message.includes("Illegal"))
           return {
-            language: L,
-            value: ct(W),
+            language: B,
+            value: _t(j),
             illegal: !0,
             relevance: 0,
             _illegalBy: {
-              message: U.message,
+              message: z.message,
               index: Je,
-              context: W.slice(Je - 100, Je + 100),
-              mode: U.mode,
+              context: j.slice(Je - 100, Je + 100),
+              mode: z.mode,
               resultSoFar: Qt
             },
-            _emitter: we
+            _emitter: xe
           };
-        if (de)
+        if (fe)
           return {
-            language: L,
-            value: ct(W),
+            language: B,
+            value: _t(j),
             illegal: !1,
             relevance: 0,
-            errorRaised: U,
-            _emitter: we,
-            _top: X
+            errorRaised: z,
+            _emitter: xe,
+            _top: J
           };
-        throw U;
+        throw z;
       }
     }
-    function Zt(L) {
-      const W = {
-        value: ct(L),
+    function Zt(B) {
+      const j = {
+        value: _t(B),
         illegal: !1,
         relevance: 0,
-        _top: G,
-        _emitter: new F.__emitter(F)
+        _top: W,
+        _emitter: new G.__emitter(G)
       };
-      return W._emitter.addText(L), W;
+      return j._emitter.addText(B), j;
     }
-    function Xt(L, W) {
-      W = W || F.languages || Object.keys(A);
-      const ie = Zt(L), oe = W.filter(He).filter(bi).map(
-        (Re) => _t(Re, L, !1)
+    function Xt(B, j) {
+      j = j || G.languages || Object.keys(C);
+      const ie = Zt(B), ce = j.filter(He).filter(mi).map(
+        (Re) => ut(Re, B, !1)
       );
-      oe.unshift(ie);
-      const he = oe.sort((Re, Be) => {
+      ce.unshift(ie);
+      const me = ce.sort((Re, Be) => {
         if (Re.relevance !== Be.relevance) return Be.relevance - Re.relevance;
         if (Re.language && Be.language) {
           if (He(Re.language).supersetOf === Be.language)
@@ -4654,163 +4702,163 @@ https://github.com/highlightjs/highlight.js/issues/2277`), he = L, oe = W), ie =
             return -1;
         }
         return 0;
-      }), [Le, je] = he, St = Le;
-      return St.secondBest = je, St;
+      }), [Le, je] = me, Tt = Le;
+      return Tt.secondBest = je, Tt;
     }
-    function ca(L, W, ie) {
-      const oe = W && P[W] || ie;
-      L.classList.add("hljs"), L.classList.add(`language-${oe}`);
+    function ua(B, j, ie) {
+      const ce = j && U[j] || ie;
+      B.classList.add("hljs"), B.classList.add(`language-${ce}`);
     }
-    function Yt(L) {
-      let W = null;
-      const ie = Ee(L);
-      if (V(ie)) return;
-      if (Tt(
+    function Yt(B) {
+      let j = null;
+      const ie = ye(B);
+      if (X(ie)) return;
+      if (St(
         "before:highlightElement",
-        { el: L, language: ie }
-      ), L.dataset.highlighted) {
-        console.log("Element previously highlighted. To highlight again, first unset `dataset.highlighted`.", L);
+        { el: B, language: ie }
+      ), B.dataset.highlighted) {
+        console.log("Element previously highlighted. To highlight again, first unset `dataset.highlighted`.", B);
         return;
       }
-      if (L.children.length > 0 && (F.ignoreUnescapedHTML || (console.warn("One of your code blocks includes unescaped HTML. This is a potentially serious security risk."), console.warn("https://github.com/highlightjs/highlight.js/wiki/security"), console.warn("The element with unescaped HTML:"), console.warn(L)), F.throwUnescapedHTML))
+      if (B.children.length > 0 && (G.ignoreUnescapedHTML || (console.warn("One of your code blocks includes unescaped HTML. This is a potentially serious security risk."), console.warn("https://github.com/highlightjs/highlight.js/wiki/security"), console.warn("The element with unescaped HTML:"), console.warn(B)), G.throwUnescapedHTML))
         throw new Vt(
           "One of your code blocks includes unescaped HTML.",
-          L.innerHTML
+          B.innerHTML
         );
-      W = L;
-      const oe = W.textContent, he = ie ? fe(oe, { language: ie, ignoreIllegals: !0 }) : Xt(oe);
-      L.innerHTML = he.value, L.dataset.highlighted = "yes", ca(L, ie, he.language), L.result = {
-        language: he.language,
+      j = B;
+      const ce = j.textContent, me = ie ? be(ce, { language: ie, ignoreIllegals: !0 }) : Xt(ce);
+      B.innerHTML = me.value, B.dataset.highlighted = "yes", ua(B, ie, me.language), B.result = {
+        language: me.language,
         // TODO: remove with version 11.0
-        re: he.relevance,
-        relevance: he.relevance
-      }, he.secondBest && (L.secondBest = {
-        language: he.secondBest.language,
-        relevance: he.secondBest.relevance
-      }), Tt("after:highlightElement", { el: L, result: he, text: oe });
+        re: me.relevance,
+        relevance: me.relevance
+      }, me.secondBest && (B.secondBest = {
+        language: me.secondBest.language,
+        relevance: me.secondBest.relevance
+      }), St("after:highlightElement", { el: B, result: me, text: ce });
     }
-    function _a(L) {
-      F = Nt(F, L);
+    function da(B) {
+      G = Nt(G, B);
     }
-    const ua = () => {
-      Ot(), Se("10.6.0", "initHighlighting() deprecated.  Use highlightAll() now.");
+    const pa = () => {
+      Ot(), Te("10.6.0", "initHighlighting() deprecated.  Use highlightAll() now.");
     };
-    function da() {
-      Ot(), Se("10.6.0", "initHighlightingOnLoad() deprecated.  Use highlightAll() now.");
+    function fa() {
+      Ot(), Te("10.6.0", "initHighlightingOnLoad() deprecated.  Use highlightAll() now.");
     }
-    let hi = !1;
+    let gi = !1;
     function Ot() {
-      function L() {
+      function B() {
         Ot();
       }
       if (document.readyState === "loading") {
-        hi || window.addEventListener("DOMContentLoaded", L, !1), hi = !0;
+        gi || window.addEventListener("DOMContentLoaded", B, !1), gi = !0;
         return;
       }
-      document.querySelectorAll(F.cssSelector).forEach(Yt);
+      document.querySelectorAll(G.cssSelector).forEach(Yt);
     }
-    function pa(L, W) {
+    function ha(B, j) {
       let ie = null;
       try {
-        ie = W(b);
-      } catch (oe) {
-        if (Fe("Language definition for '{}' could not be registered.".replace("{}", L)), de)
-          Fe(oe);
+        ie = j(b);
+      } catch (ce) {
+        if (Ke("Language definition for '{}' could not be registered.".replace("{}", B)), fe)
+          Ke(ce);
         else
-          throw oe;
-        ie = G;
+          throw ce;
+        ie = W;
       }
-      ie.name || (ie.name = L), A[L] = ie, ie.rawDefinition = W.bind(null, b), ie.aliases && gi(ie.aliases, { languageName: L });
+      ie.name || (ie.name = B), C[B] = ie, ie.rawDefinition = j.bind(null, b), ie.aliases && bi(ie.aliases, { languageName: B });
     }
-    function fa(L) {
-      delete A[L];
-      for (const W of Object.keys(P))
-        P[W] === L && delete P[W];
+    function ga(B) {
+      delete C[B];
+      for (const j of Object.keys(U))
+        U[j] === B && delete U[j];
     }
-    function ha() {
-      return Object.keys(A);
+    function ba() {
+      return Object.keys(C);
     }
-    function He(L) {
-      return L = (L || "").toLowerCase(), A[L] || A[P[L]];
+    function He(B) {
+      return B = (B || "").toLowerCase(), C[B] || C[U[B]];
     }
-    function gi(L, { languageName: W }) {
-      typeof L == "string" && (L = [L]), L.forEach((ie) => {
-        P[ie.toLowerCase()] = W;
+    function bi(B, { languageName: j }) {
+      typeof B == "string" && (B = [B]), B.forEach((ie) => {
+        U[ie.toLowerCase()] = j;
       });
     }
-    function bi(L) {
-      const W = He(L);
-      return W && !W.disableAutodetect;
+    function mi(B) {
+      const j = He(B);
+      return j && !j.disableAutodetect;
     }
-    function ga(L) {
-      L["before:highlightBlock"] && !L["before:highlightElement"] && (L["before:highlightElement"] = (W) => {
-        L["before:highlightBlock"](
-          Object.assign({ block: W.el }, W)
+    function ma(B) {
+      B["before:highlightBlock"] && !B["before:highlightElement"] && (B["before:highlightElement"] = (j) => {
+        B["before:highlightBlock"](
+          Object.assign({ block: j.el }, j)
         );
-      }), L["after:highlightBlock"] && !L["after:highlightElement"] && (L["after:highlightElement"] = (W) => {
-        L["after:highlightBlock"](
-          Object.assign({ block: W.el }, W)
+      }), B["after:highlightBlock"] && !B["after:highlightElement"] && (B["after:highlightElement"] = (j) => {
+        B["after:highlightBlock"](
+          Object.assign({ block: j.el }, j)
         );
       });
     }
-    function ba(L) {
-      ga(L), Z.push(L);
+    function va(B) {
+      ma(B), Q.push(B);
     }
-    function ma(L) {
-      const W = Z.indexOf(L);
-      W !== -1 && Z.splice(W, 1);
+    function Ea(B) {
+      const j = Q.indexOf(B);
+      j !== -1 && Q.splice(j, 1);
     }
-    function Tt(L, W) {
-      const ie = L;
-      Z.forEach(function(oe) {
-        oe[ie] && oe[ie](W);
+    function St(B, j) {
+      const ie = B;
+      Q.forEach(function(ce) {
+        ce[ie] && ce[ie](j);
       });
     }
-    function va(L) {
-      return Se("10.7.0", "highlightBlock will be removed entirely in v12.0"), Se("10.7.0", "Please use highlightElement now."), Yt(L);
+    function ya(B) {
+      return Te("10.7.0", "highlightBlock will be removed entirely in v12.0"), Te("10.7.0", "Please use highlightElement now."), Yt(B);
     }
     Object.assign(b, {
-      highlight: fe,
+      highlight: be,
       highlightAuto: Xt,
       highlightAll: Ot,
       highlightElement: Yt,
       // TODO: Remove with v12 API
-      highlightBlock: va,
-      configure: _a,
-      initHighlighting: ua,
-      initHighlightingOnLoad: da,
-      registerLanguage: pa,
-      unregisterLanguage: fa,
-      listLanguages: ha,
+      highlightBlock: ya,
+      configure: da,
+      initHighlighting: pa,
+      initHighlightingOnLoad: fa,
+      registerLanguage: ha,
+      unregisterLanguage: ga,
+      listLanguages: ba,
       getLanguage: He,
-      registerAliases: gi,
-      autoDetection: bi,
+      registerAliases: bi,
+      autoDetection: mi,
       inherit: Nt,
-      addPlugin: ba,
-      removePlugin: ma
+      addPlugin: va,
+      removePlugin: Ea
     }), b.debugMode = function() {
-      de = !1;
+      fe = !1;
     }, b.safeMode = function() {
-      de = !0;
+      fe = !0;
     }, b.versionString = jt, b.regex = {
-      concat: T,
+      concat: S,
       lookahead: m,
       either: c,
-      optional: O,
-      anyNumberOfTimes: N
+      optional: x,
+      anyNumberOfTimes: w
     };
-    for (const L in ve)
-      typeof ve[L] == "object" && s(ve[L]);
-    return Object.assign(b, ve), b;
+    for (const B in Ee)
+      typeof Ee[B] == "object" && s(Ee[B]);
+    return Object.assign(b, Ee), b;
   }, We = qe({});
   return We.newInstance = () => qe({}), vn = We, We.HighlightJS = We, We.default = We, vn;
 }
-var En, os;
-function cc() {
-  if (os) return En;
-  os = 1;
+var En, cs;
+function hc() {
+  if (cs) return En;
+  cs = 1;
   function s(t) {
-    const n = t.regex, e = n.concat(/[\p{L}_]/u, n.optional(/[\p{L}0-9_.-]*:/u), /[\p{L}0-9_.-]*/u), i = /[\p{L}0-9._:-]+/u, r = {
+    const n = t.regex, e = n.concat(/[\p{L}_]/u, n.optional(/[\p{L}0-9_.-]*:/u), /[\p{L}0-9_.-]*/u), i = /[\p{L}0-9._:-]+/u, a = {
       className: "symbol",
       begin: /&[a-z]+;|&#[0-9]+;|&#x[a-f0-9]+;/
     }, l = {
@@ -4846,12 +4894,12 @@ function cc() {
                 {
                   begin: /"/,
                   end: /"/,
-                  contains: [r]
+                  contains: [a]
                 },
                 {
                   begin: /'/,
                   end: /'/,
-                  contains: [r]
+                  contains: [a]
                 },
                 { begin: /[^\s"'=<>`]+/ }
               ]
@@ -4916,7 +4964,7 @@ function cc() {
           end: /\]\]>/,
           relevance: 10
         },
-        r,
+        a,
         // xml processing instructions
         {
           className: "meta",
@@ -5027,10 +5075,10 @@ function cc() {
   }
   return En = s, En;
 }
-var yn, ls;
-function _c() {
-  if (ls) return yn;
-  ls = 1;
+var yn, _s;
+function gc() {
+  if (_s) return yn;
+  _s = 1;
   function s(t) {
     const n = t.regex, e = {}, i = {
       begin: /\$\{/,
@@ -5056,7 +5104,7 @@ function _c() {
         i
       ]
     });
-    const r = {
+    const a = {
       className: "subst",
       begin: /\$\(/,
       end: /\)/,
@@ -5088,10 +5136,10 @@ function _c() {
       contains: [
         t.BACKSLASH_ESCAPE,
         e,
-        r
+        a
       ]
     };
-    r.contains.push(_);
+    a.contains.push(_);
     const g = {
       match: /\\"/
     }, u = {
@@ -5111,7 +5159,7 @@ function _c() {
         t.NUMBER_MODE,
         e
       ]
-    }, N = [
+    }, w = [
       "fish",
       "bash",
       "zsh",
@@ -5121,10 +5169,10 @@ function _c() {
       "tcsh",
       "dash",
       "scsh"
-    ], O = t.SHEBANG({
-      binary: `(${N.join("|")})`,
+    ], x = t.SHEBANG({
+      binary: `(${w.join("|")})`,
       relevance: 10
-    }), T = {
+    }), S = {
       className: "function",
       begin: /\w[\w\d_]*\s*\(\s*\)\s*\{/,
       returnBegin: !0,
@@ -5151,7 +5199,7 @@ function _c() {
     ], c = [
       "true",
       "false"
-    ], f = { match: /(\/[a-z._-]+)+/ }, S = [
+    ], f = { match: /(\/[a-z._-]+)+/ }, R = [
       "break",
       "cd",
       "continue",
@@ -5170,7 +5218,7 @@ function _c() {
       "trap",
       "umask",
       "unset"
-    ], k = [
+    ], A = [
       "alias",
       "bind",
       "builtin",
@@ -5193,7 +5241,7 @@ function _c() {
       "typeset",
       "ulimit",
       "unalias"
-    ], I = [
+    ], D = [
       "autoload",
       "bg",
       "bindkey",
@@ -5262,7 +5310,7 @@ function _c() {
       "zsocket",
       "zstyle",
       "ztcp"
-    ], y = [
+    ], v = [
       "chcon",
       "chgrp",
       "chown",
@@ -5378,21 +5426,21 @@ function _c() {
         keyword: d,
         literal: c,
         built_in: [
-          ...S,
-          ...k,
+          ...R,
+          ...A,
           // Shell modifiers
           "set",
           "shopt",
-          ...I,
-          ...y
+          ...D,
+          ...v
         ]
       },
       contains: [
-        O,
+        x,
         // to catch known shells and boost relevancy
         t.SHEBANG(),
         // to catch unknown shells but still highlight the shebang
-        T,
+        S,
         m,
         l,
         o,
@@ -5407,12 +5455,12 @@ function _c() {
   }
   return yn = s, yn;
 }
-var wn, cs;
-function uc() {
-  if (cs) return wn;
-  cs = 1;
+var wn, us;
+function bc() {
+  if (us) return wn;
+  us = 1;
   function s(t) {
-    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", r = "[a-zA-Z_]\\w*::", o = "(" + i + "|" + n.optional(r) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
+    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(" + i + "|" + n.optional(a) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
       className: "type",
       variants: [
         { begin: "\\b[a-z\\d_]*_t\\b" },
@@ -5464,11 +5512,11 @@ function uc() {
         e,
         t.C_BLOCK_COMMENT_MODE
       ]
-    }, N = {
+    }, w = {
       className: "title",
-      begin: n.optional(r) + t.IDENT_RE,
+      begin: n.optional(a) + t.IDENT_RE,
       relevance: 0
-    }, O = n.optional(r) + t.IDENT_RE + "\\s*\\(", c = {
+    }, x = n.optional(a) + t.IDENT_RE + "\\s*\\(", c = {
       keyword: [
         "asm",
         "auto",
@@ -5559,7 +5607,7 @@ function uc() {
       t.C_BLOCK_COMMENT_MODE,
       p,
       u
-    ], S = {
+    ], R = {
       // This mode covers expression context where we can't expect a function
       // definition and shouldn't highlight anything that looks like one:
       // `return some()`, `else if()`, `(x*sum(1, 2))`
@@ -5588,8 +5636,8 @@ function uc() {
         }
       ]),
       relevance: 0
-    }, k = {
-      begin: "(" + o + "[\\*&\\s]+)+" + O,
+    }, A = {
+      begin: "(" + o + "[\\*&\\s]+)+" + x,
       returnBegin: !0,
       end: /[{;=]/,
       excludeEnd: !0,
@@ -5603,9 +5651,9 @@ function uc() {
           relevance: 0
         },
         {
-          begin: O,
+          begin: x,
           returnBegin: !0,
-          contains: [t.inherit(N, { className: "title.function" })],
+          contains: [t.inherit(w, { className: "title.function" })],
           relevance: 0
         },
         // allow for multiple declarations, e.g.:
@@ -5658,8 +5706,8 @@ function uc() {
       disableAutodetect: !0,
       illegal: "</",
       contains: [].concat(
-        S,
-        k,
+        R,
+        A,
         f,
         [
           m,
@@ -5687,12 +5735,12 @@ function uc() {
   }
   return wn = s, wn;
 }
-var xn, _s;
-function dc() {
-  if (_s) return xn;
-  _s = 1;
+var xn, ds;
+function mc() {
+  if (ds) return xn;
+  ds = 1;
   function s(t) {
-    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", r = "[a-zA-Z_]\\w*::", o = "(?!struct)(" + i + "|" + n.optional(r) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
+    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(?!struct)(" + i + "|" + n.optional(a) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
       className: "type",
       begin: "\\b[a-z\\d_]*_t\\b"
     }, u = {
@@ -5747,11 +5795,11 @@ function dc() {
         e,
         t.C_BLOCK_COMMENT_MODE
       ]
-    }, N = {
+    }, w = {
       className: "title",
-      begin: n.optional(r) + t.IDENT_RE,
+      begin: n.optional(a) + t.IDENT_RE,
       relevance: 0
-    }, O = n.optional(r) + t.IDENT_RE + "\\s*\\(", T = [
+    }, x = n.optional(a) + t.IDENT_RE + "\\s*\\(", S = [
       "alignas",
       "alignof",
       "and",
@@ -6015,9 +6063,9 @@ function dc() {
       "visit",
       "vprintf",
       "vsprintf"
-    ], I = {
+    ], D = {
       type: d,
-      keyword: T,
+      keyword: S,
       literal: [
         "NULL",
         "false",
@@ -6027,7 +6075,7 @@ function dc() {
       ],
       built_in: ["_Pragma"],
       _type_hints: c
-    }, y = {
+    }, v = {
       className: "function.dispatch",
       relevance: 0,
       keywords: {
@@ -6044,8 +6092,8 @@ function dc() {
         t.IDENT_RE,
         n.lookahead(/(<[^<>]+>|)\s*\(/)
       )
-    }, w = [
-      y,
+    }, E = [
+      v,
       m,
       _,
       e,
@@ -6070,36 +6118,36 @@ function dc() {
           end: /;/
         }
       ],
-      keywords: I,
-      contains: w.concat([
+      keywords: D,
+      contains: E.concat([
         {
           begin: /\(/,
           end: /\)/,
-          keywords: I,
-          contains: w.concat(["self"]),
+          keywords: D,
+          contains: E.concat(["self"]),
           relevance: 0
         }
       ]),
       relevance: 0
-    }, E = {
+    }, T = {
       className: "function",
-      begin: "(" + o + "[\\*&\\s]+)+" + O,
+      begin: "(" + o + "[\\*&\\s]+)+" + x,
       returnBegin: !0,
       end: /[{;=]/,
       excludeEnd: !0,
-      keywords: I,
+      keywords: D,
       illegal: /[^\w\s\*&:<>.]/,
       contains: [
         {
           // to prevent it from being confused as the function title
           begin: i,
-          keywords: I,
+          keywords: D,
           relevance: 0
         },
         {
-          begin: O,
+          begin: x,
           returnBegin: !0,
-          contains: [N],
+          contains: [w],
           relevance: 0
         },
         // needed because we do not have look-behind on the below rule
@@ -6127,7 +6175,7 @@ function dc() {
           className: "params",
           begin: /\(/,
           end: /\)/,
-          keywords: I,
+          keywords: D,
           relevance: 0,
           contains: [
             e,
@@ -6139,7 +6187,7 @@ function dc() {
             {
               begin: /\(/,
               end: /\)/,
-              keywords: I,
+              keywords: D,
               relevance: 0,
               contains: [
                 "self",
@@ -6169,21 +6217,21 @@ function dc() {
         "hxx",
         "cxx"
       ],
-      keywords: I,
+      keywords: D,
       illegal: "</",
       classNameAliases: { "function.dispatch": "built_in" },
       contains: [].concat(
         h,
+        T,
+        v,
         E,
-        y,
-        w,
         [
           m,
           {
             // containers: ie, `vector <int> rooms (9);`
             begin: "\\b(deque|list|queue|priority_queue|pair|stack|vector|map|set|bitset|multiset|multimap|unordered_map|unordered_set|unordered_multiset|unordered_multimap|array|tuple|optional|variant|function|flat_map|flat_set)\\s*<(?!<)",
             end: ">",
-            keywords: I,
+            keywords: D,
             contains: [
               "self",
               _
@@ -6191,7 +6239,7 @@ function dc() {
           },
           {
             begin: t.IDENT_RE + "::",
-            keywords: I
+            keywords: D
           },
           {
             match: [
@@ -6211,10 +6259,10 @@ function dc() {
   }
   return xn = s, xn;
 }
-var Nn, us;
-function pc() {
-  if (us) return Nn;
-  us = 1;
+var Nn, ps;
+function vc() {
+  if (ps) return Nn;
+  ps = 1;
   function s(t) {
     const n = [
       "bool",
@@ -6258,7 +6306,7 @@ function pc() {
       "false",
       "null",
       "true"
-    ], r = [
+    ], a = [
       "abstract",
       "as",
       "base",
@@ -6358,7 +6406,7 @@ function pc() {
       "with",
       "yield"
     ], o = {
-      keyword: r.concat(l),
+      keyword: a.concat(l),
       built_in: n,
       literal: i
     }, _ = t.inherit(t.TITLE_MODE, { begin: "[a-zA-Z](\\.?\\w)*" }), g = {
@@ -6378,12 +6426,12 @@ function pc() {
       begin: '@"',
       end: '"',
       contains: [{ begin: '""' }]
-    }, m = t.inherit(p, { illegal: /\n/ }), N = {
+    }, m = t.inherit(p, { illegal: /\n/ }), w = {
       className: "subst",
       begin: /\{/,
       end: /\}/,
       keywords: o
-    }, O = t.inherit(N, { illegal: /\n/ }), T = {
+    }, x = t.inherit(w, { illegal: /\n/ }), S = {
       className: "string",
       begin: /\$"/,
       end: '"',
@@ -6392,7 +6440,7 @@ function pc() {
         { begin: /\{\{/ },
         { begin: /\}\}/ },
         t.BACKSLASH_ESCAPE,
-        O
+        x
       ]
     }, d = {
       className: "string",
@@ -6402,7 +6450,7 @@ function pc() {
         { begin: /\{\{/ },
         { begin: /\}\}/ },
         { begin: '""' },
-        N
+        w
       ]
     }, c = t.inherit(d, {
       illegal: /\n/,
@@ -6410,20 +6458,20 @@ function pc() {
         { begin: /\{\{/ },
         { begin: /\}\}/ },
         { begin: '""' },
-        O
+        x
       ]
     });
-    N.contains = [
+    w.contains = [
       d,
-      T,
+      S,
       p,
       t.APOS_STRING_MODE,
       t.QUOTE_STRING_MODE,
       g,
       t.C_BLOCK_COMMENT_MODE
-    ], O.contains = [
+    ], x.contains = [
       c,
-      T,
+      S,
       m,
       t.APOS_STRING_MODE,
       t.QUOTE_STRING_MODE,
@@ -6433,18 +6481,18 @@ function pc() {
     const f = { variants: [
       u,
       d,
-      T,
+      S,
       p,
       t.APOS_STRING_MODE,
       t.QUOTE_STRING_MODE
-    ] }, S = {
+    ] }, R = {
       begin: "<",
       end: ">",
       contains: [
         { beginKeywords: "in out" },
         _
       ]
-    }, k = t.IDENT_RE + "(<" + t.IDENT_RE + "(\\s*,\\s*" + t.IDENT_RE + ")*>)?(\\[\\])?", I = {
+    }, A = t.IDENT_RE + "(<" + t.IDENT_RE + "(\\s*,\\s*" + t.IDENT_RE + ")*>)?(\\[\\])?", D = {
       // prevents expressions like `@class` from incorrect flagging
       // `class` as a keyword
       begin: "@" + t.IDENT_RE,
@@ -6500,7 +6548,7 @@ function pc() {
           contains: [
             { beginKeywords: "where class" },
             _,
-            S,
+            R,
             t.C_LINE_COMMENT_MODE,
             t.C_BLOCK_COMMENT_MODE
           ]
@@ -6523,7 +6571,7 @@ function pc() {
           illegal: /[^\s:]/,
           contains: [
             _,
-            S,
+            R,
             t.C_LINE_COMMENT_MODE,
             t.C_BLOCK_COMMENT_MODE
           ]
@@ -6551,7 +6599,7 @@ function pc() {
         },
         {
           className: "function",
-          begin: "(" + k + "\\s+)+" + t.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
+          begin: "(" + A + "\\s+)+" + t.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
           returnBegin: !0,
           end: /\s*[{;=]/,
           excludeEnd: !0,
@@ -6567,7 +6615,7 @@ function pc() {
               returnBegin: !0,
               contains: [
                 t.TITLE_MODE,
-                S
+                R
               ],
               relevance: 0
             },
@@ -6590,16 +6638,16 @@ function pc() {
             t.C_BLOCK_COMMENT_MODE
           ]
         },
-        I
+        D
       ]
     };
   }
   return Nn = s, Nn;
 }
-var On, ds;
-function fc() {
-  if (ds) return On;
-  ds = 1;
+var On, fs;
+function Ec() {
+  if (fs) return On;
+  fs = 1;
   const s = (g) => ({
     IMPORTANT: {
       scope: "meta",
@@ -6791,7 +6839,7 @@ function fc() {
     "max-width",
     "min-height",
     "max-height"
-  ].sort().reverse(), r = [
+  ].sort().reverse(), a = [
     "active",
     "any-link",
     "blank",
@@ -7398,7 +7446,7 @@ function fc() {
     "zoom"
   ].sort().reverse();
   function _(g) {
-    const u = g.regex, p = s(g), m = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, N = "and or not only", O = /@-?\w[\w]*(-\w+)*/, T = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
+    const u = g.regex, p = s(g), m = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, w = "and or not only", x = /@-?\w[\w]*(-\w+)*/, S = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
       g.APOS_STRING_MODE,
       g.QUOTE_STRING_MODE
     ];
@@ -7425,14 +7473,14 @@ function fc() {
         },
         {
           className: "selector-class",
-          begin: "\\." + T,
+          begin: "\\." + S,
           relevance: 0
         },
         p.ATTRIBUTE_SELECTOR_MODE,
         {
           className: "selector-pseudo",
           variants: [
-            { begin: ":(" + r.join("|") + ")" },
+            { begin: ":(" + a.join("|") + ")" },
             { begin: ":(:)?(" + l.join("|") + ")" }
           ]
         },
@@ -7490,7 +7538,7 @@ function fc() {
           contains: [
             {
               className: "keyword",
-              begin: O
+              begin: x
             },
             {
               begin: /\s/,
@@ -7499,7 +7547,7 @@ function fc() {
               relevance: 0,
               keywords: {
                 $pattern: /[a-z-]+/,
-                keyword: N,
+                keyword: w,
                 attribute: i.join(" ")
               },
               contains: [
@@ -7522,10 +7570,10 @@ function fc() {
   }
   return On = _, On;
 }
-var Tn, ps;
-function hc() {
-  if (ps) return Tn;
-  ps = 1;
+var Sn, hs;
+function yc() {
+  if (hs) return Sn;
+  hs = 1;
   function s(t) {
     const n = t.regex, e = {
       begin: /<\/?[A-Za-z_]/,
@@ -7535,7 +7583,7 @@ function hc() {
     }, i = {
       begin: "^[-\\*]{3,}",
       end: "$"
-    }, r = {
+    }, a = {
       className: "code",
       variants: [
         // TODO: fix to allow these to work with sublanguage also
@@ -7675,9 +7723,9 @@ function hc() {
           relevance: 0
         }
       ]
-    }, m = t.inherit(u, { contains: [] }), N = t.inherit(p, { contains: [] });
-    u.contains.push(N), p.contains.push(m);
-    let O = [
+    }, m = t.inherit(u, { contains: [] }), w = t.inherit(p, { contains: [] });
+    u.contains.push(w), p.contains.push(m);
+    let x = [
       e,
       g
     ];
@@ -7685,10 +7733,10 @@ function hc() {
       u,
       p,
       m,
-      N
+      w
     ].forEach((f) => {
-      f.contains = f.contains.concat(O);
-    }), O = O.concat(u, p), {
+      f.contains = f.contains.concat(x);
+    }), x = x.concat(u, p), {
       name: "Markdown",
       aliases: [
         "md",
@@ -7702,7 +7750,7 @@ function hc() {
             {
               begin: "^#{1,6}",
               end: "$",
-              contains: O
+              contains: x
             },
             {
               begin: "(?=^.+?\\n[=-]{2,}$)",
@@ -7711,7 +7759,7 @@ function hc() {
                 {
                   begin: "^",
                   end: "\\n",
-                  contains: O
+                  contains: x
                 }
               ]
             }
@@ -7724,10 +7772,10 @@ function hc() {
         {
           className: "quote",
           begin: "^>\\s+",
-          contains: O,
+          contains: x,
           end: "$"
         },
-        r,
+        a,
         i,
         g,
         o,
@@ -7739,12 +7787,12 @@ function hc() {
       ]
     };
   }
-  return Tn = s, Tn;
+  return Sn = s, Sn;
 }
-var Sn, fs;
-function gc() {
-  if (fs) return Sn;
-  fs = 1;
+var Tn, gs;
+function wc() {
+  if (gs) return Tn;
+  gs = 1;
   function s(t) {
     const n = t.regex;
     return {
@@ -7796,18 +7844,18 @@ function gc() {
       ]
     };
   }
-  return Sn = s, Sn;
+  return Tn = s, Tn;
 }
-var kn, hs;
-function bc() {
-  if (hs) return kn;
-  hs = 1;
+var kn, bs;
+function xc() {
+  if (bs) return kn;
+  bs = 1;
   function s(t) {
     const n = t.regex, e = "([a-zA-Z_]\\w*[!?=]?|[-+~]@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?)", i = n.either(
       /\b([A-Z]+[a-z0-9]+)+/,
       // ends in caps
       /\b([A-Z]+[a-z0-9]+)+[A-Z]+/
-    ), r = n.concat(i, /(::\w+)*/), o = {
+    ), a = n.concat(i, /(::\w+)*/), o = {
       "variable.constant": [
         "__FILE__",
         "__LINE__",
@@ -7982,12 +8030,12 @@ function bc() {
           ]
         }
       ]
-    }, N = "[1-9](_?[0-9])*|0", O = "[0-9](_?[0-9])*", T = {
+    }, w = "[1-9](_?[0-9])*|0", x = "[0-9](_?[0-9])*", S = {
       className: "number",
       relevance: 0,
       variants: [
         // decimal integer/float, optionally exponential or rational, optionally imaginary
-        { begin: `\\b(${N})(\\.(${O}))?([eE][+-]?(${O})|r)?i?\\b` },
+        { begin: `\\b(${w})(\\.(${x}))?([eE][+-]?(${x})|r)?i?\\b` },
         // explicit decimal/binary/octal/hexadecimal integer,
         // optionally rational and/or imaginary
         { begin: "\\b0[dD][0-9](_?[0-9])*r?i?\\b" },
@@ -8011,22 +8059,22 @@ function bc() {
           keywords: o
         }
       ]
-    }, w = [
+    }, E = [
       m,
       {
         variants: [
           {
             match: [
               /class\s+/,
-              r,
+              a,
               /\s+<\s+/,
-              r
+              a
             ]
           },
           {
             match: [
               /\b(class|module)\s+/,
-              r
+              a
             ]
           }
         ],
@@ -8039,7 +8087,7 @@ function bc() {
       {
         match: [
           /(include|extend)\s+/,
-          r
+          a
         ],
         scope: {
           2: "title.class"
@@ -8049,7 +8097,7 @@ function bc() {
       {
         relevance: 0,
         match: [
-          r,
+          a,
           /\.new[. (]/
         ],
         scope: {
@@ -8098,7 +8146,7 @@ function bc() {
         ],
         relevance: 0
       },
-      T,
+      S,
       {
         // negative-look forward attempts to prevent false matches like:
         // @ident@ or $ident$ that might indicate this is not ruby at all
@@ -8154,13 +8202,13 @@ function bc() {
         relevance: 0
       }
     ].concat(g, u);
-    p.contains = w, d.contains = w;
-    const v = [
+    p.contains = E, d.contains = E;
+    const y = [
       {
         begin: /^\s*=>/,
         starts: {
           end: "$",
-          contains: w
+          contains: E
         }
       },
       {
@@ -8169,7 +8217,7 @@ function bc() {
         starts: {
           end: "$",
           keywords: o,
-          contains: w
+          contains: E
         }
       }
     ];
@@ -8184,15 +8232,15 @@ function bc() {
       ],
       keywords: o,
       illegal: /\/\*/,
-      contains: [t.SHEBANG({ binary: "ruby" })].concat(v).concat(u).concat(w)
+      contains: [t.SHEBANG({ binary: "ruby" })].concat(y).concat(u).concat(E)
     };
   }
   return kn = s, kn;
 }
-var Rn, gs;
-function mc() {
-  if (gs) return Rn;
-  gs = 1;
+var Rn, ms;
+function Nc() {
+  if (ms) return Rn;
+  ms = 1;
   function s(t) {
     const l = {
       keyword: [
@@ -8343,10 +8391,10 @@ function mc() {
   }
   return Rn = s, Rn;
 }
-var An, bs;
-function vc() {
-  if (bs) return An;
-  bs = 1;
+var An, vs;
+function Oc() {
+  if (vs) return An;
+  vs = 1;
   function s(t) {
     const n = t.regex, e = /[_A-Za-z][_0-9A-Za-z]*/;
     return {
@@ -8416,10 +8464,10 @@ function vc() {
   }
   return An = s, An;
 }
-var Cn, ms;
-function Ec() {
-  if (ms) return Cn;
-  ms = 1;
+var Cn, Es;
+function Sc() {
+  if (Es) return Cn;
+  Es = 1;
   function s(t) {
     const n = t.regex, e = {
       className: "number",
@@ -8439,7 +8487,7 @@ function Ec() {
         end: /$/
       }
     ];
-    const r = {
+    const a = {
       className: "variable",
       variants: [
         { begin: /\$[\w\d"][\w\d_]*/ },
@@ -8477,7 +8525,7 @@ function Ec() {
       contains: [
         i,
         l,
-        r,
+        a,
         o,
         e,
         "self"
@@ -8487,7 +8535,7 @@ function Ec() {
       g,
       u,
       p
-    ), N = n.concat(
+    ), w = n.concat(
       m,
       "(\\s*\\.\\s*",
       m,
@@ -8507,7 +8555,7 @@ function Ec() {
           end: /\]+/
         },
         {
-          begin: N,
+          begin: w,
           className: "attr",
           starts: {
             end: /$/,
@@ -8515,7 +8563,7 @@ function Ec() {
               i,
               _,
               l,
-              r,
+              a,
               o,
               e
             ]
@@ -8526,10 +8574,10 @@ function Ec() {
   }
   return Cn = s, Cn;
 }
-var In, vs;
-function yc() {
-  if (vs) return In;
-  vs = 1;
+var In, ys;
+function Tc() {
+  if (ys) return In;
+  ys = 1;
   var s = "[0-9](_*[0-9])*", t = `\\.(${s})`, n = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
     className: "number",
     variants: [
@@ -8556,8 +8604,8 @@ function yc() {
   function i(l, o, _) {
     return _ === -1 ? "" : l.replace(o, (g) => i(l, o, _ - 1));
   }
-  function r(l) {
-    const o = l.regex, _ = "[À-ʸa-zA-Z_$][À-ʸa-zA-Z_$0-9]*", g = _ + i("(?:<" + _ + "~~~(?:\\s*,\\s*" + _ + "~~~)*>)?", /~~~/g, 2), O = {
+  function a(l) {
+    const o = l.regex, _ = "[À-ʸa-zA-Z_$][À-ʸa-zA-Z_$0-9]*", g = _ + i("(?:<" + _ + "~~~(?:\\s*,\\s*" + _ + "~~~)*>)?", /~~~/g, 2), x = {
       keyword: [
         "synchronized",
         "abstract",
@@ -8623,7 +8671,7 @@ function yc() {
         "super",
         "this"
       ]
-    }, T = {
+    }, S = {
       className: "meta",
       begin: "@" + _,
       contains: [
@@ -8638,7 +8686,7 @@ function yc() {
       className: "params",
       begin: /\(/,
       end: /\)/,
-      keywords: O,
+      keywords: x,
       relevance: 0,
       contains: [l.C_BLOCK_COMMENT_MODE],
       endsParent: !0
@@ -8646,7 +8694,7 @@ function yc() {
     return {
       name: "Java",
       aliases: ["jsp"],
-      keywords: O,
+      keywords: x,
       illegal: /<\/|#/,
       contains: [
         l.COMMENT(
@@ -8742,16 +8790,16 @@ function yc() {
             /\s*(?=\()/
           ],
           className: { 2: "title.function" },
-          keywords: O,
+          keywords: x,
           contains: [
             {
               className: "params",
               begin: /\(/,
               end: /\)/,
-              keywords: O,
+              keywords: x,
               relevance: 0,
               contains: [
-                T,
+                S,
                 l.APOS_STRING_MODE,
                 l.QUOTE_STRING_MODE,
                 e,
@@ -8763,16 +8811,16 @@ function yc() {
           ]
         },
         e,
-        T
+        S
       ]
     };
   }
-  return In = r, In;
+  return In = a, In;
 }
-var Mn, Es;
-function wc() {
-  if (Es) return Mn;
-  Es = 1;
+var Mn, ws;
+function kc() {
+  if (ws) return Mn;
+  ws = 1;
   const s = "[A-Za-z$_][0-9A-Za-z$_]*", t = [
     "as",
     // for exports
@@ -8884,7 +8932,7 @@ function wc() {
     "SyntaxError",
     "TypeError",
     "URIError"
-  ], r = [
+  ], a = [
     "setInterval",
     "setTimeout",
     "clearInterval",
@@ -8915,46 +8963,46 @@ function wc() {
     "global"
     // Node.js
   ], o = [].concat(
-    r,
+    a,
     e,
     i
   );
   function _(g) {
-    const u = g.regex, p = (ue, { after: _e }) => {
-      const Oe = "</" + ue[0].slice(1);
-      return ue.input.indexOf(Oe, _e) !== -1;
-    }, m = s, N = {
+    const u = g.regex, p = (de, { after: ue }) => {
+      const Oe = "</" + de[0].slice(1);
+      return de.input.indexOf(Oe, ue) !== -1;
+    }, m = s, w = {
       begin: "<>",
       end: "</>"
-    }, O = /<[A-Za-z0-9\\._:-]+\s*\/>/, T = {
+    }, x = /<[A-Za-z0-9\\._:-]+\s*\/>/, S = {
       begin: /<[A-Za-z0-9\\._:-]+/,
       end: /\/[A-Za-z0-9\\._:-]+>|\/>/,
       /**
        * @param {RegExpMatchArray} match
        * @param {CallbackResponse} response
        */
-      isTrulyOpeningTag: (ue, _e) => {
-        const Oe = ue[0].length + ue.index, ve = ue.input[Oe];
+      isTrulyOpeningTag: (de, ue) => {
+        const Oe = de[0].length + de.index, Ee = de.input[Oe];
         if (
           // HTML should not include another raw `<` inside a tag
           // nested type?
           // `<Array<Array<number>>`, etc.
-          ve === "<" || // the , gives away that this is not HTML
+          Ee === "<" || // the , gives away that this is not HTML
           // `<T, A extends keyof T, V>`
-          ve === ","
+          Ee === ","
         ) {
-          _e.ignoreMatch();
+          ue.ignoreMatch();
           return;
         }
-        ve === ">" && (p(ue, { after: Oe }) || _e.ignoreMatch());
-        let Te;
-        const ke = ue.input.substring(Oe);
-        if (Te = ke.match(/^\s*=/)) {
-          _e.ignoreMatch();
+        Ee === ">" && (p(de, { after: Oe }) || ue.ignoreMatch());
+        let Se;
+        const ke = de.input.substring(Oe);
+        if (Se = ke.match(/^\s*=/)) {
+          ue.ignoreMatch();
           return;
         }
-        if ((Te = ke.match(/^\s+extends\s+/)) && Te.index === 0) {
-          _e.ignoreMatch();
+        if ((Se = ke.match(/^\s+extends\s+/)) && Se.index === 0) {
+          ue.ignoreMatch();
           return;
         }
       }
@@ -8964,12 +9012,12 @@ function wc() {
       literal: n,
       built_in: o,
       "variable.language": l
-    }, c = "[0-9](_?[0-9])*", f = `\\.(${c})`, S = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", k = {
+    }, c = "[0-9](_?[0-9])*", f = `\\.(${c})`, R = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", A = {
       className: "number",
       variants: [
         // DecimalLiteral
-        { begin: `(\\b(${S})((${f})|\\.)?|(${f}))[eE][+-]?(${c})\\b` },
-        { begin: `\\b(${S})\\b((${f})\\b|\\.)?|(${f})\\b` },
+        { begin: `(\\b(${R})((${f})|\\.)?|(${f}))[eE][+-]?(${c})\\b` },
+        { begin: `\\b(${R})\\b((${f})\\b|\\.)?|(${f})\\b` },
         // DecimalBigIntegerLiteral
         { begin: "\\b(0|[1-9](_?[0-9])*)n\\b" },
         // NonDecimalIntegerLiteral
@@ -8981,14 +9029,14 @@ function wc() {
         { begin: "\\b0[0-7]+n?\\b" }
       ],
       relevance: 0
-    }, I = {
+    }, D = {
       className: "subst",
       begin: "\\$\\{",
       end: "\\}",
       keywords: d,
       contains: []
       // defined later
-    }, y = {
+    }, v = {
       begin: ".?html`",
       end: "",
       starts: {
@@ -8996,11 +9044,11 @@ function wc() {
         returnEnd: !1,
         contains: [
           g.BACKSLASH_ESCAPE,
-          I
+          D
         ],
         subLanguage: "xml"
       }
-    }, w = {
+    }, E = {
       begin: ".?css`",
       end: "",
       starts: {
@@ -9008,7 +9056,7 @@ function wc() {
         returnEnd: !1,
         contains: [
           g.BACKSLASH_ESCAPE,
-          I
+          D
         ],
         subLanguage: "css"
       }
@@ -9020,19 +9068,19 @@ function wc() {
         returnEnd: !1,
         contains: [
           g.BACKSLASH_ESCAPE,
-          I
+          D
         ],
         subLanguage: "graphql"
       }
-    }, E = {
+    }, T = {
       className: "string",
       begin: "`",
       end: "`",
       contains: [
         g.BACKSLASH_ESCAPE,
-        I
+        D
       ]
-    }, v = {
+    }, y = {
       className: "comment",
       variants: [
         g.COMMENT(
@@ -9077,21 +9125,21 @@ function wc() {
         g.C_BLOCK_COMMENT_MODE,
         g.C_LINE_COMMENT_MODE
       ]
-    }, x = [
+    }, N = [
       g.APOS_STRING_MODE,
       g.QUOTE_STRING_MODE,
-      y,
-      w,
-      h,
+      v,
       E,
+      h,
+      T,
       // Skip numbers when they are part of a variable name
       { match: /\$\d+/ },
-      k
+      A
       // This is intentional:
       // See https://github.com/highlightjs/highlight.js/issues/3288
       // hljs.REGEXP_MODE
     ];
-    I.contains = x.concat({
+    D.contains = N.concat({
       // we need to pair up {} inside our subst to prevent
       // it from ending too early by matching another }
       begin: /\{/,
@@ -9099,17 +9147,17 @@ function wc() {
       keywords: d,
       contains: [
         "self"
-      ].concat(x)
+      ].concat(N)
     });
-    const D = [].concat(v, I.contains), K = D.concat([
+    const F = [].concat(y, D.contains), q = F.concat([
       // eat recursive parens in sub expressions
       {
         begin: /(\s*)\(/,
         end: /\)/,
         keywords: d,
-        contains: ["self"].concat(D)
+        contains: ["self"].concat(F)
       }
-    ]), H = {
+    ]), M = {
       className: "params",
       // convert this to negative lookbehind in v12
       begin: /(\s*)\(/,
@@ -9118,8 +9166,8 @@ function wc() {
       excludeBegin: !0,
       excludeEnd: !0,
       keywords: d,
-      contains: K
-    }, M = {
+      contains: q
+    }, O = {
       variants: [
         // class Car extends vehicle
         {
@@ -9152,7 +9200,7 @@ function wc() {
           }
         }
       ]
-    }, z = {
+    }, I = {
       relevance: 0,
       match: u.either(
         // Hard coded exceptions
@@ -9176,12 +9224,12 @@ function wc() {
           ...i
         ]
       }
-    }, J = {
+    }, K = {
       label: "use_strict",
       className: "meta",
       relevance: 10,
       begin: /^\s*['"]use (strict|asm)['"]/
-    }, me = {
+    }, se = {
       variants: [
         {
           match: [
@@ -9204,30 +9252,30 @@ function wc() {
         3: "title.function"
       },
       label: "func.def",
-      contains: [H],
+      contains: [M],
       illegal: /%/
-    }, Q = {
+    }, Z = {
       relevance: 0,
       match: /\b[A-Z][A-Z_0-9]+\b/,
       className: "variable.constant"
     };
-    function ce(ue) {
-      return u.concat("(?!", ue.join("|"), ")");
+    function le(de) {
+      return u.concat("(?!", de.join("|"), ")");
     }
     const De = {
       match: u.concat(
         /\b/,
-        ce([
-          ...r,
+        le([
+          ...a,
           "super",
           "import"
-        ].map((ue) => `${ue}\\s*\\(`)),
+        ].map((de) => `${de}\\s*\\(`)),
         m,
         u.lookahead(/\s*\(/)
       ),
       className: "title.function",
       relevance: 0
-    }, $e = {
+    }, ze = {
       begin: u.concat(/\./, u.lookahead(
         u.concat(m, /(?![0-9A-Za-z$_(])/)
       )),
@@ -9252,9 +9300,9 @@ function wc() {
           // eat to avoid empty params
           begin: /\(\)/
         },
-        H
+        M
       ]
-    }, Ie = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + g.UNDERSCORE_IDENT_RE + ")\\s*=>", ze = {
+    }, Ie = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + g.UNDERSCORE_IDENT_RE + ")\\s*=>", Fe = {
       match: [
         /const|var|let/,
         /\s+/,
@@ -9271,7 +9319,7 @@ function wc() {
         3: "title.function"
       },
       contains: [
-        H
+        M
       ]
     };
     return {
@@ -9279,7 +9327,7 @@ function wc() {
       aliases: ["js", "jsx", "mjs", "cjs"],
       keywords: d,
       // this will be extended by TypeScript
-      exports: { PARAMS_CONTAINS: K, CLASS_REFERENCE: z },
+      exports: { PARAMS_CONTAINS: q, CLASS_REFERENCE: I },
       illegal: /#(?![$_A-z])/,
       contains: [
         g.SHEBANG({
@@ -9287,31 +9335,31 @@ function wc() {
           binary: "node",
           relevance: 5
         }),
-        J,
+        K,
         g.APOS_STRING_MODE,
         g.QUOTE_STRING_MODE,
-        y,
-        w,
-        h,
-        E,
         v,
+        E,
+        h,
+        T,
+        y,
         // Skip numbers when they are part of a variable name
         { match: /\$\d+/ },
-        k,
-        z,
+        A,
+        I,
         {
           scope: "attr",
           match: m + u.lookahead(":"),
           relevance: 0
         },
-        ze,
+        Fe,
         {
           // "value" container
           begin: "(" + g.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
           keywords: "return throw case",
           relevance: 0,
           contains: [
-            v,
+            y,
             g.REGEXP_MODE,
             {
               className: "function",
@@ -9340,7 +9388,7 @@ function wc() {
                       excludeBegin: !0,
                       excludeEnd: !0,
                       keywords: d,
-                      contains: K
+                      contains: q
                     }
                   ]
                 }
@@ -9358,21 +9406,21 @@ function wc() {
             {
               // JSX
               variants: [
-                { begin: N.begin, end: N.end },
-                { match: O },
+                { begin: w.begin, end: w.end },
+                { match: x },
                 {
-                  begin: T.begin,
+                  begin: S.begin,
                   // we carefully check the opening tag to see if it truly
                   // is a tag and not a false positive
-                  "on:begin": T.isTrulyOpeningTag,
-                  end: T.end
+                  "on:begin": S.isTrulyOpeningTag,
+                  end: S.end
                 }
               ],
               subLanguage: "xml",
               contains: [
                 {
-                  begin: T.begin,
-                  end: T.end,
+                  begin: S.begin,
+                  end: S.end,
                   skip: !0,
                   contains: ["self"]
                 }
@@ -9380,7 +9428,7 @@ function wc() {
             }
           ]
         },
-        me,
+        se,
         {
           // prevent this from getting swallowed up by function
           // since they appear "function like"
@@ -9395,7 +9443,7 @@ function wc() {
           returnBegin: !0,
           label: "func.def",
           contains: [
-            H,
+            M,
             g.inherit(g.TITLE_MODE, { begin: m, className: "title.function" })
           ]
         },
@@ -9404,7 +9452,7 @@ function wc() {
           match: /\.\.\./,
           relevance: 0
         },
-        $e,
+        ze,
         // hack: prevents detection of keywords in some circumstances
         // .keyword()
         // $keyword = x
@@ -9415,11 +9463,11 @@ function wc() {
         {
           match: [/\bconstructor(?=\s*\()/],
           className: { 1: "title.function" },
-          contains: [H]
+          contains: [M]
         },
         De,
-        Q,
-        M,
+        Z,
+        O,
         Ce,
         {
           match: /\$[(.]/
@@ -9430,10 +9478,10 @@ function wc() {
   }
   return Mn = _, Mn;
 }
-var Ln, ys;
-function xc() {
-  if (ys) return Ln;
-  ys = 1;
+var Ln, xs;
+function Rc() {
+  if (xs) return Ln;
+  xs = 1;
   function s(t) {
     const n = {
       className: "attr",
@@ -9447,7 +9495,7 @@ function xc() {
       "true",
       "false",
       "null"
-    ], r = {
+    ], a = {
       scope: "literal",
       beginKeywords: i.join(" ")
     };
@@ -9461,7 +9509,7 @@ function xc() {
         n,
         e,
         t.QUOTE_STRING_MODE,
-        r,
+        a,
         t.C_NUMBER_MODE,
         t.C_LINE_COMMENT_MODE,
         t.C_BLOCK_COMMENT_MODE
@@ -9471,10 +9519,10 @@ function xc() {
   }
   return Ln = s, Ln;
 }
-var Dn, ws;
-function Nc() {
-  if (ws) return Dn;
-  ws = 1;
+var Dn, Ns;
+function Ac() {
+  if (Ns) return Dn;
+  Ns = 1;
   var s = "[0-9](_*[0-9])*", t = `\\.(${s})`, n = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
     className: "number",
     variants: [
@@ -9498,7 +9546,7 @@ function Nc() {
     ],
     relevance: 0
   };
-  function i(r) {
+  function i(a) {
     const l = {
       keyword: "abstract as val var vararg get set class object open private protected public noinline crossinline dynamic final enum if else do while for when throw try catch finally import package is in fun override companion reified inline lateinit init interface annotation data sealed internal infix operator out by constructor super tailrec where const inner suspend typealias external expect actual",
       built_in: "Byte Short Char Int Long Boolean Float Double Void Unit Nothing",
@@ -9514,15 +9562,15 @@ function Nc() {
       ] }
     }, _ = {
       className: "symbol",
-      begin: r.UNDERSCORE_IDENT_RE + "@"
+      begin: a.UNDERSCORE_IDENT_RE + "@"
     }, g = {
       className: "subst",
       begin: /\$\{/,
       end: /\}/,
-      contains: [r.C_NUMBER_MODE]
+      contains: [a.C_NUMBER_MODE]
     }, u = {
       className: "variable",
-      begin: "\\$" + r.UNDERSCORE_IDENT_RE
+      begin: "\\$" + a.UNDERSCORE_IDENT_RE
     }, p = {
       className: "string",
       variants: [
@@ -9541,14 +9589,14 @@ function Nc() {
           begin: "'",
           end: "'",
           illegal: /\n/,
-          contains: [r.BACKSLASH_ESCAPE]
+          contains: [a.BACKSLASH_ESCAPE]
         },
         {
           begin: '"',
           end: '"',
           illegal: /\n/,
           contains: [
-            r.BACKSLASH_ESCAPE,
+            a.BACKSLASH_ESCAPE,
             u,
             g
           ]
@@ -9558,28 +9606,28 @@ function Nc() {
     g.contains.push(p);
     const m = {
       className: "meta",
-      begin: "@(?:file|property|field|get|set|receiver|param|setparam|delegate)\\s*:(?:\\s*" + r.UNDERSCORE_IDENT_RE + ")?"
-    }, N = {
+      begin: "@(?:file|property|field|get|set|receiver|param|setparam|delegate)\\s*:(?:\\s*" + a.UNDERSCORE_IDENT_RE + ")?"
+    }, w = {
       className: "meta",
-      begin: "@" + r.UNDERSCORE_IDENT_RE,
+      begin: "@" + a.UNDERSCORE_IDENT_RE,
       contains: [
         {
           begin: /\(/,
           end: /\)/,
           contains: [
-            r.inherit(p, { className: "string" }),
+            a.inherit(p, { className: "string" }),
             "self"
           ]
         }
       ]
-    }, O = e, T = r.COMMENT(
+    }, x = e, S = a.COMMENT(
       "/\\*",
       "\\*/",
-      { contains: [r.C_BLOCK_COMMENT_MODE] }
+      { contains: [a.C_BLOCK_COMMENT_MODE] }
     ), d = { variants: [
       {
         className: "type",
-        begin: r.UNDERSCORE_IDENT_RE
+        begin: a.UNDERSCORE_IDENT_RE
       },
       {
         begin: /\(/,
@@ -9596,7 +9644,7 @@ function Nc() {
       ],
       keywords: l,
       contains: [
-        r.COMMENT(
+        a.COMMENT(
           "/\\*\\*",
           "\\*/",
           {
@@ -9609,12 +9657,12 @@ function Nc() {
             ]
           }
         ),
-        r.C_LINE_COMMENT_MODE,
-        T,
+        a.C_LINE_COMMENT_MODE,
+        S,
         o,
         _,
         m,
-        N,
+        w,
         {
           className: "function",
           beginKeywords: "fun",
@@ -9625,10 +9673,10 @@ function Nc() {
           relevance: 5,
           contains: [
             {
-              begin: r.UNDERSCORE_IDENT_RE + "\\s*\\(",
+              begin: a.UNDERSCORE_IDENT_RE + "\\s*\\(",
               returnBegin: !0,
               relevance: 0,
-              contains: [r.UNDERSCORE_TITLE_MODE]
+              contains: [a.UNDERSCORE_TITLE_MODE]
             },
             {
               className: "type",
@@ -9651,27 +9699,27 @@ function Nc() {
                   endsWithParent: !0,
                   contains: [
                     d,
-                    r.C_LINE_COMMENT_MODE,
-                    T
+                    a.C_LINE_COMMENT_MODE,
+                    S
                   ],
                   relevance: 0
                 },
-                r.C_LINE_COMMENT_MODE,
-                T,
+                a.C_LINE_COMMENT_MODE,
+                S,
                 m,
-                N,
+                w,
                 p,
-                r.C_NUMBER_MODE
+                a.C_NUMBER_MODE
               ]
             },
-            T
+            S
           ]
         },
         {
           begin: [
             /class|interface|trait/,
             /\s+/,
-            r.UNDERSCORE_IDENT_RE
+            a.UNDERSCORE_IDENT_RE
           ],
           beginScope: {
             3: "title.class"
@@ -9682,7 +9730,7 @@ function Nc() {
           illegal: "extends implements",
           contains: [
             { beginKeywords: "public protected internal private constructor" },
-            r.UNDERSCORE_TITLE_MODE,
+            a.UNDERSCORE_TITLE_MODE,
             {
               className: "type",
               begin: /</,
@@ -9699,7 +9747,7 @@ function Nc() {
               returnEnd: !0
             },
             m,
-            N
+            w
           ]
         },
         p,
@@ -9710,16 +9758,16 @@ function Nc() {
           illegal: `
 `
         },
-        O
+        x
       ]
     };
   }
   return Dn = i, Dn;
 }
-var Bn, xs;
-function Oc() {
-  if (xs) return Bn;
-  xs = 1;
+var Bn, Os;
+function Cc() {
+  if (Os) return Bn;
+  Os = 1;
   const s = (u) => ({
     IMPORTANT: {
       scope: "meta",
@@ -9911,7 +9959,7 @@ function Oc() {
     "max-width",
     "min-height",
     "max-height"
-  ].sort().reverse(), r = [
+  ].sort().reverse(), a = [
     "active",
     "any-link",
     "blank",
@@ -10516,30 +10564,30 @@ function Oc() {
     "y",
     "z-index",
     "zoom"
-  ].sort().reverse(), _ = r.concat(l).sort().reverse();
+  ].sort().reverse(), _ = a.concat(l).sort().reverse();
   function g(u) {
-    const p = s(u), m = _, N = "and or not only", O = "[\\w-]+", T = "(" + O + "|@\\{" + O + "\\})", d = [], c = [], f = function(D) {
+    const p = s(u), m = _, w = "and or not only", x = "[\\w-]+", S = "(" + x + "|@\\{" + x + "\\})", d = [], c = [], f = function(F) {
       return {
         // Less strings are not multiline (also include '~' for more consistent coloring of "escaped" strings)
         className: "string",
-        begin: "~?" + D + ".*?" + D
+        begin: "~?" + F + ".*?" + F
       };
-    }, S = function(D, K, H) {
+    }, R = function(F, q, M) {
       return {
-        className: D,
-        begin: K,
-        relevance: H
+        className: F,
+        begin: q,
+        relevance: M
       };
-    }, k = {
+    }, A = {
       $pattern: /[a-z-]+/,
-      keyword: N,
+      keyword: w,
       attribute: i.join(" ")
-    }, I = {
+    }, D = {
       // used only to properly balance nested parens inside mixin call, def. arg list
       begin: "\\(",
       end: "\\)",
       contains: c,
-      keywords: k,
+      keywords: A,
       relevance: 0
     };
     c.push(
@@ -10558,15 +10606,15 @@ function Oc() {
         }
       },
       p.HEXCOLOR,
-      I,
-      S("variable", "@@?" + O, 10),
-      S("variable", "@\\{" + O + "\\}"),
-      S("built_in", "~?`[^`]*?`"),
+      D,
+      R("variable", "@@?" + x, 10),
+      R("variable", "@\\{" + x + "\\}"),
+      R("built_in", "~?`[^`]*?`"),
       // inline javascript (or whatever host language) *multiline* string
       {
         // @media features (it’s here to not duplicate things in AT_RULE_MODE with extra PARENS_MODE overriding):
         className: "attribute",
-        begin: O + "\\s*:",
+        begin: x + "\\s*:",
         end: ":",
         returnBegin: !0,
         excludeEnd: !0
@@ -10575,17 +10623,17 @@ function Oc() {
       { beginKeywords: "and not" },
       p.FUNCTION_DISPATCH
     );
-    const y = c.concat({
+    const v = c.concat({
       begin: /\{/,
       end: /\}/,
       contains: d
-    }), w = {
+    }), E = {
       beginKeywords: "when",
       endsWithParent: !0,
       contains: [{ beginKeywords: "and not" }].concat(c)
       // using this form to override VALUE’s 'function' match
     }, h = {
-      begin: T + "\\s*:",
+      begin: S + "\\s*:",
       returnBegin: !0,
       end: /[;}]/,
       relevance: 0,
@@ -10604,17 +10652,17 @@ function Oc() {
           }
         }
       ]
-    }, E = {
+    }, T = {
       className: "keyword",
       begin: "@(import|media|charset|font-face|(-[a-z]+-)?keyframes|supports|document|namespace|page|viewport|host)\\b",
       starts: {
         end: "[;{}]",
-        keywords: k,
+        keywords: A,
         returnEnd: !0,
         contains: c,
         relevance: 0
       }
-    }, a = {
+    }, r = {
       className: "variable",
       variants: [
         // using more strict pattern for higher relevance to increase chances of Less detection.
@@ -10622,17 +10670,17 @@ function Oc() {
         // (we’ll still often loose to the css-parser unless there's '//' comment,
         // simply because 1 variable just can't beat 99 properties :)
         {
-          begin: "@" + O + "\\s*:",
+          begin: "@" + x + "\\s*:",
           relevance: 15
         },
-        { begin: "@" + O }
+        { begin: "@" + x }
       ],
       starts: {
         end: "[;}]",
         returnEnd: !0,
-        contains: y
+        contains: v
       }
-    }, v = {
+    }, y = {
       // first parse unambiguous selectors (i.e. those not starting with tag)
       // then fall into the scary lookahead-discriminator variant.
       // this mode also handles mixin definitions and calls
@@ -10643,7 +10691,7 @@ function Oc() {
           // mixin calls end with ';'
         },
         {
-          begin: T,
+          begin: S,
           end: /\{/
         }
       ],
@@ -10654,23 +10702,23 @@ function Oc() {
       contains: [
         u.C_LINE_COMMENT_MODE,
         u.C_BLOCK_COMMENT_MODE,
-        w,
-        S("keyword", "all\\b"),
-        S("variable", "@\\{" + O + "\\}"),
+        E,
+        R("keyword", "all\\b"),
+        R("variable", "@\\{" + x + "\\}"),
         // otherwise it’s identified as tag
         {
           begin: "\\b(" + e.join("|") + ")\\b",
           className: "selector-tag"
         },
         p.CSS_NUMBER_MODE,
-        S("selector-tag", T, 0),
-        S("selector-id", "#" + T),
-        S("selector-class", "\\." + T, 0),
-        S("selector-tag", "&", 0),
+        R("selector-tag", S, 0),
+        R("selector-id", "#" + S),
+        R("selector-class", "\\." + S, 0),
+        R("selector-tag", "&", 0),
         p.ATTRIBUTE_SELECTOR_MODE,
         {
           className: "selector-pseudo",
-          begin: ":(" + r.join("|") + ")"
+          begin: ":(" + a.join("|") + ")"
         },
         {
           className: "selector-pseudo",
@@ -10680,27 +10728,27 @@ function Oc() {
           begin: /\(/,
           end: /\)/,
           relevance: 0,
-          contains: y
+          contains: v
         },
         // argument list of parametric mixins
         { begin: "!important" },
         // eat !important after mixin call or it will be colored as tag
         p.FUNCTION_DISPATCH
       ]
-    }, x = {
-      begin: O + `:(:)?(${m.join("|")})`,
+    }, N = {
+      begin: x + `:(:)?(${m.join("|")})`,
       returnBegin: !0,
-      contains: [v]
+      contains: [y]
     };
     return d.push(
       u.C_LINE_COMMENT_MODE,
       u.C_BLOCK_COMMENT_MODE,
-      E,
-      a,
-      x,
+      T,
+      r,
+      N,
       h,
-      v,
-      w,
+      y,
+      E,
       p.FUNCTION_DISPATCH
     ), {
       name: "Less",
@@ -10711,16 +10759,16 @@ function Oc() {
   }
   return Bn = g, Bn;
 }
-var Pn, Ns;
-function Tc() {
-  if (Ns) return Pn;
-  Ns = 1;
+var Pn, Ss;
+function Ic() {
+  if (Ss) return Pn;
+  Ss = 1;
   function s(t) {
     const n = "\\[=*\\[", e = "\\]=*\\]", i = {
       begin: n,
       end: e,
       contains: ["self"]
-    }, r = [
+    }, a = [
       t.COMMENT("--(?!" + n + ")", "$"),
       t.COMMENT(
         "--" + n,
@@ -10743,7 +10791,7 @@ function Tc() {
           "_G _ENV _VERSION __index __newindex __mode __call __metatable __tostring __len __gc __add __sub __mul __div __mod __pow __concat __unm __eq __lt __le assert collectgarbage dofile error getfenv getmetatable ipairs load loadfile loadstring module next pairs pcall print rawequal rawget rawset require select setfenv setmetatable tonumber tostring type unpack xpcall arg self coroutine resume yield status wrap create running debug getupvalue debug sethook getmetatable gethook setmetatable setlocal traceback setfenv getinfo setupvalue getlocal getregistry getfenv io lines write close flush open output type read stderr stdin input stdout popen tmpfile math log max acos huge ldexp pi cos tanh pow deg tan cosh sinh random randomseed frexp ceil floor rad abs sqrt modf asin min mod fmod log10 atan2 exp sin atan os exit setlocale date getenv difftime remove time clock tmpname rename execute package preload loadlib loaded loaders cpath config path seeall string sub upper len gfind rep find match char dump gmatch reverse byte format gsub lower table setn insert getn foreachi maxn foreach concat sort remove"
         )
       },
-      contains: r.concat([
+      contains: a.concat([
         {
           className: "function",
           beginKeywords: "function",
@@ -10754,9 +10802,9 @@ function Tc() {
               className: "params",
               begin: "\\(",
               endsWithParent: !0,
-              contains: r
+              contains: a
             }
-          ].concat(r)
+          ].concat(a)
         },
         t.C_NUMBER_MODE,
         t.APOS_STRING_MODE,
@@ -10773,10 +10821,10 @@ function Tc() {
   }
   return Pn = s, Pn;
 }
-var Un, Os;
-function Sc() {
-  if (Os) return Un;
-  Os = 1;
+var Un, Ts;
+function Mc() {
+  if (Ts) return Un;
+  Ts = 1;
   function s(t) {
     const n = {
       className: "variable",
@@ -10805,7 +10853,7 @@ function Sc() {
         e
         // Added QUOTE_STRING as they can be a part of functions
       ]
-    }, r = { begin: "^" + t.UNDERSCORE_IDENT_RE + "\\s*(?=[:+?]?=)" }, l = {
+    }, a = { begin: "^" + t.UNDERSCORE_IDENT_RE + "\\s*(?=[:+?]?=)" }, l = {
       className: "meta",
       begin: /^\.PHONY:/,
       end: /$/,
@@ -10835,7 +10883,7 @@ function Sc() {
         n,
         e,
         i,
-        r,
+        a,
         l,
         o
       ]
@@ -10843,10 +10891,10 @@ function Sc() {
   }
   return Un = s, Un;
 }
-var $n, Ts;
-function kc() {
-  if (Ts) return $n;
-  Ts = 1;
+var $n, ks;
+function Lc() {
+  if (ks) return $n;
+  ks = 1;
   function s(t) {
     const n = t.regex, e = [
       "abs",
@@ -11082,14 +11130,14 @@ function kc() {
       "x|0",
       "xor",
       "y|0"
-    ], i = /[dualxmsipngr]{0,12}/, r = {
+    ], i = /[dualxmsipngr]{0,12}/, a = {
       $pattern: /[\w.]+/,
       keyword: e.join(" ")
     }, l = {
       className: "subst",
       begin: "[$@]\\{",
       end: "\\}",
-      keywords: r
+      keywords: a
     }, o = {
       begin: /->\{/,
       end: /\}/
@@ -11145,24 +11193,24 @@ function kc() {
       // valid but infrequent and weird
       /#/
       // valid but infrequent and weird
-    ], N = (d, c, f = "\\1") => {
-      const S = f === "\\1" ? f : n.concat(f, c);
+    ], w = (d, c, f = "\\1") => {
+      const R = f === "\\1" ? f : n.concat(f, c);
       return n.concat(
         n.concat("(?:", d, ")"),
         c,
         /(?:\\.|[^\\\/])*?/,
-        S,
+        R,
         /(?:\\.|[^\\\/])*?/,
         f,
         i
       );
-    }, O = (d, c, f) => n.concat(
+    }, x = (d, c, f) => n.concat(
       n.concat("(?:", d, ")"),
       c,
       /(?:\\.|[^\\\/])*?/,
       f,
       i
-    ), T = [
+    ), S = [
       g,
       t.HASH_COMMENT_MODE,
       t.COMMENT(
@@ -11241,11 +11289,11 @@ function kc() {
             className: "regexp",
             variants: [
               // allow matching common delimiters
-              { begin: N("s|tr|y", n.either(...m, { capture: !0 })) },
+              { begin: w("s|tr|y", n.either(...m, { capture: !0 })) },
               // and then paired delmis
-              { begin: N("s|tr|y", "\\(", "\\)") },
-              { begin: N("s|tr|y", "\\[", "\\]") },
-              { begin: N("s|tr|y", "\\{", "\\}") }
+              { begin: w("s|tr|y", "\\(", "\\)") },
+              { begin: w("s|tr|y", "\\[", "\\]") },
+              { begin: w("s|tr|y", "\\{", "\\}") }
             ],
             relevance: 2
           },
@@ -11259,13 +11307,13 @@ function kc() {
                 relevance: 0
               },
               // prefix is optional with /regex/
-              { begin: O("(?:m|qr)?", /\//, /\//) },
+              { begin: x("(?:m|qr)?", /\//, /\//) },
               // allow matching common delimiters
-              { begin: O("m|qr", n.either(...m, { capture: !0 }), /\1/) },
+              { begin: x("m|qr", n.either(...m, { capture: !0 }), /\1/) },
               // allow common paired delmins
-              { begin: O("m|qr", /\(/, /\)/) },
-              { begin: O("m|qr", /\[/, /\]/) },
-              { begin: O("m|qr", /\{/, /\}/) }
+              { begin: x("m|qr", /\(/, /\)/) },
+              { begin: x("m|qr", /\[/, /\]/) },
+              { begin: x("m|qr", /\{/, /\}/) }
             ]
           }
         ]
@@ -11303,22 +11351,22 @@ function kc() {
         ]
       }
     ];
-    return l.contains = T, o.contains = T, {
+    return l.contains = S, o.contains = S, {
       name: "Perl",
       aliases: [
         "pl",
         "pm"
       ],
-      keywords: r,
-      contains: T
+      keywords: a,
+      contains: S
     };
   }
   return $n = s, $n;
 }
-var zn, Ss;
-function Rc() {
-  if (Ss) return zn;
-  Ss = 1;
+var zn, Rs;
+function Dc() {
+  if (Rs) return zn;
+  Rs = 1;
   function s(t) {
     const n = {
       className: "built_in",
@@ -11555,15 +11603,15 @@ function Rc() {
   }
   return zn = s, zn;
 }
-var Fn, ks;
-function Ac() {
-  if (ks) return Fn;
-  ks = 1;
+var Fn, As;
+function Bc() {
+  if (As) return Fn;
+  As = 1;
   function s(t) {
     const n = t.regex, e = /(?![A-Za-z0-9])(?![$])/, i = n.concat(
       /[a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*/,
       e
-    ), r = n.concat(
+    ), a = n.concat(
       /(\\?[A-Z][a-z0-9_\x7f-\xff]+|\\?[A-Z]+(?=[A-Z][a-z0-9_\x7f-\xff])){1,}/,
       e
     ), l = n.concat(
@@ -11599,23 +11647,23 @@ function Ac() {
       begin: /<<<[ \t]*(?:(\w+)|"(\w+)")\n/,
       end: /[ \t]*(\w+)\b/,
       contains: t.QUOTE_STRING_MODE.contains.concat(g),
-      "on:begin": (H, M) => {
-        M.data._beginMatch = H[1] || H[2];
+      "on:begin": (M, O) => {
+        O.data._beginMatch = M[1] || M[2];
       },
-      "on:end": (H, M) => {
-        M.data._beginMatch !== H[1] && M.ignoreMatch();
+      "on:end": (M, O) => {
+        O.data._beginMatch !== M[1] && O.ignoreMatch();
       }
-    }, N = t.END_SAME_AS_BEGIN({
+    }, w = t.END_SAME_AS_BEGIN({
       begin: /<<<[ \t]*'(\w+)'\n/,
       end: /[ \t]*(\w+)\b/
-    }), O = `[ 	
-]`, T = {
+    }), x = `[ 	
+]`, S = {
       scope: "string",
       variants: [
         p,
         u,
         m,
-        N
+        w
       ]
     }, d = {
       scope: "number",
@@ -11734,7 +11782,7 @@ function Ac() {
       "while",
       "xor",
       "yield"
-    ], S = [
+    ], R = [
       // Standard PHP library:
       // <https://www.php.net/manual/en/book.spl.php>
       "Error|0",
@@ -11829,30 +11877,30 @@ function Ac() {
       "self",
       "static",
       "stdClass"
-    ], I = {
+    ], D = {
       keyword: f,
-      literal: ((H) => {
-        const M = [];
-        return H.forEach((z) => {
-          M.push(z), z.toLowerCase() === z ? M.push(z.toUpperCase()) : M.push(z.toLowerCase());
-        }), M;
+      literal: ((M) => {
+        const O = [];
+        return M.forEach((I) => {
+          O.push(I), I.toLowerCase() === I ? O.push(I.toUpperCase()) : O.push(I.toLowerCase());
+        }), O;
       })(c),
-      built_in: S
-    }, y = (H) => H.map((M) => M.replace(/\|\d+$/, "")), w = { variants: [
+      built_in: R
+    }, v = (M) => M.map((O) => O.replace(/\|\d+$/, "")), E = { variants: [
       {
         match: [
           /new/,
-          n.concat(O, "+"),
+          n.concat(x, "+"),
           // to prevent built ins from being confused as the class constructor call
-          n.concat("(?!", y(S).join("\\b|"), "\\b)"),
-          r
+          n.concat("(?!", v(R).join("\\b|"), "\\b)"),
+          a
         ],
         scope: {
           1: "keyword",
           4: "title.class"
         }
       }
-    ] }, h = n.concat(i, "\\b(?!\\()"), E = { variants: [
+    ] }, h = n.concat(i, "\\b(?!\\()"), T = { variants: [
       {
         match: [
           n.concat(
@@ -11872,7 +11920,7 @@ function Ac() {
       },
       {
         match: [
-          r,
+          a,
           n.concat(
             /::/,
             n.lookahead(/(?!class\b)/)
@@ -11886,7 +11934,7 @@ function Ac() {
       },
       {
         match: [
-          r,
+          a,
           n.concat(
             "::",
             n.lookahead(/(?!class\b)/)
@@ -11896,7 +11944,7 @@ function Ac() {
       },
       {
         match: [
-          r,
+          a,
           /::/,
           /class/
         ],
@@ -11905,49 +11953,49 @@ function Ac() {
           3: "variable.language"
         }
       }
-    ] }, a = {
+    ] }, r = {
       scope: "attr",
       match: n.concat(i, n.lookahead(":"), n.lookahead(/(?!::)/))
-    }, v = {
+    }, y = {
       relevance: 0,
       begin: /\(/,
       end: /\)/,
-      keywords: I,
+      keywords: D,
       contains: [
-        a,
+        r,
         o,
-        E,
-        t.C_BLOCK_COMMENT_MODE,
         T,
+        t.C_BLOCK_COMMENT_MODE,
+        S,
         d,
-        w
+        E
       ]
-    }, x = {
+    }, N = {
       relevance: 0,
       match: [
         /\b/,
         // to prevent keywords from being confused as the function title
-        n.concat("(?!fn\\b|function\\b|", y(f).join("\\b|"), "|", y(S).join("\\b|"), "\\b)"),
+        n.concat("(?!fn\\b|function\\b|", v(f).join("\\b|"), "|", v(R).join("\\b|"), "\\b)"),
         i,
-        n.concat(O, "*"),
+        n.concat(x, "*"),
         n.lookahead(/(?=\()/)
       ],
       scope: { 3: "title.function.invoke" },
-      contains: [v]
+      contains: [y]
     };
-    v.contains.push(x);
-    const D = [
-      a,
-      E,
-      t.C_BLOCK_COMMENT_MODE,
+    y.contains.push(N);
+    const F = [
+      r,
       T,
+      t.C_BLOCK_COMMENT_MODE,
+      S,
       d,
-      w
-    ], K = {
+      E
+    ], q = {
       begin: n.concat(
         /#\[\s*\\?/,
         n.either(
-          r,
+          a,
           l
         )
       ),
@@ -11974,14 +12022,14 @@ function Ac() {
           },
           contains: [
             "self",
-            ...D
+            ...F
           ]
         },
-        ...D,
+        ...F,
         {
           scope: "meta",
           variants: [
-            { match: r },
+            { match: a },
             { match: l }
           ]
         }
@@ -11989,9 +12037,9 @@ function Ac() {
     };
     return {
       case_insensitive: !1,
-      keywords: I,
+      keywords: D,
       contains: [
-        K,
+        q,
         t.HASH_COMMENT_MODE,
         t.COMMENT("//", "$"),
         t.COMMENT(
@@ -12025,8 +12073,8 @@ function Ac() {
           match: /\$this\b/
         },
         o,
-        x,
-        E,
+        N,
+        T,
         {
           match: [
             /const/,
@@ -12038,7 +12086,7 @@ function Ac() {
             3: "variable.constant"
           }
         },
-        w,
+        E,
         {
           scope: "function",
           relevance: 0,
@@ -12060,14 +12108,14 @@ function Ac() {
               end: "\\)",
               excludeBegin: !0,
               excludeEnd: !0,
-              keywords: I,
+              keywords: D,
               contains: [
                 "self",
-                K,
+                q,
                 o,
-                E,
-                t.C_BLOCK_COMMENT_MODE,
                 T,
+                t.C_BLOCK_COMMENT_MODE,
+                S,
                 d
               ]
             }
@@ -12117,17 +12165,17 @@ function Ac() {
             t.UNDERSCORE_TITLE_MODE
           ]
         },
-        T,
+        S,
         d
       ]
     };
   }
   return Fn = s, Fn;
 }
-var Kn, Rs;
-function Cc() {
-  if (Rs) return Kn;
-  Rs = 1;
+var Kn, Cs;
+function Pc() {
+  if (Cs) return Kn;
+  Cs = 1;
   function s(t) {
     return {
       name: "PHP template",
@@ -12174,10 +12222,10 @@ function Cc() {
   }
   return Kn = s, Kn;
 }
-var Gn, As;
-function Ic() {
-  if (As) return Gn;
-  As = 1;
+var Gn, Is;
+function Uc() {
+  if (Is) return Gn;
+  Is = 1;
   function s(t) {
     return {
       name: "Plain text",
@@ -12190,10 +12238,10 @@ function Ic() {
   }
   return Gn = s, Gn;
 }
-var qn, Cs;
-function Mc() {
-  if (Cs) return qn;
-  Cs = 1;
+var qn, Ms;
+function $c() {
+  if (Ms) return qn;
+  Ms = 1;
   function s(t) {
     const n = t.regex, e = new RegExp("[\\p{XID_Start}_]\\p{XID_Continue}*", "u"), i = [
       "and",
@@ -12420,7 +12468,7 @@ function Mc() {
         t.APOS_STRING_MODE,
         t.QUOTE_STRING_MODE
       ]
-    }, N = "[0-9](_?[0-9])*", O = `(\\b(${N}))?\\.(${N})|\\b(${N})\\.`, T = `\\b|${i.join("|")}`, d = {
+    }, w = "[0-9](_?[0-9])*", x = `(\\b(${w}))?\\.(${w})|\\b(${w})\\.`, S = `\\b|${i.join("|")}`, d = {
       className: "number",
       relevance: 0,
       variants: [
@@ -12435,10 +12483,10 @@ function Mc() {
         // because both MUST contain a decimal point and so cannot be confused with
         // the interior part of an identifier
         {
-          begin: `(\\b(${N})|(${O}))[eE][+-]?(${N})[jJ]?(?=${T})`
+          begin: `(\\b(${w})|(${x}))[eE][+-]?(${w})[jJ]?(?=${S})`
         },
         {
-          begin: `(${O})[jJ]?`
+          begin: `(${x})[jJ]?`
         },
         // decinteger, bininteger, octinteger, hexinteger
         // https://docs.python.org/3.9/reference/lexical_analysis.html#integer-literals
@@ -12447,21 +12495,21 @@ function Mc() {
         // decinteger is optionally imaginary
         // https://docs.python.org/3.9/reference/lexical_analysis.html#imaginary-literals
         {
-          begin: `\\b([1-9](_?[0-9])*|0+(_?0)*)[lLjJ]?(?=${T})`
+          begin: `\\b([1-9](_?[0-9])*|0+(_?0)*)[lLjJ]?(?=${S})`
         },
         {
-          begin: `\\b0[bB](_?[01])+[lL]?(?=${T})`
+          begin: `\\b0[bB](_?[01])+[lL]?(?=${S})`
         },
         {
-          begin: `\\b0[oO](_?[0-7])+[lL]?(?=${T})`
+          begin: `\\b0[oO](_?[0-7])+[lL]?(?=${S})`
         },
         {
-          begin: `\\b0[xX](_?[0-9a-fA-F])+[lL]?(?=${T})`
+          begin: `\\b0[xX](_?[0-9a-fA-F])+[lL]?(?=${S})`
         },
         // imagnumber (digitpart-based)
         // https://docs.python.org/3.9/reference/lexical_analysis.html#imaginary-literals
         {
-          begin: `\\b(${N})[jJ](?=${T})`
+          begin: `\\b(${w})[jJ](?=${S})`
         }
       ]
     }, c = {
@@ -12592,10 +12640,10 @@ function Mc() {
   }
   return qn = s, qn;
 }
-var Wn, Is;
-function Lc() {
-  if (Is) return Wn;
-  Is = 1;
+var Wn, Ls;
+function zc() {
+  if (Ls) return Wn;
+  Ls = 1;
   function s(t) {
     return {
       aliases: ["pycon"],
@@ -12621,10 +12669,10 @@ function Lc() {
   }
   return Wn = s, Wn;
 }
-var Hn, Ms;
-function Dc() {
-  if (Ms) return Hn;
-  Ms = 1;
+var Hn, Ds;
+function Fc() {
+  if (Ds) return Hn;
+  Ds = 1;
   function s(t) {
     const n = t.regex, e = /(?:(?:[a-zA-Z]|\.[._a-zA-Z])[._a-zA-Z0-9]*)|\.(?!\d)/, i = n.either(
       // Special case: only hexadecimal binary powers can contain fractions
@@ -12633,7 +12681,7 @@ function Dc() {
       /0[xX][0-9a-fA-F]+(?:[pP][+-]?\d+)?[Li]?/,
       // Decimal numbers
       /(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?[Li]?/
-    ), r = /[=!<>:]=|\|\||&&|:::?|<-|<<-|->>|->|\|>|[-+*\/?!$&|:<=>@^~]|\*\*/, l = n.either(
+    ), a = /[=!<>:]=|\|\||&&|:::?|<-|<<-|->>|->|\|>|[-+*\/?!$&|:<=>@^~]|\*\*/, l = n.either(
       /[()]/,
       /[{}]/,
       /\[\[/,
@@ -12762,7 +12810,7 @@ function Dc() {
                 2: "number"
               },
               match: [
-                r,
+                a,
                 i
               ]
             },
@@ -12811,7 +12859,7 @@ function Dc() {
           scope: "operator",
           relevance: 0,
           variants: [
-            { match: r },
+            { match: a },
             { match: /%[^%]*%/ }
           ]
         },
@@ -12831,18 +12879,18 @@ function Dc() {
   }
   return Hn = s, Hn;
 }
-var jn, Ls;
-function Bc() {
-  if (Ls) return jn;
-  Ls = 1;
+var jn, Bs;
+function Kc() {
+  if (Bs) return jn;
+  Bs = 1;
   function s(t) {
-    const n = t.regex, e = /(r#)?/, i = n.concat(e, t.UNDERSCORE_IDENT_RE), r = n.concat(e, t.IDENT_RE), l = {
+    const n = t.regex, e = /(r#)?/, i = n.concat(e, t.UNDERSCORE_IDENT_RE), a = n.concat(e, t.IDENT_RE), l = {
       className: "title.function.invoke",
       relevance: 0,
       begin: n.concat(
         /\b/,
         /(?!let|for|while|if|else|match\b)/,
-        r,
+        a,
         n.lookahead(/\s*\(/)
       )
     }, o = "([ui](8|16|32|64|128|size)|f(32|64))?", _ = [
@@ -13139,10 +13187,10 @@ function Bc() {
   }
   return jn = s, jn;
 }
-var Vn, Ds;
-function Pc() {
-  if (Ds) return Vn;
-  Ds = 1;
+var Vn, Ps;
+function Gc() {
+  if (Ps) return Vn;
+  Ps = 1;
   const s = (g) => ({
     IMPORTANT: {
       scope: "meta",
@@ -13334,7 +13382,7 @@ function Pc() {
     "max-width",
     "min-height",
     "max-height"
-  ].sort().reverse(), r = [
+  ].sort().reverse(), a = [
     "active",
     "any-link",
     "blank",
@@ -13941,7 +13989,7 @@ function Pc() {
     "zoom"
   ].sort().reverse();
   function _(g) {
-    const u = s(g), p = l, m = r, N = "@[a-z-]+", O = "and or not only", d = {
+    const u = s(g), p = l, m = a, w = "@[a-z-]+", x = "and or not only", d = {
       className: "variable",
       begin: "(\\$" + "[a-zA-Z-][a-zA-Z0-9_-]*" + ")\\b",
       relevance: 0
@@ -14015,7 +14063,7 @@ function Pc() {
         {
           begin: "@(page|font-face)",
           keywords: {
-            $pattern: N,
+            $pattern: w,
             keyword: "@page @font-face"
           }
         },
@@ -14025,12 +14073,12 @@ function Pc() {
           returnBegin: !0,
           keywords: {
             $pattern: /[a-z-]+/,
-            keyword: O,
+            keyword: x,
             attribute: i.join(" ")
           },
           contains: [
             {
-              begin: N,
+              begin: w,
               className: "keyword"
             },
             {
@@ -14050,10 +14098,10 @@ function Pc() {
   }
   return Vn = _, Vn;
 }
-var Zn, Bs;
-function Uc() {
-  if (Bs) return Zn;
-  Bs = 1;
+var Zn, Us;
+function qc() {
+  if (Us) return Zn;
+  Us = 1;
   function s(t) {
     return {
       name: "Shell Session",
@@ -14078,10 +14126,10 @@ function Uc() {
   }
   return Zn = s, Zn;
 }
-var Xn, Ps;
-function $c() {
-  if (Ps) return Xn;
-  Ps = 1;
+var Xn, $s;
+function Wc() {
+  if ($s) return Xn;
+  $s = 1;
   function s(t) {
     const n = t.regex, e = t.COMMENT("--", "$"), i = {
       scope: "string",
@@ -14092,7 +14140,7 @@ function $c() {
           contains: [{ match: /''/ }]
         }
       ]
-    }, r = {
+    }, a = {
       begin: /"/,
       end: /"/,
       contains: [{ match: /""/ }]
@@ -14614,7 +14662,7 @@ function $c() {
       "localtime",
       "current_timestamp",
       "localtimestamp"
-    ], N = [
+    ], w = [
       "create table",
       "insert into",
       "primary key",
@@ -14631,10 +14679,10 @@ function $c() {
       "nulls last",
       "depth first",
       "breadth first"
-    ], O = p, T = [
+    ], x = p, S = [
       ...u,
       ...g
-    ].filter((y) => !p.includes(y)), d = {
+    ].filter((v) => !p.includes(v)), d = {
       scope: "variable",
       match: /@[a-z0-9][a-z0-9_]*/
     }, c = {
@@ -14642,28 +14690,28 @@ function $c() {
       match: /[-+*/=%^~]|&&?|\|\|?|!=?|<(?:=>?|<|>)?|>[>=]?/,
       relevance: 0
     }, f = {
-      match: n.concat(/\b/, n.either(...O), /\s*\(/),
+      match: n.concat(/\b/, n.either(...x), /\s*\(/),
       relevance: 0,
-      keywords: { built_in: O }
+      keywords: { built_in: x }
     };
-    function S(y) {
+    function R(v) {
       return n.concat(
         /\b/,
-        n.either(...y.map((w) => w.replace(/\s+/, "\\s+"))),
+        n.either(...v.map((E) => E.replace(/\s+/, "\\s+"))),
         /\b/
       );
     }
-    const k = {
+    const A = {
       scope: "keyword",
-      match: S(N),
+      match: R(w),
       relevance: 0
     };
-    function I(y, {
-      exceptions: w,
+    function D(v, {
+      exceptions: E,
       when: h
     } = {}) {
-      const E = h;
-      return w = w || [], y.map((a) => a.match(/\|\d+$/) || w.includes(a) ? a : E(a) ? `${a}|0` : a);
+      const T = h;
+      return E = E || [], v.map((r) => r.match(/\|\d+$/) || E.includes(r) ? r : T(r) ? `${r}|0` : r);
     }
     return {
       name: "SQL",
@@ -14672,7 +14720,7 @@ function $c() {
       illegal: /[{}]|<\//,
       keywords: {
         $pattern: /\b[\w\.]+/,
-        keyword: I(T, { when: (y) => y.length < 3 }),
+        keyword: D(S, { when: (v) => v.length < 3 }),
         literal: l,
         type: _,
         built_in: m
@@ -14680,13 +14728,13 @@ function $c() {
       contains: [
         {
           scope: "type",
-          match: S(o)
+          match: R(o)
         },
-        k,
+        A,
         f,
         d,
         i,
-        r,
+        a,
         t.C_NUMBER_MODE,
         t.C_BLOCK_COMMENT_MODE,
         e,
@@ -14696,10 +14744,10 @@ function $c() {
   }
   return Xn = s, Xn;
 }
-var Yn, Us;
-function zc() {
-  if (Us) return Yn;
-  Us = 1;
+var Yn, zs;
+function Hc() {
+  if (zs) return Yn;
+  zs = 1;
   function s(h) {
     return h ? typeof h == "string" ? h : h.source : null;
   }
@@ -14707,16 +14755,16 @@ function zc() {
     return n("(?=", h, ")");
   }
   function n(...h) {
-    return h.map((a) => s(a)).join("");
+    return h.map((r) => s(r)).join("");
   }
   function e(h) {
-    const E = h[h.length - 1];
-    return typeof E == "object" && E.constructor === Object ? (h.splice(h.length - 1, 1), E) : {};
+    const T = h[h.length - 1];
+    return typeof T == "object" && T.constructor === Object ? (h.splice(h.length - 1, 1), T) : {};
   }
   function i(...h) {
-    return "(" + (e(h).capture ? "" : "?:") + h.map((v) => s(v)).join("|") + ")";
+    return "(" + (e(h).capture ? "" : "?:") + h.map((y) => s(y)).join("|") + ")";
   }
-  const r = (h) => n(
+  const a = (h) => n(
     /\b/,
     h,
     /\w$/.test(h) ? /\b/ : /\B/
@@ -14725,10 +14773,10 @@ function zc() {
     // contextual
     "Type"
     // contextual
-  ].map(r), o = [
+  ].map(a), o = [
     "init",
     "self"
-  ].map(r), _ = [
+  ].map(a), _ = [
     "Any",
     "Self"
   ], g = [
@@ -14899,7 +14947,7 @@ function zc() {
     "#selector",
     "#sourceLocation",
     "#warning"
-  ], N = [
+  ], w = [
     "abs",
     "all",
     "any",
@@ -14934,7 +14982,7 @@ function zc() {
     "withVaList",
     "withoutActuallyEscaping",
     "zip"
-  ], O = i(
+  ], x = i(
     /[/=\-+!*%<>&|^~?]/,
     /[\u00A1-\u00A7]/,
     /[\u00A9\u00AB]/,
@@ -14953,8 +15001,8 @@ function zc() {
     /[\u3001-\u3003]/,
     /[\u3008-\u3020]/,
     /[\u3030]/
-  ), T = i(
-    O,
+  ), S = i(
+    x,
     /[\u0300-\u036F]/,
     /[\u1DC0-\u1DFF]/,
     /[\u20D0-\u20FF]/,
@@ -14962,7 +15010,7 @@ function zc() {
     /[\uFE20-\uFE2F]/
     // TODO: The following characters are also allowed, but the regex isn't supported yet.
     // /[\u{E0100}-\u{E01EF}]/u
-  ), d = n(O, T, "*"), c = i(
+  ), d = n(x, S, "*"), c = i(
     /[a-zA-Z_]/,
     /[\u00A8\u00AA\u00AD\u00AF\u00B2-\u00B5\u00B7-\u00BA]/,
     /[\u00BC-\u00BE\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u00FF]/,
@@ -14984,7 +15032,7 @@ function zc() {
     c,
     /\d/,
     /[\u0300-\u036F\u1DC0-\u1DFF\u20D0-\u20FF\uFE20-\uFE2F]/
-  ), S = n(c, f, "*"), k = n(/[A-Z]/, f, "*"), I = [
+  ), R = n(c, f, "*"), A = n(/[A-Z]/, f, "*"), D = [
     "attached",
     "autoclosure",
     n(/convention\(/, i("swift", "block", "c"), /\)/),
@@ -15006,7 +15054,7 @@ function zc() {
     "NSApplicationMain",
     "NSCopying",
     "NSManaged",
-    n(/objc\(/, S, /\)/),
+    n(/objc\(/, R, /\)/),
     "objc",
     "objcMembers",
     "propertyWrapper",
@@ -15019,7 +15067,7 @@ function zc() {
     "unknown",
     "usableFromInline",
     "warn_unqualified_access"
-  ], y = [
+  ], v = [
     "iOS",
     "iOSApplicationExtension",
     "macOS",
@@ -15032,60 +15080,60 @@ function zc() {
     "tvOSApplicationExtension",
     "swift"
   ];
-  function w(h) {
-    const E = {
+  function E(h) {
+    const T = {
       match: /\s+/,
       relevance: 0
-    }, a = h.COMMENT(
+    }, r = h.COMMENT(
       "/\\*",
       "\\*/",
       { contains: ["self"] }
-    ), v = [
+    ), y = [
       h.C_LINE_COMMENT_MODE,
-      a
-    ], x = {
+      r
+    ], N = {
       match: [
         /\./,
         i(...l, ...o)
       ],
       className: { 2: "keyword" }
-    }, D = {
+    }, F = {
       // Consume .keyword to prevent highlighting properties and methods as keywords.
       match: n(/\./, i(...g)),
       relevance: 0
-    }, K = g.filter((se) => typeof se == "string").concat(["_|0"]), H = g.filter((se) => typeof se != "string").concat(_).map(r), M = { variants: [
+    }, q = g.filter((re) => typeof re == "string").concat(["_|0"]), M = g.filter((re) => typeof re != "string").concat(_).map(a), O = { variants: [
       {
         className: "keyword",
-        match: i(...H, ...o)
+        match: i(...M, ...o)
       }
-    ] }, z = {
+    ] }, I = {
       $pattern: i(
         /\b\w+/,
         // regular keywords
         /#\w+/
         // number keywords
       ),
-      keyword: K.concat(m),
+      keyword: q.concat(m),
       literal: u
-    }, J = [
-      x,
-      D,
-      M
-    ], me = {
+    }, K = [
+      N,
+      F,
+      O
+    ], se = {
       // Consume .built_in to prevent highlighting properties and methods.
-      match: n(/\./, i(...N)),
+      match: n(/\./, i(...w)),
       relevance: 0
-    }, Q = {
+    }, Z = {
       className: "built_in",
-      match: n(/\b/, i(...N), /(?=\()/)
-    }, ce = [
-      me,
-      Q
+      match: n(/\b/, i(...w), /(?=\()/)
+    }, le = [
+      se,
+      Z
     ], De = {
       // Prevent -> from being highlighting as an operator.
       match: /->/,
       relevance: 0
-    }, $e = {
+    }, ze = {
       className: "operator",
       relevance: 0,
       variants: [
@@ -15094,61 +15142,61 @@ function zc() {
           // dot-operator: only operators that start with a dot are allowed to use dots as
           // characters (..., ...<, .*, etc). So there rule here is: a dot followed by one or more
           // characters that may also include dots.
-          match: `\\.(\\.|${T})+`
+          match: `\\.(\\.|${S})+`
         }
       ]
     }, Ce = [
       De,
-      $e
-    ], Ie = "([0-9]_*)+", ze = "([0-9a-fA-F]_*)+", ue = {
+      ze
+    ], Ie = "([0-9]_*)+", Fe = "([0-9a-fA-F]_*)+", de = {
       className: "number",
       relevance: 0,
       variants: [
         // decimal floating-point-literal (subsumes decimal-literal)
         { match: `\\b(${Ie})(\\.(${Ie}))?([eE][+-]?(${Ie}))?\\b` },
         // hexadecimal floating-point-literal (subsumes hexadecimal-literal)
-        { match: `\\b0x(${ze})(\\.(${ze}))?([pP][+-]?(${Ie}))?\\b` },
+        { match: `\\b0x(${Fe})(\\.(${Fe}))?([pP][+-]?(${Ie}))?\\b` },
         // octal-literal
         { match: /\b0o([0-7]_*)+\b/ },
         // binary-literal
         { match: /\b0b([01]_*)+\b/ }
       ]
-    }, _e = (se = "") => ({
+    }, ue = (re = "") => ({
       className: "subst",
       variants: [
-        { match: n(/\\/, se, /[0\\tnr"']/) },
-        { match: n(/\\/, se, /u\{[0-9a-fA-F]{1,8}\}/) }
+        { match: n(/\\/, re, /[0\\tnr"']/) },
+        { match: n(/\\/, re, /u\{[0-9a-fA-F]{1,8}\}/) }
       ]
-    }), Oe = (se = "") => ({
+    }), Oe = (re = "") => ({
       className: "subst",
-      match: n(/\\/, se, /[\t ]*(?:[\r\n]|\r\n)/)
-    }), ve = (se = "") => ({
+      match: n(/\\/, re, /[\t ]*(?:[\r\n]|\r\n)/)
+    }), Ee = (re = "") => ({
       className: "subst",
       label: "interpol",
-      begin: n(/\\/, se, /\(/),
+      begin: n(/\\/, re, /\(/),
       end: /\)/
-    }), Te = (se = "") => ({
-      begin: n(se, /"""/),
-      end: n(/"""/, se),
+    }), Se = (re = "") => ({
+      begin: n(re, /"""/),
+      end: n(/"""/, re),
       contains: [
-        _e(se),
-        Oe(se),
-        ve(se)
+        ue(re),
+        Oe(re),
+        Ee(re)
       ]
-    }), ke = (se = "") => ({
-      begin: n(se, /"/),
-      end: n(/"/, se),
+    }), ke = (re = "") => ({
+      begin: n(re, /"/),
+      end: n(/"/, re),
       contains: [
-        _e(se),
-        ve(se)
+        ue(re),
+        Ee(re)
       ]
     }), Me = {
       className: "string",
       variants: [
-        Te(),
-        Te("#"),
-        Te("##"),
-        Te("###"),
+        Se(),
+        Se("#"),
+        Se("##"),
+        Se("###"),
         ke(),
         ke("#"),
         ke("##"),
@@ -15166,8 +15214,8 @@ function zc() {
       begin: /\/[^\s](?=[^/\n]*\/)/,
       end: /\//,
       contains: ht
-    }, rt = (se) => {
-      const nt = n(se, /\//), qe = n(/\//, se);
+    }, ot = (re) => {
+      const nt = n(re, /\//), qe = n(/\//, re);
       return {
         begin: nt,
         end: qe,
@@ -15183,18 +15231,18 @@ function zc() {
     }, gt = {
       scope: "regexp",
       variants: [
-        rt("###"),
-        rt("##"),
-        rt("#"),
+        ot("###"),
+        ot("##"),
+        ot("#"),
         Ft
       ]
-    }, bt = { match: n(/`/, S, /`/) }, Kt = {
+    }, bt = { match: n(/`/, R, /`/) }, Kt = {
       className: "variable",
       match: /\$\d+/
     }, mt = {
       className: "variable",
       match: `\\$${f}+`
-    }, ot = [
+    }, lt = [
       bt,
       Kt,
       mt
@@ -15205,25 +15253,25 @@ function zc() {
         {
           begin: /\(/,
           end: /\)/,
-          keywords: y,
+          keywords: v,
           contains: [
             ...Ce,
-            ue,
+            de,
             Me
           ]
         }
       ] }
     }, vt = {
       scope: "keyword",
-      match: n(/@/, i(...I), t(i(/\(/, /\s+/)))
-    }, Fe = {
+      match: n(/@/, i(...D), t(i(/\(/, /\s+/)))
+    }, Ke = {
       scope: "meta",
-      match: n(/@/, S)
+      match: n(/@/, R)
     }, Qe = [
       Gt,
       vt,
-      Fe
-    ], Se = {
+      Ke
+    ], Te = {
       match: t(/\b[A-Z]/),
       relevance: 0,
       contains: [
@@ -15235,7 +15283,7 @@ function zc() {
         {
           // Type identifier
           className: "type",
-          match: k,
+          match: A,
           relevance: 0
         },
         {
@@ -15250,58 +15298,58 @@ function zc() {
         },
         {
           // Protocol composition
-          match: n(/\s+&\s+/, t(k)),
+          match: n(/\s+&\s+/, t(A)),
           relevance: 0
         }
       ]
     }, tt = {
       begin: /</,
       end: />/,
-      keywords: z,
+      keywords: I,
       contains: [
-        ...v,
-        ...J,
+        ...y,
+        ...K,
         ...Qe,
         De,
-        Se
+        Te
       ]
     };
-    Se.contains.push(tt);
+    Te.contains.push(tt);
     const Et = {
-      match: n(S, /\s*:/),
+      match: n(R, /\s*:/),
       keywords: "_|0",
       relevance: 0
     }, yt = {
       begin: /\(/,
       end: /\)/,
       relevance: 0,
-      keywords: z,
+      keywords: I,
       contains: [
         "self",
         Et,
-        ...v,
+        ...y,
         gt,
-        ...J,
-        ...ce,
+        ...K,
+        ...le,
         ...Ce,
-        ue,
+        de,
         Me,
-        ...ot,
+        ...lt,
         ...Qe,
-        Se
+        Te
       ]
-    }, lt = {
+    }, ct = {
       begin: /</,
       end: />/,
       keywords: "repeat each",
       contains: [
-        ...v,
-        Se
+        ...y,
+        Te
       ]
     }, qt = {
       begin: i(
-        t(n(S, /\s*:/)),
-        t(n(S, /\s+/, S, /\s*:/))
+        t(n(R, /\s*:/)),
+        t(n(R, /\s+/, R, /\s*:/))
       ),
       end: /:/,
       relevance: 0,
@@ -15312,22 +15360,22 @@ function zc() {
         },
         {
           className: "params",
-          match: S
+          match: R
         }
       ]
     }, wt = {
       begin: /\(/,
       end: /\)/,
-      keywords: z,
+      keywords: I,
       contains: [
         qt,
-        ...v,
-        ...J,
+        ...y,
+        ...K,
         ...Ce,
-        ue,
+        de,
         Me,
         ...Qe,
-        Se,
+        Te,
         yt
       ],
       endsParent: !0,
@@ -15336,16 +15384,16 @@ function zc() {
       match: [
         /(func|macro)/,
         /\s+/,
-        i(bt.match, S, d)
+        i(bt.match, R, d)
       ],
       className: {
         1: "keyword",
         3: "title.function"
       },
       contains: [
-        lt,
+        ct,
         wt,
-        E
+        T
       ],
       illegal: [
         /\[/,
@@ -15358,9 +15406,9 @@ function zc() {
       ],
       className: { 1: "keyword" },
       contains: [
-        lt,
+        ct,
         wt,
-        E
+        T
       ],
       illegal: /\[|%/
     }, Ht = {
@@ -15377,13 +15425,13 @@ function zc() {
       begin: [
         /precedencegroup/,
         /\s+/,
-        k
+        A
       ],
       className: {
         1: "keyword",
         3: "title"
       },
-      contains: [Se],
+      contains: [Te],
       keywords: [
         ...p,
         ...u
@@ -15402,7 +15450,7 @@ function zc() {
         3: "keyword",
         5: "title.function"
       }
-    }, ct = {
+    }, _t = {
       match: [
         /class\b/,
         /\s+/,
@@ -15416,42 +15464,42 @@ function zc() {
       begin: [
         /(struct|protocol|class|extension|enum|actor)/,
         /\s+/,
-        S,
+        R,
         /\s*/
       ],
       beginScope: {
         1: "keyword",
         3: "title.class"
       },
-      keywords: z,
+      keywords: I,
       contains: [
-        lt,
-        ...J,
+        ct,
+        ...K,
         {
           begin: /:/,
           end: /\{/,
-          keywords: z,
+          keywords: I,
           contains: [
             {
               scope: "title.class.inherited",
-              match: k
+              match: A
             },
-            ...J
+            ...K
           ],
           relevance: 0
         }
       ]
     };
-    for (const se of Me.variants) {
-      const nt = se.contains.find((We) => We.label === "interpol");
-      nt.keywords = z;
+    for (const re of Me.variants) {
+      const nt = re.contains.find((We) => We.label === "interpol");
+      nt.keywords = I;
       const qe = [
-        ...J,
-        ...ce,
+        ...K,
+        ...le,
         ...Ce,
-        ue,
+        de,
         Me,
-        ...ot
+        ...lt
       ];
       nt.contains = [
         ...qe,
@@ -15467,41 +15515,41 @@ function zc() {
     }
     return {
       name: "Swift",
-      keywords: z,
+      keywords: I,
       contains: [
-        ...v,
+        ...y,
         Wt,
         xt,
         Vt,
-        ct,
+        _t,
         Nt,
         Ht,
         jt,
         {
           beginKeywords: "import",
           end: /$/,
-          contains: [...v],
+          contains: [...y],
           relevance: 0
         },
         gt,
-        ...J,
-        ...ce,
+        ...K,
+        ...le,
         ...Ce,
-        ue,
+        de,
         Me,
-        ...ot,
+        ...lt,
         ...Qe,
-        Se,
+        Te,
         yt
       ]
     };
   }
-  return Yn = w, Yn;
+  return Yn = E, Yn;
 }
-var Qn, $s;
-function Fc() {
-  if ($s) return Qn;
-  $s = 1;
+var Qn, Fs;
+function jc() {
+  if (Fs) return Qn;
+  Fs = 1;
   function s(t) {
     const n = "true false yes no null", e = "[\\w#;/?:@&=+$,.~*'()[\\]]+", i = {
       className: "attr",
@@ -15517,7 +15565,7 @@ function Fc() {
           begin: /'[\w*@][\w*@ :()\./-]*':(?=[ \t]|$)/
         }
       ]
-    }, r = {
+    }, a = {
       className: "template-variable",
       variants: [
         {
@@ -15555,7 +15603,7 @@ function Fc() {
       ],
       contains: [
         t.BACKSLASH_ESCAPE,
-        r
+        a
       ]
     }, _ = t.inherit(o, { variants: [
       {
@@ -15573,25 +15621,25 @@ function Fc() {
         end: /"/
       },
       { begin: /[^\s,{}[\]]+/ }
-    ] }), N = {
+    ] }), w = {
       className: "number",
       begin: "\\b" + "[0-9]{4}(-[0-9][0-9]){0,2}" + "([Tt \\t][0-9][0-9]?(:[0-9][0-9]){2})?" + "(\\.[0-9]*)?" + "([ \\t])*(Z|[-+][0-9][0-9]?(:[0-9][0-9])?)?" + "\\b"
-    }, O = {
+    }, x = {
       end: ",",
       endsWithParent: !0,
       excludeEnd: !0,
       keywords: n,
       relevance: 0
-    }, T = {
+    }, S = {
       begin: /\{/,
       end: /\}/,
-      contains: [O],
+      contains: [x],
       illegal: "\\n",
       relevance: 0
     }, d = {
       begin: "\\[",
       end: "\\]",
-      contains: [O],
+      contains: [x],
       illegal: "\\n",
       relevance: 0
     }, c = [
@@ -15662,7 +15710,7 @@ function Fc() {
         beginKeywords: n,
         keywords: { literal: n }
       },
-      N,
+      w,
       // numbers are any valid C-style number that
       // sit isolated from other words
       {
@@ -15670,12 +15718,12 @@ function Fc() {
         begin: t.C_NUMBER_RE + "\\b",
         relevance: 0
       },
-      T,
+      S,
       d,
       l,
       o
     ], f = [...c];
-    return f.pop(), f.push(_), O.contains = f, {
+    return f.pop(), f.push(_), x.contains = f, {
       name: "YAML",
       case_insensitive: !0,
       aliases: ["yml"],
@@ -15684,10 +15732,10 @@ function Fc() {
   }
   return Qn = s, Qn;
 }
-var Jn, zs;
-function Kc() {
-  if (zs) return Jn;
-  zs = 1;
+var Jn, Ks;
+function Vc() {
+  if (Ks) return Jn;
+  Ks = 1;
   const s = "[A-Za-z$_][0-9A-Za-z$_]*", t = [
     "as",
     // for exports
@@ -15799,7 +15847,7 @@ function Kc() {
     "SyntaxError",
     "TypeError",
     "URIError"
-  ], r = [
+  ], a = [
     "setInterval",
     "setTimeout",
     "clearInterval",
@@ -15830,40 +15878,40 @@ function Kc() {
     "global"
     // Node.js
   ], o = [].concat(
-    r,
+    a,
     e,
     i
   );
   function _(u) {
-    const p = u.regex, m = (_e, { after: Oe }) => {
-      const ve = "</" + _e[0].slice(1);
-      return _e.input.indexOf(ve, Oe) !== -1;
-    }, N = s, O = {
+    const p = u.regex, m = (ue, { after: Oe }) => {
+      const Ee = "</" + ue[0].slice(1);
+      return ue.input.indexOf(Ee, Oe) !== -1;
+    }, w = s, x = {
       begin: "<>",
       end: "</>"
-    }, T = /<[A-Za-z0-9\\._:-]+\s*\/>/, d = {
+    }, S = /<[A-Za-z0-9\\._:-]+\s*\/>/, d = {
       begin: /<[A-Za-z0-9\\._:-]+/,
       end: /\/[A-Za-z0-9\\._:-]+>|\/>/,
       /**
        * @param {RegExpMatchArray} match
        * @param {CallbackResponse} response
        */
-      isTrulyOpeningTag: (_e, Oe) => {
-        const ve = _e[0].length + _e.index, Te = _e.input[ve];
+      isTrulyOpeningTag: (ue, Oe) => {
+        const Ee = ue[0].length + ue.index, Se = ue.input[Ee];
         if (
           // HTML should not include another raw `<` inside a tag
           // nested type?
           // `<Array<Array<number>>`, etc.
-          Te === "<" || // the , gives away that this is not HTML
+          Se === "<" || // the , gives away that this is not HTML
           // `<T, A extends keyof T, V>`
-          Te === ","
+          Se === ","
         ) {
           Oe.ignoreMatch();
           return;
         }
-        Te === ">" && (m(_e, { after: ve }) || Oe.ignoreMatch());
+        Se === ">" && (m(ue, { after: Ee }) || Oe.ignoreMatch());
         let ke;
-        const Me = _e.input.substring(ve);
+        const Me = ue.input.substring(Ee);
         if (ke = Me.match(/^\s*=/)) {
           Oe.ignoreMatch();
           return;
@@ -15879,12 +15927,12 @@ function Kc() {
       literal: n,
       built_in: o,
       "variable.language": l
-    }, f = "[0-9](_?[0-9])*", S = `\\.(${f})`, k = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", I = {
+    }, f = "[0-9](_?[0-9])*", R = `\\.(${f})`, A = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", D = {
       className: "number",
       variants: [
         // DecimalLiteral
-        { begin: `(\\b(${k})((${S})|\\.)?|(${S}))[eE][+-]?(${f})\\b` },
-        { begin: `\\b(${k})\\b((${S})\\b|\\.)?|(${S})\\b` },
+        { begin: `(\\b(${A})((${R})|\\.)?|(${R}))[eE][+-]?(${f})\\b` },
+        { begin: `\\b(${A})\\b((${R})\\b|\\.)?|(${R})\\b` },
         // DecimalBigIntegerLiteral
         { begin: "\\b(0|[1-9](_?[0-9])*)n\\b" },
         // NonDecimalIntegerLiteral
@@ -15896,14 +15944,14 @@ function Kc() {
         { begin: "\\b0[0-7]+n?\\b" }
       ],
       relevance: 0
-    }, y = {
+    }, v = {
       className: "subst",
       begin: "\\$\\{",
       end: "\\}",
       keywords: c,
       contains: []
       // defined later
-    }, w = {
+    }, E = {
       begin: ".?html`",
       end: "",
       starts: {
@@ -15911,7 +15959,7 @@ function Kc() {
         returnEnd: !1,
         contains: [
           u.BACKSLASH_ESCAPE,
-          y
+          v
         ],
         subLanguage: "xml"
       }
@@ -15923,11 +15971,11 @@ function Kc() {
         returnEnd: !1,
         contains: [
           u.BACKSLASH_ESCAPE,
-          y
+          v
         ],
         subLanguage: "css"
       }
-    }, E = {
+    }, T = {
       begin: ".?gql`",
       end: "",
       starts: {
@@ -15935,19 +15983,19 @@ function Kc() {
         returnEnd: !1,
         contains: [
           u.BACKSLASH_ESCAPE,
-          y
+          v
         ],
         subLanguage: "graphql"
       }
-    }, a = {
+    }, r = {
       className: "string",
       begin: "`",
       end: "`",
       contains: [
         u.BACKSLASH_ESCAPE,
-        y
+        v
       ]
-    }, x = {
+    }, N = {
       className: "comment",
       variants: [
         u.COMMENT(
@@ -15974,7 +16022,7 @@ function Kc() {
                   },
                   {
                     className: "variable",
-                    begin: N + "(?=\\s*(-)|$)",
+                    begin: w + "(?=\\s*(-)|$)",
                     endsParent: !0,
                     relevance: 0
                   },
@@ -15992,21 +16040,21 @@ function Kc() {
         u.C_BLOCK_COMMENT_MODE,
         u.C_LINE_COMMENT_MODE
       ]
-    }, D = [
+    }, F = [
       u.APOS_STRING_MODE,
       u.QUOTE_STRING_MODE,
-      w,
-      h,
       E,
-      a,
+      h,
+      T,
+      r,
       // Skip numbers when they are part of a variable name
       { match: /\$\d+/ },
-      I
+      D
       // This is intentional:
       // See https://github.com/highlightjs/highlight.js/issues/3288
       // hljs.REGEXP_MODE
     ];
-    y.contains = D.concat({
+    v.contains = F.concat({
       // we need to pair up {} inside our subst to prevent
       // it from ending too early by matching another }
       begin: /\{/,
@@ -16014,17 +16062,17 @@ function Kc() {
       keywords: c,
       contains: [
         "self"
-      ].concat(D)
+      ].concat(F)
     });
-    const K = [].concat(x, y.contains), H = K.concat([
+    const q = [].concat(N, v.contains), M = q.concat([
       // eat recursive parens in sub expressions
       {
         begin: /(\s*)\(/,
         end: /\)/,
         keywords: c,
-        contains: ["self"].concat(K)
+        contains: ["self"].concat(q)
       }
-    ]), M = {
+    ]), O = {
       className: "params",
       // convert this to negative lookbehind in v12
       begin: /(\s*)\(/,
@@ -16033,19 +16081,19 @@ function Kc() {
       excludeBegin: !0,
       excludeEnd: !0,
       keywords: c,
-      contains: H
-    }, z = {
+      contains: M
+    }, I = {
       variants: [
         // class Car extends vehicle
         {
           match: [
             /class/,
             /\s+/,
-            N,
+            w,
             /\s+/,
             /extends/,
             /\s+/,
-            p.concat(N, "(", p.concat(/\./, N), ")*")
+            p.concat(w, "(", p.concat(/\./, w), ")*")
           ],
           scope: {
             1: "keyword",
@@ -16059,7 +16107,7 @@ function Kc() {
           match: [
             /class/,
             /\s+/,
-            N
+            w
           ],
           scope: {
             1: "keyword",
@@ -16067,7 +16115,7 @@ function Kc() {
           }
         }
       ]
-    }, J = {
+    }, K = {
       relevance: 0,
       match: p.either(
         // Hard coded exceptions
@@ -16091,18 +16139,18 @@ function Kc() {
           ...i
         ]
       }
-    }, me = {
+    }, se = {
       label: "use_strict",
       className: "meta",
       relevance: 10,
       begin: /^\s*['"]use (strict|asm)['"]/
-    }, Q = {
+    }, Z = {
       variants: [
         {
           match: [
             /function/,
             /\s+/,
-            N,
+            w,
             /(?=\s*\()/
           ]
         },
@@ -16119,34 +16167,34 @@ function Kc() {
         3: "title.function"
       },
       label: "func.def",
-      contains: [M],
+      contains: [O],
       illegal: /%/
-    }, ce = {
+    }, le = {
       relevance: 0,
       match: /\b[A-Z][A-Z_0-9]+\b/,
       className: "variable.constant"
     };
-    function De(_e) {
-      return p.concat("(?!", _e.join("|"), ")");
+    function De(ue) {
+      return p.concat("(?!", ue.join("|"), ")");
     }
-    const $e = {
+    const ze = {
       match: p.concat(
         /\b/,
         De([
-          ...r,
+          ...a,
           "super",
           "import"
-        ].map((_e) => `${_e}\\s*\\(`)),
-        N,
+        ].map((ue) => `${ue}\\s*\\(`)),
+        w,
         p.lookahead(/\s*\(/)
       ),
       className: "title.function",
       relevance: 0
     }, Ce = {
       begin: p.concat(/\./, p.lookahead(
-        p.concat(N, /(?![0-9A-Za-z$_(])/)
+        p.concat(w, /(?![0-9A-Za-z$_(])/)
       )),
-      end: N,
+      end: w,
       excludeBegin: !0,
       keywords: "prototype",
       className: "property",
@@ -16155,7 +16203,7 @@ function Kc() {
       match: [
         /get|set/,
         /\s+/,
-        N,
+        w,
         /(?=\()/
       ],
       className: {
@@ -16167,18 +16215,18 @@ function Kc() {
           // eat to avoid empty params
           begin: /\(\)/
         },
-        M
+        O
       ]
-    }, ze = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + u.UNDERSCORE_IDENT_RE + ")\\s*=>", ue = {
+    }, Fe = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + u.UNDERSCORE_IDENT_RE + ")\\s*=>", de = {
       match: [
         /const|var|let/,
         /\s+/,
-        N,
+        w,
         /\s*/,
         /=\s*/,
         /(async\s*)?/,
         // async is optional
-        p.lookahead(ze)
+        p.lookahead(Fe)
       ],
       keywords: "async",
       className: {
@@ -16186,7 +16234,7 @@ function Kc() {
         3: "title.function"
       },
       contains: [
-        M
+        O
       ]
     };
     return {
@@ -16194,7 +16242,7 @@ function Kc() {
       aliases: ["js", "jsx", "mjs", "cjs"],
       keywords: c,
       // this will be extended by TypeScript
-      exports: { PARAMS_CONTAINS: H, CLASS_REFERENCE: J },
+      exports: { PARAMS_CONTAINS: M, CLASS_REFERENCE: K },
       illegal: /#(?![$_A-z])/,
       contains: [
         u.SHEBANG({
@@ -16202,38 +16250,38 @@ function Kc() {
           binary: "node",
           relevance: 5
         }),
-        me,
+        se,
         u.APOS_STRING_MODE,
         u.QUOTE_STRING_MODE,
-        w,
-        h,
         E,
-        a,
-        x,
+        h,
+        T,
+        r,
+        N,
         // Skip numbers when they are part of a variable name
         { match: /\$\d+/ },
-        I,
-        J,
+        D,
+        K,
         {
           scope: "attr",
-          match: N + p.lookahead(":"),
+          match: w + p.lookahead(":"),
           relevance: 0
         },
-        ue,
+        de,
         {
           // "value" container
           begin: "(" + u.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
           keywords: "return throw case",
           relevance: 0,
           contains: [
-            x,
+            N,
             u.REGEXP_MODE,
             {
               className: "function",
               // we have to count the parens to make sure we actually have the
               // correct bounding ( ) before the =>.  There could be any number of
               // sub-expressions inside also surrounded by parens.
-              begin: ze,
+              begin: Fe,
               returnBegin: !0,
               end: "\\s*=>",
               contains: [
@@ -16255,7 +16303,7 @@ function Kc() {
                       excludeBegin: !0,
                       excludeEnd: !0,
                       keywords: c,
-                      contains: H
+                      contains: M
                     }
                   ]
                 }
@@ -16273,8 +16321,8 @@ function Kc() {
             {
               // JSX
               variants: [
-                { begin: O.begin, end: O.end },
-                { match: T },
+                { begin: x.begin, end: x.end },
+                { match: S },
                 {
                   begin: d.begin,
                   // we carefully check the opening tag to see if it truly
@@ -16295,7 +16343,7 @@ function Kc() {
             }
           ]
         },
-        Q,
+        Z,
         {
           // prevent this from getting swallowed up by function
           // since they appear "function like"
@@ -16310,8 +16358,8 @@ function Kc() {
           returnBegin: !0,
           label: "func.def",
           contains: [
-            M,
-            u.inherit(u.TITLE_MODE, { begin: N, className: "title.function" })
+            O,
+            u.inherit(u.TITLE_MODE, { begin: w, className: "title.function" })
           ]
         },
         // catch ... so it won't trigger the property rule below
@@ -16324,17 +16372,17 @@ function Kc() {
         // .keyword()
         // $keyword = x
         {
-          match: "\\$" + N,
+          match: "\\$" + w,
           relevance: 0
         },
         {
           match: [/\bconstructor(?=\s*\()/],
           className: { 1: "title.function" },
-          contains: [M]
+          contains: [O]
         },
-        $e,
-        ce,
-        z,
+        ze,
+        le,
+        I,
         Ie,
         {
           match: /\$[(.]/
@@ -16344,7 +16392,7 @@ function Kc() {
     };
   }
   function g(u) {
-    const p = u.regex, m = _(u), N = s, O = [
+    const p = u.regex, m = _(u), w = s, x = [
       "any",
       "void",
       "number",
@@ -16355,7 +16403,7 @@ function Kc() {
       "symbol",
       "bigint",
       "unknown"
-    ], T = {
+    ], S = {
       begin: [
         /namespace/,
         /\s+/,
@@ -16371,7 +16419,7 @@ function Kc() {
       excludeEnd: !0,
       keywords: {
         keyword: "interface extends",
-        built_in: O
+        built_in: x
       },
       contains: [m.exports.CLASS_REFERENCE]
     }, c = {
@@ -16392,42 +16440,42 @@ function Kc() {
       "enum",
       "override",
       "satisfies"
-    ], S = {
+    ], R = {
       $pattern: s,
       keyword: t.concat(f),
       literal: n,
-      built_in: o.concat(O),
+      built_in: o.concat(x),
       "variable.language": l
-    }, k = {
+    }, A = {
       className: "meta",
-      begin: "@" + N
-    }, I = (E, a, v) => {
-      const x = E.contains.findIndex((D) => D.label === a);
-      if (x === -1)
+      begin: "@" + w
+    }, D = (T, r, y) => {
+      const N = T.contains.findIndex((F) => F.label === r);
+      if (N === -1)
         throw new Error("can not find mode to replace");
-      E.contains.splice(x, 1, v);
+      T.contains.splice(N, 1, y);
     };
-    Object.assign(m.keywords, S), m.exports.PARAMS_CONTAINS.push(k);
-    const y = m.contains.find((E) => E.scope === "attr"), w = Object.assign(
+    Object.assign(m.keywords, R), m.exports.PARAMS_CONTAINS.push(A);
+    const v = m.contains.find((T) => T.scope === "attr"), E = Object.assign(
       {},
-      y,
-      { match: p.concat(N, p.lookahead(/\s*\?:/)) }
+      v,
+      { match: p.concat(w, p.lookahead(/\s*\?:/)) }
     );
     m.exports.PARAMS_CONTAINS.push([
       m.exports.CLASS_REFERENCE,
       // class reference for highlighting the params types
-      y,
+      v,
       // highlight the params key
-      w
+      E
       // Added for optional property assignment highlighting
     ]), m.contains = m.contains.concat([
-      k,
-      T,
+      A,
+      S,
       d,
-      w
+      E
       // Added for optional property assignment highlighting
-    ]), I(m, "shebang", u.SHEBANG()), I(m, "use_strict", c);
-    const h = m.contains.find((E) => E.label === "func.def");
+    ]), D(m, "shebang", u.SHEBANG()), D(m, "use_strict", c);
+    const h = m.contains.find((T) => T.label === "func.def");
     return h.relevance = 0, Object.assign(m, {
       name: "TypeScript",
       aliases: [
@@ -16440,10 +16488,10 @@ function Kc() {
   }
   return Jn = g, Jn;
 }
-var ei, Fs;
-function Gc() {
-  if (Fs) return ei;
-  Fs = 1;
+var ei, Gs;
+function Zc() {
+  if (Gs) return ei;
+  Gs = 1;
   function s(t) {
     const n = t.regex, e = {
       className: "string",
@@ -16459,12 +16507,12 @@ function Gc() {
           begin: /""/
         }
       ]
-    }, r = /\d{1,2}\/\d{1,2}\/\d{4}/, l = /\d{4}-\d{1,2}-\d{1,2}/, o = /(\d|1[012])(:\d+){0,2} *(AM|PM)/, _ = /\d{1,2}(:\d{1,2}){1,2}/, g = {
+    }, a = /\d{1,2}\/\d{1,2}\/\d{4}/, l = /\d{4}-\d{1,2}-\d{1,2}/, o = /(\d|1[012])(:\d+){0,2} *(AM|PM)/, _ = /\d{1,2}(:\d{1,2}){1,2}/, g = {
       className: "literal",
       variants: [
         {
           // #YYYY-MM-DD# (ISO-Date) or #M/D/YYYY# (US-Date)
-          begin: n.concat(/# */, n.either(l, r), / *#/)
+          begin: n.concat(/# */, n.either(l, a), / *#/)
         },
         {
           // #H:mm[:ss]# (24h Time)
@@ -16478,7 +16526,7 @@ function Gc() {
           // date plus time
           begin: n.concat(
             /# */,
-            n.either(l, r),
+            n.either(l, a),
             / +/,
             n.either(o, _),
             / *#/
@@ -16519,7 +16567,7 @@ function Gc() {
         begin: /<\/?/,
         end: />/
       }
-    ] }), N = t.COMMENT(null, /$/, { variants: [
+    ] }), w = t.COMMENT(null, /$/, { variants: [
       { begin: /'/ },
       {
         // TODO: Use multi-class for leading spaces
@@ -16551,24 +16599,24 @@ function Gc() {
         u,
         p,
         m,
-        N,
+        w,
         {
           className: "meta",
           // TODO: Use multi-class for indentation once available
           begin: /[\t ]*#(const|disable|else|elseif|enable|end|externalsource|if|region)\b/,
           end: /$/,
           keywords: { keyword: "const disable else elseif enable end externalsource if region then" },
-          contains: [N]
+          contains: [w]
         }
       ]
     };
   }
   return ei = s, ei;
 }
-var ti, Ks;
-function qc() {
-  if (Ks) return ti;
-  Ks = 1;
+var ti, qs;
+function Xc() {
+  if (qs) return ti;
+  qs = 1;
   function s(t) {
     t.regex;
     const n = t.COMMENT(/\(;/, /;\)/);
@@ -16619,7 +16667,7 @@ function qc() {
       "then",
       "type",
       "unreachable"
-    ], r = {
+    ], a = {
       begin: [
         /(?:func|call|call_indirect)/,
         /\s+/,
@@ -16672,7 +16720,7 @@ function qc() {
         },
         l,
         o,
-        r,
+        a,
         t.QUOTE_STRING_MODE,
         g,
         u,
@@ -16682,45 +16730,45 @@ function qc() {
   }
   return ti = s, ti;
 }
-var ni, Gs;
-function Wc() {
-  if (Gs) return ni;
-  Gs = 1;
-  var s = /* @__PURE__ */ oa();
-  return s.registerLanguage("xml", /* @__PURE__ */ cc()), s.registerLanguage("bash", /* @__PURE__ */ _c()), s.registerLanguage("c", /* @__PURE__ */ uc()), s.registerLanguage("cpp", /* @__PURE__ */ dc()), s.registerLanguage("csharp", /* @__PURE__ */ pc()), s.registerLanguage("css", /* @__PURE__ */ fc()), s.registerLanguage("markdown", /* @__PURE__ */ hc()), s.registerLanguage("diff", /* @__PURE__ */ gc()), s.registerLanguage("ruby", /* @__PURE__ */ bc()), s.registerLanguage("go", /* @__PURE__ */ mc()), s.registerLanguage("graphql", /* @__PURE__ */ vc()), s.registerLanguage("ini", /* @__PURE__ */ Ec()), s.registerLanguage("java", /* @__PURE__ */ yc()), s.registerLanguage("javascript", /* @__PURE__ */ wc()), s.registerLanguage("json", /* @__PURE__ */ xc()), s.registerLanguage("kotlin", /* @__PURE__ */ Nc()), s.registerLanguage("less", /* @__PURE__ */ Oc()), s.registerLanguage("lua", /* @__PURE__ */ Tc()), s.registerLanguage("makefile", /* @__PURE__ */ Sc()), s.registerLanguage("perl", /* @__PURE__ */ kc()), s.registerLanguage("objectivec", /* @__PURE__ */ Rc()), s.registerLanguage("php", /* @__PURE__ */ Ac()), s.registerLanguage("php-template", /* @__PURE__ */ Cc()), s.registerLanguage("plaintext", /* @__PURE__ */ Ic()), s.registerLanguage("python", /* @__PURE__ */ Mc()), s.registerLanguage("python-repl", /* @__PURE__ */ Lc()), s.registerLanguage("r", /* @__PURE__ */ Dc()), s.registerLanguage("rust", /* @__PURE__ */ Bc()), s.registerLanguage("scss", /* @__PURE__ */ Pc()), s.registerLanguage("shell", /* @__PURE__ */ Uc()), s.registerLanguage("sql", /* @__PURE__ */ $c()), s.registerLanguage("swift", /* @__PURE__ */ zc()), s.registerLanguage("yaml", /* @__PURE__ */ Fc()), s.registerLanguage("typescript", /* @__PURE__ */ Kc()), s.registerLanguage("vbnet", /* @__PURE__ */ Gc()), s.registerLanguage("wasm", /* @__PURE__ */ qc()), s.HighlightJS = s, s.default = s, ni = s, ni;
+var ni, Ws;
+function Yc() {
+  if (Ws) return ni;
+  Ws = 1;
+  var s = /* @__PURE__ */ ca();
+  return s.registerLanguage("xml", /* @__PURE__ */ hc()), s.registerLanguage("bash", /* @__PURE__ */ gc()), s.registerLanguage("c", /* @__PURE__ */ bc()), s.registerLanguage("cpp", /* @__PURE__ */ mc()), s.registerLanguage("csharp", /* @__PURE__ */ vc()), s.registerLanguage("css", /* @__PURE__ */ Ec()), s.registerLanguage("markdown", /* @__PURE__ */ yc()), s.registerLanguage("diff", /* @__PURE__ */ wc()), s.registerLanguage("ruby", /* @__PURE__ */ xc()), s.registerLanguage("go", /* @__PURE__ */ Nc()), s.registerLanguage("graphql", /* @__PURE__ */ Oc()), s.registerLanguage("ini", /* @__PURE__ */ Sc()), s.registerLanguage("java", /* @__PURE__ */ Tc()), s.registerLanguage("javascript", /* @__PURE__ */ kc()), s.registerLanguage("json", /* @__PURE__ */ Rc()), s.registerLanguage("kotlin", /* @__PURE__ */ Ac()), s.registerLanguage("less", /* @__PURE__ */ Cc()), s.registerLanguage("lua", /* @__PURE__ */ Ic()), s.registerLanguage("makefile", /* @__PURE__ */ Mc()), s.registerLanguage("perl", /* @__PURE__ */ Lc()), s.registerLanguage("objectivec", /* @__PURE__ */ Dc()), s.registerLanguage("php", /* @__PURE__ */ Bc()), s.registerLanguage("php-template", /* @__PURE__ */ Pc()), s.registerLanguage("plaintext", /* @__PURE__ */ Uc()), s.registerLanguage("python", /* @__PURE__ */ $c()), s.registerLanguage("python-repl", /* @__PURE__ */ zc()), s.registerLanguage("r", /* @__PURE__ */ Fc()), s.registerLanguage("rust", /* @__PURE__ */ Kc()), s.registerLanguage("scss", /* @__PURE__ */ Gc()), s.registerLanguage("shell", /* @__PURE__ */ qc()), s.registerLanguage("sql", /* @__PURE__ */ Wc()), s.registerLanguage("swift", /* @__PURE__ */ Hc()), s.registerLanguage("yaml", /* @__PURE__ */ jc()), s.registerLanguage("typescript", /* @__PURE__ */ Vc()), s.registerLanguage("vbnet", /* @__PURE__ */ Zc()), s.registerLanguage("wasm", /* @__PURE__ */ Xc()), s.HighlightJS = s, s.default = s, ni = s, ni;
 }
-Wc();
-var Hc = /* @__PURE__ */ oa();
-const ii = /* @__PURE__ */ Ql(Hc);
-var qs = ka({ props: { code: { type: String, required: !0 }, language: { type: String, default: "" }, autodetect: { type: Boolean, default: !0 }, ignoreIllegals: { type: Boolean, default: !0 } }, setup: function(s) {
+Yc();
+var Qc = /* @__PURE__ */ ca();
+const ii = /* @__PURE__ */ sc(Qc);
+var Hs = Aa({ props: { code: { type: String, required: !0 }, language: { type: String, default: "" }, autodetect: { type: Boolean, default: !0 }, ignoreIllegals: { type: Boolean, default: !0 } }, setup: function(s) {
   var t = Y(s.language);
   Xe((function() {
     return s.language;
   }), (function(i) {
     t.value = i;
   }));
-  var n = B((function() {
+  var n = P((function() {
     return s.autodetect || !t.value;
-  })), e = B((function() {
+  })), e = P((function() {
     return !n.value && !ii.getLanguage(t.value);
   }));
-  return { className: B((function() {
+  return { className: P((function() {
     return e.value ? "" : "hljs " + t.value;
-  })), highlightedCode: B((function() {
+  })), highlightedCode: P((function() {
     var i;
     if (e.value) return console.warn('The language "' + t.value + '" you specified could not be found.'), s.code.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
     if (n.value) {
-      var r = ii.highlightAuto(s.code);
-      return t.value = (i = r.language) !== null && i !== void 0 ? i : "", r.value;
+      var a = ii.highlightAuto(s.code);
+      return t.value = (i = a.language) !== null && i !== void 0 ? i : "", a.value;
     }
-    return (r = ii.highlight(s.code, { language: t.value, ignoreIllegals: s.ignoreIllegals })).value;
+    return (a = ii.highlight(s.code, { language: t.value, ignoreIllegals: s.ignoreIllegals })).value;
   })) };
 }, render: function() {
   return Ti("pre", {}, [Ti("code", { class: this.className, innerHTML: this.highlightedCode })]);
-} }), Ws = { install: function(s) {
-  s.component("highlightjs", qs);
-}, component: qs };
-const jc = {
+} }), js = { install: function(s) {
+  s.component("highlightjs", Hs);
+}, component: Hs };
+const Jc = {
   __name: "index",
   props: {
     code: {
@@ -16730,7 +16778,7 @@ const jc = {
   },
   setup(s, { expose: t }) {
     t();
-    const n = Ws.component, e = s, i = B(() => as.html(e.code, {
+    const n = js.component, e = s, i = P(() => os.html(e.code, {
       indent_size: 2,
       indent_inner_html: !0,
       wrap_attributes: "force-expand-multiline",
@@ -16742,31 +16790,31 @@ const jc = {
       } catch (o) {
         console.error("Failed to copy: ", o);
       }
-    }, computed: B, get beautifyHtml() {
-      return as.html;
+    }, computed: P, get beautifyHtml() {
+      return os.html;
     }, get hljsVuePlugin() {
-      return Ws;
+      return js;
     }, get CopyIcon() {
-      return Tr;
+      return kr;
     } };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
-}, Vc = { class: "vue-lab__code-preview" }, Zc = { class: "vue-lab__code-preview__content" };
-function Xc(s, t, n, e, i, r) {
-  return R(), $("div", Vc, [
-    t[0] || (t[0] = C(
+}, e_ = { class: "vue-lab__code-preview" }, t_ = { class: "vue-lab__code-preview__content" };
+function n_(s, t, n, e, i, a) {
+  return k(), $("div", e_, [
+    t[0] || (t[0] = L(
       "div",
       { class: "vue-lab__code-preview__title" },
       "Usage",
       -1
       /* CACHED */
     )),
-    C("div", Zc, [
-      ye(e.CopyIcon, {
+    L("div", t_, [
+      we(e.CopyIcon, {
         class: "vue-lab__code-preview__content__copy-ctrl",
         onClick: e.copyToClipboard
       }),
-      ye(e.hlVue, {
+      we(e.hlVue, {
         code: e.formattedCode,
         autodetect: !1,
         language: "xml",
@@ -16775,7 +16823,7 @@ function Xc(s, t, n, e, i, r) {
     ])
   ]);
 }
-const la = /* @__PURE__ */ te(jc, [["render", Xc], ["__scopeId", "data-v-ba1811dc"], ["__file", "./index.vue"]]), Yc = {
+const _a = /* @__PURE__ */ te(Jc, [["render", n_], ["__scopeId", "data-v-ba1811dc"], ["__file", "./index.vue"]]), i_ = {
   __name: "index",
   props: {
     name: { type: String, default: "Component" },
@@ -16790,162 +16838,230 @@ const la = /* @__PURE__ */ te(jc, [["render", Xc], ["__scopeId", "data-v-ba1811d
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = B(() => n.components[n.name]);
+    const n = s, e = P(() => n.components[n.name]);
     let i = Y({});
-    const r = Y(null), l = Y(null), o = Y(/* @__PURE__ */ new Map()), _ = Y(null), g = Y(!0), u = Y({
+    const a = Y(null), l = Y(null), o = Y(/* @__PURE__ */ new Map()), _ = Y(null), g = Y(null), u = Y(null), p = Y(null), m = Y(!0), w = Y({
       vueLabloading: !0
-    }), p = Y({});
-    let m = Bt([]);
-    Ue(async () => {
-      await N();
+    }), x = Y({});
+    let S = Bt([]);
+    $e(async () => {
+      await d();
     });
-    const N = async () => {
-      g.value = !1, i.value = { vueLabloading: !1 };
-      const E = n.configuration?.[n.name?.toLocaleLowerCase()], a = Object.keys(E.propsConfig);
-      m = a.map((D) => ({
-        ctrl: E.propsConfig[D].type,
-        value: E.propsConfig[D].value,
-        title: E.propsConfig[D].ctrlTitle,
-        variants: E.propsConfig[D].variants,
-        isCtrl: E.propsConfig[D].ctrl,
-        field: D
-      })).filter((D) => D.isCtrl);
-      const x = O(a, E.propsConfig);
-      p.value = a.reduce((D, K) => ({
-        ...D,
-        [K]: E.propsConfig[K].type
-      }), {}), i.value = { ...i.value, ...x }, u.value = { ...i.value }, r.value = E?.description, l.value = T(a, E.propsConfig), o.value = d(a, E.propsConfig), _.value = c(E.events), g.value = !0;
-    }, O = (E, a) => E.reduce((v, x) => ({
-      ...v,
-      [x]: k(x, a)
-    }), { vueLabloading: !0 }), T = (E, a) => E.map((v) => ({
-      name: v,
-      type: a[v].type,
-      values: S(a[v].variants),
-      optional: a[v].optional || !1,
-      default: a[v].default,
-      description: a[v].description
-    })), d = (E, a) => new Map(E.map((v) => [v, a[v]])), c = (E) => E ? Object.keys(E).map((a) => ({
-      name: a,
-      description: E[a].description
-    })) : null, f = B(() => {
-      const E = _.value ? _.value.map((v) => `@${v.name}="${v.name}Handler"`).join(" ") : "", a = Object.entries(i.value).filter((v) => v[0] != "vueLabloading").map(([v, x]) => {
-        const D = o.value.get(v);
-        if (x == null && D?.optional)
+    const d = async () => {
+      m.value = !1, i.value = { vueLabloading: !1 };
+      const M = n.configuration?.[n.name?.toLocaleLowerCase()], O = Object.keys(M.propsConfig);
+      S = O.map((se) => ({
+        ctrl: M.propsConfig[se].type,
+        value: M.propsConfig[se].value,
+        title: M.propsConfig[se].ctrlTitle,
+        variants: M.propsConfig[se].variants,
+        isCtrl: M.propsConfig[se].ctrl,
+        field: se
+      })).filter((se) => se.isCtrl);
+      const K = c(O, M.propsConfig);
+      x.value = O.reduce((se, Z) => ({
+        ...se,
+        [Z]: M.propsConfig[Z].type
+      }), {}), i.value = { ...i.value, ...K }, w.value = { ...i.value }, a.value = M?.description, l.value = f(O, M.propsConfig), o.value = R(O, M.propsConfig), _.value = A(M.events), g.value = M.slots || [], u.value = D(M.slots, !0), p.value = D(M.slots, !1), m.value = !0;
+    }, c = (M, O) => M.reduce((I, K) => ({
+      ...I,
+      [K]: r(K, O)
+    }), { vueLabloading: !0 }), f = (M, O) => M.map((I) => ({
+      name: I,
+      type: O[I].type,
+      values: T(O[I].variants),
+      optional: O[I].optional || !1,
+      default: O[I].default,
+      description: O[I].description
+    })), R = (M, O) => new Map(M.map((I) => [I, O[I]])), A = (M) => M ? Object.keys(M).map((O) => ({
+      name: O,
+      description: M[O].description
+    })) : null, D = (M, O) => M ? M.filter((I) => O ? I.name : !I.name).map((I) => ({
+      ...I,
+      value: I.type === "component" ? ki(I.value) : I.value
+    })) : null, v = P(() => !!g.value?.length), E = P(() => {
+      const M = _.value ? _.value.map((I) => `@${I.name}="${I.name}Handler"`).join(" ") : "", O = Object.entries(i.value).filter((I) => I[0] != "vueLabloading").map(([I, K]) => {
+        const se = o.value.get(I);
+        if (K == null && se?.optional)
           return null;
-        if (p.value[v] === "variable") {
-          const K = `${v}Val`;
-          return `:${v}="${K}"`;
+        if (x.value[I] === "variable") {
+          const Z = `${I}Val`;
+          return `:${I}="${Z}"`;
         } else
-          return typeof x == "boolean" ? `:${v}="${!!x}"` : typeof x == "object" || typeof x == "number" ? `:${v}="${x}"` : `${v}="${x}"`;
+          return typeof K == "boolean" ? `:${I}="${!!K}"` : typeof K == "object" || typeof K == "number" ? `:${I}="${K}"` : `${I}="${K}"`;
       }).sort().filter(Boolean).join(" ");
-      return `<${n.name} ${a} ${E} />`;
-    }), S = (E) => Array.isArray(E) ? E?.filter((a) => a != null && a !== void 0 && a !== "").join(" | ") : typeof E == "boolean" ? E : null, k = (E, a) => a[E].value, I = ({ ctrl: E, value: a }) => {
-      i.value[E] = a;
-    }, y = () => {
-      i.value = { ...u.value };
-    }, w = B(() => e.value && i.value.vueLabloading);
+      if (v.value) {
+        const I = g.value.map((K) => {
+          if (K.type === "text" || K.type === "html")
+            return K.value;
+          if (K.type === "component") {
+            const se = K.name ? `v-slot:${K.name}` : "", Z = K?.value?.__name || K?.value?.name;
+            if (!Z) return null;
+            const le = h(K.props) || "";
+            return `<template ${se}><${Z} ${le}/></template>`;
+          }
+        }).join(`
+`);
+        return `
+      <${n.name} ${O} ${M}>
+        ${I}
+      </${n.name}>
+    `;
+      }
+      return `<${n.name} ${O} ${M} />`;
+    }), h = (M) => M ? Array.isArray(M) ? M.map((O) => O.type === "number" || O.type === "boolean" || O.type === "variable" ? `:${O.name}="${O.value}"` : O.type === "text" ? `${O.name}="${O.value}"` : null).filter(Boolean).sort().join(" ") : Object.entries(M).map(([O, I]) => {
+      if (typeof I == "number" || typeof I == "boolean")
+        return `:${O}="${I}"`;
+      if (typeof I == "string")
+        return `${O}="${I}"`;
+      if (typeof I == "object") {
+        const K = Array.isArray(I) ? "options" : "dictionary";
+        return `:${O}="${K}"`;
+      } else
+        return null;
+    }).filter(Boolean).sort().join(" ") : "", T = (M) => Array.isArray(M) ? M?.filter((O) => O != null && O !== void 0 && O !== "").join(" | ") : typeof M == "boolean" ? M : null, r = (M, O) => O[M].value, y = ({ ctrl: M, value: O }) => {
+      i.value[M] = O;
+    }, N = () => {
+      i.value = { ...w.value };
+    }, F = P(() => e.value && i.value.vueLabloading);
     Xe(() => n.name, async () => {
-      await N();
+      await d();
     });
-    const h = { props: n, comp: e, get config() {
+    const q = { props: n, comp: e, get config() {
       return i;
-    }, set config(E) {
-      i = E;
-    }, description: r, propsData: l, propsMap: o, eventsData: _, isLoading: g, defaultConfig: u, types: p, get controls() {
-      return m;
-    }, set controls(E) {
-      m = E;
-    }, loadData: N, getBinds: O, getPropsData: T, getPropsMap: d, getEventsData: c, exampleCode: f, getValues: S, getBindValue: k, handleCTRLInput: I, resetConfig: y, isComponent: w, computed: B, onMounted: Ue, reactive: Bt, ref: Y, watch: Xe, get loadConfig() {
-      return Yl;
+    }, set config(M) {
+      i = M;
+    }, description: a, propsData: l, propsMap: o, eventsData: _, slotsData: g, namedSlotsData: u, unnamedSlotsData: p, isLoading: m, defaultConfig: w, types: x, get controls() {
+      return S;
+    }, set controls(M) {
+      S = M;
+    }, loadData: d, getBinds: c, getPropsData: f, getPropsMap: R, getEventsData: A, getSlotsData: D, isSlots: v, exampleCode: E, getSlotAttributes: h, getValues: T, getBindValue: r, handleCTRLInput: y, resetConfig: N, isComponent: F, computed: P, onMounted: $e, reactive: Bt, ref: Y, watch: Xe, markRaw: ki, get loadConfig() {
+      return ic;
     }, get ControlBlock() {
-      return ea;
+      return na;
     }, get Page() {
-      return _i;
+      return ui;
     }, get Divider() {
       return $t;
-    }, CodePreview: la, get Button() {
-      return Vs;
-    }, get Description() {
-      return oi;
-    }, get PropsDescription() {
-      return Zs;
-    }, get EventsDescription() {
+    }, CodePreview: _a, get Button() {
       return Xs;
+    }, get Description() {
+      return li;
+    }, get PropsDescription() {
+      return Ys;
+    }, get EventsDescription() {
+      return Qs;
+    }, get ComponentSlot() {
+      return Io;
     } };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    return Object.defineProperty(q, "__isScriptSetup", { enumerable: !1, value: !0 }), q;
   }
-}, Qc = { class: "vue-lab__component" }, Jc = { class: "vue-lab__component__header" }, e_ = { class: "vue-lab__component__header-title" }, t_ = { class: "vue-lab__component__content custom-scroll--simple" }, n_ = {
+}, s_ = { class: "vue-lab__component" }, a_ = { class: "vue-lab__component__header" }, r_ = { class: "vue-lab__component__header-title" }, o_ = { class: "vue-lab__component__content custom-scroll--simple" }, l_ = {
   key: 2,
   class: "vue-lab__component__body"
-}, i_ = {
+}, c_ = {
   key: 0,
   class: "vue-lab__controls"
 };
-function s_(s, t, n, e, i, r) {
-  return e.isLoading ? (R(), j(e.Page, {
+function __(s, t, n, e, i, a) {
+  return e.isLoading ? (k(), V(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
     class: "vue-lab"
   }, {
     default: ge(() => [
-      C("div", Qc, [
-        C("div", Jc, [
-          C(
+      L("div", s_, [
+        L("div", a_, [
+          L(
             "div",
-            e_,
-            re(n.name),
+            r_,
+            ae(n.name),
             1
             /* TEXT */
           )
         ]),
-        C("div", t_, [
-          e.description ? (R(), j(e.Description, {
+        L("div", o_, [
+          e.description ? (k(), V(e.Description, {
             key: 0,
             description: e.description
-          }, null, 8, ["description"])) : ne("v-if", !0),
-          e.isComponent ? (R(), j(e.Divider, { key: 1 })) : ne("v-if", !0),
-          e.isComponent ? (R(), $("div", n_, [
-            (R(), j(
-              ft(e.comp),
-              Hs(js(e.config)),
-              null,
-              16
-              /* FULL_PROPS */
+          }, null, 8, ["description"])) : ee("v-if", !0),
+          e.isComponent ? (k(), V(e.Divider, { key: 1 })) : ee("v-if", !0),
+          e.isComponent ? (k(), $("div", l_, [
+            (k(), V(
+              at(e.comp),
+              oi(Vs(e.config)),
+              Ca({
+                default: ge(() => [
+                  (k(!0), $(
+                    pe,
+                    null,
+                    ve(e.unnamedSlotsData, (l, o) => (k(), $(
+                      pe,
+                      {
+                        key: `unnamed-component-slot-${l.name}-${o}`
+                      },
+                      [
+                        e.unnamedSlotsData?.length ? (k(), V(e.ComponentSlot, {
+                          key: 0,
+                          slotConfig: l
+                        }, null, 8, ["slotConfig"])) : ee("v-if", !0)
+                      ],
+                      64
+                      /* STABLE_FRAGMENT */
+                    ))),
+                    128
+                    /* KEYED_FRAGMENT */
+                  ))
+                ]),
+                _: 2
+                /* DYNAMIC */
+              }, [
+                ve(e.namedSlotsData, (l, o) => ({
+                  name: l.name,
+                  fn: ge(() => [
+                    e.namedSlotsData?.length ? (k(), V(e.ComponentSlot, {
+                      key: 0,
+                      slotConfig: l
+                    }, null, 8, ["slotConfig"])) : ee("v-if", !0)
+                  ])
+                }))
+              ]),
+              1040
+              /* FULL_PROPS, DYNAMIC_SLOTS */
             ))
-          ])) : ne("v-if", !0),
-          e.exampleCode ? (R(), j(e.Divider, { key: 3 })) : ne("v-if", !0),
-          e.isComponent && e.exampleCode ? (R(), j(e.CodePreview, {
+          ])) : ee("v-if", !0),
+          e.exampleCode ? (k(), V(e.Divider, { key: 3 })) : ee("v-if", !0),
+          e.isComponent && e.exampleCode ? (k(), V(e.CodePreview, {
             key: 4,
             code: e.exampleCode,
             "preview-code": e.exampleCode
-          }, null, 8, ["code", "preview-code"])) : ne("v-if", !0),
-          e.propsData ? (R(), j(e.Divider, { key: 5 })) : ne("v-if", !0),
-          e.isComponent && e.propsData ? (R(), j(e.PropsDescription, {
+          }, null, 8, ["code", "preview-code"])) : ee("v-if", !0),
+          e.propsData ? (k(), V(e.Divider, { key: 5 })) : ee("v-if", !0),
+          e.isComponent && e.propsData ? (k(), V(e.PropsDescription, {
             key: 6,
             data: e.propsData
-          }, null, 8, ["data"])) : ne("v-if", !0),
-          e.eventsData ? (R(), j(e.Divider, { key: 7 })) : ne("v-if", !0),
-          e.isComponent && e.eventsData ? (R(), j(e.EventsDescription, {
+          }, null, 8, ["data"])) : ee("v-if", !0),
+          e.eventsData ? (k(), V(e.Divider, { key: 7 })) : ee("v-if", !0),
+          e.isComponent && e.eventsData ? (k(), V(e.EventsDescription, {
             key: 8,
             data: e.eventsData
-          }, null, 8, ["data"])) : ne("v-if", !0)
+          }, null, 8, ["data"])) : ee("v-if", !0)
         ])
       ]),
-      e.controls.length ? (R(), $("div", i_, [
-        ye(e.ControlBlock, {
+      e.controls.length ? (k(), $("div", c_, [
+        we(e.ControlBlock, {
           options: e.controls,
           values: e.config,
           onInput: e.handleCTRLInput,
           onReset: e.resetConfig
         }, null, 8, ["options", "values"])
-      ])) : ne("v-if", !0)
+      ])) : ee("v-if", !0)
     ]),
     _: 1
     /* STABLE */
-  }, 8, ["is-controls"])) : ne("v-if", !0);
+  }, 8, ["is-controls"])) : ee("v-if", !0);
 }
-const a_ = /* @__PURE__ */ te(Yc, [["render", s_], ["__scopeId", "data-v-432c94c6"], ["__file", "./index.vue"]]), r_ = {
+const u_ = /* @__PURE__ */ te(i_, [["render", __], ["__scopeId", "data-v-432c94c6"], ["__file", "./index.vue"]]), d_ = {
   __name: "index",
   props: {
     options: { type: Array, default: () => [] },
@@ -16954,60 +17070,60 @@ const a_ = /* @__PURE__ */ te(Yc, [["render", s_], ["__scopeId", "data-v-432c94c
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = B(() => {
-      const r = [...new Set(n.options.map((o) => o.group))], l = n.options.map(((o, _) => ({ ...o, index: o.index || _ })));
-      return r.map((o) => ({
+    const n = s, e = P(() => {
+      const a = [...new Set(n.options.map((o) => o.group))], l = n.options.map(((o, _) => ({ ...o, index: o.index || _ })));
+      return a.map((o) => ({
         title: o,
         options: l.filter((_) => _.group == o)
       }));
     }), i = { props: n, colorGroup: e, get Page() {
-      return _i;
+      return ui;
     }, get Description() {
-      return oi;
+      return li;
     }, get Divider() {
       return $t;
     }, get ColorBlock() {
-      return Ml;
-    }, computed: B };
+      return $l;
+    }, computed: P };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, o_ = { class: "vue-lab-colors__component" }, l_ = { class: "vue-lab-colors__component__header" }, c_ = { class: "vue-lab-colors__component__header-title" }, __ = { class: "vue-lab-colors__component__content custom-scroll--simple" };
-function u_(s, t, n, e, i, r) {
-  return R(), j(e.Page, {
+}, p_ = { class: "vue-lab-colors__component" }, f_ = { class: "vue-lab-colors__component__header" }, h_ = { class: "vue-lab-colors__component__header-title" }, g_ = { class: "vue-lab-colors__component__content custom-scroll--simple" };
+function b_(s, t, n, e, i, a) {
+  return k(), V(e.Page, {
     "is-controls": !1,
     class: "vue-lab-colors"
   }, {
     default: ge(() => [
-      C("div", o_, [
-        C("div", l_, [
-          C(
+      L("div", p_, [
+        L("div", f_, [
+          L(
             "div",
-            c_,
-            re(n.name),
+            h_,
+            ae(n.name),
             1
             /* TEXT */
           )
         ]),
-        C("div", __, [
-          n.description ? (R(), j(e.Description, {
+        L("div", g_, [
+          n.description ? (k(), V(e.Description, {
             key: 0,
             description: n.description
-          }, null, 8, ["description"])) : ne("v-if", !0),
-          ye(e.Divider),
-          (R(!0), $(
-            be,
+          }, null, 8, ["description"])) : ee("v-if", !0),
+          we(e.Divider),
+          (k(!0), $(
+            pe,
             null,
-            xe(e.colorGroup, (l, o) => (R(), $(
-              be,
+            ve(e.colorGroup, (l, o) => (k(), $(
+              pe,
               {
                 key: `color-block-${l.title}-${o}`
               },
               [
-                ye(e.ColorBlock, {
+                we(e.ColorBlock, {
                   title: l.title,
                   options: l.options
                 }, null, 8, ["title", "options"]),
-                o != e.colorGroup.length - 1 ? (R(), j(e.Divider, { key: 0 })) : ne("v-if", !0)
+                o != e.colorGroup.length - 1 ? (k(), V(e.Divider, { key: 0 })) : ee("v-if", !0)
               ],
               64
               /* STABLE_FRAGMENT */
@@ -17022,7 +17138,7 @@ function u_(s, t, n, e, i, r) {
     /* STABLE */
   });
 }
-const d_ = /* @__PURE__ */ te(r_, [["render", u_], ["__scopeId", "data-v-bf59dc62"], ["__file", "./index.vue"]]), p_ = {
+const m_ = /* @__PURE__ */ te(d_, [["render", b_], ["__scopeId", "data-v-bf59dc62"], ["__file", "./index.vue"]]), v_ = {
   __name: "IconGroup",
   props: {
     group: {
@@ -17036,38 +17152,38 @@ const d_ = /* @__PURE__ */ te(r_, [["render", u_], ["__scopeId", "data-v-bf59dc6
   },
   setup(s, { expose: t }) {
     t();
-    const n = s, e = B(() => !n.group?.components?.length), i = { props: n, isIcons: e, computed: B };
+    const n = s, e = P(() => !n.group?.components?.length), i = { props: n, isIcons: e, computed: P };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, f_ = { class: "vue-lab-icons__group" }, h_ = { class: "vue-lab-icons__group-title" }, g_ = { class: "vue-lab-icons__group-body" }, b_ = { class: "vue-lab-icons__group-item-name" };
-function m_(s, t, n, e, i, r) {
-  return R(), $("div", f_, [
-    C(
+}, E_ = { class: "vue-lab-icons__group" }, y_ = { class: "vue-lab-icons__group-title" }, w_ = { class: "vue-lab-icons__group-body" }, x_ = { class: "vue-lab-icons__group-item-name" };
+function N_(s, t, n, e, i, a) {
+  return k(), $("div", E_, [
+    L(
       "div",
-      h_,
-      re(n.group.name || "Group"),
+      y_,
+      ae(n.group.name || "Group"),
       1
       /* TEXT */
     ),
-    C("div", g_, [
-      (R(!0), $(
-        be,
+    L("div", w_, [
+      (k(!0), $(
+        pe,
         null,
-        xe(n.group.components, (l, o) => (R(), $("div", {
+        ve(n.group.components, (l, o) => (k(), $("div", {
           key: `${n.group.name}-${l.name}-${o}`,
           class: "vue-lab-icons__group-item"
         }, [
-          (R(), j(
-            ft(l.component),
-            Ra({ ref_for: !0 }, { ...n.config, name: l.name }),
+          (k(), V(
+            at(l.component),
+            Zs({ ref_for: !0 }, { ...n.config, name: l.name }),
             null,
             16
             /* FULL_PROPS */
           )),
-          C(
+          L(
             "div",
-            b_,
-            re(l.name),
+            x_,
+            ae(l.name),
             1
             /* TEXT */
           )
@@ -17078,7 +17194,7 @@ function m_(s, t, n, e, i, r) {
     ])
   ]);
 }
-const v_ = /* @__PURE__ */ te(p_, [["render", m_], ["__scopeId", "data-v-89316d17"], ["__file", "./IconGroup.vue"]]), E_ = {
+const O_ = /* @__PURE__ */ te(v_, [["render", N_], ["__scopeId", "data-v-89316d17"], ["__file", "./IconGroup.vue"]]), S_ = {
   __name: "index",
   props: {
     options: {
@@ -17095,154 +17211,154 @@ const v_ = /* @__PURE__ */ te(p_, [["render", m_], ["__scopeId", "data-v-89316d1
     t();
     const e = s;
     let i = Y({});
-    const r = Y(null), l = Y(null), o = Y(/* @__PURE__ */ new Map()), _ = Y(null), g = Y(!0), u = Y({
+    const a = Y(null), l = Y(null), o = Y(/* @__PURE__ */ new Map()), _ = Y(null), g = Y(!0), u = Y({
       vueLabloading: !0
     }), p = Y({});
     let m = Bt([]);
-    Ue(async () => {
-      await S();
+    $e(async () => {
+      await R();
     });
-    const N = n, O = Y(""), T = B(() => O.value ? e.options.filter(
-      (M) => M.name?.toLowerCase().includes(O?.value.toLowerCase())
-    ) : e.options), d = B(() => {
-      const M = [...new Set(T.value.map((z) => z.group))];
-      return new Map(M.map((z) => [z, T.value.filter((J) => J.group == z)]));
-    }), c = B(() => [...new Set(T.value.map((z) => z.group))].map((z) => ({ name: z, components: d.value.get(z) }))), f = (M) => {
-      O.value = M;
-    }, S = async () => {
+    const w = n, x = Y(""), S = P(() => x.value ? e.options.filter(
+      (O) => O.name?.toLowerCase().includes(x?.value.toLowerCase())
+    ) : e.options), d = P(() => {
+      const O = [...new Set(S.value.map((I) => I.group))];
+      return new Map(O.map((I) => [I, S.value.filter((K) => K.group == I)]));
+    }), c = P(() => [...new Set(S.value.map((I) => I.group))].map((I) => ({ name: I, components: d.value.get(I) }))), f = (O) => {
+      x.value = O;
+    }, R = async () => {
       g.value = !1, i.value = { vueLabloading: !1 };
-      const M = e.configuration, z = Object.keys(M.propsConfig);
+      const O = e.configuration, I = Object.keys(O.propsConfig);
       m = [
-        ...z.map((Q) => ({
-          ctrl: M.propsConfig[Q].type,
-          value: M.propsConfig[Q].value,
-          title: M.propsConfig[Q].ctrlTitle,
-          variants: M.propsConfig[Q].variants,
-          isCtrl: M.propsConfig[Q].ctrl,
-          field: Q
-        })).filter((Q) => Q.isCtrl),
+        ...I.map((Z) => ({
+          ctrl: O.propsConfig[Z].type,
+          value: O.propsConfig[Z].value,
+          title: O.propsConfig[Z].ctrlTitle,
+          variants: O.propsConfig[Z].variants,
+          isCtrl: O.propsConfig[Z].ctrl,
+          field: Z
+        })).filter((Z) => Z.isCtrl),
         {
           ctrl: "list",
           value: null,
           title: "Icons",
-          variants: e.options.map((Q) => ({ name: Q.name, id: Q.name })),
+          variants: e.options.map((Z) => ({ name: Z.name, id: Z.name })),
           isCtrl: !0,
           isCodeHiden: !0,
           field: "icon"
         }
       ];
-      const me = k(z, M.propsConfig);
-      p.value = z.reduce((Q, ce) => ({
-        ...Q,
-        [ce]: M.propsConfig[ce].type
-      }), {}), i.value = { ...i.value, ...me }, u.value = { ...i.value }, r.value = M?.description, l.value = h(z, M.propsConfig), o.value = E(z, M.propsConfig), _.value = a(M.events), g.value = !0;
-    }, k = (M, z) => M.reduce((J, me) => ({
-      ...J,
-      [me]: I(me, z)
-    }), { vueLabloading: !0 }), I = (M, z) => z[M].value, y = B(() => i.value.vueLabloading), w = (M) => Array.isArray(M) ? M?.filter((z) => z != null && z !== void 0 && z !== "").join(" | ") : typeof M == "boolean" ? M : null, h = (M, z) => M.map((J) => ({
-      name: J,
-      type: z[J].type,
-      values: w(z[J].variants),
-      optional: z[J].optional || !1,
-      default: z[J].default,
-      description: z[J].description
-    })), E = (M, z) => new Map(M.map((J) => [J, z[J]])), a = (M) => M ? Object.keys(M).map((z) => ({
-      name: z,
-      description: M[z].description
-    })) : null, v = B(() => {
-      const M = _.value ? _.value.map((Q) => `@${Q.name}="${Q.name}Handler"`).join(" ") : "", z = new Map(m.map((Q) => [Q.field, Q.isCodeHiden])), J = Object.entries(i.value).filter((Q) => Q[0] != "vueLabloading").map(([Q, ce]) => {
-        if (z.get(Q))
+      const se = A(I, O.propsConfig);
+      p.value = I.reduce((Z, le) => ({
+        ...Z,
+        [le]: O.propsConfig[le].type
+      }), {}), i.value = { ...i.value, ...se }, u.value = { ...i.value }, a.value = O?.description, l.value = h(I, O.propsConfig), o.value = T(I, O.propsConfig), _.value = r(O.events), g.value = !0;
+    }, A = (O, I) => O.reduce((K, se) => ({
+      ...K,
+      [se]: D(se, I)
+    }), { vueLabloading: !0 }), D = (O, I) => I[O].value, v = P(() => i.value.vueLabloading), E = (O) => Array.isArray(O) ? O?.filter((I) => I != null && I !== void 0 && I !== "").join(" | ") : typeof O == "boolean" ? O : null, h = (O, I) => O.map((K) => ({
+      name: K,
+      type: I[K].type,
+      values: E(I[K].variants),
+      optional: I[K].optional || !1,
+      default: I[K].default,
+      description: I[K].description
+    })), T = (O, I) => new Map(O.map((K) => [K, I[K]])), r = (O) => O ? Object.keys(O).map((I) => ({
+      name: I,
+      description: O[I].description
+    })) : null, y = P(() => {
+      const O = _.value ? _.value.map((Z) => `@${Z.name}="${Z.name}Handler"`).join(" ") : "", I = new Map(m.map((Z) => [Z.field, Z.isCodeHiden])), K = Object.entries(i.value).filter((Z) => Z[0] != "vueLabloading").map(([Z, le]) => {
+        if (I.get(Z))
           return null;
-        const De = o.value.get(Q);
-        if (ce == null && De?.optional)
+        const De = o.value.get(Z);
+        if (le == null && De?.optional)
           return null;
-        if (p.value[Q] === "variable") {
-          const $e = `${Q}Val`;
-          return `:${Q}="${$e}"`;
+        if (p.value[Z] === "variable") {
+          const ze = `${Z}Val`;
+          return `:${Z}="${ze}"`;
         } else
-          return typeof ce == "boolean" ? `:${Q}="${!!ce}"` : typeof ce == "object" || typeof ce == "number" ? `:${Q}="${ce}"` : `${Q}="${ce}"`;
+          return typeof le == "boolean" ? `:${Z}="${!!le}"` : typeof le == "object" || typeof le == "number" ? `:${Z}="${le}"` : `${Z}="${le}"`;
       }).sort().filter(Boolean).join(" ");
-      return `<${x.value ? Si(x.value.name) : "Component"} ${J} ${M} />`;
-    }), x = B(() => i.value?.icon ? e.options?.find((M) => M.name === i.value.icon) : e.options?.[0]), H = { props: e, get config() {
+      return `<${N.value ? Ri(N.value.name) : "Component"} ${K} ${O} />`;
+    }), N = P(() => i.value?.icon ? e.options?.find((O) => O.name === i.value.icon) : e.options?.[0]), M = { props: e, get config() {
       return i;
-    }, set config(M) {
-      i = M;
-    }, description: r, propsData: l, propsMap: o, eventsData: _, isLoading: g, defaultConfig: u, types: p, get controls() {
+    }, set config(O) {
+      i = O;
+    }, description: a, propsData: l, propsMap: o, eventsData: _, isLoading: g, defaultConfig: u, types: p, get controls() {
       return m;
-    }, set controls(M) {
-      m = M;
-    }, emit: N, searchTerm: O, filteredOptions: T, optionMap: d, groups: c, handleSearch: f, loadData: S, getBinds: k, getBindValue: I, isComponent: y, getValues: w, getPropsData: h, getPropsMap: E, getEventsData: a, exampleCode: v, selectedIcon: x, handleCTRLInput: ({ ctrl: M, value: z }) => {
-      i.value[M] = z;
+    }, set controls(O) {
+      m = O;
+    }, emit: w, searchTerm: x, filteredOptions: S, optionMap: d, groups: c, handleSearch: f, loadData: R, getBinds: A, getBindValue: D, isComponent: v, getValues: E, getPropsData: h, getPropsMap: T, getEventsData: r, exampleCode: y, selectedIcon: N, handleCTRLInput: ({ ctrl: O, value: I }) => {
+      i.value[O] = I;
     }, resetConfig: () => {
       i.value = { ...u.value };
-    }, ref: Y, computed: B, reactive: Bt, onMounted: Ue, get Search() {
-      return li;
-    }, get Description() {
-      return oi;
-    }, get PropsDescription() {
-      return Zs;
-    }, get EventsDescription() {
-      return Xs;
-    }, get EmptyScreen() {
+    }, ref: Y, computed: P, reactive: Bt, onMounted: $e, get Search() {
       return ci;
-    }, IconGroup: v_, get Page() {
+    }, get Description() {
+      return li;
+    }, get PropsDescription() {
+      return Ys;
+    }, get EventsDescription() {
+      return Qs;
+    }, get EmptyScreen() {
       return _i;
+    }, IconGroup: O_, get Page() {
+      return ui;
     }, get Divider() {
       return $t;
     }, get ControlBlock() {
-      return ea;
-    }, CodePreview: la, get toPascalCase() {
-      return Si;
+      return na;
+    }, CodePreview: _a, get toPascalCase() {
+      return Ri;
     } };
-    return Object.defineProperty(H, "__isScriptSetup", { enumerable: !1, value: !0 }), H;
+    return Object.defineProperty(M, "__isScriptSetup", { enumerable: !1, value: !0 }), M;
   }
-}, y_ = { class: "vue-lab-icons__body" }, w_ = { class: "vue-lab-icons__body-components custom-scroll--simple" }, x_ = { class: "vue-lab-icons__body-search" }, N_ = { class: "vue-lab-icons__body-components-list" }, O_ = {
+}, T_ = { class: "vue-lab-icons__body" }, k_ = { class: "vue-lab-icons__body-components custom-scroll--simple" }, R_ = { class: "vue-lab-icons__body-search" }, A_ = { class: "vue-lab-icons__body-components-list" }, C_ = {
   key: 0,
   class: "vue-lab-icons__controls"
 };
-function T_(s, t, n, e, i, r) {
-  return e.isLoading ? (R(), j(e.Page, {
+function I_(s, t, n, e, i, a) {
+  return e.isLoading ? (k(), V(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
     class: "vue-lab-icons"
   }, {
     default: ge(() => [
-      C("div", y_, [
-        t[1] || (t[1] = C(
+      L("div", T_, [
+        t[1] || (t[1] = L(
           "div",
           { class: "vue-lab-icons__header" },
           [
-            C("div", { class: "vue-lab-icons__header-title" }, "Icons")
+            L("div", { class: "vue-lab-icons__header-title" }, "Icons")
           ],
           -1
           /* CACHED */
         )),
-        C("div", w_, [
-          e.description ? (R(), j(e.Description, {
+        L("div", k_, [
+          e.description ? (k(), V(e.Description, {
             key: 0,
             description: e.description,
             class: "vue-lab-icons__body-description"
-          }, null, 8, ["description"])) : ne("v-if", !0),
-          C("div", x_, [
-            ye(e.Search, { onInput: e.handleSearch })
+          }, null, 8, ["description"])) : ee("v-if", !0),
+          L("div", R_, [
+            we(e.Search, { onInput: e.handleSearch })
           ]),
-          C("div", N_, [
-            e.groups.length ? (R(!0), $(
-              be,
+          L("div", A_, [
+            e.groups.length ? (k(!0), $(
+              pe,
               { key: 1 },
-              xe(e.groups, (l) => (R(), j(e.IconGroup, {
+              ve(e.groups, (l) => (k(), V(e.IconGroup, {
                 key: l.name,
                 group: l,
                 config: e.config
               }, null, 8, ["group", "config"]))),
               128
               /* KEYED_FRAGMENT */
-            )) : (R(), j(e.EmptyScreen, {
+            )) : (k(), V(e.EmptyScreen, {
               key: 0,
               size: "lg"
             }, {
               default: ge(() => [...t[0] || (t[0] = [
-                Ge(
+                Ue(
                   " No icons found ",
                   -1
                   /* CACHED */
@@ -17252,38 +17368,38 @@ function T_(s, t, n, e, i, r) {
               /* STABLE */
             }))
           ]),
-          e.exampleCode ? (R(), j(e.Divider, { key: 1 })) : ne("v-if", !0),
-          e.isComponent && e.exampleCode ? (R(), j(e.CodePreview, {
+          e.exampleCode ? (k(), V(e.Divider, { key: 1 })) : ee("v-if", !0),
+          e.isComponent && e.exampleCode ? (k(), V(e.CodePreview, {
             key: 2,
             code: e.exampleCode,
             "preview-code": e.exampleCode
-          }, null, 8, ["code", "preview-code"])) : ne("v-if", !0),
-          e.propsData ? (R(), j(e.Divider, { key: 3 })) : ne("v-if", !0),
-          e.isComponent && e.propsData ? (R(), j(e.PropsDescription, {
+          }, null, 8, ["code", "preview-code"])) : ee("v-if", !0),
+          e.propsData ? (k(), V(e.Divider, { key: 3 })) : ee("v-if", !0),
+          e.isComponent && e.propsData ? (k(), V(e.PropsDescription, {
             key: 4,
             data: e.propsData
-          }, null, 8, ["data"])) : ne("v-if", !0),
-          e.eventsData ? (R(), j(e.Divider, { key: 5 })) : ne("v-if", !0),
-          e.isComponent && e.eventsData ? (R(), j(e.EventsDescription, {
+          }, null, 8, ["data"])) : ee("v-if", !0),
+          e.eventsData ? (k(), V(e.Divider, { key: 5 })) : ee("v-if", !0),
+          e.isComponent && e.eventsData ? (k(), V(e.EventsDescription, {
             key: 6,
             data: e.eventsData
-          }, null, 8, ["data"])) : ne("v-if", !0)
+          }, null, 8, ["data"])) : ee("v-if", !0)
         ])
       ]),
-      e.controls.length ? (R(), $("div", O_, [
-        ye(e.ControlBlock, {
+      e.controls.length ? (k(), $("div", C_, [
+        we(e.ControlBlock, {
           options: e.controls,
           values: e.config,
           onInput: e.handleCTRLInput,
           onReset: e.resetConfig
         }, null, 8, ["options", "values"])
-      ])) : ne("v-if", !0)
+      ])) : ee("v-if", !0)
     ]),
     _: 1
     /* STABLE */
-  }, 8, ["is-controls"])) : ne("v-if", !0);
+  }, 8, ["is-controls"])) : ee("v-if", !0);
 }
-const S_ = /* @__PURE__ */ te(E_, [["render", T_], ["__scopeId", "data-v-ffc66622"], ["__file", "./index.vue"]]), k_ = {
+const M_ = /* @__PURE__ */ te(S_, [["render", I_], ["__scopeId", "data-v-ffc66622"], ["__file", "./index.vue"]]), L_ = {
   beforeMount(s, { value: t }) {
     t && (s._handler = (n) => {
       s.contains(n.target) || setTimeout(() => t(n), 1);
@@ -17292,70 +17408,70 @@ const S_ = /* @__PURE__ */ te(E_, [["render", T_], ["__scopeId", "data-v-ffc6662
   beforeUnmount(s) {
     document.removeEventListener("click", s._handler, { capture: !0 });
   }
-}, R_ = {
+}, D_ = {
   mounted(s) {
     s.remove(), document.body.appendChild(s);
   },
   unmounted(s) {
     s.remove();
   }
-}, A_ = {
+}, B_ = {
   install(s) {
-    s.directive("click-outside", k_), s.directive("hoisted", R_);
+    s.directive("click-outside", L_), s.directive("hoisted", D_);
   }
-}, M_ = ({
+}, $_ = ({
   components: s = {},
   menu: t,
   menuGroupsDescription: n,
   mountSelector: e,
   configuration: i,
-  homePageDescription: r,
+  homePageDescription: a,
   additionalPages: l,
   kitTitle: o
 }) => {
-  const g = Object.keys(i || {}).reduce((f, S) => ({ ...f, [S.toLocaleLowerCase()]: i[S] }), {}), u = s ? Object.keys(s).map((f) => ({
+  const g = Object.keys(i || {}).reduce((f, R) => ({ ...f, [R.toLocaleLowerCase()]: i[R] }), {}), u = s ? Object.keys(s).map((f) => ({
     name: f,
     path: `/${f}`
   })) : [];
   let p = l ? [...t || u, ...l] : t || u;
-  const m = p.reduce((f, S) => S.index > f ? S.index : f, 0);
-  p = p.map((f, S) => ({ ...f, index: f.index || m + S + 1 })), p.sort((f, S) => f.index - S.index);
-  const N = /* @__PURE__ */ new Map([
-    ["colors", d_],
-    ["icons", S_]
-  ]), O = (l || []).map((f) => {
-    const S = N.get(f.type);
-    return S ? {
+  const m = p.reduce((f, R) => R.index > f ? R.index : f, 0);
+  p = p.map((f, R) => ({ ...f, index: f.index || m + R + 1 })), p.sort((f, R) => f.index - R.index);
+  const w = /* @__PURE__ */ new Map([
+    ["colors", m_],
+    ["icons", M_]
+  ]), x = (l || []).map((f) => {
+    const R = w.get(f.type);
+    return R ? {
       path: f.path,
       name: f.name,
-      component: S,
+      component: R,
       props: f.props
     } : f;
-  }).filter(Boolean), T = [
+  }).filter(Boolean), S = [
     {
       path: "/",
       name: "home",
-      component: Xl,
+      component: nc,
       props: {
         components: s,
-        description: r || "",
+        description: a || "",
         menu: p,
         menuGroupsDescription: n
       }
     },
-    ...O,
+    ...x,
     {
       path: "/:name",
       name: "component",
-      component: a_,
+      component: u_,
       props: (f) => ({ name: f.params.name, components: s, configuration: g })
     }
-  ], d = Ca({
-    history: Ia(),
-    routes: T
-  }), c = Aa(Io);
-  return c.use(d), c.use(A_), c.provide("menu", p), c.provide("kit-title", o), e && c.mount(e), c;
+  ], d = Ma({
+    history: La(),
+    routes: S
+  }), c = Ia(Uo);
+  return c.use(d), c.use(B_), c.provide("menu", p), c.provide("kit-title", o), e && c.mount(e), c;
 };
 export {
-  M_ as createLab
+  $_ as createLab
 };
