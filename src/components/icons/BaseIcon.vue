@@ -41,6 +41,10 @@ const props = defineProps({
     type: [String],
     default: null
   },
+  disabled: {
+    type: Boolean,
+    default: false
+  },
   palette: {
     type: String,
     default: 'primary',

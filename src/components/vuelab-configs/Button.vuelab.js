@@ -1,3 +1,5 @@
+import EditIcon from '../icons/FormIcon/EditIcon.vue'
+
 export const propsConfig = {
   palette: {
     type: 'tags',
@@ -42,6 +44,36 @@ export const propsConfig = {
     ctrl: true,
   },
 }
+
+export const slots = [
+  {
+    type: 'text',
+    value: 'Test button',
+    slotName: null,
+    description: 'Slot for custom button content'
+  },
+  {
+    type: 'component',
+    value: EditIcon,
+    name: 'icon',
+    props: {
+      size: 16,
+      palette: 'success',
+    },
+    // props: [
+    //   { name: 'size', value: 16, type: 'variable' },
+    //   { name: 'palette', value: 'success', type: 'text' },
+    //   { name: 'disabled', value: true, type: 'boolean' },
+    // ],
+    description: 'Slot for custom button content',
+  },
+  {
+    type: 'html',
+    name: null,
+    value: '<span style="color: red">Raw HTML Slot</span>',
+    description: 'Slot for raw HTML content',
+  }
+]
 
 export const events = {
   click: {

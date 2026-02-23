@@ -3,7 +3,8 @@
     :class="['vue-lab__button', ...classes]"
     @click="handleClick"
   >
-    {{ title }}
+    <slot></slot>
+    <slot name="icon"></slot>
   </div>
 </template>
 
