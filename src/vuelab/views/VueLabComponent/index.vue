@@ -18,7 +18,7 @@
           v-if="isComponent"
           class="vue-lab__component__body"
         >
-          <component :is="comp" v-bind="config">
+          <component :is="comp" v-bind="config" v-on="eventHandlers">
             <template
               v-for="(slot, index) in namedSlotsData"
               :key="`named-component-slot-${slot.name}-${index}`"
@@ -177,7 +177,8 @@ const getEventsData = (rows) => {
   }
   return Object.keys(rows).map(it => ({
     name: it,
-    description: rows[it].description
+    func: rows[it]?.func || (() => {alert(`Event ${it} triggered!`)}),
+    description: rows[it]?.description
   }))
 }
 
@@ -239,6 +240,15 @@ const exampleCode = computed(() => {
   }
 
   return `<${props.name} ${attrs} ${events} />`
+})
+
+const eventHandlers = computed(() => {
+  if (!eventsData.value?.length) return {}
+
+  return eventsData.value.reduce((prev, next) => ({
+    ...prev,
+    [next.name]: next.func
+  }), {})
 })
 
 const getSlotAttributes = (slotAttrs) => {

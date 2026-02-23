@@ -77,10 +77,15 @@ export const slots = [
 
 export const events = {
   click: {
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Emitted when the button is clicked. This event can be used to trigger actions or functions in response to user interactions.',
+    func: () => alert('Button clicked!'),
+    description: 'Emitted when the button is clicked. This event can be used to trigger actions or functions in response to user interactions.',
   },
-  dbclick: {
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Emitted when the button is double-clicked. This event can be used to trigger actions or functions in response to user interactions.',
+  contextmenu: {
+    func: (e) => {
+      e.preventDefault()
+      alert('Button open context menu!')
+    },
+    description: 'Emitted when the button is right-clicked. This event can be used to trigger actions or functions in response to user interactions.',
   },
 }
 

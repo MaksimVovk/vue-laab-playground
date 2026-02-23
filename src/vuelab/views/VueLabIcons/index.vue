@@ -30,6 +30,7 @@
             :key="option.name"
             :group="option"
             :config="config"
+            @input="handleSelectIcon"
           />
         </div>
         <Divider v-if="exampleCode" />
@@ -284,6 +285,13 @@
 
   const resetConfig = () => {
     config.value = { ...defaultConfig.value }
+  }
+
+  const handleSelectIcon = (iconName) => {
+    const icon = props.options.find(f => f.name === iconName)
+    if (!icon) return
+
+    config.value.icon = iconName
   }
 
 </script>
