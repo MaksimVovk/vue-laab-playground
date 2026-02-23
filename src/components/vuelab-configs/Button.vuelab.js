@@ -1,4 +1,5 @@
 import EditIcon from '../icons/FormIcon/EditIcon.vue'
+import { iconComponents } from '../icons/index'
 
 export const propsConfig = {
   palette: {
@@ -20,11 +21,15 @@ export const propsConfig = {
     ctrl: true,
     optional: true,
   },
-  title: {
-    type: 'text',
-    value: 'Test button',
-    description: 'Sets the button label text',
+  icon: {
+    type: 'list',
+    ctrlTitle: 'Icon',
+    value: 'ArrowBlockLeftIcon',
+    variants: iconComponents.map(it => ({ id: it.name, name: it.name })),
+    default: null,
+    description: 'Defines the button icon',
     ctrl: true,
+    optional: true,
   },
   disabled: {
     type: 'boolean',

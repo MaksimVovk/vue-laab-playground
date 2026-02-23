@@ -20,7 +20,7 @@
         class="vue-lab__props-description__item__body__row"
       >
         <div class="vue-lab__props-description__item__body__row-key">Values:</div>
-        <div class="vue-lab__props-description__item__body__row-value">{{ data.values }}</div>
+        <div class="vue-lab__props-description__item__body__row-value">{{ itemValues }}</div>
       </div>
       <div
         v-if="isDescription"
@@ -66,6 +66,14 @@
   const isDefault = computed(() => isExist(props.data.default))
   const isValues = computed(() => isExist(props.data.values))
   const isDescription = computed(() => isExist(props.data.description))
+  const itemValues = computed(() => {
+    if (!isValues.value) return null
+   if (props.data.type == 'list') {
+      return 'List of options'
+   }
+
+    return props.data.values
+  })
 
 </script>
 
