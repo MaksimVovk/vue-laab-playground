@@ -18,7 +18,27 @@
           v-if="isComponent"
           class="vue-lab__component__body"
         >
-          <component :is="comp" v-bind="config" />
+          <component :is="comp" v-bind="config">
+            <template
+              v-for="(slot, index) in namedSlotsData"
+              :key="`named-component-slot-${slot.name}-${index}`"
+              v-slot:[slot.name]
+            >
+              <ComponentSlot
+                v-if="namedSlotsData?.length"
+                :slotConfig="slot"
+              />
+            </template>
+            <template
+              v-for="(slot, index) in unnamedSlotsData"
+              :key="`unnamed-component-slot-${slot.name}-${index}`"
+            >
+              <ComponentSlot
+                v-if="unnamedSlotsData?.length"
+                :slotConfig="slot"
+              />
+            </template>
+          </component>
         </div>
         <Divider v-if="exampleCode" />
         <CodePreview
@@ -53,11 +73,11 @@
 </template>
 
 <script setup>
-import { computed, onMounted, reactive, ref, watch } from 'vue'
+import { computed, onMounted, reactive, ref, watch, markRaw } from 'vue'
 import { loadConfig } from '../../utils/load-config.js'
 import { ControlBlock, Page, Divider } from '../../components/layout/index.js'
 import CodePreview from '../../components/layout/CodePreview/index.vue'
-import { Button, Description, PropsDescription, EventsDescription } from '../../components/general/index.js'
+import { Button, Description, PropsDescription, EventsDescription, ComponentSlot } from '../../components/general/index.js'
 
 const props = defineProps({
   name: { type: String, default: 'Component' },
@@ -78,6 +98,9 @@ const description = ref(null)
 const propsData = ref(null)
 const propsMap = ref(new Map())
 const eventsData = ref(null)
+const slotsData = ref(null)
+const namedSlotsData = ref(null)
+const unnamedSlotsData = ref(null)
 const isLoading = ref(true)
 
 const defaultConfig = ref({
@@ -120,6 +143,9 @@ const loadData = async () => {
   propsData.value = getPropsData(keys, source.propsConfig)
   propsMap.value = getPropsMap(keys, source.propsConfig)
   eventsData.value = getEventsData(source.events)
+  slotsData.value = source.slots || []
+  namedSlotsData.value = getSlotsData(source.slots, true)
+  unnamedSlotsData.value = getSlotsData(source.slots, false)
   isLoading.value = true
 }
 
@@ -155,6 +181,18 @@ const getEventsData = (rows) => {
   }))
 }
 
+const getSlotsData = (rows, isNamed) => {
+  if (!rows) {
+    return null
+  }
+  return rows.filter(f => isNamed ? f.name : !f.name).map(it => ({
+    ...it,
+    value: it.type === 'component' ? markRaw(it.value) : it.value
+  }))
+}
+
+const isSlots = computed(() => !!(slotsData.value?.length))
+
 const exampleCode = computed(() => {
   const events = eventsData.value ? eventsData.value.map(it => `@${it.name}="${it.name}Handler"`).join(' ') : ''
   const attrs = Object.entries(config.value)
@@ -180,8 +218,57 @@ const exampleCode = computed(() => {
     .filter(Boolean)
     .join(' ')
 
+  if (isSlots.value) {
+    const slots = slotsData.value.map(slot => {
+      if (slot.type === 'text' || slot.type === 'html') {
+        return slot.value
+      } else if (slot.type === 'component') {
+        const vSlot = slot.name ? `v-slot:${slot.name}` : ''
+        const slotComponentName = slot?.value?.__name || slot?.value?.name
+
+        if (!slotComponentName) return null
+        const slotComponentAttrs = getSlotAttributes(slot.props) || ''
+        return `<template ${vSlot}><${slotComponentName} ${slotComponentAttrs}/></template>`
+      }
+    }).join('\n')
+    return `
+      <${props.name} ${attrs} ${events}>
+        ${slots}
+      </${props.name}>
+    `
+  }
+
   return `<${props.name} ${attrs} ${events} />`
 })
+
+const getSlotAttributes = (slotAttrs) => {
+  if (!slotAttrs) return ''
+
+  if (Array.isArray(slotAttrs)) {
+    return slotAttrs.map(attr => {
+      if (attr.type === 'number' || attr.type === 'boolean' || attr.type === 'variable') {
+        return `:${attr.name}="${attr.value}"`
+      } else if (attr.type === 'text') {
+        return `${attr.name}="${attr.value}"`
+      } else {
+        return null
+      }
+    }).filter(Boolean).sort().join(' ')
+  } else {
+    return Object.entries(slotAttrs).map(([key, value]) => {
+      if (typeof value === 'number' || typeof value === 'boolean') {
+        return `:${key}="${value}"`
+      } else if (typeof value === 'string') {
+        return `${key}="${value}"`
+      } else if (typeof value === 'object') {
+        const varName = Array.isArray(value) ? 'options' : 'dictionary'
+        return `:${key}="${varName}"`
+      } else {
+        return null
+      }
+    }).filter(Boolean).sort().join(' ')
+  }
+}
 
 const getValues = (val) => {
   if (Array.isArray(val)) {
