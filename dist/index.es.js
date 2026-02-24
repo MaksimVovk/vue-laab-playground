@@ -1,11 +1,11 @@
 (function(){"use strict";try{if(typeof document<"u"){var a=document.createElement("style");a.appendChild(document.createTextNode('@import"https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap";html[data-v-5643684a],body[data-v-5643684a],div[data-v-5643684a],span[data-v-5643684a],applet[data-v-5643684a],object[data-v-5643684a],iframe[data-v-5643684a],h1[data-v-5643684a],h2[data-v-5643684a],h3[data-v-5643684a],h4[data-v-5643684a],h5[data-v-5643684a],h6[data-v-5643684a],p[data-v-5643684a],blockquote[data-v-5643684a],pre[data-v-5643684a],a[data-v-5643684a],abbr[data-v-5643684a],acronym[data-v-5643684a],address[data-v-5643684a],big[data-v-5643684a],cite[data-v-5643684a],code[data-v-5643684a],del[data-v-5643684a],dfn[data-v-5643684a],em[data-v-5643684a],img[data-v-5643684a],ins[data-v-5643684a],kbd[data-v-5643684a],q[data-v-5643684a],s[data-v-5643684a],samp[data-v-5643684a],small[data-v-5643684a],strike[data-v-5643684a],strong[data-v-5643684a],sub[data-v-5643684a],sup[data-v-5643684a],tt[data-v-5643684a],var[data-v-5643684a],b[data-v-5643684a],u[data-v-5643684a],i[data-v-5643684a],center[data-v-5643684a],dl[data-v-5643684a],dt[data-v-5643684a],dd[data-v-5643684a],ol[data-v-5643684a],ul[data-v-5643684a],li[data-v-5643684a],fieldset[data-v-5643684a],form[data-v-5643684a],label[data-v-5643684a],legend[data-v-5643684a],table[data-v-5643684a],caption[data-v-5643684a],tbody[data-v-5643684a],tfoot[data-v-5643684a],thead[data-v-5643684a],tr[data-v-5643684a],th[data-v-5643684a],td[data-v-5643684a],article[data-v-5643684a],aside[data-v-5643684a],canvas[data-v-5643684a],details[data-v-5643684a],embed[data-v-5643684a],figure[data-v-5643684a],figcaption[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],output[data-v-5643684a],ruby[data-v-5643684a],section[data-v-5643684a],summary[data-v-5643684a],time[data-v-5643684a],mark[data-v-5643684a],audio[data-v-5643684a],video[data-v-5643684a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-5643684a],aside[data-v-5643684a],details[data-v-5643684a],figcaption[data-v-5643684a],figure[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],section[data-v-5643684a]{display:block}body[data-v-5643684a]{line-height:1}ol[data-v-5643684a],ul[data-v-5643684a]{list-style:none}blockquote[data-v-5643684a],q[data-v-5643684a]{quotes:none}blockquote[data-v-5643684a]:before,blockquote[data-v-5643684a]:after,q[data-v-5643684a]:before,q[data-v-5643684a]:after{content:"";content:none}table[data-v-5643684a]{border-collapse:collapse;border-spacing:0}[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-5643684a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-5643684a],body[data-v-5643684a],#app[data-v-5643684a]{height:100%;width:100%;overflow:hidden}body[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-5643684a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__lab-button[data-v-5643684a]{font-family:var(--vue-lab-font-family)}.vue-lab__lab-button_palette-success[data-v-5643684a]{background-color:#48bb78}.vue-lab__lab-button_palette-success[data-v-5643684a]:hover{background-color:#6dc993}.vue-lab__lab-button_palette-success[data-v-5643684a]:active{background-color:#389860}.vue-lab__lab-button_palette-error[data-v-5643684a]{background-color:#f56565}.vue-lab__lab-button_palette-error[data-v-5643684a]:hover{background-color:#f89595}.vue-lab__lab-button_palette-error[data-v-5643684a]:active{background-color:#f23535}.vue-lab__lab-button_palette-warning[data-v-5643684a]{background-color:#ed8936}.vue-lab__lab-button_palette-warning[data-v-5643684a]:hover{background-color:#f1a465}.vue-lab__lab-button_palette-warning[data-v-5643684a]:active{background-color:#dc6f14}.vue-lab__lab-button_palette-info[data-v-5643684a]{background-color:#4299e1}.vue-lab__lab-button_palette-info[data-v-5643684a]:hover{background-color:#6eb1e8}.vue-lab__lab-button_palette-info[data-v-5643684a]:active{background-color:#2180cf}.vue-lab__lab-button_palette-primary[data-v-5643684a]{background-color:#1e90ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:hover{background-color:#51a9ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:active{background-color:#0077ea}.vue-lab__lab-button_size-sm[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:24px;padding:6px 12px;border-radius:4px}.vue-lab__lab-button_size-md[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:32px;padding:8px 12px;border-radius:6px}.vue-lab__lab-button_size-lg[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:40px;padding:10px 14px;border-radius:8px}html[data-v-553567f5],body[data-v-553567f5],div[data-v-553567f5],span[data-v-553567f5],applet[data-v-553567f5],object[data-v-553567f5],iframe[data-v-553567f5],h1[data-v-553567f5],h2[data-v-553567f5],h3[data-v-553567f5],h4[data-v-553567f5],h5[data-v-553567f5],h6[data-v-553567f5],p[data-v-553567f5],blockquote[data-v-553567f5],pre[data-v-553567f5],a[data-v-553567f5],abbr[data-v-553567f5],acronym[data-v-553567f5],address[data-v-553567f5],big[data-v-553567f5],cite[data-v-553567f5],code[data-v-553567f5],del[data-v-553567f5],dfn[data-v-553567f5],em[data-v-553567f5],img[data-v-553567f5],ins[data-v-553567f5],kbd[data-v-553567f5],q[data-v-553567f5],s[data-v-553567f5],samp[data-v-553567f5],small[data-v-553567f5],strike[data-v-553567f5],strong[data-v-553567f5],sub[data-v-553567f5],sup[data-v-553567f5],tt[data-v-553567f5],var[data-v-553567f5],b[data-v-553567f5],u[data-v-553567f5],i[data-v-553567f5],center[data-v-553567f5],dl[data-v-553567f5],dt[data-v-553567f5],dd[data-v-553567f5],ol[data-v-553567f5],ul[data-v-553567f5],li[data-v-553567f5],fieldset[data-v-553567f5],form[data-v-553567f5],label[data-v-553567f5],legend[data-v-553567f5],table[data-v-553567f5],caption[data-v-553567f5],tbody[data-v-553567f5],tfoot[data-v-553567f5],thead[data-v-553567f5],tr[data-v-553567f5],th[data-v-553567f5],td[data-v-553567f5],article[data-v-553567f5],aside[data-v-553567f5],canvas[data-v-553567f5],details[data-v-553567f5],embed[data-v-553567f5],figure[data-v-553567f5],figcaption[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],output[data-v-553567f5],ruby[data-v-553567f5],section[data-v-553567f5],summary[data-v-553567f5],time[data-v-553567f5],mark[data-v-553567f5],audio[data-v-553567f5],video[data-v-553567f5]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-553567f5],aside[data-v-553567f5],details[data-v-553567f5],figcaption[data-v-553567f5],figure[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],section[data-v-553567f5]{display:block}body[data-v-553567f5]{line-height:1}ol[data-v-553567f5],ul[data-v-553567f5]{list-style:none}blockquote[data-v-553567f5],q[data-v-553567f5]{quotes:none}blockquote[data-v-553567f5]:before,blockquote[data-v-553567f5]:after,q[data-v-553567f5]:before,q[data-v-553567f5]:after{content:"";content:none}table[data-v-553567f5]{border-collapse:collapse;border-spacing:0}[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-553567f5]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-553567f5],body[data-v-553567f5],#app[data-v-553567f5]{height:100%;width:100%;overflow:hidden}body[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-553567f5]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-tag[data-v-553567f5]{font-family:var(--vue-lab-font-family)}.vue-lab-tag__title[data-v-553567f5]{color:#fff}.vue-lab-tag_palette-success[data-v-553567f5]{background-color:#48bb78}.vue-lab-tag_palette-success[data-v-553567f5]:hover{background-color:#6dc993}.vue-lab-tag_palette-success[data-v-553567f5]:active{background-color:#389860}.vue-lab-tag_palette-success.vue-lab-tag_active[data-v-553567f5]{background-color:#92d7af}.vue-lab-tag_palette-error[data-v-553567f5]{background-color:#f56565}.vue-lab-tag_palette-error[data-v-553567f5]:hover{background-color:#f89595}.vue-lab-tag_palette-error[data-v-553567f5]:active{background-color:#f23535}.vue-lab-tag_palette-error.vue-lab-tag_active[data-v-553567f5]{background-color:#fbc5c5}.vue-lab-tag_palette-warning[data-v-553567f5]{background-color:#ed8936}.vue-lab-tag_palette-warning[data-v-553567f5]:hover{background-color:#f1a465}.vue-lab-tag_palette-warning[data-v-553567f5]:active{background-color:#dc6f14}.vue-lab-tag_palette-warning.vue-lab-tag_active[data-v-553567f5]{background-color:#f5c094}.vue-lab-tag_palette-info[data-v-553567f5]{background-color:#4299e1}.vue-lab-tag_palette-info[data-v-553567f5]:hover{background-color:#6eb1e8}.vue-lab-tag_palette-info[data-v-553567f5]:active{background-color:#2180cf}.vue-lab-tag_palette-info.vue-lab-tag_active[data-v-553567f5]{background-color:#9ac9ef}.vue-lab-tag_palette-primary[data-v-553567f5]{background-color:#1e90ff}.vue-lab-tag_palette-primary[data-v-553567f5]:hover{background-color:#51a9ff}.vue-lab-tag_palette-primary[data-v-553567f5]:active{background-color:#0077ea}.vue-lab-tag_palette-primary.vue-lab-tag_active[data-v-553567f5]{background-color:#84c2ff}.vue-lab-tag_size-sm[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:20px;padding:4px 10px;border-radius:4px}.vue-lab-tag_size-md[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:28px;padding:6px 10px;border-radius:6px}.vue-lab-tag_size-lg[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:34px;padding:8px 12px;border-radius:8px}html[data-v-f2d48cdd],body[data-v-f2d48cdd],div[data-v-f2d48cdd],span[data-v-f2d48cdd],applet[data-v-f2d48cdd],object[data-v-f2d48cdd],iframe[data-v-f2d48cdd],h1[data-v-f2d48cdd],h2[data-v-f2d48cdd],h3[data-v-f2d48cdd],h4[data-v-f2d48cdd],h5[data-v-f2d48cdd],h6[data-v-f2d48cdd],p[data-v-f2d48cdd],blockquote[data-v-f2d48cdd],pre[data-v-f2d48cdd],a[data-v-f2d48cdd],abbr[data-v-f2d48cdd],acronym[data-v-f2d48cdd],address[data-v-f2d48cdd],big[data-v-f2d48cdd],cite[data-v-f2d48cdd],code[data-v-f2d48cdd],del[data-v-f2d48cdd],dfn[data-v-f2d48cdd],em[data-v-f2d48cdd],img[data-v-f2d48cdd],ins[data-v-f2d48cdd],kbd[data-v-f2d48cdd],q[data-v-f2d48cdd],s[data-v-f2d48cdd],samp[data-v-f2d48cdd],small[data-v-f2d48cdd],strike[data-v-f2d48cdd],strong[data-v-f2d48cdd],sub[data-v-f2d48cdd],sup[data-v-f2d48cdd],tt[data-v-f2d48cdd],var[data-v-f2d48cdd],b[data-v-f2d48cdd],u[data-v-f2d48cdd],i[data-v-f2d48cdd],center[data-v-f2d48cdd],dl[data-v-f2d48cdd],dt[data-v-f2d48cdd],dd[data-v-f2d48cdd],ol[data-v-f2d48cdd],ul[data-v-f2d48cdd],li[data-v-f2d48cdd],fieldset[data-v-f2d48cdd],form[data-v-f2d48cdd],label[data-v-f2d48cdd],legend[data-v-f2d48cdd],table[data-v-f2d48cdd],caption[data-v-f2d48cdd],tbody[data-v-f2d48cdd],tfoot[data-v-f2d48cdd],thead[data-v-f2d48cdd],tr[data-v-f2d48cdd],th[data-v-f2d48cdd],td[data-v-f2d48cdd],article[data-v-f2d48cdd],aside[data-v-f2d48cdd],canvas[data-v-f2d48cdd],details[data-v-f2d48cdd],embed[data-v-f2d48cdd],figure[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],output[data-v-f2d48cdd],ruby[data-v-f2d48cdd],section[data-v-f2d48cdd],summary[data-v-f2d48cdd],time[data-v-f2d48cdd],mark[data-v-f2d48cdd],audio[data-v-f2d48cdd],video[data-v-f2d48cdd]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-f2d48cdd],aside[data-v-f2d48cdd],details[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],figure[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],section[data-v-f2d48cdd]{display:block}body[data-v-f2d48cdd]{line-height:1}ol[data-v-f2d48cdd],ul[data-v-f2d48cdd]{list-style:none}blockquote[data-v-f2d48cdd],q[data-v-f2d48cdd]{quotes:none}blockquote[data-v-f2d48cdd]:before,blockquote[data-v-f2d48cdd]:after,q[data-v-f2d48cdd]:before,q[data-v-f2d48cdd]:after{content:"";content:none}table[data-v-f2d48cdd]{border-collapse:collapse;border-spacing:0}[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-f2d48cdd]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-f2d48cdd],body[data-v-f2d48cdd],#app[data-v-f2d48cdd]{height:100%;width:100%;overflow:hidden}body[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-f2d48cdd]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__description[data-v-f2d48cdd]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-845d1c40],body[data-v-845d1c40],div[data-v-845d1c40],span[data-v-845d1c40],applet[data-v-845d1c40],object[data-v-845d1c40],iframe[data-v-845d1c40],h1[data-v-845d1c40],h2[data-v-845d1c40],h3[data-v-845d1c40],h4[data-v-845d1c40],h5[data-v-845d1c40],h6[data-v-845d1c40],p[data-v-845d1c40],blockquote[data-v-845d1c40],pre[data-v-845d1c40],a[data-v-845d1c40],abbr[data-v-845d1c40],acronym[data-v-845d1c40],address[data-v-845d1c40],big[data-v-845d1c40],cite[data-v-845d1c40],code[data-v-845d1c40],del[data-v-845d1c40],dfn[data-v-845d1c40],em[data-v-845d1c40],img[data-v-845d1c40],ins[data-v-845d1c40],kbd[data-v-845d1c40],q[data-v-845d1c40],s[data-v-845d1c40],samp[data-v-845d1c40],small[data-v-845d1c40],strike[data-v-845d1c40],strong[data-v-845d1c40],sub[data-v-845d1c40],sup[data-v-845d1c40],tt[data-v-845d1c40],var[data-v-845d1c40],b[data-v-845d1c40],u[data-v-845d1c40],i[data-v-845d1c40],center[data-v-845d1c40],dl[data-v-845d1c40],dt[data-v-845d1c40],dd[data-v-845d1c40],ol[data-v-845d1c40],ul[data-v-845d1c40],li[data-v-845d1c40],fieldset[data-v-845d1c40],form[data-v-845d1c40],label[data-v-845d1c40],legend[data-v-845d1c40],table[data-v-845d1c40],caption[data-v-845d1c40],tbody[data-v-845d1c40],tfoot[data-v-845d1c40],thead[data-v-845d1c40],tr[data-v-845d1c40],th[data-v-845d1c40],td[data-v-845d1c40],article[data-v-845d1c40],aside[data-v-845d1c40],canvas[data-v-845d1c40],details[data-v-845d1c40],embed[data-v-845d1c40],figure[data-v-845d1c40],figcaption[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],output[data-v-845d1c40],ruby[data-v-845d1c40],section[data-v-845d1c40],summary[data-v-845d1c40],time[data-v-845d1c40],mark[data-v-845d1c40],audio[data-v-845d1c40],video[data-v-845d1c40]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-845d1c40],aside[data-v-845d1c40],details[data-v-845d1c40],figcaption[data-v-845d1c40],figure[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],section[data-v-845d1c40]{display:block}body[data-v-845d1c40]{line-height:1}ol[data-v-845d1c40],ul[data-v-845d1c40]{list-style:none}blockquote[data-v-845d1c40],q[data-v-845d1c40]{quotes:none}blockquote[data-v-845d1c40]:before,blockquote[data-v-845d1c40]:after,q[data-v-845d1c40]:before,q[data-v-845d1c40]:after{content:"";content:none}table[data-v-845d1c40]{border-collapse:collapse;border-spacing:0}[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-845d1c40]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-845d1c40],body[data-v-845d1c40],#app[data-v-845d1c40]{height:100%;width:100%;overflow:hidden}body[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-845d1c40]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description__item[data-v-845d1c40]{font-family:var(--vue-lab-font-family)}.vue-lab__props-description__item[data-v-845d1c40]:not(:last-child){padding-bottom:8px;border-bottom:1px solid #E5E7EB}.vue-lab__props-description__item[data-v-845d1c40]:not(:first-child){padding-top:8px}.vue-lab__props-description__item__header[data-v-845d1c40]{display:flex;justify-content:space-between;align-items:center;font-size:14px;margin-bottom:4px}.vue-lab__props-description__item__header_name[data-v-845d1c40]{font-weight:600;text-transform:capitalize}.vue-lab__props-description__item__header_type[data-v-845d1c40]{font-weight:600;text-transform:capitalize;font-size:14px;color:#374151}.vue-lab__props-description__item__body[data-v-845d1c40]{font-size:13px;border-left:#D1D5DB 2px solid;padding-left:8px}.vue-lab__props-description__item__body__row[data-v-845d1c40]{gap:4px;display:flex;line-height:1.4}.vue-lab__props-description__item__body__row-key[data-v-845d1c40]{text-transform:capitalize;font-weight:600}.vue-lab__props-description__item__body__row-value[data-v-845d1c40]{color:#6b7280}html[data-v-db8d12a1],body[data-v-db8d12a1],div[data-v-db8d12a1],span[data-v-db8d12a1],applet[data-v-db8d12a1],object[data-v-db8d12a1],iframe[data-v-db8d12a1],h1[data-v-db8d12a1],h2[data-v-db8d12a1],h3[data-v-db8d12a1],h4[data-v-db8d12a1],h5[data-v-db8d12a1],h6[data-v-db8d12a1],p[data-v-db8d12a1],blockquote[data-v-db8d12a1],pre[data-v-db8d12a1],a[data-v-db8d12a1],abbr[data-v-db8d12a1],acronym[data-v-db8d12a1],address[data-v-db8d12a1],big[data-v-db8d12a1],cite[data-v-db8d12a1],code[data-v-db8d12a1],del[data-v-db8d12a1],dfn[data-v-db8d12a1],em[data-v-db8d12a1],img[data-v-db8d12a1],ins[data-v-db8d12a1],kbd[data-v-db8d12a1],q[data-v-db8d12a1],s[data-v-db8d12a1],samp[data-v-db8d12a1],small[data-v-db8d12a1],strike[data-v-db8d12a1],strong[data-v-db8d12a1],sub[data-v-db8d12a1],sup[data-v-db8d12a1],tt[data-v-db8d12a1],var[data-v-db8d12a1],b[data-v-db8d12a1],u[data-v-db8d12a1],i[data-v-db8d12a1],center[data-v-db8d12a1],dl[data-v-db8d12a1],dt[data-v-db8d12a1],dd[data-v-db8d12a1],ol[data-v-db8d12a1],ul[data-v-db8d12a1],li[data-v-db8d12a1],fieldset[data-v-db8d12a1],form[data-v-db8d12a1],label[data-v-db8d12a1],legend[data-v-db8d12a1],table[data-v-db8d12a1],caption[data-v-db8d12a1],tbody[data-v-db8d12a1],tfoot[data-v-db8d12a1],thead[data-v-db8d12a1],tr[data-v-db8d12a1],th[data-v-db8d12a1],td[data-v-db8d12a1],article[data-v-db8d12a1],aside[data-v-db8d12a1],canvas[data-v-db8d12a1],details[data-v-db8d12a1],embed[data-v-db8d12a1],figure[data-v-db8d12a1],figcaption[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],output[data-v-db8d12a1],ruby[data-v-db8d12a1],section[data-v-db8d12a1],summary[data-v-db8d12a1],time[data-v-db8d12a1],mark[data-v-db8d12a1],audio[data-v-db8d12a1],video[data-v-db8d12a1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-db8d12a1],aside[data-v-db8d12a1],details[data-v-db8d12a1],figcaption[data-v-db8d12a1],figure[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],section[data-v-db8d12a1]{display:block}body[data-v-db8d12a1]{line-height:1}ol[data-v-db8d12a1],ul[data-v-db8d12a1]{list-style:none}blockquote[data-v-db8d12a1],q[data-v-db8d12a1]{quotes:none}blockquote[data-v-db8d12a1]:before,blockquote[data-v-db8d12a1]:after,q[data-v-db8d12a1]:before,q[data-v-db8d12a1]:after{content:"";content:none}table[data-v-db8d12a1]{border-collapse:collapse;border-spacing:0}[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-db8d12a1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-db8d12a1],body[data-v-db8d12a1],#app[data-v-db8d12a1]{height:100%;width:100%;overflow:hidden}body[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-db8d12a1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description[data-v-db8d12a1]{font-family:var(--vue-lab-font-family)}html[data-v-7b2edc41],body[data-v-7b2edc41],div[data-v-7b2edc41],span[data-v-7b2edc41],applet[data-v-7b2edc41],object[data-v-7b2edc41],iframe[data-v-7b2edc41],h1[data-v-7b2edc41],h2[data-v-7b2edc41],h3[data-v-7b2edc41],h4[data-v-7b2edc41],h5[data-v-7b2edc41],h6[data-v-7b2edc41],p[data-v-7b2edc41],blockquote[data-v-7b2edc41],pre[data-v-7b2edc41],a[data-v-7b2edc41],abbr[data-v-7b2edc41],acronym[data-v-7b2edc41],address[data-v-7b2edc41],big[data-v-7b2edc41],cite[data-v-7b2edc41],code[data-v-7b2edc41],del[data-v-7b2edc41],dfn[data-v-7b2edc41],em[data-v-7b2edc41],img[data-v-7b2edc41],ins[data-v-7b2edc41],kbd[data-v-7b2edc41],q[data-v-7b2edc41],s[data-v-7b2edc41],samp[data-v-7b2edc41],small[data-v-7b2edc41],strike[data-v-7b2edc41],strong[data-v-7b2edc41],sub[data-v-7b2edc41],sup[data-v-7b2edc41],tt[data-v-7b2edc41],var[data-v-7b2edc41],b[data-v-7b2edc41],u[data-v-7b2edc41],i[data-v-7b2edc41],center[data-v-7b2edc41],dl[data-v-7b2edc41],dt[data-v-7b2edc41],dd[data-v-7b2edc41],ol[data-v-7b2edc41],ul[data-v-7b2edc41],li[data-v-7b2edc41],fieldset[data-v-7b2edc41],form[data-v-7b2edc41],label[data-v-7b2edc41],legend[data-v-7b2edc41],table[data-v-7b2edc41],caption[data-v-7b2edc41],tbody[data-v-7b2edc41],tfoot[data-v-7b2edc41],thead[data-v-7b2edc41],tr[data-v-7b2edc41],th[data-v-7b2edc41],td[data-v-7b2edc41],article[data-v-7b2edc41],aside[data-v-7b2edc41],canvas[data-v-7b2edc41],details[data-v-7b2edc41],embed[data-v-7b2edc41],figure[data-v-7b2edc41],figcaption[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],output[data-v-7b2edc41],ruby[data-v-7b2edc41],section[data-v-7b2edc41],summary[data-v-7b2edc41],time[data-v-7b2edc41],mark[data-v-7b2edc41],audio[data-v-7b2edc41],video[data-v-7b2edc41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-7b2edc41],aside[data-v-7b2edc41],details[data-v-7b2edc41],figcaption[data-v-7b2edc41],figure[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],section[data-v-7b2edc41]{display:block}body[data-v-7b2edc41]{line-height:1}ol[data-v-7b2edc41],ul[data-v-7b2edc41]{list-style:none}blockquote[data-v-7b2edc41],q[data-v-7b2edc41]{quotes:none}blockquote[data-v-7b2edc41]:before,blockquote[data-v-7b2edc41]:after,q[data-v-7b2edc41]:before,q[data-v-7b2edc41]:after{content:"";content:none}table[data-v-7b2edc41]{border-collapse:collapse;border-spacing:0}[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-7b2edc41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-7b2edc41],body[data-v-7b2edc41],#app[data-v-7b2edc41]{height:100%;width:100%;overflow:hidden}body[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-7b2edc41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__events[data-v-7b2edc41]{font-family:var(--vue-lab-font-family)}.vue-lab__events__body-row[data-v-7b2edc41]{display:grid;grid-template-columns:minmax(100px,150px) 1fr}.vue-lab__events__body-column--th[data-v-7b2edc41]{font-weight:600;font-size:13px;height:24px;display:flex;align-items:center;border-bottom:#D1D5DB 1px solid;padding:5px 0}.vue-lab__events__body-column--th-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body-column--td[data-v-7b2edc41]{font-size:14px;color:#6b7280;padding:5px 0;border-bottom:#D1D5DB 1px solid;align-items:center;display:flex;line-height:1.4}.vue-lab__events__body-column--td-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body .bold[data-v-7b2edc41]{font-weight:600;color:#2c3239}html[data-v-11d57440],body[data-v-11d57440],div[data-v-11d57440],span[data-v-11d57440],applet[data-v-11d57440],object[data-v-11d57440],iframe[data-v-11d57440],h1[data-v-11d57440],h2[data-v-11d57440],h3[data-v-11d57440],h4[data-v-11d57440],h5[data-v-11d57440],h6[data-v-11d57440],p[data-v-11d57440],blockquote[data-v-11d57440],pre[data-v-11d57440],a[data-v-11d57440],abbr[data-v-11d57440],acronym[data-v-11d57440],address[data-v-11d57440],big[data-v-11d57440],cite[data-v-11d57440],code[data-v-11d57440],del[data-v-11d57440],dfn[data-v-11d57440],em[data-v-11d57440],img[data-v-11d57440],ins[data-v-11d57440],kbd[data-v-11d57440],q[data-v-11d57440],s[data-v-11d57440],samp[data-v-11d57440],small[data-v-11d57440],strike[data-v-11d57440],strong[data-v-11d57440],sub[data-v-11d57440],sup[data-v-11d57440],tt[data-v-11d57440],var[data-v-11d57440],b[data-v-11d57440],u[data-v-11d57440],i[data-v-11d57440],center[data-v-11d57440],dl[data-v-11d57440],dt[data-v-11d57440],dd[data-v-11d57440],ol[data-v-11d57440],ul[data-v-11d57440],li[data-v-11d57440],fieldset[data-v-11d57440],form[data-v-11d57440],label[data-v-11d57440],legend[data-v-11d57440],table[data-v-11d57440],caption[data-v-11d57440],tbody[data-v-11d57440],tfoot[data-v-11d57440],thead[data-v-11d57440],tr[data-v-11d57440],th[data-v-11d57440],td[data-v-11d57440],article[data-v-11d57440],aside[data-v-11d57440],canvas[data-v-11d57440],details[data-v-11d57440],embed[data-v-11d57440],figure[data-v-11d57440],figcaption[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],output[data-v-11d57440],ruby[data-v-11d57440],section[data-v-11d57440],summary[data-v-11d57440],time[data-v-11d57440],mark[data-v-11d57440],audio[data-v-11d57440],video[data-v-11d57440]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-11d57440],aside[data-v-11d57440],details[data-v-11d57440],figcaption[data-v-11d57440],figure[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],section[data-v-11d57440]{display:block}body[data-v-11d57440]{line-height:1}ol[data-v-11d57440],ul[data-v-11d57440]{list-style:none}blockquote[data-v-11d57440],q[data-v-11d57440]{quotes:none}blockquote[data-v-11d57440]:before,blockquote[data-v-11d57440]:after,q[data-v-11d57440]:before,q[data-v-11d57440]:after{content:"";content:none}table[data-v-11d57440]{border-collapse:collapse;border-spacing:0}[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-11d57440]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-11d57440],body[data-v-11d57440],#app[data-v-11d57440]{height:100%;width:100%;overflow:hidden}body[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-11d57440]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.icon__geometry[data-v-11d57440]{fill:#6b7280}html[data-v-163aedb2],body[data-v-163aedb2],div[data-v-163aedb2],span[data-v-163aedb2],applet[data-v-163aedb2],object[data-v-163aedb2],iframe[data-v-163aedb2],h1[data-v-163aedb2],h2[data-v-163aedb2],h3[data-v-163aedb2],h4[data-v-163aedb2],h5[data-v-163aedb2],h6[data-v-163aedb2],p[data-v-163aedb2],blockquote[data-v-163aedb2],pre[data-v-163aedb2],a[data-v-163aedb2],abbr[data-v-163aedb2],acronym[data-v-163aedb2],address[data-v-163aedb2],big[data-v-163aedb2],cite[data-v-163aedb2],code[data-v-163aedb2],del[data-v-163aedb2],dfn[data-v-163aedb2],em[data-v-163aedb2],img[data-v-163aedb2],ins[data-v-163aedb2],kbd[data-v-163aedb2],q[data-v-163aedb2],s[data-v-163aedb2],samp[data-v-163aedb2],small[data-v-163aedb2],strike[data-v-163aedb2],strong[data-v-163aedb2],sub[data-v-163aedb2],sup[data-v-163aedb2],tt[data-v-163aedb2],var[data-v-163aedb2],b[data-v-163aedb2],u[data-v-163aedb2],i[data-v-163aedb2],center[data-v-163aedb2],dl[data-v-163aedb2],dt[data-v-163aedb2],dd[data-v-163aedb2],ol[data-v-163aedb2],ul[data-v-163aedb2],li[data-v-163aedb2],fieldset[data-v-163aedb2],form[data-v-163aedb2],label[data-v-163aedb2],legend[data-v-163aedb2],table[data-v-163aedb2],caption[data-v-163aedb2],tbody[data-v-163aedb2],tfoot[data-v-163aedb2],thead[data-v-163aedb2],tr[data-v-163aedb2],th[data-v-163aedb2],td[data-v-163aedb2],article[data-v-163aedb2],aside[data-v-163aedb2],canvas[data-v-163aedb2],details[data-v-163aedb2],embed[data-v-163aedb2],figure[data-v-163aedb2],figcaption[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],output[data-v-163aedb2],ruby[data-v-163aedb2],section[data-v-163aedb2],summary[data-v-163aedb2],time[data-v-163aedb2],mark[data-v-163aedb2],audio[data-v-163aedb2],video[data-v-163aedb2]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-163aedb2],aside[data-v-163aedb2],details[data-v-163aedb2],figcaption[data-v-163aedb2],figure[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],section[data-v-163aedb2]{display:block}body[data-v-163aedb2]{line-height:1}ol[data-v-163aedb2],ul[data-v-163aedb2]{list-style:none}blockquote[data-v-163aedb2],q[data-v-163aedb2]{quotes:none}blockquote[data-v-163aedb2]:before,blockquote[data-v-163aedb2]:after,q[data-v-163aedb2]:before,q[data-v-163aedb2]:after{content:"";content:none}table[data-v-163aedb2]{border-collapse:collapse;border-spacing:0}[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-163aedb2]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-163aedb2],body[data-v-163aedb2],#app[data-v-163aedb2]{height:100%;width:100%;overflow:hidden}body[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-163aedb2]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-163aedb2]{position:relative;box-sizing:border-box}.vue-lab__search-input[data-v-163aedb2]{margin:0;border:0;font-size:14px;min-width:100%;border:1px solid #D1D5DB;background-color:#f3f4f6;padding:4px 10px;box-sizing:border-box;border-radius:6px}.vue-lab__search-input[data-v-163aedb2]:focus{border-color:none;outline:none;background-color:#fff}.vue-lab__search-list[data-v-163aedb2]{margin-top:4px;background-color:#fff;padding:5px 0;min-width:150px;border-radius:4px;border:#D1D5DB 1px solid;display:grid;gap:2px;z-index:2}.vue-lab__search-list--empty[data-v-163aedb2]{height:50px;display:flex;align-items:center;justify-content:center;font-size:13px}.vue-lab__search-list-item[data-v-163aedb2]{padding:5px 10px;box-sizing:border-box;font-size:13px;height:25px;display:flex;align-items:center;cursor:pointer;text-decoration:none;gap:5px}.vue-lab__search-list-item[data-v-163aedb2]:hover:not(.vue-lab__search-list-item--active){background-color:#dcedff;transition:all .3s ease-in-out}.vue-lab__search-list-item[data-v-163aedb2]:hover{transition:all .3s ease-in-out}.vue-lab__search-list-item--active[data-v-163aedb2]{background-color:#dcedff}html[data-v-875f6eef],body[data-v-875f6eef],div[data-v-875f6eef],span[data-v-875f6eef],applet[data-v-875f6eef],object[data-v-875f6eef],iframe[data-v-875f6eef],h1[data-v-875f6eef],h2[data-v-875f6eef],h3[data-v-875f6eef],h4[data-v-875f6eef],h5[data-v-875f6eef],h6[data-v-875f6eef],p[data-v-875f6eef],blockquote[data-v-875f6eef],pre[data-v-875f6eef],a[data-v-875f6eef],abbr[data-v-875f6eef],acronym[data-v-875f6eef],address[data-v-875f6eef],big[data-v-875f6eef],cite[data-v-875f6eef],code[data-v-875f6eef],del[data-v-875f6eef],dfn[data-v-875f6eef],em[data-v-875f6eef],img[data-v-875f6eef],ins[data-v-875f6eef],kbd[data-v-875f6eef],q[data-v-875f6eef],s[data-v-875f6eef],samp[data-v-875f6eef],small[data-v-875f6eef],strike[data-v-875f6eef],strong[data-v-875f6eef],sub[data-v-875f6eef],sup[data-v-875f6eef],tt[data-v-875f6eef],var[data-v-875f6eef],b[data-v-875f6eef],u[data-v-875f6eef],i[data-v-875f6eef],center[data-v-875f6eef],dl[data-v-875f6eef],dt[data-v-875f6eef],dd[data-v-875f6eef],ol[data-v-875f6eef],ul[data-v-875f6eef],li[data-v-875f6eef],fieldset[data-v-875f6eef],form[data-v-875f6eef],label[data-v-875f6eef],legend[data-v-875f6eef],table[data-v-875f6eef],caption[data-v-875f6eef],tbody[data-v-875f6eef],tfoot[data-v-875f6eef],thead[data-v-875f6eef],tr[data-v-875f6eef],th[data-v-875f6eef],td[data-v-875f6eef],article[data-v-875f6eef],aside[data-v-875f6eef],canvas[data-v-875f6eef],details[data-v-875f6eef],embed[data-v-875f6eef],figure[data-v-875f6eef],figcaption[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],output[data-v-875f6eef],ruby[data-v-875f6eef],section[data-v-875f6eef],summary[data-v-875f6eef],time[data-v-875f6eef],mark[data-v-875f6eef],audio[data-v-875f6eef],video[data-v-875f6eef]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-875f6eef],aside[data-v-875f6eef],details[data-v-875f6eef],figcaption[data-v-875f6eef],figure[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],section[data-v-875f6eef]{display:block}body[data-v-875f6eef]{line-height:1}ol[data-v-875f6eef],ul[data-v-875f6eef]{list-style:none}blockquote[data-v-875f6eef],q[data-v-875f6eef]{quotes:none}blockquote[data-v-875f6eef]:before,blockquote[data-v-875f6eef]:after,q[data-v-875f6eef]:before,q[data-v-875f6eef]:after{content:"";content:none}table[data-v-875f6eef]{border-collapse:collapse;border-spacing:0}[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-875f6eef]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-875f6eef],body[data-v-875f6eef],#app[data-v-875f6eef]{height:100%;width:100%;overflow:hidden}body[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-875f6eef]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-item[data-v-875f6eef],.vue-lab__nav-item[data-v-875f6eef] *{cursor:pointer!important}.vue-lab__nav-item a[data-v-875f6eef],.vue-lab__nav-item * a[data-v-875f6eef]{cursor:pointer}.vue-lab__nav-item[data-v-875f6eef]{display:grid;grid-template-columns:16px 1fr;padding:10px;align-items:center;gap:5px;font-size:15px;box-sizing:border-box;-webkit-user-select:none;user-select:none;transition:all .3s ease-in-out;text-decoration:none;z-index:1;color:#2c3239}.vue-lab__nav-item-icon[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item-icon-menu[data-v-875f6eef]{width:14px;height:14px}.vue-lab__nav-item-label[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item[data-v-875f6eef]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__nav-item[data-v-875f6eef]:hover{transition:all .3s ease-in-out}.vue-lab__nav-item--active[data-v-875f6eef]{background-color:#dcedff}html[data-v-4061da29],body[data-v-4061da29],div[data-v-4061da29],span[data-v-4061da29],applet[data-v-4061da29],object[data-v-4061da29],iframe[data-v-4061da29],h1[data-v-4061da29],h2[data-v-4061da29],h3[data-v-4061da29],h4[data-v-4061da29],h5[data-v-4061da29],h6[data-v-4061da29],p[data-v-4061da29],blockquote[data-v-4061da29],pre[data-v-4061da29],a[data-v-4061da29],abbr[data-v-4061da29],acronym[data-v-4061da29],address[data-v-4061da29],big[data-v-4061da29],cite[data-v-4061da29],code[data-v-4061da29],del[data-v-4061da29],dfn[data-v-4061da29],em[data-v-4061da29],img[data-v-4061da29],ins[data-v-4061da29],kbd[data-v-4061da29],q[data-v-4061da29],s[data-v-4061da29],samp[data-v-4061da29],small[data-v-4061da29],strike[data-v-4061da29],strong[data-v-4061da29],sub[data-v-4061da29],sup[data-v-4061da29],tt[data-v-4061da29],var[data-v-4061da29],b[data-v-4061da29],u[data-v-4061da29],i[data-v-4061da29],center[data-v-4061da29],dl[data-v-4061da29],dt[data-v-4061da29],dd[data-v-4061da29],ol[data-v-4061da29],ul[data-v-4061da29],li[data-v-4061da29],fieldset[data-v-4061da29],form[data-v-4061da29],label[data-v-4061da29],legend[data-v-4061da29],table[data-v-4061da29],caption[data-v-4061da29],tbody[data-v-4061da29],tfoot[data-v-4061da29],thead[data-v-4061da29],tr[data-v-4061da29],th[data-v-4061da29],td[data-v-4061da29],article[data-v-4061da29],aside[data-v-4061da29],canvas[data-v-4061da29],details[data-v-4061da29],embed[data-v-4061da29],figure[data-v-4061da29],figcaption[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],output[data-v-4061da29],ruby[data-v-4061da29],section[data-v-4061da29],summary[data-v-4061da29],time[data-v-4061da29],mark[data-v-4061da29],audio[data-v-4061da29],video[data-v-4061da29]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-4061da29],aside[data-v-4061da29],details[data-v-4061da29],figcaption[data-v-4061da29],figure[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],section[data-v-4061da29]{display:block}body[data-v-4061da29]{line-height:1}ol[data-v-4061da29],ul[data-v-4061da29]{list-style:none}blockquote[data-v-4061da29],q[data-v-4061da29]{quotes:none}blockquote[data-v-4061da29]:before,blockquote[data-v-4061da29]:after,q[data-v-4061da29]:before,q[data-v-4061da29]:after{content:"";content:none}table[data-v-4061da29]{border-collapse:collapse;border-spacing:0}[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-4061da29]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-4061da29],body[data-v-4061da29],#app[data-v-4061da29]{height:100%;width:100%;overflow:hidden}body[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-group[data-v-4061da29]{padding:0 10px}.vue-lab__nav-group-name[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;font-size:13px;font-weight:600;color:#6b7280;margin-bottom:10px;cursor:pointer}.vue-lab__nav-group-arrow[data-v-4061da29]{transition:.3s}.vue-lab__nav-group-arrow--closed[data-v-4061da29]{transform:rotate(180deg)}.vue-lab__nav-group-items[data-v-4061da29]{overflow:hidden;transition:max-height var(--4061da29-maxHeightDuration) ease;max-height:0}.vue-lab__nav-group-items--opened[data-v-4061da29]{max-height:var(--4061da29-maxHeight)}html[data-v-3672c48c],body[data-v-3672c48c],div[data-v-3672c48c],span[data-v-3672c48c],applet[data-v-3672c48c],object[data-v-3672c48c],iframe[data-v-3672c48c],h1[data-v-3672c48c],h2[data-v-3672c48c],h3[data-v-3672c48c],h4[data-v-3672c48c],h5[data-v-3672c48c],h6[data-v-3672c48c],p[data-v-3672c48c],blockquote[data-v-3672c48c],pre[data-v-3672c48c],a[data-v-3672c48c],abbr[data-v-3672c48c],acronym[data-v-3672c48c],address[data-v-3672c48c],big[data-v-3672c48c],cite[data-v-3672c48c],code[data-v-3672c48c],del[data-v-3672c48c],dfn[data-v-3672c48c],em[data-v-3672c48c],img[data-v-3672c48c],ins[data-v-3672c48c],kbd[data-v-3672c48c],q[data-v-3672c48c],s[data-v-3672c48c],samp[data-v-3672c48c],small[data-v-3672c48c],strike[data-v-3672c48c],strong[data-v-3672c48c],sub[data-v-3672c48c],sup[data-v-3672c48c],tt[data-v-3672c48c],var[data-v-3672c48c],b[data-v-3672c48c],u[data-v-3672c48c],i[data-v-3672c48c],center[data-v-3672c48c],dl[data-v-3672c48c],dt[data-v-3672c48c],dd[data-v-3672c48c],ol[data-v-3672c48c],ul[data-v-3672c48c],li[data-v-3672c48c],fieldset[data-v-3672c48c],form[data-v-3672c48c],label[data-v-3672c48c],legend[data-v-3672c48c],table[data-v-3672c48c],caption[data-v-3672c48c],tbody[data-v-3672c48c],tfoot[data-v-3672c48c],thead[data-v-3672c48c],tr[data-v-3672c48c],th[data-v-3672c48c],td[data-v-3672c48c],article[data-v-3672c48c],aside[data-v-3672c48c],canvas[data-v-3672c48c],details[data-v-3672c48c],embed[data-v-3672c48c],figure[data-v-3672c48c],figcaption[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],output[data-v-3672c48c],ruby[data-v-3672c48c],section[data-v-3672c48c],summary[data-v-3672c48c],time[data-v-3672c48c],mark[data-v-3672c48c],audio[data-v-3672c48c],video[data-v-3672c48c]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3672c48c],aside[data-v-3672c48c],details[data-v-3672c48c],figcaption[data-v-3672c48c],figure[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],section[data-v-3672c48c]{display:block}body[data-v-3672c48c]{line-height:1}ol[data-v-3672c48c],ul[data-v-3672c48c]{list-style:none}blockquote[data-v-3672c48c],q[data-v-3672c48c]{quotes:none}blockquote[data-v-3672c48c]:before,blockquote[data-v-3672c48c]:after,q[data-v-3672c48c]:before,q[data-v-3672c48c]:after{content:"";content:none}table[data-v-3672c48c]{border-collapse:collapse;border-spacing:0}[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3672c48c]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3672c48c],body[data-v-3672c48c],#app[data-v-3672c48c]{height:100%;width:100%;overflow:hidden}body[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3672c48c]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav[data-v-3672c48c]{background-color:#fff;height:100%;border-right:1px solid #D1D5DB;-webkit-user-select:none;user-select:none;overflow:hidden;display:flex;flex-direction:column;font-family:var(--vue-lab-font-family);color:#2c3239}.vue-lab__nav-header[data-v-3672c48c]{display:grid;grid-template-columns:32px 1fr;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:10px;cursor:pointer;color:#2c3239}.vue-lab__nav-header-title[data-v-3672c48c]{font-family:Ubuntu,sans-serif;color:#0f664e}.vue-lab__nav-body[data-v-3672c48c]{height:100%;display:grid;grid-template-rows:1fr;overflow:auto;padding-bottom:10px}.vue-lab__nav-body-title[data-v-3672c48c]{padding:8px 10px 20px;font-size:15px;font-weight:600;color:#6b7280}.vue-lab__nav-body-items[data-v-3672c48c]{overflow:auto;height:100%;display:grid;align-items:start;grid-auto-rows:min-content;gap:10px}.vue-lab__nav-search[data-v-3672c48c]{padding:5px 10px;margin-bottom:12px}.vue-lab__popover[data-v-22f54b08]{position:absolute;overflow:hidden;z-index:999;font-family:var(--vue-lab-font-family)}html[data-v-06e447f6],body[data-v-06e447f6],div[data-v-06e447f6],span[data-v-06e447f6],applet[data-v-06e447f6],object[data-v-06e447f6],iframe[data-v-06e447f6],h1[data-v-06e447f6],h2[data-v-06e447f6],h3[data-v-06e447f6],h4[data-v-06e447f6],h5[data-v-06e447f6],h6[data-v-06e447f6],p[data-v-06e447f6],blockquote[data-v-06e447f6],pre[data-v-06e447f6],a[data-v-06e447f6],abbr[data-v-06e447f6],acronym[data-v-06e447f6],address[data-v-06e447f6],big[data-v-06e447f6],cite[data-v-06e447f6],code[data-v-06e447f6],del[data-v-06e447f6],dfn[data-v-06e447f6],em[data-v-06e447f6],img[data-v-06e447f6],ins[data-v-06e447f6],kbd[data-v-06e447f6],q[data-v-06e447f6],s[data-v-06e447f6],samp[data-v-06e447f6],small[data-v-06e447f6],strike[data-v-06e447f6],strong[data-v-06e447f6],sub[data-v-06e447f6],sup[data-v-06e447f6],tt[data-v-06e447f6],var[data-v-06e447f6],b[data-v-06e447f6],u[data-v-06e447f6],i[data-v-06e447f6],center[data-v-06e447f6],dl[data-v-06e447f6],dt[data-v-06e447f6],dd[data-v-06e447f6],ol[data-v-06e447f6],ul[data-v-06e447f6],li[data-v-06e447f6],fieldset[data-v-06e447f6],form[data-v-06e447f6],label[data-v-06e447f6],legend[data-v-06e447f6],table[data-v-06e447f6],caption[data-v-06e447f6],tbody[data-v-06e447f6],tfoot[data-v-06e447f6],thead[data-v-06e447f6],tr[data-v-06e447f6],th[data-v-06e447f6],td[data-v-06e447f6],article[data-v-06e447f6],aside[data-v-06e447f6],canvas[data-v-06e447f6],details[data-v-06e447f6],embed[data-v-06e447f6],figure[data-v-06e447f6],figcaption[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],output[data-v-06e447f6],ruby[data-v-06e447f6],section[data-v-06e447f6],summary[data-v-06e447f6],time[data-v-06e447f6],mark[data-v-06e447f6],audio[data-v-06e447f6],video[data-v-06e447f6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-06e447f6],aside[data-v-06e447f6],details[data-v-06e447f6],figcaption[data-v-06e447f6],figure[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],section[data-v-06e447f6]{display:block}body[data-v-06e447f6]{line-height:1}ol[data-v-06e447f6],ul[data-v-06e447f6]{list-style:none}blockquote[data-v-06e447f6],q[data-v-06e447f6]{quotes:none}blockquote[data-v-06e447f6]:before,blockquote[data-v-06e447f6]:after,q[data-v-06e447f6]:before,q[data-v-06e447f6]:after{content:"";content:none}table[data-v-06e447f6]{border-collapse:collapse;border-spacing:0}[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-06e447f6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-06e447f6],body[data-v-06e447f6],#app[data-v-06e447f6]{height:100%;width:100%;overflow:hidden}body[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-06e447f6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-06e447f6]{font-family:var(--vue-lab-font-family)}.vue-lab__search[data-v-06e447f6] *{font:inherit}.vue-lab__search__field[data-v-06e447f6]{position:relative;margin-top:12px}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:5px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:7px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:10px;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:13px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:15px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:17px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}html[data-v-1586512e],body[data-v-1586512e],div[data-v-1586512e],span[data-v-1586512e],applet[data-v-1586512e],object[data-v-1586512e],iframe[data-v-1586512e],h1[data-v-1586512e],h2[data-v-1586512e],h3[data-v-1586512e],h4[data-v-1586512e],h5[data-v-1586512e],h6[data-v-1586512e],p[data-v-1586512e],blockquote[data-v-1586512e],pre[data-v-1586512e],a[data-v-1586512e],abbr[data-v-1586512e],acronym[data-v-1586512e],address[data-v-1586512e],big[data-v-1586512e],cite[data-v-1586512e],code[data-v-1586512e],del[data-v-1586512e],dfn[data-v-1586512e],em[data-v-1586512e],img[data-v-1586512e],ins[data-v-1586512e],kbd[data-v-1586512e],q[data-v-1586512e],s[data-v-1586512e],samp[data-v-1586512e],small[data-v-1586512e],strike[data-v-1586512e],strong[data-v-1586512e],sub[data-v-1586512e],sup[data-v-1586512e],tt[data-v-1586512e],var[data-v-1586512e],b[data-v-1586512e],u[data-v-1586512e],i[data-v-1586512e],center[data-v-1586512e],dl[data-v-1586512e],dt[data-v-1586512e],dd[data-v-1586512e],ol[data-v-1586512e],ul[data-v-1586512e],li[data-v-1586512e],fieldset[data-v-1586512e],form[data-v-1586512e],label[data-v-1586512e],legend[data-v-1586512e],table[data-v-1586512e],caption[data-v-1586512e],tbody[data-v-1586512e],tfoot[data-v-1586512e],thead[data-v-1586512e],tr[data-v-1586512e],th[data-v-1586512e],td[data-v-1586512e],article[data-v-1586512e],aside[data-v-1586512e],canvas[data-v-1586512e],details[data-v-1586512e],embed[data-v-1586512e],figure[data-v-1586512e],figcaption[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],output[data-v-1586512e],ruby[data-v-1586512e],section[data-v-1586512e],summary[data-v-1586512e],time[data-v-1586512e],mark[data-v-1586512e],audio[data-v-1586512e],video[data-v-1586512e]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-1586512e],aside[data-v-1586512e],details[data-v-1586512e],figcaption[data-v-1586512e],figure[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],section[data-v-1586512e]{display:block}body[data-v-1586512e]{line-height:1}ol[data-v-1586512e],ul[data-v-1586512e]{list-style:none}blockquote[data-v-1586512e],q[data-v-1586512e]{quotes:none}blockquote[data-v-1586512e]:before,blockquote[data-v-1586512e]:after,q[data-v-1586512e]:before,q[data-v-1586512e]:after{content:"";content:none}table[data-v-1586512e]{border-collapse:collapse;border-spacing:0}[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-1586512e]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-1586512e],body[data-v-1586512e],#app[data-v-1586512e]{height:100%;width:100%;overflow:hidden}body[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-1586512e]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__icon-base-template[data-v-1586512e]{width:fit-content}.icon[data-v-1586512e]{display:inline-flex;align-items:center;justify-content:center;width:var(--icon-size);height:var(--icon-size);transition:.5s}.icon_clickable[data-v-1586512e]{cursor:pointer}.icon_disabled[data-v-1586512e]{cursor:not-allowed!important}.icon_disabled .icon__geometry[data-v-1586512e]{fill:var(--custom-color, #C7CED4)!important}.icon_disabled .icon__geometry_stroke[data-v-1586512e]{stroke:#c7ced4!important}.icon_disabled .icon__geometry_fill-empty[data-v-1586512e]{fill:transparent!important}.icon.icon_palette-default[data-v-1586512e]{transition:.5s}.icon.icon_palette-default[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3A424A)}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]{transition:.5s}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #C7CED4)}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]{transition:.5s}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #003A5D)}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]{transition:.5s}.icon.icon_palette-success[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #0BB060)}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]{transition:.5s}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #FAAD14)}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]{transition:.5s}.icon.icon_palette-error[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #D64B4C)}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]{transition:.5s}.icon.icon_palette-info[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #1C4EBF)}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]{transition:.5s}.icon.icon_palette-light[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #fff)}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]{transition:.5s}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #cacaca)}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]{transition:.5s}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3781F0)}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]{transition:.5s}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #292D32)}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]{transition:.5s}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #6B7280)}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon[data-v-1586512e] svg{width:100%;height:100%}html[data-v-c7a78350],body[data-v-c7a78350],div[data-v-c7a78350],span[data-v-c7a78350],applet[data-v-c7a78350],object[data-v-c7a78350],iframe[data-v-c7a78350],h1[data-v-c7a78350],h2[data-v-c7a78350],h3[data-v-c7a78350],h4[data-v-c7a78350],h5[data-v-c7a78350],h6[data-v-c7a78350],p[data-v-c7a78350],blockquote[data-v-c7a78350],pre[data-v-c7a78350],a[data-v-c7a78350],abbr[data-v-c7a78350],acronym[data-v-c7a78350],address[data-v-c7a78350],big[data-v-c7a78350],cite[data-v-c7a78350],code[data-v-c7a78350],del[data-v-c7a78350],dfn[data-v-c7a78350],em[data-v-c7a78350],img[data-v-c7a78350],ins[data-v-c7a78350],kbd[data-v-c7a78350],q[data-v-c7a78350],s[data-v-c7a78350],samp[data-v-c7a78350],small[data-v-c7a78350],strike[data-v-c7a78350],strong[data-v-c7a78350],sub[data-v-c7a78350],sup[data-v-c7a78350],tt[data-v-c7a78350],var[data-v-c7a78350],b[data-v-c7a78350],u[data-v-c7a78350],i[data-v-c7a78350],center[data-v-c7a78350],dl[data-v-c7a78350],dt[data-v-c7a78350],dd[data-v-c7a78350],ol[data-v-c7a78350],ul[data-v-c7a78350],li[data-v-c7a78350],fieldset[data-v-c7a78350],form[data-v-c7a78350],label[data-v-c7a78350],legend[data-v-c7a78350],table[data-v-c7a78350],caption[data-v-c7a78350],tbody[data-v-c7a78350],tfoot[data-v-c7a78350],thead[data-v-c7a78350],tr[data-v-c7a78350],th[data-v-c7a78350],td[data-v-c7a78350],article[data-v-c7a78350],aside[data-v-c7a78350],canvas[data-v-c7a78350],details[data-v-c7a78350],embed[data-v-c7a78350],figure[data-v-c7a78350],figcaption[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],output[data-v-c7a78350],ruby[data-v-c7a78350],section[data-v-c7a78350],summary[data-v-c7a78350],time[data-v-c7a78350],mark[data-v-c7a78350],audio[data-v-c7a78350],video[data-v-c7a78350]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c7a78350],aside[data-v-c7a78350],details[data-v-c7a78350],figcaption[data-v-c7a78350],figure[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],section[data-v-c7a78350]{display:block}body[data-v-c7a78350]{line-height:1}ol[data-v-c7a78350],ul[data-v-c7a78350]{list-style:none}blockquote[data-v-c7a78350],q[data-v-c7a78350]{quotes:none}blockquote[data-v-c7a78350]:before,blockquote[data-v-c7a78350]:after,q[data-v-c7a78350]:before,q[data-v-c7a78350]:after{content:"";content:none}table[data-v-c7a78350]{border-collapse:collapse;border-spacing:0}[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c7a78350]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c7a78350],body[data-v-c7a78350],#app[data-v-c7a78350]{height:100%;width:100%;overflow:hidden}body[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c7a78350]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__empty-screen[data-v-c7a78350]{display:grid;justify-items:center;font-family:var(--vue-lab-font-family);box-sizing:border-box}.vue-lab__empty-screen[data-size=sm][data-v-c7a78350]{padding:10px}.vue-lab__empty-screen[data-size=sm] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:14px}.vue-lab__empty-screen[data-size=md][data-v-c7a78350]{padding:15px}.vue-lab__empty-screen[data-size=md] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:16px}.vue-lab__empty-screen[data-size=lg][data-v-c7a78350]{padding:20px}.vue-lab__empty-screen[data-size=lg] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:18px}.vue-lab-application{height:100%;width:100%;background-color:#eceff2}.vue-lab-application__content{height:100%;overflow:hidden}.vue-lab-application__body{height:100%;width:100%;display:grid;grid-template-columns:200px 1fr}html[data-v-9214d2d0],body[data-v-9214d2d0],div[data-v-9214d2d0],span[data-v-9214d2d0],applet[data-v-9214d2d0],object[data-v-9214d2d0],iframe[data-v-9214d2d0],h1[data-v-9214d2d0],h2[data-v-9214d2d0],h3[data-v-9214d2d0],h4[data-v-9214d2d0],h5[data-v-9214d2d0],h6[data-v-9214d2d0],p[data-v-9214d2d0],blockquote[data-v-9214d2d0],pre[data-v-9214d2d0],a[data-v-9214d2d0],abbr[data-v-9214d2d0],acronym[data-v-9214d2d0],address[data-v-9214d2d0],big[data-v-9214d2d0],cite[data-v-9214d2d0],code[data-v-9214d2d0],del[data-v-9214d2d0],dfn[data-v-9214d2d0],em[data-v-9214d2d0],img[data-v-9214d2d0],ins[data-v-9214d2d0],kbd[data-v-9214d2d0],q[data-v-9214d2d0],s[data-v-9214d2d0],samp[data-v-9214d2d0],small[data-v-9214d2d0],strike[data-v-9214d2d0],strong[data-v-9214d2d0],sub[data-v-9214d2d0],sup[data-v-9214d2d0],tt[data-v-9214d2d0],var[data-v-9214d2d0],b[data-v-9214d2d0],u[data-v-9214d2d0],i[data-v-9214d2d0],center[data-v-9214d2d0],dl[data-v-9214d2d0],dt[data-v-9214d2d0],dd[data-v-9214d2d0],ol[data-v-9214d2d0],ul[data-v-9214d2d0],li[data-v-9214d2d0],fieldset[data-v-9214d2d0],form[data-v-9214d2d0],label[data-v-9214d2d0],legend[data-v-9214d2d0],table[data-v-9214d2d0],caption[data-v-9214d2d0],tbody[data-v-9214d2d0],tfoot[data-v-9214d2d0],thead[data-v-9214d2d0],tr[data-v-9214d2d0],th[data-v-9214d2d0],td[data-v-9214d2d0],article[data-v-9214d2d0],aside[data-v-9214d2d0],canvas[data-v-9214d2d0],details[data-v-9214d2d0],embed[data-v-9214d2d0],figure[data-v-9214d2d0],figcaption[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],output[data-v-9214d2d0],ruby[data-v-9214d2d0],section[data-v-9214d2d0],summary[data-v-9214d2d0],time[data-v-9214d2d0],mark[data-v-9214d2d0],audio[data-v-9214d2d0],video[data-v-9214d2d0]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9214d2d0],aside[data-v-9214d2d0],details[data-v-9214d2d0],figcaption[data-v-9214d2d0],figure[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],section[data-v-9214d2d0]{display:block}body[data-v-9214d2d0]{line-height:1}ol[data-v-9214d2d0],ul[data-v-9214d2d0]{list-style:none}blockquote[data-v-9214d2d0],q[data-v-9214d2d0]{quotes:none}blockquote[data-v-9214d2d0]:before,blockquote[data-v-9214d2d0]:after,q[data-v-9214d2d0]:before,q[data-v-9214d2d0]:after{content:"";content:none}table[data-v-9214d2d0]{border-collapse:collapse;border-spacing:0}[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9214d2d0]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9214d2d0],body[data-v-9214d2d0],#app[data-v-9214d2d0]{height:100%;width:100%;overflow:hidden}body[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9214d2d0]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__ctrl-layout[data-v-9214d2d0]{font-family:var(--vue-lab-font-family)}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:first-child){padding-top:20px}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:last-child){border-bottom:1px solid #E5E7EB;padding-bottom:12px}.vue-lab__ctrl-layout__title[data-v-9214d2d0]{color:#6b7280;font-size:13px;margin-bottom:8px}html[data-v-6c569ff9],body[data-v-6c569ff9],div[data-v-6c569ff9],span[data-v-6c569ff9],applet[data-v-6c569ff9],object[data-v-6c569ff9],iframe[data-v-6c569ff9],h1[data-v-6c569ff9],h2[data-v-6c569ff9],h3[data-v-6c569ff9],h4[data-v-6c569ff9],h5[data-v-6c569ff9],h6[data-v-6c569ff9],p[data-v-6c569ff9],blockquote[data-v-6c569ff9],pre[data-v-6c569ff9],a[data-v-6c569ff9],abbr[data-v-6c569ff9],acronym[data-v-6c569ff9],address[data-v-6c569ff9],big[data-v-6c569ff9],cite[data-v-6c569ff9],code[data-v-6c569ff9],del[data-v-6c569ff9],dfn[data-v-6c569ff9],em[data-v-6c569ff9],img[data-v-6c569ff9],ins[data-v-6c569ff9],kbd[data-v-6c569ff9],q[data-v-6c569ff9],s[data-v-6c569ff9],samp[data-v-6c569ff9],small[data-v-6c569ff9],strike[data-v-6c569ff9],strong[data-v-6c569ff9],sub[data-v-6c569ff9],sup[data-v-6c569ff9],tt[data-v-6c569ff9],var[data-v-6c569ff9],b[data-v-6c569ff9],u[data-v-6c569ff9],i[data-v-6c569ff9],center[data-v-6c569ff9],dl[data-v-6c569ff9],dt[data-v-6c569ff9],dd[data-v-6c569ff9],ol[data-v-6c569ff9],ul[data-v-6c569ff9],li[data-v-6c569ff9],fieldset[data-v-6c569ff9],form[data-v-6c569ff9],label[data-v-6c569ff9],legend[data-v-6c569ff9],table[data-v-6c569ff9],caption[data-v-6c569ff9],tbody[data-v-6c569ff9],tfoot[data-v-6c569ff9],thead[data-v-6c569ff9],tr[data-v-6c569ff9],th[data-v-6c569ff9],td[data-v-6c569ff9],article[data-v-6c569ff9],aside[data-v-6c569ff9],canvas[data-v-6c569ff9],details[data-v-6c569ff9],embed[data-v-6c569ff9],figure[data-v-6c569ff9],figcaption[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],output[data-v-6c569ff9],ruby[data-v-6c569ff9],section[data-v-6c569ff9],summary[data-v-6c569ff9],time[data-v-6c569ff9],mark[data-v-6c569ff9],audio[data-v-6c569ff9],video[data-v-6c569ff9]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-6c569ff9],aside[data-v-6c569ff9],details[data-v-6c569ff9],figcaption[data-v-6c569ff9],figure[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],section[data-v-6c569ff9]{display:block}body[data-v-6c569ff9]{line-height:1}ol[data-v-6c569ff9],ul[data-v-6c569ff9]{list-style:none}blockquote[data-v-6c569ff9],q[data-v-6c569ff9]{quotes:none}blockquote[data-v-6c569ff9]:before,blockquote[data-v-6c569ff9]:after,q[data-v-6c569ff9]:before,q[data-v-6c569ff9]:after{content:"";content:none}table[data-v-6c569ff9]{border-collapse:collapse;border-spacing:0}[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-6c569ff9]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-6c569ff9],body[data-v-6c569ff9],#app[data-v-6c569ff9]{height:100%;width:100%;overflow:hidden}body[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-6c569ff9]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__tags[data-v-6c569ff9]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family)}html[data-v-96bfa191],body[data-v-96bfa191],div[data-v-96bfa191],span[data-v-96bfa191],applet[data-v-96bfa191],object[data-v-96bfa191],iframe[data-v-96bfa191],h1[data-v-96bfa191],h2[data-v-96bfa191],h3[data-v-96bfa191],h4[data-v-96bfa191],h5[data-v-96bfa191],h6[data-v-96bfa191],p[data-v-96bfa191],blockquote[data-v-96bfa191],pre[data-v-96bfa191],a[data-v-96bfa191],abbr[data-v-96bfa191],acronym[data-v-96bfa191],address[data-v-96bfa191],big[data-v-96bfa191],cite[data-v-96bfa191],code[data-v-96bfa191],del[data-v-96bfa191],dfn[data-v-96bfa191],em[data-v-96bfa191],img[data-v-96bfa191],ins[data-v-96bfa191],kbd[data-v-96bfa191],q[data-v-96bfa191],s[data-v-96bfa191],samp[data-v-96bfa191],small[data-v-96bfa191],strike[data-v-96bfa191],strong[data-v-96bfa191],sub[data-v-96bfa191],sup[data-v-96bfa191],tt[data-v-96bfa191],var[data-v-96bfa191],b[data-v-96bfa191],u[data-v-96bfa191],i[data-v-96bfa191],center[data-v-96bfa191],dl[data-v-96bfa191],dt[data-v-96bfa191],dd[data-v-96bfa191],ol[data-v-96bfa191],ul[data-v-96bfa191],li[data-v-96bfa191],fieldset[data-v-96bfa191],form[data-v-96bfa191],label[data-v-96bfa191],legend[data-v-96bfa191],table[data-v-96bfa191],caption[data-v-96bfa191],tbody[data-v-96bfa191],tfoot[data-v-96bfa191],thead[data-v-96bfa191],tr[data-v-96bfa191],th[data-v-96bfa191],td[data-v-96bfa191],article[data-v-96bfa191],aside[data-v-96bfa191],canvas[data-v-96bfa191],details[data-v-96bfa191],embed[data-v-96bfa191],figure[data-v-96bfa191],figcaption[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],output[data-v-96bfa191],ruby[data-v-96bfa191],section[data-v-96bfa191],summary[data-v-96bfa191],time[data-v-96bfa191],mark[data-v-96bfa191],audio[data-v-96bfa191],video[data-v-96bfa191]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-96bfa191],aside[data-v-96bfa191],details[data-v-96bfa191],figcaption[data-v-96bfa191],figure[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],section[data-v-96bfa191]{display:block}body[data-v-96bfa191]{line-height:1}ol[data-v-96bfa191],ul[data-v-96bfa191]{list-style:none}blockquote[data-v-96bfa191],q[data-v-96bfa191]{quotes:none}blockquote[data-v-96bfa191]:before,blockquote[data-v-96bfa191]:after,q[data-v-96bfa191]:before,q[data-v-96bfa191]:after{content:"";content:none}table[data-v-96bfa191]{border-collapse:collapse;border-spacing:0}[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-96bfa191]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-96bfa191],body[data-v-96bfa191],#app[data-v-96bfa191]{height:100%;width:100%;overflow:hidden}body[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-96bfa191]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__size[data-v-96bfa191]{width:100%;-webkit-user-select:none;user-select:none;font-family:var(--vue-lab-font-family)}.vue-lab__size-track[data-v-96bfa191]{position:relative;height:20px;margin:18px 0 6px;background:transparent;transition:.2s all ease-in-out}.vue-lab__size-track[data-v-96bfa191]:before{content:"";position:absolute;transition:.2s all ease-in-out;left:0;right:0;top:50%;height:4px;transform:translateY(-50%);background:#e5e7eb;border-radius:4px}.vue-lab__size-tick[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:12px;height:12px;transform:translate(-50%,-50%);background:#fff;border:2px solid #bbb;border-radius:50%;box-sizing:border-box;cursor:pointer;z-index:1}.vue-lab__size-tick_active[data-v-96bfa191]{border-color:#48bb78}.vue-lab__size-range-fill[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;left:0;top:50%;height:4px;transform:translateY(-50%);background:#d1d5db;border-radius:4px}.vue-lab__size-handle[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:20px;height:20px;transform:translate(-50%,-50%);background:#2b8aef;border-radius:50%;box-shadow:0 2px 6px #0000001f;cursor:grab;touch-action:none;z-index:2}.vue-lab__size-handle[data-v-96bfa191]:active{cursor:grabbing}.vue-lab__size-value[data-v-96bfa191]{font-size:13px;color:#111827}.vue-lab__boolean{height:20px;width:36px;border:1px solid #E5E7EB;border-radius:20px;display:flex;align-items:center;background-color:#fff;cursor:pointer;position:relative;font-family:var(--vue-lab-font-family)}.vue-lab__boolean-tumbler{height:16px;width:16px;border-radius:50%;background-color:#6b7280;position:absolute;top:2px;left:2px;transition:.3s}.vue-lab__boolean-tumbler--right{left:18px;background-color:#48bb78;animation:moveLeft .3s ease-in-out}html[data-v-3d8e17f8],body[data-v-3d8e17f8],div[data-v-3d8e17f8],span[data-v-3d8e17f8],applet[data-v-3d8e17f8],object[data-v-3d8e17f8],iframe[data-v-3d8e17f8],h1[data-v-3d8e17f8],h2[data-v-3d8e17f8],h3[data-v-3d8e17f8],h4[data-v-3d8e17f8],h5[data-v-3d8e17f8],h6[data-v-3d8e17f8],p[data-v-3d8e17f8],blockquote[data-v-3d8e17f8],pre[data-v-3d8e17f8],a[data-v-3d8e17f8],abbr[data-v-3d8e17f8],acronym[data-v-3d8e17f8],address[data-v-3d8e17f8],big[data-v-3d8e17f8],cite[data-v-3d8e17f8],code[data-v-3d8e17f8],del[data-v-3d8e17f8],dfn[data-v-3d8e17f8],em[data-v-3d8e17f8],img[data-v-3d8e17f8],ins[data-v-3d8e17f8],kbd[data-v-3d8e17f8],q[data-v-3d8e17f8],s[data-v-3d8e17f8],samp[data-v-3d8e17f8],small[data-v-3d8e17f8],strike[data-v-3d8e17f8],strong[data-v-3d8e17f8],sub[data-v-3d8e17f8],sup[data-v-3d8e17f8],tt[data-v-3d8e17f8],var[data-v-3d8e17f8],b[data-v-3d8e17f8],u[data-v-3d8e17f8],i[data-v-3d8e17f8],center[data-v-3d8e17f8],dl[data-v-3d8e17f8],dt[data-v-3d8e17f8],dd[data-v-3d8e17f8],ol[data-v-3d8e17f8],ul[data-v-3d8e17f8],li[data-v-3d8e17f8],fieldset[data-v-3d8e17f8],form[data-v-3d8e17f8],label[data-v-3d8e17f8],legend[data-v-3d8e17f8],table[data-v-3d8e17f8],caption[data-v-3d8e17f8],tbody[data-v-3d8e17f8],tfoot[data-v-3d8e17f8],thead[data-v-3d8e17f8],tr[data-v-3d8e17f8],th[data-v-3d8e17f8],td[data-v-3d8e17f8],article[data-v-3d8e17f8],aside[data-v-3d8e17f8],canvas[data-v-3d8e17f8],details[data-v-3d8e17f8],embed[data-v-3d8e17f8],figure[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],output[data-v-3d8e17f8],ruby[data-v-3d8e17f8],section[data-v-3d8e17f8],summary[data-v-3d8e17f8],time[data-v-3d8e17f8],mark[data-v-3d8e17f8],audio[data-v-3d8e17f8],video[data-v-3d8e17f8]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3d8e17f8],aside[data-v-3d8e17f8],details[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],figure[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],section[data-v-3d8e17f8]{display:block}body[data-v-3d8e17f8]{line-height:1}ol[data-v-3d8e17f8],ul[data-v-3d8e17f8]{list-style:none}blockquote[data-v-3d8e17f8],q[data-v-3d8e17f8]{quotes:none}blockquote[data-v-3d8e17f8]:before,blockquote[data-v-3d8e17f8]:after,q[data-v-3d8e17f8]:before,q[data-v-3d8e17f8]:after{content:"";content:none}table[data-v-3d8e17f8]{border-collapse:collapse;border-spacing:0}[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3d8e17f8]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3d8e17f8],body[data-v-3d8e17f8],#app[data-v-3d8e17f8]{height:100%;width:100%;overflow:hidden}body[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3d8e17f8]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__text-ctrl[data-v-3d8e17f8]{font-family:var(--vue-lab-font-family)}.vue-lab__text-ctrl__field[data-v-3d8e17f8]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__text-ctrl__field--active[data-v-3d8e17f8]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field--focused[data-v-3d8e17f8],.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{cursor:text}.vue-lab__text-ctrl__input[data-v-3d8e17f8]{border:none;outline:none;width:100%;background-color:transparent;font-size:14px}html[data-v-8e33fe98],body[data-v-8e33fe98],div[data-v-8e33fe98],span[data-v-8e33fe98],applet[data-v-8e33fe98],object[data-v-8e33fe98],iframe[data-v-8e33fe98],h1[data-v-8e33fe98],h2[data-v-8e33fe98],h3[data-v-8e33fe98],h4[data-v-8e33fe98],h5[data-v-8e33fe98],h6[data-v-8e33fe98],p[data-v-8e33fe98],blockquote[data-v-8e33fe98],pre[data-v-8e33fe98],a[data-v-8e33fe98],abbr[data-v-8e33fe98],acronym[data-v-8e33fe98],address[data-v-8e33fe98],big[data-v-8e33fe98],cite[data-v-8e33fe98],code[data-v-8e33fe98],del[data-v-8e33fe98],dfn[data-v-8e33fe98],em[data-v-8e33fe98],img[data-v-8e33fe98],ins[data-v-8e33fe98],kbd[data-v-8e33fe98],q[data-v-8e33fe98],s[data-v-8e33fe98],samp[data-v-8e33fe98],small[data-v-8e33fe98],strike[data-v-8e33fe98],strong[data-v-8e33fe98],sub[data-v-8e33fe98],sup[data-v-8e33fe98],tt[data-v-8e33fe98],var[data-v-8e33fe98],b[data-v-8e33fe98],u[data-v-8e33fe98],i[data-v-8e33fe98],center[data-v-8e33fe98],dl[data-v-8e33fe98],dt[data-v-8e33fe98],dd[data-v-8e33fe98],ol[data-v-8e33fe98],ul[data-v-8e33fe98],li[data-v-8e33fe98],fieldset[data-v-8e33fe98],form[data-v-8e33fe98],label[data-v-8e33fe98],legend[data-v-8e33fe98],table[data-v-8e33fe98],caption[data-v-8e33fe98],tbody[data-v-8e33fe98],tfoot[data-v-8e33fe98],thead[data-v-8e33fe98],tr[data-v-8e33fe98],th[data-v-8e33fe98],td[data-v-8e33fe98],article[data-v-8e33fe98],aside[data-v-8e33fe98],canvas[data-v-8e33fe98],details[data-v-8e33fe98],embed[data-v-8e33fe98],figure[data-v-8e33fe98],figcaption[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],output[data-v-8e33fe98],ruby[data-v-8e33fe98],section[data-v-8e33fe98],summary[data-v-8e33fe98],time[data-v-8e33fe98],mark[data-v-8e33fe98],audio[data-v-8e33fe98],video[data-v-8e33fe98]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-8e33fe98],aside[data-v-8e33fe98],details[data-v-8e33fe98],figcaption[data-v-8e33fe98],figure[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],section[data-v-8e33fe98]{display:block}body[data-v-8e33fe98]{line-height:1}ol[data-v-8e33fe98],ul[data-v-8e33fe98]{list-style:none}blockquote[data-v-8e33fe98],q[data-v-8e33fe98]{quotes:none}blockquote[data-v-8e33fe98]:before,blockquote[data-v-8e33fe98]:after,q[data-v-8e33fe98]:before,q[data-v-8e33fe98]:after{content:"";content:none}table[data-v-8e33fe98]{border-collapse:collapse;border-spacing:0}[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-8e33fe98]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-8e33fe98],body[data-v-8e33fe98],#app[data-v-8e33fe98]{height:100%;width:100%;overflow:hidden}body[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-8e33fe98]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-color-picker[data-v-8e33fe98]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family);position:relative}.vue-lab-color-picker__color-preview[data-v-8e33fe98]{display:flex;align-items:center;gap:10px;padding:5px 15px;box-sizing:border-box;border-radius:6px;cursor:pointer;transition:transform .2s;width:100%;height:28px;border:#D1D5DB 1px solid}.vue-lab-color-picker__color-preview[data-v-8e33fe98]:hover{opacity:.8;transition:.2s all ease-in-out}.vue-lab-color-picker__hidden-input[data-v-8e33fe98]{position:absolute;opacity:0;width:0;height:0;bottom:0;left:0}html[data-v-b886953d],body[data-v-b886953d],div[data-v-b886953d],span[data-v-b886953d],applet[data-v-b886953d],object[data-v-b886953d],iframe[data-v-b886953d],h1[data-v-b886953d],h2[data-v-b886953d],h3[data-v-b886953d],h4[data-v-b886953d],h5[data-v-b886953d],h6[data-v-b886953d],p[data-v-b886953d],blockquote[data-v-b886953d],pre[data-v-b886953d],a[data-v-b886953d],abbr[data-v-b886953d],acronym[data-v-b886953d],address[data-v-b886953d],big[data-v-b886953d],cite[data-v-b886953d],code[data-v-b886953d],del[data-v-b886953d],dfn[data-v-b886953d],em[data-v-b886953d],img[data-v-b886953d],ins[data-v-b886953d],kbd[data-v-b886953d],q[data-v-b886953d],s[data-v-b886953d],samp[data-v-b886953d],small[data-v-b886953d],strike[data-v-b886953d],strong[data-v-b886953d],sub[data-v-b886953d],sup[data-v-b886953d],tt[data-v-b886953d],var[data-v-b886953d],b[data-v-b886953d],u[data-v-b886953d],i[data-v-b886953d],center[data-v-b886953d],dl[data-v-b886953d],dt[data-v-b886953d],dd[data-v-b886953d],ol[data-v-b886953d],ul[data-v-b886953d],li[data-v-b886953d],fieldset[data-v-b886953d],form[data-v-b886953d],label[data-v-b886953d],legend[data-v-b886953d],table[data-v-b886953d],caption[data-v-b886953d],tbody[data-v-b886953d],tfoot[data-v-b886953d],thead[data-v-b886953d],tr[data-v-b886953d],th[data-v-b886953d],td[data-v-b886953d],article[data-v-b886953d],aside[data-v-b886953d],canvas[data-v-b886953d],details[data-v-b886953d],embed[data-v-b886953d],figure[data-v-b886953d],figcaption[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],output[data-v-b886953d],ruby[data-v-b886953d],section[data-v-b886953d],summary[data-v-b886953d],time[data-v-b886953d],mark[data-v-b886953d],audio[data-v-b886953d],video[data-v-b886953d]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-b886953d],aside[data-v-b886953d],details[data-v-b886953d],figcaption[data-v-b886953d],figure[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],section[data-v-b886953d]{display:block}body[data-v-b886953d]{line-height:1}ol[data-v-b886953d],ul[data-v-b886953d]{list-style:none}blockquote[data-v-b886953d],q[data-v-b886953d]{quotes:none}blockquote[data-v-b886953d]:before,blockquote[data-v-b886953d]:after,q[data-v-b886953d]:before,q[data-v-b886953d]:after{content:"";content:none}table[data-v-b886953d]{border-collapse:collapse;border-spacing:0}[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-b886953d]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-b886953d],body[data-v-b886953d],#app[data-v-b886953d]{height:100%;width:100%;overflow:hidden}body[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-b886953d]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__dropdown[data-v-b886953d]{font-family:var(--vue-lab-font-family)}.vue-lab__dropdown-field[data-v-b886953d]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__dropdown-field_active[data-v-b886953d]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field_focused[data-v-b886953d],.vue-lab__dropdown-field[data-v-b886953d]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field[data-v-b886953d]:hover{cursor:text}.vue-lab__dropdown-modal[data-v-b886953d]{background-color:#fff;width:200px;padding:5px 0;border-radius:6px;border:#D1D5DB 1px solid;margin-top:4px;max-height:300px;display:flex;flex-direction:column}.vue-lab__dropdown-list[data-v-b886953d]{height:auto;max-height:250px;overflow-y:auto}.vue-lab__dropdown-list-item[data-v-b886953d]{height:32px;min-height:32px;padding:10px;box-sizing:border-box;display:flex;align-items:center;transition:.3s;cursor:pointer;font-size:13px;font-weight:400;line-height:22px;text-overflow:ellipsis;position:relative;overflow:hidden;white-space:nowrap}.vue-lab__dropdown-list-item[data-v-b886953d]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__dropdown-list-item[data-v-b886953d]:hover{transition:all .3s ease-in-out}.vue-lab__dropdown-list-item_active[data-v-b886953d]{background-color:#dcedff}html[data-v-25497d41],body[data-v-25497d41],div[data-v-25497d41],span[data-v-25497d41],applet[data-v-25497d41],object[data-v-25497d41],iframe[data-v-25497d41],h1[data-v-25497d41],h2[data-v-25497d41],h3[data-v-25497d41],h4[data-v-25497d41],h5[data-v-25497d41],h6[data-v-25497d41],p[data-v-25497d41],blockquote[data-v-25497d41],pre[data-v-25497d41],a[data-v-25497d41],abbr[data-v-25497d41],acronym[data-v-25497d41],address[data-v-25497d41],big[data-v-25497d41],cite[data-v-25497d41],code[data-v-25497d41],del[data-v-25497d41],dfn[data-v-25497d41],em[data-v-25497d41],img[data-v-25497d41],ins[data-v-25497d41],kbd[data-v-25497d41],q[data-v-25497d41],s[data-v-25497d41],samp[data-v-25497d41],small[data-v-25497d41],strike[data-v-25497d41],strong[data-v-25497d41],sub[data-v-25497d41],sup[data-v-25497d41],tt[data-v-25497d41],var[data-v-25497d41],b[data-v-25497d41],u[data-v-25497d41],i[data-v-25497d41],center[data-v-25497d41],dl[data-v-25497d41],dt[data-v-25497d41],dd[data-v-25497d41],ol[data-v-25497d41],ul[data-v-25497d41],li[data-v-25497d41],fieldset[data-v-25497d41],form[data-v-25497d41],label[data-v-25497d41],legend[data-v-25497d41],table[data-v-25497d41],caption[data-v-25497d41],tbody[data-v-25497d41],tfoot[data-v-25497d41],thead[data-v-25497d41],tr[data-v-25497d41],th[data-v-25497d41],td[data-v-25497d41],article[data-v-25497d41],aside[data-v-25497d41],canvas[data-v-25497d41],details[data-v-25497d41],embed[data-v-25497d41],figure[data-v-25497d41],figcaption[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],output[data-v-25497d41],ruby[data-v-25497d41],section[data-v-25497d41],summary[data-v-25497d41],time[data-v-25497d41],mark[data-v-25497d41],audio[data-v-25497d41],video[data-v-25497d41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-25497d41],aside[data-v-25497d41],details[data-v-25497d41],figcaption[data-v-25497d41],figure[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],section[data-v-25497d41]{display:block}body[data-v-25497d41]{line-height:1}ol[data-v-25497d41],ul[data-v-25497d41]{list-style:none}blockquote[data-v-25497d41],q[data-v-25497d41]{quotes:none}blockquote[data-v-25497d41]:before,blockquote[data-v-25497d41]:after,q[data-v-25497d41]:before,q[data-v-25497d41]:after{content:"";content:none}table[data-v-25497d41]{border-collapse:collapse;border-spacing:0}[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-25497d41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-25497d41],body[data-v-25497d41],#app[data-v-25497d41]{height:100%;width:100%;overflow:hidden}body[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__control-block[data-v-25497d41]{height:100%;overflow:hidden;display:grid;grid-template-rows:40px 1fr}.vue-lab__control-block__header[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;font-family:var(--vue-lab-font-family)}.vue-lab__control-block__header-title[data-v-25497d41]{font-size:16px;font-weight:600}.vue-lab__control-block__body[data-v-25497d41]{overflow:auto;height:100%;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab[data-v-036062d8]{display:grid;grid-template-columns:var(--036062d8-gridTemplate);overflow:hidden}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],div[data-v-a2d7e9c1],span[data-v-a2d7e9c1],applet[data-v-a2d7e9c1],object[data-v-a2d7e9c1],iframe[data-v-a2d7e9c1],h1[data-v-a2d7e9c1],h2[data-v-a2d7e9c1],h3[data-v-a2d7e9c1],h4[data-v-a2d7e9c1],h5[data-v-a2d7e9c1],h6[data-v-a2d7e9c1],p[data-v-a2d7e9c1],blockquote[data-v-a2d7e9c1],pre[data-v-a2d7e9c1],a[data-v-a2d7e9c1],abbr[data-v-a2d7e9c1],acronym[data-v-a2d7e9c1],address[data-v-a2d7e9c1],big[data-v-a2d7e9c1],cite[data-v-a2d7e9c1],code[data-v-a2d7e9c1],del[data-v-a2d7e9c1],dfn[data-v-a2d7e9c1],em[data-v-a2d7e9c1],img[data-v-a2d7e9c1],ins[data-v-a2d7e9c1],kbd[data-v-a2d7e9c1],q[data-v-a2d7e9c1],s[data-v-a2d7e9c1],samp[data-v-a2d7e9c1],small[data-v-a2d7e9c1],strike[data-v-a2d7e9c1],strong[data-v-a2d7e9c1],sub[data-v-a2d7e9c1],sup[data-v-a2d7e9c1],tt[data-v-a2d7e9c1],var[data-v-a2d7e9c1],b[data-v-a2d7e9c1],u[data-v-a2d7e9c1],i[data-v-a2d7e9c1],center[data-v-a2d7e9c1],dl[data-v-a2d7e9c1],dt[data-v-a2d7e9c1],dd[data-v-a2d7e9c1],ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1],li[data-v-a2d7e9c1],fieldset[data-v-a2d7e9c1],form[data-v-a2d7e9c1],label[data-v-a2d7e9c1],legend[data-v-a2d7e9c1],table[data-v-a2d7e9c1],caption[data-v-a2d7e9c1],tbody[data-v-a2d7e9c1],tfoot[data-v-a2d7e9c1],thead[data-v-a2d7e9c1],tr[data-v-a2d7e9c1],th[data-v-a2d7e9c1],td[data-v-a2d7e9c1],article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],canvas[data-v-a2d7e9c1],details[data-v-a2d7e9c1],embed[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],output[data-v-a2d7e9c1],ruby[data-v-a2d7e9c1],section[data-v-a2d7e9c1],summary[data-v-a2d7e9c1],time[data-v-a2d7e9c1],mark[data-v-a2d7e9c1],audio[data-v-a2d7e9c1],video[data-v-a2d7e9c1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],details[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],section[data-v-a2d7e9c1]{display:block}body[data-v-a2d7e9c1]{line-height:1}ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1]{list-style:none}blockquote[data-v-a2d7e9c1],q[data-v-a2d7e9c1]{quotes:none}blockquote[data-v-a2d7e9c1]:before,blockquote[data-v-a2d7e9c1]:after,q[data-v-a2d7e9c1]:before,q[data-v-a2d7e9c1]:after{content:"";content:none}table[data-v-a2d7e9c1]{border-collapse:collapse;border-spacing:0}[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-a2d7e9c1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],#app[data-v-a2d7e9c1]{height:100%;width:100%;overflow:hidden}body[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-a2d7e9c1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__divider[data-v-a2d7e9c1]{height:4px;display:flex;padding:20px 0;align-items:center;justify-content:center}.vue-lab__divider-dot[data-v-a2d7e9c1]{width:4px;height:4px;background-color:#d1d5db;border-radius:50%;display:inline-block}.vue-lab__divider-dot+.vue-lab__divider-dot[data-v-a2d7e9c1]{margin-left:6px}html[data-v-17706230],body[data-v-17706230],div[data-v-17706230],span[data-v-17706230],applet[data-v-17706230],object[data-v-17706230],iframe[data-v-17706230],h1[data-v-17706230],h2[data-v-17706230],h3[data-v-17706230],h4[data-v-17706230],h5[data-v-17706230],h6[data-v-17706230],p[data-v-17706230],blockquote[data-v-17706230],pre[data-v-17706230],a[data-v-17706230],abbr[data-v-17706230],acronym[data-v-17706230],address[data-v-17706230],big[data-v-17706230],cite[data-v-17706230],code[data-v-17706230],del[data-v-17706230],dfn[data-v-17706230],em[data-v-17706230],img[data-v-17706230],ins[data-v-17706230],kbd[data-v-17706230],q[data-v-17706230],s[data-v-17706230],samp[data-v-17706230],small[data-v-17706230],strike[data-v-17706230],strong[data-v-17706230],sub[data-v-17706230],sup[data-v-17706230],tt[data-v-17706230],var[data-v-17706230],b[data-v-17706230],u[data-v-17706230],i[data-v-17706230],center[data-v-17706230],dl[data-v-17706230],dt[data-v-17706230],dd[data-v-17706230],ol[data-v-17706230],ul[data-v-17706230],li[data-v-17706230],fieldset[data-v-17706230],form[data-v-17706230],label[data-v-17706230],legend[data-v-17706230],table[data-v-17706230],caption[data-v-17706230],tbody[data-v-17706230],tfoot[data-v-17706230],thead[data-v-17706230],tr[data-v-17706230],th[data-v-17706230],td[data-v-17706230],article[data-v-17706230],aside[data-v-17706230],canvas[data-v-17706230],details[data-v-17706230],embed[data-v-17706230],figure[data-v-17706230],figcaption[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],output[data-v-17706230],ruby[data-v-17706230],section[data-v-17706230],summary[data-v-17706230],time[data-v-17706230],mark[data-v-17706230],audio[data-v-17706230],video[data-v-17706230]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-17706230],aside[data-v-17706230],details[data-v-17706230],figcaption[data-v-17706230],figure[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],section[data-v-17706230]{display:block}body[data-v-17706230]{line-height:1}ol[data-v-17706230],ul[data-v-17706230]{list-style:none}blockquote[data-v-17706230],q[data-v-17706230]{quotes:none}blockquote[data-v-17706230]:before,blockquote[data-v-17706230]:after,q[data-v-17706230]:before,q[data-v-17706230]:after{content:"";content:none}table[data-v-17706230]{border-collapse:collapse;border-spacing:0}[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-17706230]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-17706230],body[data-v-17706230],#app[data-v-17706230]{height:100%;width:100%;overflow:hidden}body[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-17706230]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__palette[data-v-17706230]{display:grid;grid-template-columns:100px 1fr}.vue-lab__palette-title[data-v-17706230]{text-transform:capitalize;font-weight:600;font-size:14px;align-items:center;display:flex;width:100%;height:50px;font-family:var(--vue-lab-font-family)}.vue-lab__palette-colors[data-v-17706230]{display:grid;grid-template-columns:var(--17706230-columns);gap:5px}.vue-lab__palette-colors:hover .vue-lab__palette-color-item__bg[data-v-17706230]{filter:brightness(.6)}.vue-lab__palette-color-item[data-v-17706230]{display:grid;grid-template-rows:1fr 20px;cursor:pointer}.vue-lab__palette-color-item__bg[data-v-17706230]{height:50px;border-radius:12px;transition:transform .25s ease,filter .25s ease,opacity .25s ease}.vue-lab__palette-color-item__bg[data-v-17706230]:hover{filter:brightness(1)!important;transform:scale(1.1);z-index:1}.vue-lab__palette-color-item__bg[data-v-17706230]:active{transform:scale(1)}.vue-lab__palette-color-item__title[data-v-17706230]{color:#6b7280;font-size:12px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-9831151a],body[data-v-9831151a],div[data-v-9831151a],span[data-v-9831151a],applet[data-v-9831151a],object[data-v-9831151a],iframe[data-v-9831151a],h1[data-v-9831151a],h2[data-v-9831151a],h3[data-v-9831151a],h4[data-v-9831151a],h5[data-v-9831151a],h6[data-v-9831151a],p[data-v-9831151a],blockquote[data-v-9831151a],pre[data-v-9831151a],a[data-v-9831151a],abbr[data-v-9831151a],acronym[data-v-9831151a],address[data-v-9831151a],big[data-v-9831151a],cite[data-v-9831151a],code[data-v-9831151a],del[data-v-9831151a],dfn[data-v-9831151a],em[data-v-9831151a],img[data-v-9831151a],ins[data-v-9831151a],kbd[data-v-9831151a],q[data-v-9831151a],s[data-v-9831151a],samp[data-v-9831151a],small[data-v-9831151a],strike[data-v-9831151a],strong[data-v-9831151a],sub[data-v-9831151a],sup[data-v-9831151a],tt[data-v-9831151a],var[data-v-9831151a],b[data-v-9831151a],u[data-v-9831151a],i[data-v-9831151a],center[data-v-9831151a],dl[data-v-9831151a],dt[data-v-9831151a],dd[data-v-9831151a],ol[data-v-9831151a],ul[data-v-9831151a],li[data-v-9831151a],fieldset[data-v-9831151a],form[data-v-9831151a],label[data-v-9831151a],legend[data-v-9831151a],table[data-v-9831151a],caption[data-v-9831151a],tbody[data-v-9831151a],tfoot[data-v-9831151a],thead[data-v-9831151a],tr[data-v-9831151a],th[data-v-9831151a],td[data-v-9831151a],article[data-v-9831151a],aside[data-v-9831151a],canvas[data-v-9831151a],details[data-v-9831151a],embed[data-v-9831151a],figure[data-v-9831151a],figcaption[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],output[data-v-9831151a],ruby[data-v-9831151a],section[data-v-9831151a],summary[data-v-9831151a],time[data-v-9831151a],mark[data-v-9831151a],audio[data-v-9831151a],video[data-v-9831151a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9831151a],aside[data-v-9831151a],details[data-v-9831151a],figcaption[data-v-9831151a],figure[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],section[data-v-9831151a]{display:block}body[data-v-9831151a]{line-height:1}ol[data-v-9831151a],ul[data-v-9831151a]{list-style:none}blockquote[data-v-9831151a],q[data-v-9831151a]{quotes:none}blockquote[data-v-9831151a]:before,blockquote[data-v-9831151a]:after,q[data-v-9831151a]:before,q[data-v-9831151a]:after{content:"";content:none}table[data-v-9831151a]{border-collapse:collapse;border-spacing:0}[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9831151a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9831151a],body[data-v-9831151a],#app[data-v-9831151a]{height:100%;width:100%;overflow:hidden}body[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9831151a],.vue-lab__color-block__title[data-v-9831151a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],div[data-v-d6fe0ccb],span[data-v-d6fe0ccb],applet[data-v-d6fe0ccb],object[data-v-d6fe0ccb],iframe[data-v-d6fe0ccb],h1[data-v-d6fe0ccb],h2[data-v-d6fe0ccb],h3[data-v-d6fe0ccb],h4[data-v-d6fe0ccb],h5[data-v-d6fe0ccb],h6[data-v-d6fe0ccb],p[data-v-d6fe0ccb],blockquote[data-v-d6fe0ccb],pre[data-v-d6fe0ccb],a[data-v-d6fe0ccb],abbr[data-v-d6fe0ccb],acronym[data-v-d6fe0ccb],address[data-v-d6fe0ccb],big[data-v-d6fe0ccb],cite[data-v-d6fe0ccb],code[data-v-d6fe0ccb],del[data-v-d6fe0ccb],dfn[data-v-d6fe0ccb],em[data-v-d6fe0ccb],img[data-v-d6fe0ccb],ins[data-v-d6fe0ccb],kbd[data-v-d6fe0ccb],q[data-v-d6fe0ccb],s[data-v-d6fe0ccb],samp[data-v-d6fe0ccb],small[data-v-d6fe0ccb],strike[data-v-d6fe0ccb],strong[data-v-d6fe0ccb],sub[data-v-d6fe0ccb],sup[data-v-d6fe0ccb],tt[data-v-d6fe0ccb],var[data-v-d6fe0ccb],b[data-v-d6fe0ccb],u[data-v-d6fe0ccb],i[data-v-d6fe0ccb],center[data-v-d6fe0ccb],dl[data-v-d6fe0ccb],dt[data-v-d6fe0ccb],dd[data-v-d6fe0ccb],ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb],li[data-v-d6fe0ccb],fieldset[data-v-d6fe0ccb],form[data-v-d6fe0ccb],label[data-v-d6fe0ccb],legend[data-v-d6fe0ccb],table[data-v-d6fe0ccb],caption[data-v-d6fe0ccb],tbody[data-v-d6fe0ccb],tfoot[data-v-d6fe0ccb],thead[data-v-d6fe0ccb],tr[data-v-d6fe0ccb],th[data-v-d6fe0ccb],td[data-v-d6fe0ccb],article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],canvas[data-v-d6fe0ccb],details[data-v-d6fe0ccb],embed[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],output[data-v-d6fe0ccb],ruby[data-v-d6fe0ccb],section[data-v-d6fe0ccb],summary[data-v-d6fe0ccb],time[data-v-d6fe0ccb],mark[data-v-d6fe0ccb],audio[data-v-d6fe0ccb],video[data-v-d6fe0ccb]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],details[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],section[data-v-d6fe0ccb]{display:block}body[data-v-d6fe0ccb]{line-height:1}ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb]{list-style:none}blockquote[data-v-d6fe0ccb],q[data-v-d6fe0ccb]{quotes:none}blockquote[data-v-d6fe0ccb]:before,blockquote[data-v-d6fe0ccb]:after,q[data-v-d6fe0ccb]:before,q[data-v-d6fe0ccb]:after{content:"";content:none}table[data-v-d6fe0ccb]{border-collapse:collapse;border-spacing:0}[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-d6fe0ccb]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],#app[data-v-d6fe0ccb]{height:100%;width:100%;overflow:hidden}body[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-d6fe0ccb]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page__group-name[data-v-d6fe0ccb]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-home-page__group-description[data-v-d6fe0ccb]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;margin-bottom:20px}.vue-lab-home-page__group-body[data-v-d6fe0ccb]{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]{text-decoration:none;color:#2c3239;transition:.3s}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]:hover{color:#63b3ff;transition:.3s}html[data-v-c75a0f45],body[data-v-c75a0f45],div[data-v-c75a0f45],span[data-v-c75a0f45],applet[data-v-c75a0f45],object[data-v-c75a0f45],iframe[data-v-c75a0f45],h1[data-v-c75a0f45],h2[data-v-c75a0f45],h3[data-v-c75a0f45],h4[data-v-c75a0f45],h5[data-v-c75a0f45],h6[data-v-c75a0f45],p[data-v-c75a0f45],blockquote[data-v-c75a0f45],pre[data-v-c75a0f45],a[data-v-c75a0f45],abbr[data-v-c75a0f45],acronym[data-v-c75a0f45],address[data-v-c75a0f45],big[data-v-c75a0f45],cite[data-v-c75a0f45],code[data-v-c75a0f45],del[data-v-c75a0f45],dfn[data-v-c75a0f45],em[data-v-c75a0f45],img[data-v-c75a0f45],ins[data-v-c75a0f45],kbd[data-v-c75a0f45],q[data-v-c75a0f45],s[data-v-c75a0f45],samp[data-v-c75a0f45],small[data-v-c75a0f45],strike[data-v-c75a0f45],strong[data-v-c75a0f45],sub[data-v-c75a0f45],sup[data-v-c75a0f45],tt[data-v-c75a0f45],var[data-v-c75a0f45],b[data-v-c75a0f45],u[data-v-c75a0f45],i[data-v-c75a0f45],center[data-v-c75a0f45],dl[data-v-c75a0f45],dt[data-v-c75a0f45],dd[data-v-c75a0f45],ol[data-v-c75a0f45],ul[data-v-c75a0f45],li[data-v-c75a0f45],fieldset[data-v-c75a0f45],form[data-v-c75a0f45],label[data-v-c75a0f45],legend[data-v-c75a0f45],table[data-v-c75a0f45],caption[data-v-c75a0f45],tbody[data-v-c75a0f45],tfoot[data-v-c75a0f45],thead[data-v-c75a0f45],tr[data-v-c75a0f45],th[data-v-c75a0f45],td[data-v-c75a0f45],article[data-v-c75a0f45],aside[data-v-c75a0f45],canvas[data-v-c75a0f45],details[data-v-c75a0f45],embed[data-v-c75a0f45],figure[data-v-c75a0f45],figcaption[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],output[data-v-c75a0f45],ruby[data-v-c75a0f45],section[data-v-c75a0f45],summary[data-v-c75a0f45],time[data-v-c75a0f45],mark[data-v-c75a0f45],audio[data-v-c75a0f45],video[data-v-c75a0f45]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c75a0f45],aside[data-v-c75a0f45],details[data-v-c75a0f45],figcaption[data-v-c75a0f45],figure[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],section[data-v-c75a0f45]{display:block}body[data-v-c75a0f45]{line-height:1}ol[data-v-c75a0f45],ul[data-v-c75a0f45]{list-style:none}blockquote[data-v-c75a0f45],q[data-v-c75a0f45]{quotes:none}blockquote[data-v-c75a0f45]:before,blockquote[data-v-c75a0f45]:after,q[data-v-c75a0f45]:before,q[data-v-c75a0f45]:after{content:"";content:none}table[data-v-c75a0f45]{border-collapse:collapse;border-spacing:0}[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c75a0f45]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c75a0f45],body[data-v-c75a0f45],#app[data-v-c75a0f45]{height:100%;width:100%;overflow:hidden}body[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page[data-v-c75a0f45]{padding:20px;box-sizing:border-box;height:100%;width:100%;overflow-y:auto;background-color:#fff;display:flex;flex-direction:column;gap:40px}.vue-lab-home-page__menu[data-v-c75a0f45]{display:flex;flex-direction:column;height:100%;max-height:100%;overflow:auto;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:40px;cursor:pointer;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title-text[data-v-c75a0f45]{font-family:Ubuntu,sans-serif;color:#0f664e;font-size:32px}.vue-lab-home-page__title-icon[data-v-c75a0f45]{height:64px;display:flex;align-items:center}.vue-lab-home-page__title-icon svg[data-v-c75a0f45]{scale:1.5}.vue-lab-home-page__description[data-v-c75a0f45]{color:#6b7280;font-size:16px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{background:#23241f;color:#f8f8f2}.hljs-tag,.hljs-subst{color:#f8f8f2}.hljs-strong,.hljs-emphasis{color:#a8a8a2}.hljs-bullet,.hljs-quote,.hljs-number,.hljs-regexp,.hljs-literal,.hljs-link{color:#ae81ff}.hljs-code,.hljs-title,.hljs-section,.hljs-selector-class{color:#a6e22e}.hljs-strong{font-weight:700}.hljs-emphasis{font-style:italic}.hljs-keyword,.hljs-selector-tag,.hljs-name,.hljs-attr{color:#f92672}.hljs-symbol,.hljs-attribute{color:#66d9ef}.hljs-params,.hljs-title.class_,.hljs-class .hljs-title{color:#f8f8f2}.hljs-string,.hljs-type,.hljs-built_in,.hljs-selector-id,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-addition,.hljs-variable,.hljs-template-variable{color:#e6db74}.hljs-comment,.hljs-deletion,.hljs-meta{color:#75715e}html[data-v-ba1811dc],body[data-v-ba1811dc],div[data-v-ba1811dc],span[data-v-ba1811dc],applet[data-v-ba1811dc],object[data-v-ba1811dc],iframe[data-v-ba1811dc],h1[data-v-ba1811dc],h2[data-v-ba1811dc],h3[data-v-ba1811dc],h4[data-v-ba1811dc],h5[data-v-ba1811dc],h6[data-v-ba1811dc],p[data-v-ba1811dc],blockquote[data-v-ba1811dc],pre[data-v-ba1811dc],a[data-v-ba1811dc],abbr[data-v-ba1811dc],acronym[data-v-ba1811dc],address[data-v-ba1811dc],big[data-v-ba1811dc],cite[data-v-ba1811dc],code[data-v-ba1811dc],del[data-v-ba1811dc],dfn[data-v-ba1811dc],em[data-v-ba1811dc],img[data-v-ba1811dc],ins[data-v-ba1811dc],kbd[data-v-ba1811dc],q[data-v-ba1811dc],s[data-v-ba1811dc],samp[data-v-ba1811dc],small[data-v-ba1811dc],strike[data-v-ba1811dc],strong[data-v-ba1811dc],sub[data-v-ba1811dc],sup[data-v-ba1811dc],tt[data-v-ba1811dc],var[data-v-ba1811dc],b[data-v-ba1811dc],u[data-v-ba1811dc],i[data-v-ba1811dc],center[data-v-ba1811dc],dl[data-v-ba1811dc],dt[data-v-ba1811dc],dd[data-v-ba1811dc],ol[data-v-ba1811dc],ul[data-v-ba1811dc],li[data-v-ba1811dc],fieldset[data-v-ba1811dc],form[data-v-ba1811dc],label[data-v-ba1811dc],legend[data-v-ba1811dc],table[data-v-ba1811dc],caption[data-v-ba1811dc],tbody[data-v-ba1811dc],tfoot[data-v-ba1811dc],thead[data-v-ba1811dc],tr[data-v-ba1811dc],th[data-v-ba1811dc],td[data-v-ba1811dc],article[data-v-ba1811dc],aside[data-v-ba1811dc],canvas[data-v-ba1811dc],details[data-v-ba1811dc],embed[data-v-ba1811dc],figure[data-v-ba1811dc],figcaption[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],output[data-v-ba1811dc],ruby[data-v-ba1811dc],section[data-v-ba1811dc],summary[data-v-ba1811dc],time[data-v-ba1811dc],mark[data-v-ba1811dc],audio[data-v-ba1811dc],video[data-v-ba1811dc]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ba1811dc],aside[data-v-ba1811dc],details[data-v-ba1811dc],figcaption[data-v-ba1811dc],figure[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],section[data-v-ba1811dc]{display:block}body[data-v-ba1811dc]{line-height:1}ol[data-v-ba1811dc],ul[data-v-ba1811dc]{list-style:none}blockquote[data-v-ba1811dc],q[data-v-ba1811dc]{quotes:none}blockquote[data-v-ba1811dc]:before,blockquote[data-v-ba1811dc]:after,q[data-v-ba1811dc]:before,q[data-v-ba1811dc]:after{content:"";content:none}table[data-v-ba1811dc]{border-collapse:collapse;border-spacing:0}[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ba1811dc]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ba1811dc],body[data-v-ba1811dc],#app[data-v-ba1811dc]{height:100%;width:100%;overflow:hidden}body[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__code-preview[data-v-ba1811dc]{font-family:var(--vue-lab-font-family)}.vue-lab__code-preview__pre[data-v-ba1811dc]{font-family:monospace;font-size:14px;line-height:1.5}.vue-lab__code-preview__content[data-v-ba1811dc]{position:relative;border-radius:12px;overflow:hidden}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]{position:absolute;top:8px;right:8px;width:20px;height:20px;cursor:pointer;fill:#eceff2;transition:fill .2s}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:hover{fill:#9ca3af}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:active{fill:#4b5563}.vue-lab__code-preview__title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-432c94c6],body[data-v-432c94c6],div[data-v-432c94c6],span[data-v-432c94c6],applet[data-v-432c94c6],object[data-v-432c94c6],iframe[data-v-432c94c6],h1[data-v-432c94c6],h2[data-v-432c94c6],h3[data-v-432c94c6],h4[data-v-432c94c6],h5[data-v-432c94c6],h6[data-v-432c94c6],p[data-v-432c94c6],blockquote[data-v-432c94c6],pre[data-v-432c94c6],a[data-v-432c94c6],abbr[data-v-432c94c6],acronym[data-v-432c94c6],address[data-v-432c94c6],big[data-v-432c94c6],cite[data-v-432c94c6],code[data-v-432c94c6],del[data-v-432c94c6],dfn[data-v-432c94c6],em[data-v-432c94c6],img[data-v-432c94c6],ins[data-v-432c94c6],kbd[data-v-432c94c6],q[data-v-432c94c6],s[data-v-432c94c6],samp[data-v-432c94c6],small[data-v-432c94c6],strike[data-v-432c94c6],strong[data-v-432c94c6],sub[data-v-432c94c6],sup[data-v-432c94c6],tt[data-v-432c94c6],var[data-v-432c94c6],b[data-v-432c94c6],u[data-v-432c94c6],i[data-v-432c94c6],center[data-v-432c94c6],dl[data-v-432c94c6],dt[data-v-432c94c6],dd[data-v-432c94c6],ol[data-v-432c94c6],ul[data-v-432c94c6],li[data-v-432c94c6],fieldset[data-v-432c94c6],form[data-v-432c94c6],label[data-v-432c94c6],legend[data-v-432c94c6],table[data-v-432c94c6],caption[data-v-432c94c6],tbody[data-v-432c94c6],tfoot[data-v-432c94c6],thead[data-v-432c94c6],tr[data-v-432c94c6],th[data-v-432c94c6],td[data-v-432c94c6],article[data-v-432c94c6],aside[data-v-432c94c6],canvas[data-v-432c94c6],details[data-v-432c94c6],embed[data-v-432c94c6],figure[data-v-432c94c6],figcaption[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],output[data-v-432c94c6],ruby[data-v-432c94c6],section[data-v-432c94c6],summary[data-v-432c94c6],time[data-v-432c94c6],mark[data-v-432c94c6],audio[data-v-432c94c6],video[data-v-432c94c6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-432c94c6],aside[data-v-432c94c6],details[data-v-432c94c6],figcaption[data-v-432c94c6],figure[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],section[data-v-432c94c6]{display:block}body[data-v-432c94c6]{line-height:1}ol[data-v-432c94c6],ul[data-v-432c94c6]{list-style:none}blockquote[data-v-432c94c6],q[data-v-432c94c6]{quotes:none}blockquote[data-v-432c94c6]:before,blockquote[data-v-432c94c6]:after,q[data-v-432c94c6]:before,q[data-v-432c94c6]:after{content:"";content:none}table[data-v-432c94c6]{border-collapse:collapse;border-spacing:0}[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-432c94c6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-432c94c6],body[data-v-432c94c6],#app[data-v-432c94c6]{height:100%;width:100%;overflow:hidden}body[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-432c94c6]{height:100%;width:100%}.vue-lab__component[data-v-432c94c6]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab__component__header[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box;font-family:var(--vue-lab-font-family)}.vue-lab__component__header-title[data-v-432c94c6]{font-size:18px;font-weight:600;font-family:var(--vue-lab-font-family)}.vue-lab__component__content[data-v-432c94c6]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab__component__body[data-v-432c94c6]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab__controls[data-v-432c94c6]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html[data-v-bf59dc62],body[data-v-bf59dc62],div[data-v-bf59dc62],span[data-v-bf59dc62],applet[data-v-bf59dc62],object[data-v-bf59dc62],iframe[data-v-bf59dc62],h1[data-v-bf59dc62],h2[data-v-bf59dc62],h3[data-v-bf59dc62],h4[data-v-bf59dc62],h5[data-v-bf59dc62],h6[data-v-bf59dc62],p[data-v-bf59dc62],blockquote[data-v-bf59dc62],pre[data-v-bf59dc62],a[data-v-bf59dc62],abbr[data-v-bf59dc62],acronym[data-v-bf59dc62],address[data-v-bf59dc62],big[data-v-bf59dc62],cite[data-v-bf59dc62],code[data-v-bf59dc62],del[data-v-bf59dc62],dfn[data-v-bf59dc62],em[data-v-bf59dc62],img[data-v-bf59dc62],ins[data-v-bf59dc62],kbd[data-v-bf59dc62],q[data-v-bf59dc62],s[data-v-bf59dc62],samp[data-v-bf59dc62],small[data-v-bf59dc62],strike[data-v-bf59dc62],strong[data-v-bf59dc62],sub[data-v-bf59dc62],sup[data-v-bf59dc62],tt[data-v-bf59dc62],var[data-v-bf59dc62],b[data-v-bf59dc62],u[data-v-bf59dc62],i[data-v-bf59dc62],center[data-v-bf59dc62],dl[data-v-bf59dc62],dt[data-v-bf59dc62],dd[data-v-bf59dc62],ol[data-v-bf59dc62],ul[data-v-bf59dc62],li[data-v-bf59dc62],fieldset[data-v-bf59dc62],form[data-v-bf59dc62],label[data-v-bf59dc62],legend[data-v-bf59dc62],table[data-v-bf59dc62],caption[data-v-bf59dc62],tbody[data-v-bf59dc62],tfoot[data-v-bf59dc62],thead[data-v-bf59dc62],tr[data-v-bf59dc62],th[data-v-bf59dc62],td[data-v-bf59dc62],article[data-v-bf59dc62],aside[data-v-bf59dc62],canvas[data-v-bf59dc62],details[data-v-bf59dc62],embed[data-v-bf59dc62],figure[data-v-bf59dc62],figcaption[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],output[data-v-bf59dc62],ruby[data-v-bf59dc62],section[data-v-bf59dc62],summary[data-v-bf59dc62],time[data-v-bf59dc62],mark[data-v-bf59dc62],audio[data-v-bf59dc62],video[data-v-bf59dc62]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-bf59dc62],aside[data-v-bf59dc62],details[data-v-bf59dc62],figcaption[data-v-bf59dc62],figure[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],section[data-v-bf59dc62]{display:block}body[data-v-bf59dc62]{line-height:1}ol[data-v-bf59dc62],ul[data-v-bf59dc62]{list-style:none}blockquote[data-v-bf59dc62],q[data-v-bf59dc62]{quotes:none}blockquote[data-v-bf59dc62]:before,blockquote[data-v-bf59dc62]:after,q[data-v-bf59dc62]:before,q[data-v-bf59dc62]:after{content:"";content:none}table[data-v-bf59dc62]{border-collapse:collapse;border-spacing:0}[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-bf59dc62]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-bf59dc62],body[data-v-bf59dc62],#app[data-v-bf59dc62]{height:100%;width:100%;overflow:hidden}body[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-bf59dc62]{-webkit-user-select:none;user-select:none}.vue-lab-colors[data-v-bf59dc62]{height:100%;width:100%;font-family:var(--vue-lab-font-family)}.vue-lab-colors__component[data-v-bf59dc62]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab-colors__component__header[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__header-title[data-v-bf59dc62]{font-size:18px;font-weight:600}.vue-lab-colors__component__content[data-v-bf59dc62]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__body[data-v-bf59dc62]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}html[data-v-89316d17],body[data-v-89316d17],div[data-v-89316d17],span[data-v-89316d17],applet[data-v-89316d17],object[data-v-89316d17],iframe[data-v-89316d17],h1[data-v-89316d17],h2[data-v-89316d17],h3[data-v-89316d17],h4[data-v-89316d17],h5[data-v-89316d17],h6[data-v-89316d17],p[data-v-89316d17],blockquote[data-v-89316d17],pre[data-v-89316d17],a[data-v-89316d17],abbr[data-v-89316d17],acronym[data-v-89316d17],address[data-v-89316d17],big[data-v-89316d17],cite[data-v-89316d17],code[data-v-89316d17],del[data-v-89316d17],dfn[data-v-89316d17],em[data-v-89316d17],img[data-v-89316d17],ins[data-v-89316d17],kbd[data-v-89316d17],q[data-v-89316d17],s[data-v-89316d17],samp[data-v-89316d17],small[data-v-89316d17],strike[data-v-89316d17],strong[data-v-89316d17],sub[data-v-89316d17],sup[data-v-89316d17],tt[data-v-89316d17],var[data-v-89316d17],b[data-v-89316d17],u[data-v-89316d17],i[data-v-89316d17],center[data-v-89316d17],dl[data-v-89316d17],dt[data-v-89316d17],dd[data-v-89316d17],ol[data-v-89316d17],ul[data-v-89316d17],li[data-v-89316d17],fieldset[data-v-89316d17],form[data-v-89316d17],label[data-v-89316d17],legend[data-v-89316d17],table[data-v-89316d17],caption[data-v-89316d17],tbody[data-v-89316d17],tfoot[data-v-89316d17],thead[data-v-89316d17],tr[data-v-89316d17],th[data-v-89316d17],td[data-v-89316d17],article[data-v-89316d17],aside[data-v-89316d17],canvas[data-v-89316d17],details[data-v-89316d17],embed[data-v-89316d17],figure[data-v-89316d17],figcaption[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],output[data-v-89316d17],ruby[data-v-89316d17],section[data-v-89316d17],summary[data-v-89316d17],time[data-v-89316d17],mark[data-v-89316d17],audio[data-v-89316d17],video[data-v-89316d17]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-89316d17],aside[data-v-89316d17],details[data-v-89316d17],figcaption[data-v-89316d17],figure[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],section[data-v-89316d17]{display:block}body[data-v-89316d17]{line-height:1}ol[data-v-89316d17],ul[data-v-89316d17]{list-style:none}blockquote[data-v-89316d17],q[data-v-89316d17]{quotes:none}blockquote[data-v-89316d17]:before,blockquote[data-v-89316d17]:after,q[data-v-89316d17]:before,q[data-v-89316d17]:after{content:"";content:none}table[data-v-89316d17]{border-collapse:collapse;border-spacing:0}[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-89316d17]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-89316d17],body[data-v-89316d17],#app[data-v-89316d17]{height:100%;width:100%;overflow:hidden}body[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-89316d17]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons__group-title[data-v-89316d17]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-icons__group-body[data-v-89316d17]{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px}.vue-lab-icons__group-item[data-v-89316d17]{display:flex;align-items:center;gap:10px;transition:all .3s;padding:5px;cursor:pointer}.vue-lab-icons__group-item[data-v-89316d17]:hover{background-color:#f0f7ff}.vue-lab-icons__group-item[data-v-89316d17]:active{background-color:#ebf5ff}.vue-lab-icons__group-item-name[data-v-89316d17]{text-decoration:none;color:#2c3239;transition:.3s;font-size:14px}html[data-v-ffc66622],body[data-v-ffc66622],div[data-v-ffc66622],span[data-v-ffc66622],applet[data-v-ffc66622],object[data-v-ffc66622],iframe[data-v-ffc66622],h1[data-v-ffc66622],h2[data-v-ffc66622],h3[data-v-ffc66622],h4[data-v-ffc66622],h5[data-v-ffc66622],h6[data-v-ffc66622],p[data-v-ffc66622],blockquote[data-v-ffc66622],pre[data-v-ffc66622],a[data-v-ffc66622],abbr[data-v-ffc66622],acronym[data-v-ffc66622],address[data-v-ffc66622],big[data-v-ffc66622],cite[data-v-ffc66622],code[data-v-ffc66622],del[data-v-ffc66622],dfn[data-v-ffc66622],em[data-v-ffc66622],img[data-v-ffc66622],ins[data-v-ffc66622],kbd[data-v-ffc66622],q[data-v-ffc66622],s[data-v-ffc66622],samp[data-v-ffc66622],small[data-v-ffc66622],strike[data-v-ffc66622],strong[data-v-ffc66622],sub[data-v-ffc66622],sup[data-v-ffc66622],tt[data-v-ffc66622],var[data-v-ffc66622],b[data-v-ffc66622],u[data-v-ffc66622],i[data-v-ffc66622],center[data-v-ffc66622],dl[data-v-ffc66622],dt[data-v-ffc66622],dd[data-v-ffc66622],ol[data-v-ffc66622],ul[data-v-ffc66622],li[data-v-ffc66622],fieldset[data-v-ffc66622],form[data-v-ffc66622],label[data-v-ffc66622],legend[data-v-ffc66622],table[data-v-ffc66622],caption[data-v-ffc66622],tbody[data-v-ffc66622],tfoot[data-v-ffc66622],thead[data-v-ffc66622],tr[data-v-ffc66622],th[data-v-ffc66622],td[data-v-ffc66622],article[data-v-ffc66622],aside[data-v-ffc66622],canvas[data-v-ffc66622],details[data-v-ffc66622],embed[data-v-ffc66622],figure[data-v-ffc66622],figcaption[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],output[data-v-ffc66622],ruby[data-v-ffc66622],section[data-v-ffc66622],summary[data-v-ffc66622],time[data-v-ffc66622],mark[data-v-ffc66622],audio[data-v-ffc66622],video[data-v-ffc66622]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ffc66622],aside[data-v-ffc66622],details[data-v-ffc66622],figcaption[data-v-ffc66622],figure[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],section[data-v-ffc66622]{display:block}body[data-v-ffc66622]{line-height:1}ol[data-v-ffc66622],ul[data-v-ffc66622]{list-style:none}blockquote[data-v-ffc66622],q[data-v-ffc66622]{quotes:none}blockquote[data-v-ffc66622]:before,blockquote[data-v-ffc66622]:after,q[data-v-ffc66622]:before,q[data-v-ffc66622]:after{content:"";content:none}table[data-v-ffc66622]{border-collapse:collapse;border-spacing:0}[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ffc66622]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ffc66622],body[data-v-ffc66622],#app[data-v-ffc66622]{height:100%;width:100%;overflow:hidden}body[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons[data-v-ffc66622]{font-family:var(--vue-lab-font-family);width:100%;height:100%;overflow:hidden;background-color:#fff}.vue-lab-icons__header[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-icons__header-title[data-v-ffc66622]{font-size:18px;font-weight:600}.vue-lab-icons__body[data-v-ffc66622]{height:100%;overflow:hidden;display:flex;flex-direction:column;padding:16px 8px 24px;box-sizing:border-box}.vue-lab-icons__body-description[data-v-ffc66622]{margin-bottom:20px}.vue-lab-icons__body-search[data-v-ffc66622]{width:100%;margin-bottom:25px}.vue-lab-icons__body-components[data-v-ffc66622]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-icons__body-components-list[data-v-ffc66622]{display:flex;flex-direction:column;gap:30px}.vue-lab-icons__controls[data-v-ffc66622]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:"";content:none}table{border-collapse:collapse;border-spacing:0}*{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html,body,#app{height:100%;width:100%;overflow:hidden}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll::-webkit-scrollbar{width:8px;height:8px}.custom-scroll::-webkit-scrollbar-track{background:transparent}.custom-scroll::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}')),document.head.appendChild(a)}}catch(t){console.error("vite-plugin-css-injected-by-js",t)}})();
-import { openBlock as k, createElementBlock as $, normalizeClass as Ie, renderSlot as st, computed as P, createElementVNode as L, toDisplayString as re, createCommentVNode as te, Fragment as fe, renderList as Ee, createBlock as V, createStaticVNode as ka, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as be, resolveDynamicComponent as at, createTextVNode as Ue, ref as Q, createVNode as xe, useCssVars as ri, normalizeStyle as Ze, onMounted as $e, nextTick as ft, watch as Xe, withKeys as et, normalizeProps as Vs, guardReactiveProps as Ra, useAttrs as Ni, mergeProps as oi, getCurrentInstance as Oi, inject as tn, withModifiers as Ve, onBeforeUnmount as Si, defineComponent as Aa, h as Ti, toHandlers as Ca, createSlots as Ia, reactive as Bt, markRaw as ki, createApp as Ma } from "vue";
+import { openBlock as k, createElementBlock as $, normalizeClass as Ie, renderSlot as at, computed as P, createElementVNode as L, toDisplayString as re, createCommentVNode as te, Fragment as fe, renderList as Ee, createBlock as V, createStaticVNode as ka, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as be, resolveDynamicComponent as rt, createTextVNode as Ue, ref as Q, createVNode as xe, useCssVars as ri, normalizeStyle as Ze, onMounted as $e, nextTick as st, watch as Xe, withKeys as et, normalizeProps as Vs, guardReactiveProps as Ra, useAttrs as Ni, mergeProps as oi, getCurrentInstance as Oi, inject as tn, withModifiers as Ve, onBeforeUnmount as Si, defineComponent as Aa, h as Ti, toHandlers as Ca, createSlots as Ia, reactive as Bt, markRaw as ki, createApp as Ma } from "vue";
 import { createRouter as La, createWebHistory as Da } from "vue-router";
-const ne = (s, t) => {
-  const n = s.__vccOpts || s;
-  for (const [e, i] of t)
-    n[e] = i;
-  return n;
+const ne = (s, n) => {
+  const t = s.__vccOpts || s;
+  for (const [e, i] of n)
+    t[e] = i;
+  return t;
 }, Ba = {
   __name: "index",
   props: {
@@ -21,13 +21,13 @@ const ne = (s, t) => {
     }
   },
   emits: ["click"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => [`vue-lab__lab-button_size-${e.size}`, `vue-lab__lab-button_palette-${e.palette}`]), o = { props: e, emit: i, classes: a, handleClick: () => i("click"), computed: P };
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => [`vue-lab__lab-button_size-${e.size}`, `vue-lab__lab-button_palette-${e.palette}`]), o = { props: e, emit: i, classes: a, handleClick: () => i("click"), computed: P };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
 };
-function Pa(s, t, n, e, i, a) {
+function Pa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     {
@@ -35,7 +35,7 @@ function Pa(s, t, n, e, i, a) {
       onClick: e.handleClick
     },
     [
-      st(s.$slots, "default", {}, void 0, !0)
+      at(s.$slots, "default", {}, void 0, !0)
     ],
     2
     /* CLASS */
@@ -60,21 +60,21 @@ const Zs = /* @__PURE__ */ ne(Ba, [["render", Pa], ["__scopeId", "data-v-5643684
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => [`vue-lab-tag_size-${e.size}`, `vue-lab-tag_palette-${e.palette}`]), l = P(() => e.title == null ? "Null" : e.title), _ = { props: e, emit: i, classes: a, label: l, handleClick: () => i("input", e.value), computed: P };
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => [`vue-lab-tag_size-${e.size}`, `vue-lab-tag_palette-${e.palette}`]), l = P(() => e.title == null ? "Null" : e.title), _ = { props: e, emit: i, classes: a, label: l, handleClick: () => i("input", e.value), computed: P };
     return Object.defineProperty(_, "__isScriptSetup", { enumerable: !1, value: !0 }), _;
   }
 }, $a = { class: "vue-lab-tag__title" }, za = {
   key: 0,
   class: "vue-lab-tag__close"
 };
-function Fa(s, t, n, e, i, a) {
+function Fa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     {
       class: Ie(["vue-lab-tag", ...e.classes, {
-        "vue-lab-tag_active": n.isActive
+        "vue-lab-tag_active": t.isActive
       }]),
       onClick: e.handleClick
     },
@@ -86,7 +86,7 @@ function Fa(s, t, n, e, i, a) {
         1
         /* TEXT */
       ),
-      n.isClose ? (k(), $("div", za, "X")) : te("v-if", !0)
+      t.isClose ? (k(), $("div", za, "X")) : te("v-if", !0)
     ],
     2
     /* CLASS */
@@ -97,17 +97,17 @@ const Ka = /* @__PURE__ */ ne(Ua, [["render", Fa], ["__scopeId", "data-v-553567f
   props: {
     description: String
   },
-  setup(s, { expose: t }) {
-    t();
+  setup(s, { expose: n }) {
+    n();
     const e = { props: s };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
 }, qa = { class: "vue-lab__description" };
-function Wa(s, t, n, e, i, a) {
+function Wa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     qa,
-    re(n.description),
+    re(t.description),
     1
     /* TEXT */
   );
@@ -120,9 +120,9 @@ const li = /* @__PURE__ */ ne(Ga, [["render", Wa], ["__scopeId", "data-v-f2d48cd
       default: () => ({})
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = (h) => !(h == null || typeof h == "string" && h.trim() === "" || Array.isArray(h) && h.length === 0 || typeof h == "object" && Object.keys(h).length === 0), i = P(() => e(n.data.default)), a = P(() => e(n.data.values)), l = P(() => e(n.data.description)), o = P(() => a.value ? n.data.type == "list" ? "List of options" : n.data.values : null), _ = { props: n, isExist: e, isDefault: i, isValues: a, isDescription: l, itemValues: o, computed: P };
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = (p) => !(p == null || typeof p == "string" && p.trim() === "" || Array.isArray(p) && p.length === 0 || typeof p == "object" && Object.keys(p).length === 0), i = P(() => e(t.data.default)), a = P(() => e(t.data.values)), l = P(() => e(t.data.description)), o = P(() => a.value ? t.data.type == "list" ? "List of options" : t.data.values : null), _ = { props: t, isExist: e, isDefault: i, isValues: a, isDescription: l, itemValues: o, computed: P };
     return Object.defineProperty(_, "__isScriptSetup", { enumerable: !1, value: !0 }), _;
   }
 }, ja = { class: "vue-lab__props-description__item" }, Va = { class: "vue-lab__props-description__item__header" }, Za = { class: "vue-lab__props-description__item__header_name" }, Xa = { class: "vue-lab__props-description__item__header_type" }, Ya = {
@@ -138,27 +138,27 @@ const li = /* @__PURE__ */ ne(Ga, [["render", Wa], ["__scopeId", "data-v-f2d48cd
   key: 2,
   class: "vue-lab__props-description__item__body__row"
 }, ir = { class: "vue-lab__props-description__item__body__row-value" };
-function sr(s, t, n, e, i, a) {
+function sr(s, n, t, e, i, a) {
   return k(), $("div", ja, [
     L("div", Va, [
       L(
         "div",
         Za,
-        re(n.data.name),
+        re(t.data.name),
         1
         /* TEXT */
       ),
       L(
         "div",
         Xa,
-        re(n.data.type),
+        re(t.data.type),
         1
         /* TEXT */
       )
     ]),
     e.isDefault || e.isValues || e.isDescription ? (k(), $("div", Ya, [
       e.isDefault ? (k(), $("div", Qa, [
-        t[0] || (t[0] = L(
+        n[0] || (n[0] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Default:",
@@ -168,13 +168,13 @@ function sr(s, t, n, e, i, a) {
         L(
           "div",
           Ja,
-          re(n.data.default),
+          re(t.data.default),
           1
           /* TEXT */
         )
       ])) : te("v-if", !0),
       e.isValues ? (k(), $("div", er, [
-        t[1] || (t[1] = L(
+        n[1] || (n[1] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Values:",
@@ -190,7 +190,7 @@ function sr(s, t, n, e, i, a) {
         )
       ])) : te("v-if", !0),
       e.isDescription ? (k(), $("div", nr, [
-        t[2] || (t[2] = L(
+        n[2] || (n[2] = L(
           "div",
           { class: "vue-lab__props-description__item__body__row-key" },
           "Description:",
@@ -200,7 +200,7 @@ function sr(s, t, n, e, i, a) {
         L(
           "div",
           ir,
-          re(n.data.description),
+          re(t.data.description),
           1
           /* TEXT */
         )
@@ -209,18 +209,18 @@ function sr(s, t, n, e, i, a) {
   ]);
 }
 const ar = /* @__PURE__ */ ne(Ha, [["render", sr], ["__scopeId", "data-v-845d1c40"], ["__file", "./item.vue"]]), Ye = () => {
-  let s = (/* @__PURE__ */ new Date()).getTime(), t = typeof performance < "u" && performance.now && performance.now() * 1e3 || 0;
-  return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(n) {
+  let s = (/* @__PURE__ */ new Date()).getTime(), n = typeof performance < "u" && performance.now && performance.now() * 1e3 || 0;
+  return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function(t) {
     let e = Math.random() * 16;
-    return s > 0 ? (e = (s + e) % 16 | 0, s = Math.floor(s / 16)) : (e = (t + e) % 16 | 0, t = Math.floor(t / 16)), (n === "x" ? e : e & 3 | 8).toString(16);
+    return s > 0 ? (e = (s + e) % 16 | 0, s = Math.floor(s / 16)) : (e = (n + e) % 16 | 0, n = Math.floor(n / 16)), (t === "x" ? e : e & 3 | 8).toString(16);
   });
-}, rr = /\s/, or = /(_|-|\.|:)/, lr = /([a-z][A-Z]|[A-Z][a-z])/, cr = /[\W_]+(.|$)/g, _r = /(.)([A-Z]+)/g, ur = (s) => s.replace(cr, function(t, n) {
-  return n ? " " + n : "";
-}), dr = (s) => s.replace(_r, function(t, n, e) {
-  return n + " " + e.toLowerCase().split("").join(" ");
-}), pr = (s) => rr.test(s) ? s.toLowerCase() : or.test(s) ? (ur(s) || s).toLowerCase() : lr.test(s) ? dr(s).toLowerCase() : s.toLowerCase(), fr = (s) => pr(s).replace(/[\W_]+(.|$)/g, (t, n) => n ? " " + n : "").trim(), Ri = (s) => {
-  const t = fr(s).replace(/ (.)/g, (n, e) => e.toUpperCase());
-  return t.charAt(0).toUpperCase() + t.slice(1);
+}, rr = /\s/, or = /(_|-|\.|:)/, lr = /([a-z][A-Z]|[A-Z][a-z])/, cr = /[\W_]+(.|$)/g, _r = /(.)([A-Z]+)/g, ur = (s) => s.replace(cr, function(n, t) {
+  return t ? " " + t : "";
+}), dr = (s) => s.replace(_r, function(n, t, e) {
+  return t + " " + e.toLowerCase().split("").join(" ");
+}), pr = (s) => rr.test(s) ? s.toLowerCase() : or.test(s) ? (ur(s) || s).toLowerCase() : lr.test(s) ? dr(s).toLowerCase() : s.toLowerCase(), fr = (s) => pr(s).replace(/[\W_]+(.|$)/g, (n, t) => t ? " " + t : "").trim(), Ri = (s) => {
+  const n = fr(s).replace(/ (.)/g, (t, e) => e.toUpperCase());
+  return n.charAt(0).toUpperCase() + n.slice(1);
 }, hr = {
   __name: "index",
   props: {
@@ -229,17 +229,17 @@ const ar = /* @__PURE__ */ ne(Ha, [["render", sr], ["__scopeId", "data-v-845d1c4
       default: () => []
     }
   },
-  setup(s, { expose: t }) {
-    t();
+  setup(s, { expose: n }) {
+    n();
     const e = { props: s, computed: P, PropsDescriptionItem: ar, get generateKey() {
       return Ye;
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
 }, gr = { class: "vue-lab__props-description" }, br = { class: "vue-lab__block-body" };
-function mr(s, t, n, e, i, a) {
+function mr(s, n, t, e, i, a) {
   return k(), $("div", gr, [
-    t[0] || (t[0] = L(
+    n[0] || (n[0] = L(
       "div",
       { class: "vue-lab__props-description__title vue-lab__block-title" },
       "Props",
@@ -250,7 +250,7 @@ function mr(s, t, n, e, i, a) {
       (k(!0), $(
         fe,
         null,
-        Ee(n.data, (l) => (k(), V(e.PropsDescriptionItem, {
+        Ee(t.data, (l) => (k(), V(e.PropsDescriptionItem, {
           key: e.generateKey(l.name),
           data: l
         }, null, 8, ["data"]))),
@@ -268,17 +268,17 @@ const Xs = /* @__PURE__ */ ne(hr, [["render", mr], ["__scopeId", "data-v-db8d12a
       default: () => []
     }
   },
-  setup(s, { expose: t }) {
-    t();
+  setup(s, { expose: n }) {
+    n();
     const e = { props: s, get generateKey() {
       return Ye;
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
 }, Er = { class: "vue-lab__events" }, yr = { class: "vue-lab__events__body" }, wr = { class: "vue-lab__events__body-content" }, xr = { class: "vue-lab__events__body-column vue-lab__events__body-column--td bold" }, Nr = { class: "vue-lab__events__body-column vue-lab__events__body-column--td vue-lab__events__body-column--td-regular" };
-function Or(s, t, n, e, i, a) {
+function Or(s, n, t, e, i, a) {
   return k(), $("div", Er, [
-    t[1] || (t[1] = L(
+    n[1] || (n[1] = L(
       "div",
       { class: "vue-lab__events__title vue-lab__block-title" },
       "Events",
@@ -286,7 +286,7 @@ function Or(s, t, n, e, i, a) {
       /* CACHED */
     )),
     L("div", yr, [
-      t[0] || (t[0] = L(
+      n[0] || (n[0] = L(
         "div",
         { class: "vue-lab__events__body-header" },
         [
@@ -302,7 +302,7 @@ function Or(s, t, n, e, i, a) {
         (k(!0), $(
           fe,
           null,
-          Ee(n.data, (l) => (k(), $("div", {
+          Ee(t.data, (l) => (k(), $("div", {
             key: e.generateKey(l.name),
             class: "vue-lab__events__body-row"
           }, [
@@ -337,8 +337,8 @@ const Ys = /* @__PURE__ */ ne(vr, [["render", Or], ["__scopeId", "data-v-7b2edc4
   "data-view-component": "true",
   class: "octicon octicon-copy js-clipboard-copy-icon"
 };
-function kr(s, t) {
-  return k(), $("svg", Tr, [...t[0] || (t[0] = [
+function kr(s, n) {
+  return k(), $("svg", Tr, [...n[0] || (n[0] = [
     L(
       "path",
       { d: "M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z" },
@@ -361,8 +361,8 @@ const Rr = /* @__PURE__ */ ne(Sr, [["render", kr], ["__file", "./CopyIcon.vue"]]
   height: "1em",
   viewBox: "0 0 24 24"
 };
-function Ir(s, t) {
-  return k(), $("svg", Cr, [...t[0] || (t[0] = [
+function Ir(s, n) {
+  return k(), $("svg", Cr, [...n[0] || (n[0] = [
     ka('<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="7" height="9" x="3" y="3" rx="1"></rect><rect width="7" height="5" x="14" y="3" rx="1"></rect><rect width="7" height="9" x="14" y="12" rx="1"></rect><rect width="7" height="5" x="3" y="16" rx="1"></rect></g>', 1)
   ])]);
 }
@@ -374,8 +374,8 @@ const Qs = /* @__PURE__ */ ne(Ar, [["render", Ir], ["__file", "./DefaultMenuIcon
   version: "1.1",
   xmlns: "http://www.w3.org/2000/svg"
 };
-function Dr(s, t) {
-  return k(), $("svg", Lr, [...t[0] || (t[0] = [
+function Dr(s, n) {
+  return k(), $("svg", Lr, [...n[0] || (n[0] = [
     L(
       "path",
       { d: "M19.332 19.041c0 0-1.664 2.125-3.79 0-2.062-2-3.562 0-3.562 0l-4.967 9.79c-0.144 0.533 0.173 1.081 0.706 1.224h16.497c0.533-0.143 0.85-0.69 0.707-1.224l-5.591-9.79zM26.939 28.33l-7.979-13.428v-0.025l-0.014-7.869h0.551c0.826 0 1.498-0.671 1.498-1.499 0-0.827-0.672-1.498-1.498-1.498h-7.995c-0.827 0-1.498 0.671-1.498 1.498 0 0.828 0.671 1.499 1.498 1.499h0.482l-0.016 7.871-6.908 13.451c-0.428 1.599 0.521 3.242 2.119 3.67h17.641c1.6-0.428 2.549-2.071 2.119-3.67zM24.553 30.998l-17.108-0.019c-1.065-0.286-1.697-1.382-1.412-2.446l6.947-13.616 0.021-8.908h-1.498c-0.275 0-0.499-0.224-0.499-0.5s0.224-0.499 0.499-0.499h7.995c0.275 0 0.498 0.224 0.498 0.499 0 0.276-0.223 0.5-0.498 0.5h-1.498l0.025 8.875 7.939 13.666c0.286 1.067-0.347 2.163-1.411 2.448zM16.48 2.512c0 0.552 0.448 1 1 1s1-0.448 1-1-0.447-1-1-1-1 0.447-1 1zM17.48 0.012c0.828 0 1.5-0.671 1.5-1.5s-0.672-1.5-1.5-1.5-1.5 0.671-1.5 1.5 0.672 1.5 1.5 1.5zM13.48 2.512c0.553 0 1-0.448 1-1s-0.447-1-1-1-1 0.448-1 1 0.447 1 1 1z" },
@@ -391,8 +391,8 @@ const Js = /* @__PURE__ */ ne(Mr, [["render", Dr], ["__file", "./LabIcon.vue"]])
   width: "9",
   class: "octicon octicon-copy js-clipboard-copy-icon"
 };
-function Ur(s, t) {
-  return k(), $("svg", Pr, [...t[0] || (t[0] = [
+function Ur(s, n) {
+  return k(), $("svg", Pr, [...n[0] || (n[0] = [
     L(
       "path",
       {
@@ -413,16 +413,16 @@ const $r = /* @__PURE__ */ ne(Br, [["render", Ur], ["__scopeId", "data-v-11d5744
       default: () => []
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = Q(""), e = Q(!1), i = s, a = Q(null), l = P(() => n.value ? i.options.filter(
-      (w) => w.name.toLowerCase().includes(n.value.toLowerCase())
-    ) : i.options), o = P(() => n.value.length >= 3), _ = P(() => l.value.length === 0), m = { searchTerm: n, isOpened: e, props: i, activator: a, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (w) => {
-      n.value = w;
+  setup(s, { expose: n }) {
+    n();
+    const t = Q(""), e = Q(!1), i = s, a = Q(null), l = P(() => t.value ? i.options.filter(
+      (w) => w.name.toLowerCase().includes(t.value.toLowerCase())
+    ) : i.options), o = P(() => t.value.length >= 3), _ = P(() => l.value.length === 0), m = { searchTerm: t, isOpened: e, props: i, activator: a, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (w) => {
+      t.value = w;
     }, toogleOpened: () => {
-      n.value = "", e.value = !e.value;
+      t.value = "", e.value = !e.value;
     }, close: () => {
-      e.value = !1, n.value = "";
+      e.value = !1, t.value = "";
     }, ref: Q, computed: P, get DefaultMenuIcon() {
       return Qs;
     }, get Popover() {
@@ -437,7 +437,7 @@ const $r = /* @__PURE__ */ ne(Br, [["render", Ur], ["__scopeId", "data-v-11d5744
   key: 0,
   class: "vue-lab__search-list--empty"
 };
-function Wr(s, t, n, e, i, a) {
+function Wr(s, n, t, e, i, a) {
   const l = Ut("router-link"), o = si("click-outside");
   return k(), $("div", Fr, [
     ai((k(), $("div", {
@@ -450,7 +450,7 @@ function Wr(s, t, n, e, i, a) {
         type: "text",
         class: "vue-lab__search-input",
         placeholder: "Search...",
-        onInput: t[0] || (t[0] = (_) => e.handleSearch(_.target.value))
+        onInput: n[0] || (n[0] = (_) => e.handleSearch(_.target.value))
       }, null, 40, Kr)
     ])), [
       [o, e.close]
@@ -477,7 +477,7 @@ function Wr(s, t, n, e, i, a) {
                 class: "vue-lab__search-list-item"
               }, {
                 default: be(() => [
-                  _.icon ? (k(), V(at(_.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
+                  _.icon ? (k(), V(rt(_.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
                     key: 1,
                     class: "vue-lab__search-list-item-icon"
                   })),
@@ -513,27 +513,27 @@ const Hr = /* @__PURE__ */ ne(zr, [["render", Wr], ["__scopeId", "data-v-163aedb
       default: "/"
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = P(() => n.path?.toLowerCase() === n.item.path?.toLowerCase()), i = { props: n, isActive: e, computed: P, get DefaultMenuIcon() {
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = P(() => t.path?.toLowerCase() === t.item.path?.toLowerCase()), i = { props: t, isActive: e, computed: P, get DefaultMenuIcon() {
       return Qs;
     } };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 }, Vr = { class: "vue-lab__nav-item-icon" }, Zr = { class: "vue-lab__nav-item-label" };
-function Xr(s, t, n, e, i, a) {
+function Xr(s, n, t, e, i, a) {
   const l = Ut("router-link");
-  return n.item ? (k(), V(l, {
+  return t.item ? (k(), V(l, {
     key: 0,
-    to: n.item.path,
-    title: n.item.name,
+    to: t.item.path,
+    title: t.item.name,
     class: Ie(["vue-lab__nav-item", {
       "vue-lab__nav-item--active": e.isActive
     }])
   }, {
     default: be(() => [
       L("div", Vr, [
-        n.item.icon ? (k(), V(at(n.item.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
+        t.item.icon ? (k(), V(rt(t.item.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
           key: 1,
           class: "vue-lab__nav-item-icon-menu"
         }))
@@ -541,7 +541,7 @@ function Xr(s, t, n, e, i, a) {
       L(
         "div",
         Zr,
-        re(n.item.name),
+        re(t.item.name),
         1
         /* TEXT */
       )
@@ -566,12 +566,12 @@ const Yr = /* @__PURE__ */ ne(jr, [["render", Xr], ["__scopeId", "data-v-875f6ee
       default: !1
     }
   },
-  setup(s, { expose: t }) {
-    t(), ri((u) => ({
+  setup(s, { expose: n }) {
+    n(), ri((u) => ({
       "4061da29-maxHeightDuration": _.value,
       "4061da29-maxHeight": o.value
     }));
-    const n = s, e = Q(!0), i = () => {
+    const t = s, e = Q(!0), i = () => {
       e.value = !e.value;
     }, a = P(() => ({
       "vue-lab__nav-group-arrow": !0,
@@ -580,28 +580,28 @@ const Yr = /* @__PURE__ */ ne(jr, [["render", Xr], ["__scopeId", "data-v-875f6ee
       "vue-lab__nav-group-items": !0,
       "vue-lab__nav-group-items--opened": e.value
     })), o = P(() => {
-      const u = n?.option?.items?.length;
+      const u = t?.option?.items?.length;
       return u ? u * 35 + 100 + "px" : "1000px";
     }), _ = P(() => {
-      const u = n?.option?.items?.length;
+      const u = t?.option?.items?.length;
       return !u || u < 30 ? ".3s" : u < 50 ? ".5s" : u < 80 ? ".8s" : u < 100 ? "1s" : u / 150 + "s";
-    }), h = { props: n, isOpened: e, toggleOpened: i, arrowClasses: a, listClasses: l, maxHeight: o, maxHeightDuration: _, ref: Q, computed: P, NavItem: Yr, get generateKey() {
+    }), p = { props: t, isOpened: e, toggleOpened: i, arrowClasses: a, listClasses: l, maxHeight: o, maxHeightDuration: _, ref: Q, computed: P, NavItem: Yr, get generateKey() {
       return Ye;
     }, get ArrowIcon() {
       return $r;
     } };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
 }, Jr = { class: "vue-lab__nav-group" };
-function eo(s, t, n, e, i, a) {
+function eo(s, n, t, e, i, a) {
   return k(), $("div", Jr, [
-    n.option?.name || n.isGroup ? (k(), $("div", {
+    t.option?.name || t.isGroup ? (k(), $("div", {
       key: 0,
       class: "vue-lab__nav-group-name",
       onClick: e.toggleOpened
     }, [
       Ue(
-        re(n.isGroup ? n.option.name || "Other components" : "") + " ",
+        re(t.isGroup ? t.option.name || "Other components" : "") + " ",
         1
         /* TEXT */
       ),
@@ -618,10 +618,10 @@ function eo(s, t, n, e, i, a) {
         (k(!0), $(
           fe,
           null,
-          Ee(n.option.items, (l) => (k(), V(e.NavItem, {
+          Ee(t.option.items, (l) => (k(), V(e.NavItem, {
             key: e.generateKey(l),
             item: l,
-            path: n.path
+            path: t.path
           }, null, 8, ["item", "path"]))),
           128
           /* KEYED_FRAGMENT */
@@ -646,18 +646,18 @@ const to = /* @__PURE__ */ ne(Qr, [["render", eo], ["__scopeId", "data-v-4061da2
     }
   },
   emits: ["navigate"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => {
-      const h = e.options.map((w) => w.group), p = [...new Set(h)].filter((w) => w && w.length).map((w) => ({
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => {
+      const p = e.options.map((w) => w.group), g = [...new Set(p)].filter((w) => w && w.length).map((w) => ({
         name: w,
-        items: e.options.filter((x) => x.group === w)
+        items: e.options.filter((N) => N.group === w)
       })), m = {
         name: null,
         items: e.options.filter((w) => !w.group || !w.group.length)
       };
-      return [...p, m];
-    }), l = P(() => e.options.some((h) => h.group && h.group.length)), _ = { props: e, emit: i, menuItems: a, isGroup: l, goToHome: () => {
+      return [...g, m];
+    }), l = P(() => e.options.some((p) => p.group && p.group.length)), _ = { props: e, emit: i, menuItems: a, isGroup: l, goToHome: () => {
       i("navigate", "/");
     }, computed: P, get generateKey() {
       return Ye;
@@ -667,7 +667,7 @@ const to = /* @__PURE__ */ ne(Qr, [["render", eo], ["__scopeId", "data-v-4061da2
     return Object.defineProperty(_, "__isScriptSetup", { enumerable: !1, value: !0 }), _;
   }
 }, io = { class: "vue-lab__nav" }, so = { class: "vue-lab__nav-header-icon" }, ao = { class: "vue-lab__nav-header-title" }, ro = { class: "vue-lab__nav-search" }, oo = { class: "vue-lab__nav-body" }, lo = { class: "vue-lab__nav-body-items custom-scroll--simple" };
-function co(s, t, n, e, i, a) {
+function co(s, n, t, e, i, a) {
   return k(), $("div", io, [
     L("div", {
       class: "vue-lab__nav-header",
@@ -679,13 +679,13 @@ function co(s, t, n, e, i, a) {
       L(
         "div",
         ao,
-        re(n.name),
+        re(t.name),
         1
         /* TEXT */
       )
     ]),
     L("div", ro, [
-      xe(e.Search, { options: n.options }, null, 8, ["options"])
+      xe(e.Search, { options: t.options }, null, 8, ["options"])
     ]),
     L("div", oo, [
       te(` <div class="vue-lab__nav-body-title">
@@ -698,7 +698,7 @@ function co(s, t, n, e, i, a) {
           Ee(e.menuItems, (l) => (k(), V(e.NavGroup, {
             key: e.generateKey(l),
             option: l,
-            path: n.path,
+            path: t.path,
             isGroup: e.isGroup
           }, null, 8, ["option", "path", "isGroup"]))),
           128
@@ -734,65 +734,82 @@ const _o = /* @__PURE__ */ ne(no, [["render", co], ["__scopeId", "data-v-3672c48
       default: 0
     }
   },
-  emits: ["close"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = Q({});
-    function l() {
-      return e.reference ? e.reference instanceof HTMLElement ? e.reference : e.reference?.$el ? e.reference.$el : typeof e.reference == "function" ? e.reference() : null : null;
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = Q({});
+    function i() {
+      return t.reference ? t.reference instanceof HTMLElement ? t.reference : t.reference?.$el ? t.reference.$el : typeof t.reference == "function" ? t.reference() : null : null;
     }
-    function o() {
-      const u = l();
-      if (!u)
+    function a() {
+      const o = i();
+      if (!o)
         return;
-      const p = u.getBoundingClientRect();
-      let { width: m, height: w, left: x, top: O, right: d, bottom: c, position: f, alignment: R } = e;
-      switch (R || (R = a.value.width > window.innerWidth - p.left && p.right > a.value.width ? "right" : "left", m = Math.max(a.value.width, p.width)), R === "left" ? x = p.left + "px" : d = window.innerWidth - p.right + "px", f) {
+      const _ = o.getBoundingClientRect();
+      let { width: p, height: u, left: g, top: m, right: w, bottom: N, position: x, alignment: d } = t;
+      if (d || (d = e.value.width > window.innerWidth - _.left && _.right > e.value.width ? "right" : "left", p = Math.max(e.value.width, _.width)), d === "left" ? g = _.left + "px" : w = window.innerWidth - _.right + "px", window.innerHeight - _.bottom < 300)
+        switch (x) {
+          case "top":
+            x = "bottom";
+            break;
+          case "top:bottom":
+            x = "bottom:top";
+            break;
+          case "bottom:top":
+            x = "top:bottom";
+            break;
+          case "bottom":
+            x = "top";
+            break;
+          case "left":
+            x = "left";
+            break;
+          case "right":
+            x = "right";
+            break;
+        }
+      switch (x) {
         case "top":
-          O = p.top + +e.margin + "px";
+          m = _.top + +t.margin + "px";
           break;
         case "top:bottom":
-          O = p.bottom + +e.margin + "px";
+          m = _.bottom + +t.margin + "px";
           break;
         case "bottom":
-          c = window.innerHeight - p.bottom - +e.margin + "px";
+          N = window.innerHeight - _.bottom - +t.margin + "px";
           break;
         case "bottom:top":
-          c = window.innerHeight - p.bottom - +e.margin + "px";
+          N = window.innerHeight - _.bottom + +t.margin + _.height + "px";
           break;
         case "left":
-          x = p.left - (m || 0) + "px";
+          g = _.left - (p || 0) + "px";
           break;
         case "right":
-          x = p.right + +e.margin + "px";
+          g = _.right + +t.margin + "px";
           break;
       }
-      a.value = {
-        width: m ? m + "px" : void 0,
-        height: w ? w + "px" : void 0,
-        left: e.centered ? "50%" : x,
-        top: e.centered ? "50%" : O,
-        transform: e.centered ? "translate(-50%, -50%)" : void 0,
-        right: d,
-        bottom: c,
+      e.value = {
+        width: p ? p + "px" : void 0,
+        height: u ? u + "px" : void 0,
+        left: t.centered ? "50%" : g,
+        top: t.centered ? "50%" : m,
+        transform: t.centered ? "translate(-50%, -50%)" : void 0,
+        right: w,
+        bottom: N,
         position: "absolute",
         zIndex: 999
       };
     }
-    function _(u) {
-      i("close", u);
-    }
     $e(() => {
-      ft(o), window.addEventListener("resize", o), window.addEventListener("scroll", o, !0);
+      st(a), window.addEventListener("resize", a), window.addEventListener("scroll", a, !0), st(a);
     }), Xe(
-      () => [e.reference, e.width, e.height, e.position, e.alignment],
-      () => ft(o)
+      () => [t.reference, t.width, t.height, t.position, t.alignment],
+      () => st(a)
     );
-    const h = { props: e, emit: i, style: a, getReferenceElement: l, setStyle: o, close: _, ref: Q, onMounted: $e, watch: Xe, nextTick: ft };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    const l = { props: t, style: e, getReferenceElement: i, setStyle: a, ref: Q, onMounted: $e, watch: Xe, nextTick: st };
+    return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 };
-function po(s, t, n, e, i, a) {
+function po(s, n, t, e, i, a) {
   const l = si("hoisted");
   return ai((k(), $(
     "div",
@@ -801,7 +818,7 @@ function po(s, t, n, e, i, a) {
       class: "vue-lab__popover"
     },
     [
-      st(s.$slots, "default", {}, void 0, !0)
+      at(s.$slots, "default", {}, void 0, !0)
     ],
     4
     /* STYLE */
@@ -817,23 +834,23 @@ const ea = /* @__PURE__ */ ne(uo, [["render", po], ["__scopeId", "data-v-22f54b0
     focus: { type: Boolean, default: !1 }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
+  setup(s, { expose: n, emit: t }) {
+    n();
     const e = s, i = Math.random().toString(36).slice(2, 9);
     $e(() => {
-      e.focus && ft(() => {
+      e.focus && st(() => {
         l.value.focus();
       });
     });
-    const a = n, l = Q(null), o = P(() => [`vue-lab__search_size-${e.size}`]), u = { props: e, uuid: i, emit: a, searchInput: l, classes: o, handleInput: (p) => {
-      a("input", p.target.value);
+    const a = t, l = Q(null), o = P(() => [`vue-lab__search_size-${e.size}`]), u = { props: e, uuid: i, emit: a, searchInput: l, classes: o, handleInput: (g) => {
+      a("input", g.target.value);
     }, unFocus: () => {
       l.value.blur();
-    }, computed: P, nextTick: ft, onMounted: $e, ref: Q };
+    }, computed: P, nextTick: st, onMounted: $e, ref: Q };
     return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
   }
 }, ho = { class: "vue-lab__search" }, go = ["id"], bo = ["for"];
-function mo(s, t, n, e, i, a) {
+function mo(s, n, t, e, i, a) {
   return k(), $("div", ho, [
     L(
       "div",
@@ -853,7 +870,7 @@ function mo(s, t, n, e, i, a) {
         L("label", {
           for: e.uuid,
           class: "vue-lab__search-label"
-        }, re(n.label), 9, bo)
+        }, re(t.label), 9, bo)
       ],
       2
       /* CLASS */
@@ -886,20 +903,20 @@ const ci = /* @__PURE__ */ ne(fo, [["render", mo], ["__scopeId", "data-v-06e447f
     }
   },
   emits: ["click"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = n, i = s, a = P(() => isNaN(i.size) ? i.size : `${i.size}px`), l = P(() => ({
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = t, i = s, a = P(() => isNaN(i.size) ? i.size : `${i.size}px`), l = P(() => ({
       "--icon-size": a.value,
       "--custom-color": i.color
     })), o = P(() => [
       "icon",
       `icon_${i.name}`,
       `icon_palette-${i.palette}`
-    ]), h = { emit: e, props: i, sizeValue: a, iconStyles: l, classes: o, handleClick: () => e("click"), computed: P };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    ]), p = { emit: e, props: i, sizeValue: a, iconStyles: l, classes: o, handleClick: () => e("click"), computed: P };
+    return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
 }, Eo = ["viewBox"];
-function yo(s, t, n, e, i, a) {
+function yo(s, n, t, e, i, a) {
   return k(), $(
     "div",
     {
@@ -909,7 +926,7 @@ function yo(s, t, n, e, i, a) {
     },
     [
       (k(), $("svg", {
-        viewBox: n.viewBox,
+        viewBox: t.viewBox,
         "stroke-width": 2,
         class: Ie([
           "icon-svg",
@@ -920,7 +937,7 @@ function yo(s, t, n, e, i, a) {
         xmlns: "http://www.w3.org/2000/svg",
         onClick: e.handleClick
       }, [
-        st(s.$slots, "default", {}, void 0, !0)
+        at(s.$slots, "default", {}, void 0, !0)
       ], 10, Eo))
     ],
     4
@@ -929,24 +946,24 @@ function yo(s, t, n, e, i, a) {
 }
 const wo = /* @__PURE__ */ ne(vo, [["render", yo], ["__scopeId", "data-v-1586512e"], ["__file", "./BaseTemplate.vue"]]), xo = {
   __name: "SadIcon",
-  setup(s, { expose: t }) {
-    t();
-    const n = Ni(), e = P(() => ({
-      ...n,
+  setup(s, { expose: n }) {
+    n();
+    const t = Ni(), e = P(() => ({
+      ...t,
       viewBox: "0 0 512 512.01",
       fill: "none",
       strokeWidth: 1,
       name: "sad-icon"
-    })), i = { attrs: n, iconAttrs: e, useAttrs: Ni, computed: P, BaseIcon: wo };
+    })), i = { attrs: t, iconAttrs: e, useAttrs: Ni, computed: P, BaseIcon: wo };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 };
-function No(s, t, n, e, i, a) {
+function No(s, n, t, e, i, a) {
   return k(), V(
     e.BaseIcon,
     Vs(Ra(e.iconAttrs)),
     {
-      default: be(() => [...t[0] || (t[0] = [
+      default: be(() => [...n[0] || (n[0] = [
         L(
           "path",
           {
@@ -976,9 +993,9 @@ const Oo = /* @__PURE__ */ ne(xo, [["render", No], ["__file", "./SadIcon.vue"]])
     }
   },
   emits: [],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => {
       switch (e.size) {
         case "sm":
           return 24;
@@ -993,9 +1010,9 @@ const Oo = /* @__PURE__ */ ne(xo, [["render", No], ["__file", "./SadIcon.vue"]])
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, To = ["data-size"], ko = { class: "vue-lab__empty-screen__text" };
-function Ro(s, t, n, e, i, a) {
+function Ro(s, n, t, e, i, a) {
   return k(), $("div", {
-    "data-size": n.size,
+    "data-size": t.size,
     class: "vue-lab__empty-screen"
   }, [
     xe(e.SadIcon, {
@@ -1003,8 +1020,8 @@ function Ro(s, t, n, e, i, a) {
       palette: "muted"
     }, null, 8, ["size"]),
     L("div", ko, [
-      st(s.$slots, "default", {}, () => [
-        t[0] || (t[0] = Ue(
+      at(s.$slots, "default", {}, () => [
+        n[0] || (n[0] = Ue(
           "Nothing to display",
           -1
           /* CACHED */
@@ -1026,9 +1043,9 @@ const _i = /* @__PURE__ */ ne(So, [["render", Ro], ["__scopeId", "data-v-c7a7835
     }
   },
   emits: [],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => e.slotConfig?.props ? Array.isArray(e.slotConfig.props) ? e.slotConfig?.props?.length ? e.slotConfig?.props?.reduce((o, _) => ({
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => e.slotConfig?.props ? Array.isArray(e.slotConfig.props) ? e.slotConfig?.props?.length ? e.slotConfig?.props?.reduce((o, _) => ({
       ...o,
       [_.name]: _.value
     }), {}) : {} : {
@@ -1037,35 +1054,35 @@ const _i = /* @__PURE__ */ ne(So, [["render", Ro], ["__scopeId", "data-v-c7a7835
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, Co = ["innerHTML"];
-function Io(s, t, n, e, i, a) {
-  return n.slotConfig.type == "text" ? (k(), $(
+function Io(s, n, t, e, i, a) {
+  return t.slotConfig.type == "text" ? (k(), $(
     fe,
     { key: 0 },
     [
       Ue(
-        re(n.slotConfig.value),
+        re(t.slotConfig.value),
         1
         /* TEXT */
       )
     ],
     64
     /* STABLE_FRAGMENT */
-  )) : n.slotConfig.type == "component" ? (k(), V(
-    at(n.slotConfig.value),
+  )) : t.slotConfig.type == "component" ? (k(), V(
+    rt(t.slotConfig.value),
     Vs(oi({ key: 1 }, e.attrs)),
     null,
     16
     /* FULL_PROPS */
-  )) : n.slotConfig.type == "html" ? (k(), $("div", {
+  )) : t.slotConfig.type == "html" ? (k(), $("div", {
     key: 2,
-    innerHTML: n.slotConfig.value
+    innerHTML: t.slotConfig.value
   }, null, 8, Co)) : te("v-if", !0);
 }
 const Mo = /* @__PURE__ */ ne(Ao, [["render", Io], ["__file", "./index.vue"]]), Lo = {
   __name: "App",
-  setup(s, { expose: t }) {
-    t();
-    const n = Oi(), e = n?.appContext.config.globalProperties.$router, i = tn("menu"), a = tn("kit-title"), o = { instance: n, router: e, menu: i, title: a, navigate: (_) => {
+  setup(s, { expose: n }) {
+    n();
+    const t = Oi(), e = t?.appContext.config.globalProperties.$router, i = tn("menu"), a = tn("kit-title"), o = { instance: t, router: e, menu: i, title: a, navigate: (_) => {
       e.push({ path: _ });
     }, get Nav() {
       return _o;
@@ -1073,7 +1090,7 @@ const Mo = /* @__PURE__ */ ne(Ao, [["render", Io], ["__file", "./index.vue"]]), 
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
 }, Do = { class: "vue-lab-application" }, Bo = { class: "vue-lab-application__body" }, Po = { class: "vue-lab-application__content" };
-function Uo(s, t, n, e, i, a) {
+function Uo(s, n, t, e, i, a) {
   const l = Ut("router-view");
   return k(), $("div", Do, [
     L("div", Bo, [
@@ -1094,27 +1111,27 @@ const $o = /* @__PURE__ */ ne(Lo, [["render", Uo], ["__file", "./App.vue"]]), zo
   props: {
     name: { type: String, required: !0 }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = {};
-    return Object.defineProperty(n, "__isScriptSetup", { enumerable: !1, value: !0 }), n;
+  setup(s, { expose: n }) {
+    n();
+    const t = {};
+    return Object.defineProperty(t, "__isScriptSetup", { enumerable: !1, value: !0 }), t;
   }
 }, Fo = { class: "vue-lab__ctrl-layout" }, Ko = { class: "vue-lab__ctrl-layout__title" }, Go = { class: "vue-lab__ctrl-layout__body" };
-function qo(s, t, n, e, i, a) {
+function qo(s, n, t, e, i, a) {
   return k(), $("div", Fo, [
     L(
       "div",
       Ko,
-      re(n.name),
+      re(t.name),
       1
       /* TEXT */
     ),
     L("div", Go, [
-      st(s.$slots, "default", {}, void 0, !0)
+      at(s.$slots, "default", {}, void 0, !0)
     ])
   ]);
 }
-const rt = /* @__PURE__ */ ne(zo, [["render", qo], ["__scopeId", "data-v-9214d2d0"], ["__file", "./CtrlLayout.vue"]]), Wo = {
+const ot = /* @__PURE__ */ ne(zo, [["render", qo], ["__scopeId", "data-v-9214d2d0"], ["__file", "./CtrlLayout.vue"]]), Wo = {
   __name: "index",
   props: {
     options: {
@@ -1131,11 +1148,11 @@ const rt = /* @__PURE__ */ ne(zo, [["render", qo], ["__scopeId", "data-v-9214d2d
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, l = { props: e, emit: i, setValue: (o) => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, l = { props: e, emit: i, setValue: (o) => {
       i("input", o);
-    }, CtrlLayout: rt, get Tag() {
+    }, CtrlLayout: ot, get Tag() {
       return Ka;
     }, get generateKey() {
       return Ye;
@@ -1143,17 +1160,17 @@ const rt = /* @__PURE__ */ ne(zo, [["render", qo], ["__scopeId", "data-v-9214d2d
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, Ho = { class: "vue-lab__tags" };
-function jo(s, t, n, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: n.title }, {
+function jo(s, n, t, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", Ho, [
         (k(!0), $(
           fe,
           null,
-          Ee(n.options, (l) => (k(), V(e.Tag, {
+          Ee(t.options, (l) => (k(), V(e.Tag, {
             key: e.generateKey(l),
             value: l,
-            isActive: l == n.value,
+            isActive: l == t.value,
             title: l,
             class: "vue-lab__tags__item",
             onInput: e.setValue
@@ -1174,74 +1191,74 @@ const Ai = /* @__PURE__ */ ne(Wo, [["render", jo], ["__scopeId", "data-v-6c569ff
     options: { type: Array, default: () => [] }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = Q(0), l = Q(null), o = Q(null), _ = Q(null), h = P(() => e.options.length), u = (g) => {
-      if (typeof g == "number" && Number.isInteger(g) && g >= 0 && g < h.value)
-        return g;
-      const S = e.options.findIndex((r) => String(r) === String(g));
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = Q(0), l = Q(null), o = Q(null), _ = Q(null), p = P(() => e.options.length), u = (h) => {
+      if (typeof h == "number" && Number.isInteger(h) && h >= 0 && h < p.value)
+        return h;
+      const S = e.options.findIndex((r) => String(r) === String(h));
       return S >= 0 ? S : 0;
     };
-    Xe(() => e.value, (g) => {
-      a.value = u(g);
-    }, { immediate: !0 }), Xe(a, (g) => {
-      i("input", e.options[g]);
+    Xe(() => e.value, (h) => {
+      a.value = u(h);
+    }, { immediate: !0 }), Xe(a, (h) => {
+      i("input", e.options[h]);
     });
-    const p = P(() => {
-      const g = h.value;
-      return g === 1 ? [0] : Array.from({ length: g }, (S, r) => r / (g - 1) * 100);
+    const g = P(() => {
+      const h = p.value;
+      return h === 1 ? [0] : Array.from({ length: h }, (S, r) => r / (h - 1) * 100);
     }), m = P(() => e.options[a.value]);
-    let w = !1, x = null;
-    const O = (g, S, r) => Math.max(S, Math.min(r, g)), d = (g) => {
-      const S = o.value.getBoundingClientRect(), y = O(g - S.left, 0, S.width) / S.width, N = Math.round(y * (h.value - 1));
-      return O(N, 0, h.value - 1);
-    }, c = (g) => {
-      a.value = O(g, 0, h.value - 1);
-    }, f = (g) => {
-      const S = d(g.clientX);
+    let w = !1, N = null;
+    const x = (h, S, r) => Math.max(S, Math.min(r, h)), d = (h) => {
+      const S = o.value.getBoundingClientRect(), y = x(h - S.left, 0, S.width) / S.width, O = Math.round(y * (p.value - 1));
+      return x(O, 0, p.value - 1);
+    }, c = (h) => {
+      a.value = x(h, 0, p.value - 1);
+    }, f = (h) => {
+      const S = d(h.clientX);
       c(S);
-    }, R = (g) => {
-      w = !0, x = g.pointerId, g.target.setPointerCapture(x), window.addEventListener("pointermove", A), window.addEventListener("pointerup", D);
+    }, A = (h) => {
+      w = !0, N = h.pointerId, h.target.setPointerCapture(N), window.addEventListener("pointermove", R), window.addEventListener("pointerup", D);
     };
-    function A(g) {
-      if (!w || g.pointerId !== x)
+    function R(h) {
+      if (!w || h.pointerId !== N)
         return;
-      const S = d(g.clientX);
+      const S = d(h.clientX);
       a.value = S;
     }
     const D = () => {
       if (w) {
         w = !1;
         try {
-          _.value.releasePointerCapture(x);
+          _.value.releasePointerCapture(N);
         } catch {
         }
-        x = null, window.removeEventListener("pointermove", A), window.removeEventListener("pointerup", D);
+        N = null, window.removeEventListener("pointermove", R), window.removeEventListener("pointerup", D);
       }
-    }, v = (g) => {
-      c(a.value + g);
+    }, v = (h) => {
+      c(a.value + h);
     };
     Si(() => {
-      window.removeEventListener("pointermove", A), window.removeEventListener("pointerup", D);
+      window.removeEventListener("pointermove", R), window.removeEventListener("pointerup", D);
     }), $e(() => {
       a.value = u(e.value);
     });
-    const E = { props: e, emit: i, currentIndex: a, root: l, track: o, handle: _, optionsCount: h, valueToIndex: u, positions: p, displayValue: m, get dragging() {
+    const E = { props: e, emit: i, currentIndex: a, root: l, track: o, handle: _, optionsCount: p, valueToIndex: u, positions: g, displayValue: m, get dragging() {
       return w;
-    }, set dragging(g) {
-      w = g;
+    }, set dragging(h) {
+      w = h;
     }, get pointerId() {
-      return x;
-    }, set pointerId(g) {
-      x = g;
-    }, clamp: O, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: R, onPointerMove: A, stopDrag: D, onArrow: v, ref: Q, computed: P, watch: Xe, onMounted: $e, onBeforeUnmount: Si, CtrlLayout: rt };
+      return N;
+    }, set pointerId(h) {
+      N = h;
+    }, clamp: x, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: A, onPointerMove: R, stopDrag: D, onArrow: v, ref: Q, computed: P, watch: Xe, onMounted: $e, onBeforeUnmount: Si, CtrlLayout: ot };
     return Object.defineProperty(E, "__isScriptSetup", { enumerable: !1, value: !0 }), E;
   }
 }, Zo = {
   class: "vue-lab__size",
   ref: "root"
 }, Xo = ["onClick", "aria-label", "onKeydown"], Yo = ["aria-valuemax", "aria-valuenow", "aria-valuetext"], Qo = { class: "vue-lab__size-value" };
-function Jo(s, t, n, e, i, a) {
+function Jo(s, n, t, e, i, a) {
   return k(), V(e.CtrlLayout, { name: "Size" }, {
     default: be(() => [
       L(
@@ -1253,13 +1270,13 @@ function Jo(s, t, n, e, i, a) {
             {
               class: "vue-lab__size-track",
               ref: "track",
-              onClick: t[4] || (t[4] = (l) => e.onTrackClick(l))
+              onClick: n[4] || (n[4] = (l) => e.onTrackClick(l))
             },
             [
               (k(!0), $(
                 fe,
                 null,
-                Ee(n.options, (l, o) => (k(), $("div", {
+                Ee(t.options, (l, o) => (k(), $("div", {
                   key: o,
                   class: Ie(["vue-lab__size-tick", {
                     "vue-lab__size-tick_active": o === e.currentIndex
@@ -1294,16 +1311,16 @@ function Jo(s, t, n, e, i, a) {
                 style: Ze({ left: e.positions[e.currentIndex] + "%" }),
                 role: "slider",
                 "aria-valuemin": 0,
-                "aria-valuemax": n.options.length - 1,
+                "aria-valuemax": t.options.length - 1,
                 "aria-valuenow": e.currentIndex,
                 "aria-valuetext": String(e.displayValue),
                 tabindex: "0",
                 onPointerdown: Ve(e.startDrag, ["prevent"]),
                 onKeydown: [
-                  t[0] || (t[0] = et(Ve((l) => e.onArrow(-1), ["prevent"]), ["left"])),
-                  t[1] || (t[1] = et(Ve((l) => e.onArrow(1), ["prevent"]), ["right"])),
-                  t[2] || (t[2] = et(Ve((l) => e.onArrow(1), ["prevent"]), ["up"])),
-                  t[3] || (t[3] = et(Ve((l) => e.onArrow(-1), ["prevent"]), ["down"]))
+                  n[0] || (n[0] = et(Ve((l) => e.onArrow(-1), ["prevent"]), ["left"])),
+                  n[1] || (n[1] = et(Ve((l) => e.onArrow(1), ["prevent"]), ["right"])),
+                  n[2] || (n[2] = et(Ve((l) => e.onArrow(1), ["prevent"]), ["up"])),
+                  n[3] || (n[3] = et(Ve((l) => e.onArrow(-1), ["prevent"]), ["down"]))
                 ]
               }, null, 44, Yo)
             ],
@@ -1313,7 +1330,7 @@ function Jo(s, t, n, e, i, a) {
           L(
             "div",
             Qo,
-            re(n.value),
+            re(t.value),
             1
             /* TEXT */
           )
@@ -1339,21 +1356,21 @@ const Ci = /* @__PURE__ */ ne(Vo, [["render", Jo], ["__scopeId", "data-v-96bfa19
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => ["vue-lab__boolean-tumbler", {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => ["vue-lab__boolean-tumbler", {
       "vue-lab__boolean-tumbler--right": !!e.value,
       "vue-lab__boolean-tumbler--left": !e.value
-    }]), l = { props: e, emit: i, classList: a, computed: P, CtrlLayout: rt };
+    }]), l = { props: e, emit: i, classList: a, computed: P, CtrlLayout: ot };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 };
-function tl(s, t, n, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: n.title }, {
+function tl(s, n, t, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", {
         class: "vue-lab__boolean",
-        onClick: t[0] || (t[0] = (l) => e.emit("input", !n.value))
+        onClick: n[0] || (n[0] = (l) => e.emit("input", !t.value))
       }, [
         L(
           "div",
@@ -1377,18 +1394,18 @@ const Ii = /* @__PURE__ */ ne(el, [["render", tl], ["__file", "./index.vue"]]), 
     title: { type: String, default: "Text Input" }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = n, i = s, a = Q(!1), l = (u) => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = t, i = s, a = Q(!1), l = (u) => {
       e("input", u?.target.value);
-    }, o = P(() => !!i.value && i.value !== ""), h = { emit: e, props: i, isFocused: a, handleTextInput: l, isValue: o, handleFocus: (u) => {
+    }, o = P(() => !!i.value && i.value !== ""), p = { emit: e, props: i, isFocused: a, handleTextInput: l, isValue: o, handleFocus: (u) => {
       a.value = u === "in";
-    }, computed: P, ref: Q, CtrlLayout: rt };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    }, computed: P, ref: Q, CtrlLayout: ot };
+    return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
 }, il = { class: "vue-lab__text-ctrl" }, sl = ["value"];
-function al(s, t, n, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: n.title }, {
+function al(s, n, t, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", il, [
         L(
@@ -1404,11 +1421,11 @@ function al(s, t, n, e, i, a) {
           },
           [
             L("input", {
-              value: n.value,
+              value: t.value,
               class: "vue-lab__text-ctrl__input",
               type: "text",
-              onFocusin: t[0] || (t[0] = (l) => e.handleFocus("in")),
-              onFocusout: t[1] || (t[1] = (l) => e.handleFocus("out")),
+              onFocusin: n[0] || (n[0] = (l) => e.handleFocus("in")),
+              onFocusout: n[1] || (n[1] = (l) => e.handleFocus("out")),
               onInput: e.handleTextInput
             }, null, 40, sl)
           ],
@@ -1434,16 +1451,16 @@ const Mi = /* @__PURE__ */ ne(nl, [["render", al], ["__scopeId", "data-v-3d8e17f
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = P(() => e.value || "linear-gradient(to right, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%)"), o = { props: e, emit: i, bgColor: a, handleColorInput: (_) => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = P(() => e.value || "linear-gradient(to right, #ff0000 0%, #ffff00 17%, #00ff00 33%, #00ffff 50%, #0000ff 67%, #ff00ff 83%, #ff0000 100%)"), o = { props: e, emit: i, bgColor: a, handleColorInput: (_) => {
       i("input", _?.target.value);
-    }, computed: P, CtrlLayout: rt };
+    }, computed: P, CtrlLayout: ot };
     return Object.defineProperty(o, "__isScriptSetup", { enumerable: !1, value: !0 }), o;
   }
 }, ol = { class: "vue-lab-color-picker" }, ll = ["value"];
-function cl(s, t, n, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: n.title }, {
+function cl(s, n, t, e, i, a) {
+  return k(), V(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", ol, [
         L(
@@ -1455,7 +1472,7 @@ function cl(s, t, n, e, i, a) {
           [
             L("input", {
               type: "color",
-              value: n.value || "#000000",
+              value: t.value || "#000000",
               class: "vue-lab-color-picker__hidden-input",
               onInput: e.handleColorInput
             }, null, 40, ll)
@@ -1486,33 +1503,33 @@ const Li = /* @__PURE__ */ ne(rl, [["render", cl], ["__scopeId", "data-v-8e33fe9
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, a = Q(null), l = Q(!1), o = Q(""), _ = P(() => e.options.find((O) => O.id === e.value)?.name || null), h = P(() => o.value ? e.options.filter((O) => O?.name?.toLowerCase().includes(o?.value?.toLowerCase())) : e.options), u = () => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, a = Q(null), l = Q(!1), o = Q(""), _ = P(() => e.options.find((x) => x.id === e.value)?.name || null), p = P(() => o.value ? e.options.filter((x) => x?.name?.toLowerCase().includes(o?.value?.toLowerCase())) : e.options), u = () => {
       l.value = !l.value;
-    }, p = () => {
+    }, g = () => {
       l.value = !1;
-    }, x = { props: e, emit: i, dropdownActivator: a, isOpened: l, searchValue: o, selectedValue: _, filteredOptions: h, toggleOpened: u, close: p, handleItem: (O) => {
-      i("input", O), p();
-    }, handleSearch: (O) => {
-      o.value = O;
-    }, computed: P, ref: Q, CtrlLayout: rt, get Popover() {
+    }, N = { props: e, emit: i, dropdownActivator: a, isOpened: l, searchValue: o, selectedValue: _, filteredOptions: p, toggleOpened: u, close: g, handleItem: (x) => {
+      i("input", x), g();
+    }, handleSearch: (x) => {
+      o.value = x;
+    }, computed: P, ref: Q, CtrlLayout: ot, get Popover() {
       return ea;
     }, get Search() {
       return ci;
     }, get EmptyScreen() {
       return _i;
     } };
-    return Object.defineProperty(x, "__isScriptSetup", { enumerable: !1, value: !0 }), x;
+    return Object.defineProperty(N, "__isScriptSetup", { enumerable: !1, value: !0 }), N;
   }
 }, ul = { class: "vue-lab__dropdown-modal" }, dl = {
   key: 1,
   class: "vue-lab__dropdown-list custom-scroll"
 }, pl = ["onClick"];
-function fl(s, t, n, e, i, a) {
+function fl(s, n, t, e, i, a) {
   const l = si("click-outside");
   return k(), V(e.CtrlLayout, {
-    name: n.title,
+    name: t.title,
     class: "vue-lab__dropdown"
   }, {
     default: be(() => [
@@ -1534,6 +1551,7 @@ function fl(s, t, n, e, i, a) {
         key: 0,
         reference: e.dropdownActivator,
         position: "top:bottom",
+        margin: "4",
         alignment: "left"
       }, {
         default: be(() => [
@@ -1569,7 +1587,7 @@ function fl(s, t, n, e, i, a) {
               key: 0,
               size: "sm"
             }, {
-              default: be(() => [...t[0] || (t[0] = [
+              default: be(() => [...n[0] || (n[0] = [
                 Ue(
                   "No options found",
                   -1
@@ -1598,16 +1616,16 @@ const Di = /* @__PURE__ */ ne(_l, [["render", fl], ["__scopeId", "data-v-b886953
     values: { type: Object, default: () => ({}) }
   },
   emits: ["input", "reset"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, h = { props: e, emit: i, componentsMap: {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, p = { props: e, emit: i, componentsMap: {
       tags: Ai,
       size: Ci,
       boolean: Ii,
       text: Mi,
       color: Li,
       list: Di
-    }, getValue: (u) => e.values?.[u], handleInput: ({ ctrl: u, value: p }) => i("input", { ctrl: u, value: p }), resetSettings: () => i("reset"), get Tags() {
+    }, getValue: (u) => e.values?.[u], handleInput: ({ ctrl: u, value: g }) => i("input", { ctrl: u, value: g }), resetSettings: () => i("reset"), get Tags() {
       return Ai;
     }, get Size() {
       return Ci;
@@ -1622,13 +1640,13 @@ const Di = /* @__PURE__ */ ne(_l, [["render", fl], ["__scopeId", "data-v-b886953
     }, get Button() {
       return Zs;
     } };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
 }, gl = { class: "vue-lab__control-block" }, bl = { class: "vue-lab__control-block__header" }, ml = { class: "vue-lab__control-block__header-ctrl" }, vl = { class: "vue-lab__control-block__body custom-scroll" };
-function El(s, t, n, e, i, a) {
+function El(s, n, t, e, i, a) {
   return k(), $("div", gl, [
     L("div", bl, [
-      t[1] || (t[1] = L(
+      n[1] || (n[1] = L(
         "div",
         { class: "vue-lab__control-block__header-title" },
         "Controls",
@@ -1637,7 +1655,7 @@ function El(s, t, n, e, i, a) {
       )),
       L("div", ml, [
         xe(e.Button, { onClick: e.resetSettings }, {
-          default: be(() => [...t[0] || (t[0] = [
+          default: be(() => [...n[0] || (n[0] = [
             Ue(
               "Reset",
               -1
@@ -1653,7 +1671,7 @@ function El(s, t, n, e, i, a) {
       (k(!0), $(
         fe,
         null,
-        Ee(n.options, (l, o) => (k(), V(at(e.componentsMap[l.ctrl]), {
+        Ee(t.options, (l, o) => (k(), V(rt(e.componentsMap[l.ctrl]), {
           key: `ctrl-${l.ctrl}-${o}`,
           options: l.variants,
           title: l.title,
@@ -1671,17 +1689,17 @@ const ta = /* @__PURE__ */ ne(hl, [["render", El], ["__scopeId", "data-v-25497d4
   props: {
     isControls: { type: Boolean, default: () => !0 }
   },
-  setup(s, { expose: t }) {
-    t(), ri((a) => ({
+  setup(s, { expose: n }) {
+    n(), ri((a) => ({
       "036062d8-gridTemplate": e.value
     }));
-    const n = s, e = P(() => n.isControls ? "1fr 300px" : "1fr"), i = { props: n, gridTemplate: e, computed: P };
+    const t = s, e = P(() => t.isControls ? "1fr 300px" : "1fr"), i = { props: t, gridTemplate: e, computed: P };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 }, wl = { class: "vue-lab" };
-function xl(s, t, n, e, i, a) {
+function xl(s, n, t, e, i, a) {
   return k(), $("div", wl, [
-    st(s.$slots, "default", {}, void 0, !0)
+    at(s.$slots, "default", {}, void 0, !0)
   ]);
 }
 const ui = /* @__PURE__ */ ne(yl, [["render", xl], ["__scopeId", "data-v-036062d8"], ["__file", "./index.vue"]]), Nl = {
@@ -1692,15 +1710,15 @@ const ui = /* @__PURE__ */ ne(yl, [["render", xl], ["__scopeId", "data-v-036062d
       default: 3
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = Array.from({ length: n.num }), i = { props: n, dotsArray: e, get generateKey() {
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = Array.from({ length: t.num }), i = { props: t, dotsArray: e, get generateKey() {
       return Ye;
     } };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 }, Ol = { class: "vue-lab__divider" };
-function Sl(s, t, n, e, i, a) {
+function Sl(s, n, t, e, i, a) {
   return k(), $("div", Ol, [
     (k(!0), $(
       fe,
@@ -1720,11 +1738,11 @@ const $t = /* @__PURE__ */ ne(Nl, [["render", Sl], ["__scopeId", "data-v-a2d7e9c
     title: { type: String, default: () => "Palette" },
     colors: { type: Array, default: () => [] }
   },
-  setup(s, { expose: t }) {
-    t(), ri((o) => ({
+  setup(s, { expose: n }) {
+    n(), ri((o) => ({
       "17706230-columns": i.value
     }));
-    const n = s, e = n.colors.sort((o, _) => o.index < _.index), i = P(() => e.map((o) => o.isBase ? "2fr" : "1fr").join(" ")), l = { props: n, sortedList: e, columns: i, copyToClipboard: async (o) => {
+    const t = s, e = t.colors.sort((o, _) => o.index < _.index), i = P(() => e.map((o) => o.isBase ? "2fr" : "1fr").join(" ")), l = { props: t, sortedList: e, columns: i, copyToClipboard: async (o) => {
       try {
         await navigator.clipboard.writeText(o);
       } catch (_) {
@@ -1734,12 +1752,12 @@ const $t = /* @__PURE__ */ ne(Nl, [["render", Sl], ["__scopeId", "data-v-a2d7e9c
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, kl = { class: "vue-lab__palette" }, Rl = { class: "vue-lab__palette-title" }, Al = { class: "vue-lab__palette-colors" }, Cl = ["onClick"], Il = { class: "vue-lab__palette-color-item__title" };
-function Ml(s, t, n, e, i, a) {
+function Ml(s, n, t, e, i, a) {
   return k(), $("div", kl, [
     L(
       "div",
       Rl,
-      re(n.title),
+      re(t.title),
       1
       /* TEXT */
     ),
@@ -1751,7 +1769,7 @@ function Ml(s, t, n, e, i, a) {
           "div",
           {
             style: Ze(`--i:${o}`),
-            key: `color-item-${n.title}-${l}-${l.index}-${o}`,
+            key: `color-item-${t.title}-${l}-${l.index}-${o}`,
             class: "vue-lab__palette-color-item"
           },
           [
@@ -1783,21 +1801,21 @@ const Ll = /* @__PURE__ */ ne(Tl, [["render", Ml], ["__scopeId", "data-v-1770623
     title: { type: String, default: () => "palette" },
     options: { type: Array, default: () => [] }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = P(() => [...new Set(n.options.map((l) => l.colorGroupName))].map((l) => ({
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = P(() => [...new Set(t.options.map((l) => l.colorGroupName))].map((l) => ({
       title: l,
-      colors: n.options.filter((o) => o.colorGroupName == l)
-    }))), i = { props: n, pallets: e, computed: P, Palette: Ll };
+      colors: t.options.filter((o) => o.colorGroupName == l)
+    }))), i = { props: t, pallets: e, computed: P, Palette: Ll };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 }, Bl = { class: "vue-lab__color-block" }, Pl = { class: "vue-lab__color-block__title" }, Ul = { class: "vue-lab__color-block__content" };
-function $l(s, t, n, e, i, a) {
+function $l(s, n, t, e, i, a) {
   return k(), $("div", Bl, [
     L(
       "div",
       Pl,
-      re(n.title),
+      re(t.title),
       1
       /* TEXT */
     ),
@@ -1823,8 +1841,8 @@ const zl = /* @__PURE__ */ ne(Dl, [["render", $l], ["__scopeId", "data-v-9831151
     isGroup: { type: Boolean, default: !1 },
     isLast: { type: Boolean, default: !1 }
   },
-  setup(s, { expose: t }) {
-    t();
+  setup(s, { expose: n }) {
+    n();
     const e = { props: s, get generateKey() {
       return Ye;
     }, get Divider() {
@@ -1839,20 +1857,20 @@ const zl = /* @__PURE__ */ ne(Dl, [["render", $l], ["__scopeId", "data-v-9831151
   key: 1,
   class: "vue-lab-home-page__group-description"
 }, Wl = { class: "vue-lab-home-page__group-body" };
-function Hl(s, t, n, e, i, a) {
+function Hl(s, n, t, e, i, a) {
   const l = Ut("router-link");
   return k(), $("div", Kl, [
-    n.option?.name || n.isGroup ? (k(), $(
+    t.option?.name || t.isGroup ? (k(), $(
       "div",
       Gl,
-      re(n.isGroup ? n.option.name || "Other components" : ""),
+      re(t.isGroup ? t.option.name || "Other components" : ""),
       1
       /* TEXT */
     )) : te("v-if", !0),
-    n.option?.description ? (k(), $(
+    t.option?.description ? (k(), $(
       "div",
       ql,
-      re(n.option.description || ""),
+      re(t.option.description || ""),
       1
       /* TEXT */
     )) : te("v-if", !0),
@@ -1860,7 +1878,7 @@ function Hl(s, t, n, e, i, a) {
       (k(!0), $(
         fe,
         null,
-        Ee(n.option.items, (o) => (k(), $("div", {
+        Ee(t.option.items, (o) => (k(), $("div", {
           key: e.generateKey(o),
           class: "vue-lab-home-page__group-body-item"
         }, [
@@ -1883,7 +1901,7 @@ function Hl(s, t, n, e, i, a) {
         /* KEYED_FRAGMENT */
       ))
     ]),
-    n.isLast ? te("v-if", !0) : (k(), V(e.Divider, { key: 2 }))
+    t.isLast ? te("v-if", !0) : (k(), V(e.Divider, { key: 2 }))
   ]);
 }
 const jl = /* @__PURE__ */ ne(Fl, [["render", Hl], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "./group.vue"]]), Vl = {
@@ -1895,25 +1913,25 @@ const jl = /* @__PURE__ */ ne(Fl, [["render", Hl], ["__scopeId", "data-v-d6fe0cc
     menu: { type: Array, default: () => [] },
     menuGroupsDescription: { type: Object, default: () => null }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = Q(""), i = (u) => {
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = Q(""), i = (u) => {
       e.value = u;
-    }, a = P(() => n.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), l = P(() => !o.value.some((u) => u.items.length)), o = P(() => {
-      const u = n.menu.map((O) => O.group), p = [...new Set(u)].filter((O) => O && O.length), m = (O) => !e.value || !e.value.length ? !0 : O.name.toLowerCase().includes(e.value.toLowerCase()), w = p.map((O) => {
-        const d = n.menuGroupsDescription ? n.menuGroupsDescription[O] : null;
+    }, a = P(() => t.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), l = P(() => !o.value.some((u) => u.items.length)), o = P(() => {
+      const u = t.menu.map((x) => x.group), g = [...new Set(u)].filter((x) => x && x.length), m = (x) => !e.value || !e.value.length ? !0 : x.name.toLowerCase().includes(e.value.toLowerCase()), w = g.map((x) => {
+        const d = t.menuGroupsDescription ? t.menuGroupsDescription[x] : null;
         return {
-          name: O,
+          name: x,
           description: d,
-          items: n.menu.filter((c) => c.group === O).filter(m)
+          items: t.menu.filter((c) => c.group === x).filter(m)
         };
-      }), x = {
+      }), N = {
         name: null,
         description: null,
-        items: n.menu.filter((O) => !O.group || !O.group.length).filter(m)
+        items: t.menu.filter((x) => !x.group || !x.group.length).filter(m)
       };
-      return [...w, x];
-    }), _ = P(() => n.menu.some((u) => u.group && u.group.length)), h = { props: n, searchQuery: e, handleTextInput: i, pageDiscription: a, isEmptySearch: l, menuItems: o, isGroup: _, computed: P, ref: Q, Group: jl, get generateKey() {
+      return [...w, N];
+    }), _ = P(() => t.menu.some((u) => u.group && u.group.length)), p = { props: t, searchQuery: e, handleTextInput: i, pageDiscription: a, isEmptySearch: l, menuItems: o, isGroup: _, computed: P, ref: Q, Group: jl, get generateKey() {
       return Ye;
     }, get LabIcon() {
       return Js;
@@ -1922,17 +1940,17 @@ const jl = /* @__PURE__ */ ne(Fl, [["render", Hl], ["__scopeId", "data-v-d6fe0cc
     }, get EmptyScreen() {
       return _i;
     } };
-    return Object.defineProperty(h, "__isScriptSetup", { enumerable: !1, value: !0 }), h;
+    return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
 }, Zl = { class: "vue-lab-home-page" }, Xl = { class: "vue-lab-home-page__header" }, Yl = { class: "vue-lab-home-page__title" }, Ql = { class: "vue-lab-home-page__title-icon" }, Jl = { class: "vue-lab-home-page__description" }, ec = { class: "vue-lab-home-page__search" }, tc = { class: "vue-lab-home-page__menu custom-scroll--simple" };
-function nc(s, t, n, e, i, a) {
+function nc(s, n, t, e, i, a) {
   return k(), $("div", Zl, [
     L("div", Xl, [
       L("div", Yl, [
         L("div", Ql, [
           xe(e.LabIcon)
         ]),
-        t[0] || (t[0] = L(
+        n[0] || (n[0] = L(
           "div",
           { class: "vue-lab-home-page__title-text" },
           " Vue Lab ",
@@ -1956,7 +1974,7 @@ function nc(s, t, n, e, i, a) {
         key: 0,
         size: "lg"
       }, {
-        default: be(() => [...t[1] || (t[1] = [
+        default: be(() => [...n[1] || (n[1] = [
           Ue(
             " Components not found. ",
             -1
@@ -2001,21 +2019,21 @@ function nc(s, t, n, e, i, a) {
   ]);
 }
 const ic = /* @__PURE__ */ ne(Vl, [["render", nc], ["__scopeId", "data-v-c75a0f45"], ["__file", "./index.vue"]]);
-async function sc(s, t) {
+async function sc(s, n) {
   try {
-    const n = await import(
+    const t = await import(
       /* @vite-ignore */
-      `${t}/${s}.vuelab.js`
+      `${n}/${s}.vuelab.js`
     );
-    return n.default || n;
-  } catch (n) {
-    return console.log(n), console.warn(`⚠️ Config not found ${s}`), {};
+    return t.default || t;
+  } catch (t) {
+    return console.log(t), console.warn(`⚠️ Config not found ${s}`), {};
   }
 }
 function ac(s) {
   return s && s.__esModule && Object.prototype.hasOwnProperty.call(s, "default") ? s.default : s;
 }
-var nn = { exports: {} }, dt = {}, At = { exports: {} }, sn = {}, an = {}, Bi;
+var nn = { exports: {} }, pt = {}, At = { exports: {} }, sn = {}, an = {}, Bi;
 function di() {
   if (Bi) return an;
   Bi = 1;
@@ -2068,38 +2086,38 @@ function di() {
     var e = "";
     return this.is_empty() ? this.__parent.indent_empty_lines && (e = this.__parent.get_indent_string(this.__indent_count)) : (e = this.__parent.get_indent_string(this.__indent_count, this.__alignment_count), e += this.__items.join("")), e;
   };
-  function t(e, i) {
+  function n(e, i) {
     this.__cache = [""], this.__indent_size = e.indent_size, this.__indent_string = e.indent_char, e.indent_with_tabs || (this.__indent_string = new Array(e.indent_size + 1).join(e.indent_char)), i = i || "", e.indent_level > 0 && (i = new Array(e.indent_level + 1).join(this.__indent_string)), this.__base_string = i, this.__base_string_length = i.length;
   }
-  t.prototype.get_indent_size = function(e, i) {
+  n.prototype.get_indent_size = function(e, i) {
     var a = this.__base_string_length;
     return i = i || 0, e < 0 && (a = 0), a += e * this.__indent_size, a += i, a;
-  }, t.prototype.get_indent_string = function(e, i) {
+  }, n.prototype.get_indent_string = function(e, i) {
     var a = this.__base_string;
     return i = i || 0, e < 0 && (e = 0, a = ""), i += e * this.__indent_size, this.__ensure_cache(i), a += this.__cache[i], a;
-  }, t.prototype.__ensure_cache = function(e) {
+  }, n.prototype.__ensure_cache = function(e) {
     for (; e >= this.__cache.length; )
       this.__add_column();
-  }, t.prototype.__add_column = function() {
+  }, n.prototype.__add_column = function() {
     var e = this.__cache.length, i = 0, a = "";
     this.__indent_size && e >= this.__indent_size && (i = Math.floor(e / this.__indent_size), e -= i * this.__indent_size, a = new Array(i + 1).join(this.__indent_string)), e && (a += new Array(e + 1).join(" ")), this.__cache.push(a);
   };
-  function n(e, i) {
-    this.__indent_cache = new t(e, i), this.raw = !1, this._end_with_newline = e.end_with_newline, this.indent_size = e.indent_size, this.wrap_line_length = e.wrap_line_length, this.indent_empty_lines = e.indent_empty_lines, this.__lines = [], this.previous_line = null, this.current_line = null, this.next_line = new s(this), this.space_before_token = !1, this.non_breaking_space = !1, this.previous_token_wrapped = !1, this.__add_outputline();
+  function t(e, i) {
+    this.__indent_cache = new n(e, i), this.raw = !1, this._end_with_newline = e.end_with_newline, this.indent_size = e.indent_size, this.wrap_line_length = e.wrap_line_length, this.indent_empty_lines = e.indent_empty_lines, this.__lines = [], this.previous_line = null, this.current_line = null, this.next_line = new s(this), this.space_before_token = !1, this.non_breaking_space = !1, this.previous_token_wrapped = !1, this.__add_outputline();
   }
-  return n.prototype.__add_outputline = function() {
+  return t.prototype.__add_outputline = function() {
     this.previous_line = this.current_line, this.current_line = this.next_line.clone_empty(), this.__lines.push(this.current_line);
-  }, n.prototype.get_line_number = function() {
+  }, t.prototype.get_line_number = function() {
     return this.__lines.length;
-  }, n.prototype.get_indent_string = function(e, i) {
+  }, t.prototype.get_indent_string = function(e, i) {
     return this.__indent_cache.get_indent_string(e, i);
-  }, n.prototype.get_indent_size = function(e, i) {
+  }, t.prototype.get_indent_size = function(e, i) {
     return this.__indent_cache.get_indent_size(e, i);
-  }, n.prototype.is_empty = function() {
+  }, t.prototype.is_empty = function() {
     return !this.previous_line && this.current_line.is_empty();
-  }, n.prototype.add_new_line = function(e) {
+  }, t.prototype.add_new_line = function(e) {
     return this.is_empty() || !e && this.just_added_newline() ? !1 : (this.raw || this.__add_outputline(), !0);
-  }, n.prototype.get_code = function(e) {
+  }, t.prototype.get_code = function(e) {
     this.trim(!0);
     var i = this.current_line.pop();
     i && (i[i.length - 1] === `
@@ -2108,31 +2126,31 @@ function di() {
 `);
     return e !== `
 ` && (a = a.replace(/[\n]/g, e)), a;
-  }, n.prototype.set_wrap_point = function() {
+  }, t.prototype.set_wrap_point = function() {
     this.current_line._set_wrap_point();
-  }, n.prototype.set_indent = function(e, i) {
+  }, t.prototype.set_indent = function(e, i) {
     return e = e || 0, i = i || 0, this.next_line.set_indent(e, i), this.__lines.length > 1 ? (this.current_line.set_indent(e, i), !0) : (this.current_line.set_indent(), !1);
-  }, n.prototype.add_raw_token = function(e) {
+  }, t.prototype.add_raw_token = function(e) {
     for (var i = 0; i < e.newlines; i++)
       this.__add_outputline();
     this.current_line.set_indent(-1), this.current_line.push(e.whitespace_before), this.current_line.push(e.text), this.space_before_token = !1, this.non_breaking_space = !1, this.previous_token_wrapped = !1;
-  }, n.prototype.add_token = function(e) {
+  }, t.prototype.add_token = function(e) {
     this.__add_space_before_token(), this.current_line.push(e), this.space_before_token = !1, this.non_breaking_space = !1, this.previous_token_wrapped = this.current_line._allow_wrap();
-  }, n.prototype.__add_space_before_token = function() {
+  }, t.prototype.__add_space_before_token = function() {
     this.space_before_token && !this.just_added_newline() && (this.non_breaking_space || this.set_wrap_point(), this.current_line.push(" "));
-  }, n.prototype.remove_indent = function(e) {
+  }, t.prototype.remove_indent = function(e) {
     for (var i = this.__lines.length; e < i; )
       this.__lines[e]._remove_indent(), e++;
     this.current_line._remove_wrap_indent();
-  }, n.prototype.trim = function(e) {
+  }, t.prototype.trim = function(e) {
     for (e = e === void 0 ? !1 : e, this.current_line.trim(); e && this.__lines.length > 1 && this.current_line.is_empty(); )
       this.__lines.pop(), this.current_line = this.__lines[this.__lines.length - 1], this.current_line.trim();
     this.previous_line = this.__lines.length > 1 ? this.__lines[this.__lines.length - 2] : null;
-  }, n.prototype.just_added_newline = function() {
+  }, t.prototype.just_added_newline = function() {
     return this.current_line.is_empty();
-  }, n.prototype.just_added_blankline = function() {
+  }, t.prototype.just_added_blankline = function() {
     return this.is_empty() || this.current_line.is_empty() && this.previous_line.is_empty();
-  }, n.prototype.ensure_empty_line_above = function(e, i) {
+  }, t.prototype.ensure_empty_line_above = function(e, i) {
     for (var a = this.__lines.length - 2; a >= 0; ) {
       var l = this.__lines[a];
       if (l.is_empty())
@@ -2143,31 +2161,31 @@ function di() {
       }
       a--;
     }
-  }, an.Output = n, an;
+  }, an.Output = t, an;
 }
 var rn = {}, Pi;
 function na() {
   if (Pi) return rn;
   Pi = 1;
-  function s(t, n, e, i) {
-    this.type = t, this.text = n, this.comments_before = null, this.newlines = e || 0, this.whitespace_before = i || "", this.parent = null, this.next = null, this.previous = null, this.opened = null, this.closed = null, this.directives = null;
+  function s(n, t, e, i) {
+    this.type = n, this.text = t, this.comments_before = null, this.newlines = e || 0, this.whitespace_before = i || "", this.parent = null, this.next = null, this.previous = null, this.opened = null, this.closed = null, this.directives = null;
   }
   return rn.Token = s, rn;
 }
 var on = {}, Ui;
 function ia() {
   return Ui || (Ui = 1, (function(s) {
-    var t = "\\x23\\x24\\x40\\x41-\\x5a\\x5f\\x61-\\x7a", n = "\\x24\\x30-\\x39\\x41-\\x5a\\x5f\\x61-\\x7a", e = "\\xaa\\xb5\\xba\\xc0-\\xd6\\xd8-\\xf6\\xf8-\\u02c1\\u02c6-\\u02d1\\u02e0-\\u02e4\\u02ec\\u02ee\\u0370-\\u0374\\u0376\\u0377\\u037a-\\u037d\\u0386\\u0388-\\u038a\\u038c\\u038e-\\u03a1\\u03a3-\\u03f5\\u03f7-\\u0481\\u048a-\\u0527\\u0531-\\u0556\\u0559\\u0561-\\u0587\\u05d0-\\u05ea\\u05f0-\\u05f2\\u0620-\\u064a\\u066e\\u066f\\u0671-\\u06d3\\u06d5\\u06e5\\u06e6\\u06ee\\u06ef\\u06fa-\\u06fc\\u06ff\\u0710\\u0712-\\u072f\\u074d-\\u07a5\\u07b1\\u07ca-\\u07ea\\u07f4\\u07f5\\u07fa\\u0800-\\u0815\\u081a\\u0824\\u0828\\u0840-\\u0858\\u08a0\\u08a2-\\u08ac\\u0904-\\u0939\\u093d\\u0950\\u0958-\\u0961\\u0971-\\u0977\\u0979-\\u097f\\u0985-\\u098c\\u098f\\u0990\\u0993-\\u09a8\\u09aa-\\u09b0\\u09b2\\u09b6-\\u09b9\\u09bd\\u09ce\\u09dc\\u09dd\\u09df-\\u09e1\\u09f0\\u09f1\\u0a05-\\u0a0a\\u0a0f\\u0a10\\u0a13-\\u0a28\\u0a2a-\\u0a30\\u0a32\\u0a33\\u0a35\\u0a36\\u0a38\\u0a39\\u0a59-\\u0a5c\\u0a5e\\u0a72-\\u0a74\\u0a85-\\u0a8d\\u0a8f-\\u0a91\\u0a93-\\u0aa8\\u0aaa-\\u0ab0\\u0ab2\\u0ab3\\u0ab5-\\u0ab9\\u0abd\\u0ad0\\u0ae0\\u0ae1\\u0b05-\\u0b0c\\u0b0f\\u0b10\\u0b13-\\u0b28\\u0b2a-\\u0b30\\u0b32\\u0b33\\u0b35-\\u0b39\\u0b3d\\u0b5c\\u0b5d\\u0b5f-\\u0b61\\u0b71\\u0b83\\u0b85-\\u0b8a\\u0b8e-\\u0b90\\u0b92-\\u0b95\\u0b99\\u0b9a\\u0b9c\\u0b9e\\u0b9f\\u0ba3\\u0ba4\\u0ba8-\\u0baa\\u0bae-\\u0bb9\\u0bd0\\u0c05-\\u0c0c\\u0c0e-\\u0c10\\u0c12-\\u0c28\\u0c2a-\\u0c33\\u0c35-\\u0c39\\u0c3d\\u0c58\\u0c59\\u0c60\\u0c61\\u0c85-\\u0c8c\\u0c8e-\\u0c90\\u0c92-\\u0ca8\\u0caa-\\u0cb3\\u0cb5-\\u0cb9\\u0cbd\\u0cde\\u0ce0\\u0ce1\\u0cf1\\u0cf2\\u0d05-\\u0d0c\\u0d0e-\\u0d10\\u0d12-\\u0d3a\\u0d3d\\u0d4e\\u0d60\\u0d61\\u0d7a-\\u0d7f\\u0d85-\\u0d96\\u0d9a-\\u0db1\\u0db3-\\u0dbb\\u0dbd\\u0dc0-\\u0dc6\\u0e01-\\u0e30\\u0e32\\u0e33\\u0e40-\\u0e46\\u0e81\\u0e82\\u0e84\\u0e87\\u0e88\\u0e8a\\u0e8d\\u0e94-\\u0e97\\u0e99-\\u0e9f\\u0ea1-\\u0ea3\\u0ea5\\u0ea7\\u0eaa\\u0eab\\u0ead-\\u0eb0\\u0eb2\\u0eb3\\u0ebd\\u0ec0-\\u0ec4\\u0ec6\\u0edc-\\u0edf\\u0f00\\u0f40-\\u0f47\\u0f49-\\u0f6c\\u0f88-\\u0f8c\\u1000-\\u102a\\u103f\\u1050-\\u1055\\u105a-\\u105d\\u1061\\u1065\\u1066\\u106e-\\u1070\\u1075-\\u1081\\u108e\\u10a0-\\u10c5\\u10c7\\u10cd\\u10d0-\\u10fa\\u10fc-\\u1248\\u124a-\\u124d\\u1250-\\u1256\\u1258\\u125a-\\u125d\\u1260-\\u1288\\u128a-\\u128d\\u1290-\\u12b0\\u12b2-\\u12b5\\u12b8-\\u12be\\u12c0\\u12c2-\\u12c5\\u12c8-\\u12d6\\u12d8-\\u1310\\u1312-\\u1315\\u1318-\\u135a\\u1380-\\u138f\\u13a0-\\u13f4\\u1401-\\u166c\\u166f-\\u167f\\u1681-\\u169a\\u16a0-\\u16ea\\u16ee-\\u16f0\\u1700-\\u170c\\u170e-\\u1711\\u1720-\\u1731\\u1740-\\u1751\\u1760-\\u176c\\u176e-\\u1770\\u1780-\\u17b3\\u17d7\\u17dc\\u1820-\\u1877\\u1880-\\u18a8\\u18aa\\u18b0-\\u18f5\\u1900-\\u191c\\u1950-\\u196d\\u1970-\\u1974\\u1980-\\u19ab\\u19c1-\\u19c7\\u1a00-\\u1a16\\u1a20-\\u1a54\\u1aa7\\u1b05-\\u1b33\\u1b45-\\u1b4b\\u1b83-\\u1ba0\\u1bae\\u1baf\\u1bba-\\u1be5\\u1c00-\\u1c23\\u1c4d-\\u1c4f\\u1c5a-\\u1c7d\\u1ce9-\\u1cec\\u1cee-\\u1cf1\\u1cf5\\u1cf6\\u1d00-\\u1dbf\\u1e00-\\u1f15\\u1f18-\\u1f1d\\u1f20-\\u1f45\\u1f48-\\u1f4d\\u1f50-\\u1f57\\u1f59\\u1f5b\\u1f5d\\u1f5f-\\u1f7d\\u1f80-\\u1fb4\\u1fb6-\\u1fbc\\u1fbe\\u1fc2-\\u1fc4\\u1fc6-\\u1fcc\\u1fd0-\\u1fd3\\u1fd6-\\u1fdb\\u1fe0-\\u1fec\\u1ff2-\\u1ff4\\u1ff6-\\u1ffc\\u2071\\u207f\\u2090-\\u209c\\u2102\\u2107\\u210a-\\u2113\\u2115\\u2119-\\u211d\\u2124\\u2126\\u2128\\u212a-\\u212d\\u212f-\\u2139\\u213c-\\u213f\\u2145-\\u2149\\u214e\\u2160-\\u2188\\u2c00-\\u2c2e\\u2c30-\\u2c5e\\u2c60-\\u2ce4\\u2ceb-\\u2cee\\u2cf2\\u2cf3\\u2d00-\\u2d25\\u2d27\\u2d2d\\u2d30-\\u2d67\\u2d6f\\u2d80-\\u2d96\\u2da0-\\u2da6\\u2da8-\\u2dae\\u2db0-\\u2db6\\u2db8-\\u2dbe\\u2dc0-\\u2dc6\\u2dc8-\\u2dce\\u2dd0-\\u2dd6\\u2dd8-\\u2dde\\u2e2f\\u3005-\\u3007\\u3021-\\u3029\\u3031-\\u3035\\u3038-\\u303c\\u3041-\\u3096\\u309d-\\u309f\\u30a1-\\u30fa\\u30fc-\\u30ff\\u3105-\\u312d\\u3131-\\u318e\\u31a0-\\u31ba\\u31f0-\\u31ff\\u3400-\\u4db5\\u4e00-\\u9fcc\\ua000-\\ua48c\\ua4d0-\\ua4fd\\ua500-\\ua60c\\ua610-\\ua61f\\ua62a\\ua62b\\ua640-\\ua66e\\ua67f-\\ua697\\ua6a0-\\ua6ef\\ua717-\\ua71f\\ua722-\\ua788\\ua78b-\\ua78e\\ua790-\\ua793\\ua7a0-\\ua7aa\\ua7f8-\\ua801\\ua803-\\ua805\\ua807-\\ua80a\\ua80c-\\ua822\\ua840-\\ua873\\ua882-\\ua8b3\\ua8f2-\\ua8f7\\ua8fb\\ua90a-\\ua925\\ua930-\\ua946\\ua960-\\ua97c\\ua984-\\ua9b2\\ua9cf\\uaa00-\\uaa28\\uaa40-\\uaa42\\uaa44-\\uaa4b\\uaa60-\\uaa76\\uaa7a\\uaa80-\\uaaaf\\uaab1\\uaab5\\uaab6\\uaab9-\\uaabd\\uaac0\\uaac2\\uaadb-\\uaadd\\uaae0-\\uaaea\\uaaf2-\\uaaf4\\uab01-\\uab06\\uab09-\\uab0e\\uab11-\\uab16\\uab20-\\uab26\\uab28-\\uab2e\\uabc0-\\uabe2\\uac00-\\ud7a3\\ud7b0-\\ud7c6\\ud7cb-\\ud7fb\\uf900-\\ufa6d\\ufa70-\\ufad9\\ufb00-\\ufb06\\ufb13-\\ufb17\\ufb1d\\ufb1f-\\ufb28\\ufb2a-\\ufb36\\ufb38-\\ufb3c\\ufb3e\\ufb40\\ufb41\\ufb43\\ufb44\\ufb46-\\ufbb1\\ufbd3-\\ufd3d\\ufd50-\\ufd8f\\ufd92-\\ufdc7\\ufdf0-\\ufdfb\\ufe70-\\ufe74\\ufe76-\\ufefc\\uff21-\\uff3a\\uff41-\\uff5a\\uff66-\\uffbe\\uffc2-\\uffc7\\uffca-\\uffcf\\uffd2-\\uffd7\\uffda-\\uffdc", i = "\\u0300-\\u036f\\u0483-\\u0487\\u0591-\\u05bd\\u05bf\\u05c1\\u05c2\\u05c4\\u05c5\\u05c7\\u0610-\\u061a\\u0620-\\u0649\\u0672-\\u06d3\\u06e7-\\u06e8\\u06fb-\\u06fc\\u0730-\\u074a\\u0800-\\u0814\\u081b-\\u0823\\u0825-\\u0827\\u0829-\\u082d\\u0840-\\u0857\\u08e4-\\u08fe\\u0900-\\u0903\\u093a-\\u093c\\u093e-\\u094f\\u0951-\\u0957\\u0962-\\u0963\\u0966-\\u096f\\u0981-\\u0983\\u09bc\\u09be-\\u09c4\\u09c7\\u09c8\\u09d7\\u09df-\\u09e0\\u0a01-\\u0a03\\u0a3c\\u0a3e-\\u0a42\\u0a47\\u0a48\\u0a4b-\\u0a4d\\u0a51\\u0a66-\\u0a71\\u0a75\\u0a81-\\u0a83\\u0abc\\u0abe-\\u0ac5\\u0ac7-\\u0ac9\\u0acb-\\u0acd\\u0ae2-\\u0ae3\\u0ae6-\\u0aef\\u0b01-\\u0b03\\u0b3c\\u0b3e-\\u0b44\\u0b47\\u0b48\\u0b4b-\\u0b4d\\u0b56\\u0b57\\u0b5f-\\u0b60\\u0b66-\\u0b6f\\u0b82\\u0bbe-\\u0bc2\\u0bc6-\\u0bc8\\u0bca-\\u0bcd\\u0bd7\\u0be6-\\u0bef\\u0c01-\\u0c03\\u0c46-\\u0c48\\u0c4a-\\u0c4d\\u0c55\\u0c56\\u0c62-\\u0c63\\u0c66-\\u0c6f\\u0c82\\u0c83\\u0cbc\\u0cbe-\\u0cc4\\u0cc6-\\u0cc8\\u0cca-\\u0ccd\\u0cd5\\u0cd6\\u0ce2-\\u0ce3\\u0ce6-\\u0cef\\u0d02\\u0d03\\u0d46-\\u0d48\\u0d57\\u0d62-\\u0d63\\u0d66-\\u0d6f\\u0d82\\u0d83\\u0dca\\u0dcf-\\u0dd4\\u0dd6\\u0dd8-\\u0ddf\\u0df2\\u0df3\\u0e34-\\u0e3a\\u0e40-\\u0e45\\u0e50-\\u0e59\\u0eb4-\\u0eb9\\u0ec8-\\u0ecd\\u0ed0-\\u0ed9\\u0f18\\u0f19\\u0f20-\\u0f29\\u0f35\\u0f37\\u0f39\\u0f41-\\u0f47\\u0f71-\\u0f84\\u0f86-\\u0f87\\u0f8d-\\u0f97\\u0f99-\\u0fbc\\u0fc6\\u1000-\\u1029\\u1040-\\u1049\\u1067-\\u106d\\u1071-\\u1074\\u1082-\\u108d\\u108f-\\u109d\\u135d-\\u135f\\u170e-\\u1710\\u1720-\\u1730\\u1740-\\u1750\\u1772\\u1773\\u1780-\\u17b2\\u17dd\\u17e0-\\u17e9\\u180b-\\u180d\\u1810-\\u1819\\u1920-\\u192b\\u1930-\\u193b\\u1951-\\u196d\\u19b0-\\u19c0\\u19c8-\\u19c9\\u19d0-\\u19d9\\u1a00-\\u1a15\\u1a20-\\u1a53\\u1a60-\\u1a7c\\u1a7f-\\u1a89\\u1a90-\\u1a99\\u1b46-\\u1b4b\\u1b50-\\u1b59\\u1b6b-\\u1b73\\u1bb0-\\u1bb9\\u1be6-\\u1bf3\\u1c00-\\u1c22\\u1c40-\\u1c49\\u1c5b-\\u1c7d\\u1cd0-\\u1cd2\\u1d00-\\u1dbe\\u1e01-\\u1f15\\u200c\\u200d\\u203f\\u2040\\u2054\\u20d0-\\u20dc\\u20e1\\u20e5-\\u20f0\\u2d81-\\u2d96\\u2de0-\\u2dff\\u3021-\\u3028\\u3099\\u309a\\ua640-\\ua66d\\ua674-\\ua67d\\ua69f\\ua6f0-\\ua6f1\\ua7f8-\\ua800\\ua806\\ua80b\\ua823-\\ua827\\ua880-\\ua881\\ua8b4-\\ua8c4\\ua8d0-\\ua8d9\\ua8f3-\\ua8f7\\ua900-\\ua909\\ua926-\\ua92d\\ua930-\\ua945\\ua980-\\ua983\\ua9b3-\\ua9c0\\uaa00-\\uaa27\\uaa40-\\uaa41\\uaa4c-\\uaa4d\\uaa50-\\uaa59\\uaa7b\\uaae0-\\uaae9\\uaaf2-\\uaaf3\\uabc0-\\uabe1\\uabec\\uabed\\uabf0-\\uabf9\\ufb20-\\ufb28\\ufe00-\\ufe0f\\ufe20-\\ufe26\\ufe33\\ufe34\\ufe4d-\\ufe4f\\uff10-\\uff19\\uff3f", a = "\\\\u[0-9a-fA-F]{4}|\\\\u\\{[0-9a-fA-F]+\\}", l = "(?:" + a + "|[" + t + e + "])", o = "(?:" + a + "|[" + n + e + i + "])*";
-    s.identifier = new RegExp(l + o, "g"), s.identifierStart = new RegExp(l), s.identifierMatch = new RegExp("(?:" + a + "|[" + n + e + i + "])+"), s.newline = /[\n\r\u2028\u2029]/, s.lineBreak = new RegExp(`\r
+    var n = "\\x23\\x24\\x40\\x41-\\x5a\\x5f\\x61-\\x7a", t = "\\x24\\x30-\\x39\\x41-\\x5a\\x5f\\x61-\\x7a", e = "\\xaa\\xb5\\xba\\xc0-\\xd6\\xd8-\\xf6\\xf8-\\u02c1\\u02c6-\\u02d1\\u02e0-\\u02e4\\u02ec\\u02ee\\u0370-\\u0374\\u0376\\u0377\\u037a-\\u037d\\u0386\\u0388-\\u038a\\u038c\\u038e-\\u03a1\\u03a3-\\u03f5\\u03f7-\\u0481\\u048a-\\u0527\\u0531-\\u0556\\u0559\\u0561-\\u0587\\u05d0-\\u05ea\\u05f0-\\u05f2\\u0620-\\u064a\\u066e\\u066f\\u0671-\\u06d3\\u06d5\\u06e5\\u06e6\\u06ee\\u06ef\\u06fa-\\u06fc\\u06ff\\u0710\\u0712-\\u072f\\u074d-\\u07a5\\u07b1\\u07ca-\\u07ea\\u07f4\\u07f5\\u07fa\\u0800-\\u0815\\u081a\\u0824\\u0828\\u0840-\\u0858\\u08a0\\u08a2-\\u08ac\\u0904-\\u0939\\u093d\\u0950\\u0958-\\u0961\\u0971-\\u0977\\u0979-\\u097f\\u0985-\\u098c\\u098f\\u0990\\u0993-\\u09a8\\u09aa-\\u09b0\\u09b2\\u09b6-\\u09b9\\u09bd\\u09ce\\u09dc\\u09dd\\u09df-\\u09e1\\u09f0\\u09f1\\u0a05-\\u0a0a\\u0a0f\\u0a10\\u0a13-\\u0a28\\u0a2a-\\u0a30\\u0a32\\u0a33\\u0a35\\u0a36\\u0a38\\u0a39\\u0a59-\\u0a5c\\u0a5e\\u0a72-\\u0a74\\u0a85-\\u0a8d\\u0a8f-\\u0a91\\u0a93-\\u0aa8\\u0aaa-\\u0ab0\\u0ab2\\u0ab3\\u0ab5-\\u0ab9\\u0abd\\u0ad0\\u0ae0\\u0ae1\\u0b05-\\u0b0c\\u0b0f\\u0b10\\u0b13-\\u0b28\\u0b2a-\\u0b30\\u0b32\\u0b33\\u0b35-\\u0b39\\u0b3d\\u0b5c\\u0b5d\\u0b5f-\\u0b61\\u0b71\\u0b83\\u0b85-\\u0b8a\\u0b8e-\\u0b90\\u0b92-\\u0b95\\u0b99\\u0b9a\\u0b9c\\u0b9e\\u0b9f\\u0ba3\\u0ba4\\u0ba8-\\u0baa\\u0bae-\\u0bb9\\u0bd0\\u0c05-\\u0c0c\\u0c0e-\\u0c10\\u0c12-\\u0c28\\u0c2a-\\u0c33\\u0c35-\\u0c39\\u0c3d\\u0c58\\u0c59\\u0c60\\u0c61\\u0c85-\\u0c8c\\u0c8e-\\u0c90\\u0c92-\\u0ca8\\u0caa-\\u0cb3\\u0cb5-\\u0cb9\\u0cbd\\u0cde\\u0ce0\\u0ce1\\u0cf1\\u0cf2\\u0d05-\\u0d0c\\u0d0e-\\u0d10\\u0d12-\\u0d3a\\u0d3d\\u0d4e\\u0d60\\u0d61\\u0d7a-\\u0d7f\\u0d85-\\u0d96\\u0d9a-\\u0db1\\u0db3-\\u0dbb\\u0dbd\\u0dc0-\\u0dc6\\u0e01-\\u0e30\\u0e32\\u0e33\\u0e40-\\u0e46\\u0e81\\u0e82\\u0e84\\u0e87\\u0e88\\u0e8a\\u0e8d\\u0e94-\\u0e97\\u0e99-\\u0e9f\\u0ea1-\\u0ea3\\u0ea5\\u0ea7\\u0eaa\\u0eab\\u0ead-\\u0eb0\\u0eb2\\u0eb3\\u0ebd\\u0ec0-\\u0ec4\\u0ec6\\u0edc-\\u0edf\\u0f00\\u0f40-\\u0f47\\u0f49-\\u0f6c\\u0f88-\\u0f8c\\u1000-\\u102a\\u103f\\u1050-\\u1055\\u105a-\\u105d\\u1061\\u1065\\u1066\\u106e-\\u1070\\u1075-\\u1081\\u108e\\u10a0-\\u10c5\\u10c7\\u10cd\\u10d0-\\u10fa\\u10fc-\\u1248\\u124a-\\u124d\\u1250-\\u1256\\u1258\\u125a-\\u125d\\u1260-\\u1288\\u128a-\\u128d\\u1290-\\u12b0\\u12b2-\\u12b5\\u12b8-\\u12be\\u12c0\\u12c2-\\u12c5\\u12c8-\\u12d6\\u12d8-\\u1310\\u1312-\\u1315\\u1318-\\u135a\\u1380-\\u138f\\u13a0-\\u13f4\\u1401-\\u166c\\u166f-\\u167f\\u1681-\\u169a\\u16a0-\\u16ea\\u16ee-\\u16f0\\u1700-\\u170c\\u170e-\\u1711\\u1720-\\u1731\\u1740-\\u1751\\u1760-\\u176c\\u176e-\\u1770\\u1780-\\u17b3\\u17d7\\u17dc\\u1820-\\u1877\\u1880-\\u18a8\\u18aa\\u18b0-\\u18f5\\u1900-\\u191c\\u1950-\\u196d\\u1970-\\u1974\\u1980-\\u19ab\\u19c1-\\u19c7\\u1a00-\\u1a16\\u1a20-\\u1a54\\u1aa7\\u1b05-\\u1b33\\u1b45-\\u1b4b\\u1b83-\\u1ba0\\u1bae\\u1baf\\u1bba-\\u1be5\\u1c00-\\u1c23\\u1c4d-\\u1c4f\\u1c5a-\\u1c7d\\u1ce9-\\u1cec\\u1cee-\\u1cf1\\u1cf5\\u1cf6\\u1d00-\\u1dbf\\u1e00-\\u1f15\\u1f18-\\u1f1d\\u1f20-\\u1f45\\u1f48-\\u1f4d\\u1f50-\\u1f57\\u1f59\\u1f5b\\u1f5d\\u1f5f-\\u1f7d\\u1f80-\\u1fb4\\u1fb6-\\u1fbc\\u1fbe\\u1fc2-\\u1fc4\\u1fc6-\\u1fcc\\u1fd0-\\u1fd3\\u1fd6-\\u1fdb\\u1fe0-\\u1fec\\u1ff2-\\u1ff4\\u1ff6-\\u1ffc\\u2071\\u207f\\u2090-\\u209c\\u2102\\u2107\\u210a-\\u2113\\u2115\\u2119-\\u211d\\u2124\\u2126\\u2128\\u212a-\\u212d\\u212f-\\u2139\\u213c-\\u213f\\u2145-\\u2149\\u214e\\u2160-\\u2188\\u2c00-\\u2c2e\\u2c30-\\u2c5e\\u2c60-\\u2ce4\\u2ceb-\\u2cee\\u2cf2\\u2cf3\\u2d00-\\u2d25\\u2d27\\u2d2d\\u2d30-\\u2d67\\u2d6f\\u2d80-\\u2d96\\u2da0-\\u2da6\\u2da8-\\u2dae\\u2db0-\\u2db6\\u2db8-\\u2dbe\\u2dc0-\\u2dc6\\u2dc8-\\u2dce\\u2dd0-\\u2dd6\\u2dd8-\\u2dde\\u2e2f\\u3005-\\u3007\\u3021-\\u3029\\u3031-\\u3035\\u3038-\\u303c\\u3041-\\u3096\\u309d-\\u309f\\u30a1-\\u30fa\\u30fc-\\u30ff\\u3105-\\u312d\\u3131-\\u318e\\u31a0-\\u31ba\\u31f0-\\u31ff\\u3400-\\u4db5\\u4e00-\\u9fcc\\ua000-\\ua48c\\ua4d0-\\ua4fd\\ua500-\\ua60c\\ua610-\\ua61f\\ua62a\\ua62b\\ua640-\\ua66e\\ua67f-\\ua697\\ua6a0-\\ua6ef\\ua717-\\ua71f\\ua722-\\ua788\\ua78b-\\ua78e\\ua790-\\ua793\\ua7a0-\\ua7aa\\ua7f8-\\ua801\\ua803-\\ua805\\ua807-\\ua80a\\ua80c-\\ua822\\ua840-\\ua873\\ua882-\\ua8b3\\ua8f2-\\ua8f7\\ua8fb\\ua90a-\\ua925\\ua930-\\ua946\\ua960-\\ua97c\\ua984-\\ua9b2\\ua9cf\\uaa00-\\uaa28\\uaa40-\\uaa42\\uaa44-\\uaa4b\\uaa60-\\uaa76\\uaa7a\\uaa80-\\uaaaf\\uaab1\\uaab5\\uaab6\\uaab9-\\uaabd\\uaac0\\uaac2\\uaadb-\\uaadd\\uaae0-\\uaaea\\uaaf2-\\uaaf4\\uab01-\\uab06\\uab09-\\uab0e\\uab11-\\uab16\\uab20-\\uab26\\uab28-\\uab2e\\uabc0-\\uabe2\\uac00-\\ud7a3\\ud7b0-\\ud7c6\\ud7cb-\\ud7fb\\uf900-\\ufa6d\\ufa70-\\ufad9\\ufb00-\\ufb06\\ufb13-\\ufb17\\ufb1d\\ufb1f-\\ufb28\\ufb2a-\\ufb36\\ufb38-\\ufb3c\\ufb3e\\ufb40\\ufb41\\ufb43\\ufb44\\ufb46-\\ufbb1\\ufbd3-\\ufd3d\\ufd50-\\ufd8f\\ufd92-\\ufdc7\\ufdf0-\\ufdfb\\ufe70-\\ufe74\\ufe76-\\ufefc\\uff21-\\uff3a\\uff41-\\uff5a\\uff66-\\uffbe\\uffc2-\\uffc7\\uffca-\\uffcf\\uffd2-\\uffd7\\uffda-\\uffdc", i = "\\u0300-\\u036f\\u0483-\\u0487\\u0591-\\u05bd\\u05bf\\u05c1\\u05c2\\u05c4\\u05c5\\u05c7\\u0610-\\u061a\\u0620-\\u0649\\u0672-\\u06d3\\u06e7-\\u06e8\\u06fb-\\u06fc\\u0730-\\u074a\\u0800-\\u0814\\u081b-\\u0823\\u0825-\\u0827\\u0829-\\u082d\\u0840-\\u0857\\u08e4-\\u08fe\\u0900-\\u0903\\u093a-\\u093c\\u093e-\\u094f\\u0951-\\u0957\\u0962-\\u0963\\u0966-\\u096f\\u0981-\\u0983\\u09bc\\u09be-\\u09c4\\u09c7\\u09c8\\u09d7\\u09df-\\u09e0\\u0a01-\\u0a03\\u0a3c\\u0a3e-\\u0a42\\u0a47\\u0a48\\u0a4b-\\u0a4d\\u0a51\\u0a66-\\u0a71\\u0a75\\u0a81-\\u0a83\\u0abc\\u0abe-\\u0ac5\\u0ac7-\\u0ac9\\u0acb-\\u0acd\\u0ae2-\\u0ae3\\u0ae6-\\u0aef\\u0b01-\\u0b03\\u0b3c\\u0b3e-\\u0b44\\u0b47\\u0b48\\u0b4b-\\u0b4d\\u0b56\\u0b57\\u0b5f-\\u0b60\\u0b66-\\u0b6f\\u0b82\\u0bbe-\\u0bc2\\u0bc6-\\u0bc8\\u0bca-\\u0bcd\\u0bd7\\u0be6-\\u0bef\\u0c01-\\u0c03\\u0c46-\\u0c48\\u0c4a-\\u0c4d\\u0c55\\u0c56\\u0c62-\\u0c63\\u0c66-\\u0c6f\\u0c82\\u0c83\\u0cbc\\u0cbe-\\u0cc4\\u0cc6-\\u0cc8\\u0cca-\\u0ccd\\u0cd5\\u0cd6\\u0ce2-\\u0ce3\\u0ce6-\\u0cef\\u0d02\\u0d03\\u0d46-\\u0d48\\u0d57\\u0d62-\\u0d63\\u0d66-\\u0d6f\\u0d82\\u0d83\\u0dca\\u0dcf-\\u0dd4\\u0dd6\\u0dd8-\\u0ddf\\u0df2\\u0df3\\u0e34-\\u0e3a\\u0e40-\\u0e45\\u0e50-\\u0e59\\u0eb4-\\u0eb9\\u0ec8-\\u0ecd\\u0ed0-\\u0ed9\\u0f18\\u0f19\\u0f20-\\u0f29\\u0f35\\u0f37\\u0f39\\u0f41-\\u0f47\\u0f71-\\u0f84\\u0f86-\\u0f87\\u0f8d-\\u0f97\\u0f99-\\u0fbc\\u0fc6\\u1000-\\u1029\\u1040-\\u1049\\u1067-\\u106d\\u1071-\\u1074\\u1082-\\u108d\\u108f-\\u109d\\u135d-\\u135f\\u170e-\\u1710\\u1720-\\u1730\\u1740-\\u1750\\u1772\\u1773\\u1780-\\u17b2\\u17dd\\u17e0-\\u17e9\\u180b-\\u180d\\u1810-\\u1819\\u1920-\\u192b\\u1930-\\u193b\\u1951-\\u196d\\u19b0-\\u19c0\\u19c8-\\u19c9\\u19d0-\\u19d9\\u1a00-\\u1a15\\u1a20-\\u1a53\\u1a60-\\u1a7c\\u1a7f-\\u1a89\\u1a90-\\u1a99\\u1b46-\\u1b4b\\u1b50-\\u1b59\\u1b6b-\\u1b73\\u1bb0-\\u1bb9\\u1be6-\\u1bf3\\u1c00-\\u1c22\\u1c40-\\u1c49\\u1c5b-\\u1c7d\\u1cd0-\\u1cd2\\u1d00-\\u1dbe\\u1e01-\\u1f15\\u200c\\u200d\\u203f\\u2040\\u2054\\u20d0-\\u20dc\\u20e1\\u20e5-\\u20f0\\u2d81-\\u2d96\\u2de0-\\u2dff\\u3021-\\u3028\\u3099\\u309a\\ua640-\\ua66d\\ua674-\\ua67d\\ua69f\\ua6f0-\\ua6f1\\ua7f8-\\ua800\\ua806\\ua80b\\ua823-\\ua827\\ua880-\\ua881\\ua8b4-\\ua8c4\\ua8d0-\\ua8d9\\ua8f3-\\ua8f7\\ua900-\\ua909\\ua926-\\ua92d\\ua930-\\ua945\\ua980-\\ua983\\ua9b3-\\ua9c0\\uaa00-\\uaa27\\uaa40-\\uaa41\\uaa4c-\\uaa4d\\uaa50-\\uaa59\\uaa7b\\uaae0-\\uaae9\\uaaf2-\\uaaf3\\uabc0-\\uabe1\\uabec\\uabed\\uabf0-\\uabf9\\ufb20-\\ufb28\\ufe00-\\ufe0f\\ufe20-\\ufe26\\ufe33\\ufe34\\ufe4d-\\ufe4f\\uff10-\\uff19\\uff3f", a = "\\\\u[0-9a-fA-F]{4}|\\\\u\\{[0-9a-fA-F]+\\}", l = "(?:" + a + "|[" + n + e + "])", o = "(?:" + a + "|[" + t + e + i + "])*";
+    s.identifier = new RegExp(l + o, "g"), s.identifierStart = new RegExp(l), s.identifierMatch = new RegExp("(?:" + a + "|[" + t + e + i + "])+"), s.newline = /[\n\r\u2028\u2029]/, s.lineBreak = new RegExp(`\r
 |` + s.newline.source), s.allLineBreaks = new RegExp(s.lineBreak.source, "g");
   })(on)), on;
 }
-var ln = {}, pt = {}, $i;
+var ln = {}, ft = {}, $i;
 function pi() {
-  if ($i) return pt;
+  if ($i) return ft;
   $i = 1;
   function s(e, i) {
-    this.raw_options = t(e, i), this.disabled = this._get_boolean("disabled"), this.eol = this._get_characters("eol", "auto"), this.end_with_newline = this._get_boolean("end_with_newline"), this.indent_size = this._get_number("indent_size", 4), this.indent_char = this._get_characters("indent_char", " "), this.indent_level = this._get_number("indent_level"), this.preserve_newlines = this._get_boolean("preserve_newlines", !0), this.max_preserve_newlines = this._get_number("max_preserve_newlines", 32786), this.preserve_newlines || (this.max_preserve_newlines = 0), this.indent_with_tabs = this._get_boolean("indent_with_tabs", this.indent_char === "	"), this.indent_with_tabs && (this.indent_char = "	", this.indent_size === 1 && (this.indent_size = 4)), this.wrap_line_length = this._get_number("wrap_line_length", this._get_number("max_char")), this.indent_empty_lines = this._get_boolean("indent_empty_lines"), this.templating = this._get_selection_list("templating", ["auto", "none", "angular", "django", "erb", "handlebars", "php", "smarty"], ["auto"]);
+    this.raw_options = n(e, i), this.disabled = this._get_boolean("disabled"), this.eol = this._get_characters("eol", "auto"), this.end_with_newline = this._get_boolean("end_with_newline"), this.indent_size = this._get_number("indent_size", 4), this.indent_char = this._get_characters("indent_char", " "), this.indent_level = this._get_number("indent_level"), this.preserve_newlines = this._get_boolean("preserve_newlines", !0), this.max_preserve_newlines = this._get_number("max_preserve_newlines", 32786), this.preserve_newlines || (this.max_preserve_newlines = 0), this.indent_with_tabs = this._get_boolean("indent_with_tabs", this.indent_char === "	"), this.indent_with_tabs && (this.indent_char = "	", this.indent_size === 1 && (this.indent_size = 4)), this.wrap_line_length = this._get_number("wrap_line_length", this._get_number("max_char")), this.indent_empty_lines = this._get_boolean("indent_empty_lines"), this.templating = this._get_selection_list("templating", ["auto", "none", "angular", "django", "erb", "handlebars", "php", "smarty"], ["auto"]);
   }
   s.prototype._get_array = function(e, i) {
     var a = this.raw_options[e], l = i || [];
@@ -2211,9 +2229,9 @@ You passed in: '` + this.raw_options[e] + "'"
       return i.indexOf(a) === -1;
     });
   };
-  function t(e, i) {
+  function n(e, i) {
     var a = {};
-    e = n(e);
+    e = t(e);
     var l;
     for (l in e)
       l !== i && (a[l] = e[l]);
@@ -2222,7 +2240,7 @@ You passed in: '` + this.raw_options[e] + "'"
         a[l] = e[i][l];
     return a;
   }
-  function n(e) {
+  function t(e) {
     var i = {}, a;
     for (a in e) {
       var l = a.replace(/-/g, "_");
@@ -2230,14 +2248,14 @@ You passed in: '` + this.raw_options[e] + "'"
     }
     return i;
   }
-  return pt.Options = s, pt.normalizeOpts = n, pt.mergeOpts = t, pt;
+  return ft.Options = s, ft.normalizeOpts = t, ft.mergeOpts = n, ft;
 }
 var zi;
 function sa() {
   if (zi) return ln;
   zi = 1;
-  var s = pi().Options, t = ["before-newline", "after-newline", "preserve-newline"];
-  function n(e) {
+  var s = pi().Options, n = ["before-newline", "after-newline", "preserve-newline"];
+  function t(e) {
     s.call(this, e, "js");
     var i = this.raw_options.brace_style || null;
     i === "expand-strict" ? this.raw_options.brace_style = "expand" : i === "collapse-preserve-inline" ? this.raw_options.brace_style = "collapse,preserve-inline" : this.raw_options.braces_on_own_line !== void 0 && (this.raw_options.brace_style = this.raw_options.braces_on_own_line ? "expand" : "collapse");
@@ -2245,71 +2263,71 @@ function sa() {
     this.brace_preserve_inline = !1, this.brace_style = "collapse";
     for (var l = 0; l < a.length; l++)
       a[l] === "preserve-inline" ? this.brace_preserve_inline = !0 : this.brace_style = a[l];
-    this.unindent_chained_methods = this._get_boolean("unindent_chained_methods"), this.break_chained_methods = this._get_boolean("break_chained_methods"), this.space_in_paren = this._get_boolean("space_in_paren"), this.space_in_empty_paren = this._get_boolean("space_in_empty_paren"), this.jslint_happy = this._get_boolean("jslint_happy"), this.space_after_anon_function = this._get_boolean("space_after_anon_function"), this.space_after_named_function = this._get_boolean("space_after_named_function"), this.keep_array_indentation = this._get_boolean("keep_array_indentation"), this.space_before_conditional = this._get_boolean("space_before_conditional", !0), this.unescape_strings = this._get_boolean("unescape_strings"), this.e4x = this._get_boolean("e4x"), this.comma_first = this._get_boolean("comma_first"), this.operator_position = this._get_selection("operator_position", t), this.test_output_raw = this._get_boolean("test_output_raw"), this.jslint_happy && (this.space_after_anon_function = !0);
+    this.unindent_chained_methods = this._get_boolean("unindent_chained_methods"), this.break_chained_methods = this._get_boolean("break_chained_methods"), this.space_in_paren = this._get_boolean("space_in_paren"), this.space_in_empty_paren = this._get_boolean("space_in_empty_paren"), this.jslint_happy = this._get_boolean("jslint_happy"), this.space_after_anon_function = this._get_boolean("space_after_anon_function"), this.space_after_named_function = this._get_boolean("space_after_named_function"), this.keep_array_indentation = this._get_boolean("keep_array_indentation"), this.space_before_conditional = this._get_boolean("space_before_conditional", !0), this.unescape_strings = this._get_boolean("unescape_strings"), this.e4x = this._get_boolean("e4x"), this.comma_first = this._get_boolean("comma_first"), this.operator_position = this._get_selection("operator_position", n), this.test_output_raw = this._get_boolean("test_output_raw"), this.jslint_happy && (this.space_after_anon_function = !0);
   }
-  return n.prototype = new s(), ln.Options = n, ln;
+  return t.prototype = new s(), ln.Options = t, ln;
 }
 var it = {}, cn = {}, Fi;
 function fi() {
   if (Fi) return cn;
   Fi = 1;
   var s = RegExp.prototype.hasOwnProperty("sticky");
-  function t(n) {
-    this.__input = n || "", this.__input_length = this.__input.length, this.__position = 0;
+  function n(t) {
+    this.__input = t || "", this.__input_length = this.__input.length, this.__position = 0;
   }
-  return t.prototype.restart = function() {
+  return n.prototype.restart = function() {
     this.__position = 0;
-  }, t.prototype.back = function() {
+  }, n.prototype.back = function() {
     this.__position > 0 && (this.__position -= 1);
-  }, t.prototype.hasNext = function() {
+  }, n.prototype.hasNext = function() {
     return this.__position < this.__input_length;
-  }, t.prototype.next = function() {
-    var n = null;
-    return this.hasNext() && (n = this.__input.charAt(this.__position), this.__position += 1), n;
-  }, t.prototype.peek = function(n) {
+  }, n.prototype.next = function() {
+    var t = null;
+    return this.hasNext() && (t = this.__input.charAt(this.__position), this.__position += 1), t;
+  }, n.prototype.peek = function(t) {
     var e = null;
-    return n = n || 0, n += this.__position, n >= 0 && n < this.__input_length && (e = this.__input.charAt(n)), e;
-  }, t.prototype.__match = function(n, e) {
-    n.lastIndex = e;
-    var i = n.exec(this.__input);
-    return i && !(s && n.sticky) && i.index !== e && (i = null), i;
-  }, t.prototype.test = function(n, e) {
-    return e = e || 0, e += this.__position, e >= 0 && e < this.__input_length ? !!this.__match(n, e) : !1;
-  }, t.prototype.testChar = function(n, e) {
+    return t = t || 0, t += this.__position, t >= 0 && t < this.__input_length && (e = this.__input.charAt(t)), e;
+  }, n.prototype.__match = function(t, e) {
+    t.lastIndex = e;
+    var i = t.exec(this.__input);
+    return i && !(s && t.sticky) && i.index !== e && (i = null), i;
+  }, n.prototype.test = function(t, e) {
+    return e = e || 0, e += this.__position, e >= 0 && e < this.__input_length ? !!this.__match(t, e) : !1;
+  }, n.prototype.testChar = function(t, e) {
     var i = this.peek(e);
-    return n.lastIndex = 0, i !== null && n.test(i);
-  }, t.prototype.match = function(n) {
-    var e = this.__match(n, this.__position);
+    return t.lastIndex = 0, i !== null && t.test(i);
+  }, n.prototype.match = function(t) {
+    var e = this.__match(t, this.__position);
     return e ? this.__position += e[0].length : e = null, e;
-  }, t.prototype.read = function(n, e, i) {
+  }, n.prototype.read = function(t, e, i) {
     var a = "", l;
-    return n && (l = this.match(n), l && (a += l[0])), e && (l || !n) && (a += this.readUntil(e, i)), a;
-  }, t.prototype.readUntil = function(n, e) {
+    return t && (l = this.match(t), l && (a += l[0])), e && (l || !t) && (a += this.readUntil(e, i)), a;
+  }, n.prototype.readUntil = function(t, e) {
     var i = "", a = this.__position;
-    n.lastIndex = this.__position;
-    var l = n.exec(this.__input);
+    t.lastIndex = this.__position;
+    var l = t.exec(this.__input);
     return l ? (a = l.index, e && (a += l[0].length)) : a = this.__input_length, i = this.__input.substring(this.__position, a), this.__position = a, i;
-  }, t.prototype.readUntilAfter = function(n) {
-    return this.readUntil(n, !0);
-  }, t.prototype.get_regexp = function(n, e) {
+  }, n.prototype.readUntilAfter = function(t) {
+    return this.readUntil(t, !0);
+  }, n.prototype.get_regexp = function(t, e) {
     var i = null, a = "g";
-    return e && s && (a = "y"), typeof n == "string" && n !== "" ? i = new RegExp(n, a) : n && (i = new RegExp(n.source, a)), i;
-  }, t.prototype.get_literal_regexp = function(n) {
-    return RegExp(n.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"));
-  }, t.prototype.peekUntilAfter = function(n) {
-    var e = this.__position, i = this.readUntilAfter(n);
+    return e && s && (a = "y"), typeof t == "string" && t !== "" ? i = new RegExp(t, a) : t && (i = new RegExp(t.source, a)), i;
+  }, n.prototype.get_literal_regexp = function(t) {
+    return RegExp(t.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"));
+  }, n.prototype.peekUntilAfter = function(t) {
+    var e = this.__position, i = this.readUntilAfter(t);
     return this.__position = e, i;
-  }, t.prototype.lookBack = function(n) {
+  }, n.prototype.lookBack = function(t) {
     var e = this.__position - 1;
-    return e >= n.length && this.__input.substring(e - n.length, e).toLowerCase() === n;
-  }, cn.InputScanner = t, cn;
+    return e >= t.length && this.__input.substring(e - t.length, e).toLowerCase() === t;
+  }, cn.InputScanner = n, cn;
 }
 var Ct = {}, _n = {}, Ki;
 function rc() {
   if (Ki) return _n;
   Ki = 1;
-  function s(t) {
-    this.__tokens = [], this.__tokens_length = this.__tokens.length, this.__position = 0, this.__parent_token = t;
+  function s(n) {
+    this.__tokens = [], this.__tokens_length = this.__tokens.length, this.__position = 0, this.__parent_token = n;
   }
   return s.prototype.restart = function() {
     this.__position = 0;
@@ -2318,39 +2336,39 @@ function rc() {
   }, s.prototype.hasNext = function() {
     return this.__position < this.__tokens_length;
   }, s.prototype.next = function() {
-    var t = null;
-    return this.hasNext() && (t = this.__tokens[this.__position], this.__position += 1), t;
-  }, s.prototype.peek = function(t) {
     var n = null;
-    return t = t || 0, t += this.__position, t >= 0 && t < this.__tokens_length && (n = this.__tokens[t]), n;
-  }, s.prototype.add = function(t) {
-    this.__parent_token && (t.parent = this.__parent_token), this.__tokens.push(t), this.__tokens_length += 1;
+    return this.hasNext() && (n = this.__tokens[this.__position], this.__position += 1), n;
+  }, s.prototype.peek = function(n) {
+    var t = null;
+    return n = n || 0, n += this.__position, n >= 0 && n < this.__tokens_length && (t = this.__tokens[n]), t;
+  }, s.prototype.add = function(n) {
+    this.__parent_token && (n.parent = this.__parent_token), this.__tokens.push(n), this.__tokens_length += 1;
   }, _n.TokenStream = s, _n;
 }
 var un = {}, dn = {}, Gi;
 function zt() {
   if (Gi) return dn;
   Gi = 1;
-  function s(t, n) {
-    this._input = t, this._starting_pattern = null, this._match_pattern = null, this._until_pattern = null, this._until_after = !1, n && (this._starting_pattern = this._input.get_regexp(n._starting_pattern, !0), this._match_pattern = this._input.get_regexp(n._match_pattern, !0), this._until_pattern = this._input.get_regexp(n._until_pattern), this._until_after = n._until_after);
+  function s(n, t) {
+    this._input = n, this._starting_pattern = null, this._match_pattern = null, this._until_pattern = null, this._until_after = !1, t && (this._starting_pattern = this._input.get_regexp(t._starting_pattern, !0), this._match_pattern = this._input.get_regexp(t._match_pattern, !0), this._until_pattern = this._input.get_regexp(t._until_pattern), this._until_after = t._until_after);
   }
   return s.prototype.read = function() {
-    var t = this._input.read(this._starting_pattern);
-    return (!this._starting_pattern || t) && (t += this._input.read(this._match_pattern, this._until_pattern, this._until_after)), t;
+    var n = this._input.read(this._starting_pattern);
+    return (!this._starting_pattern || n) && (n += this._input.read(this._match_pattern, this._until_pattern, this._until_after)), n;
   }, s.prototype.read_match = function() {
     return this._input.match(this._match_pattern);
-  }, s.prototype.until_after = function(t) {
-    var n = this._create();
-    return n._until_after = !0, n._until_pattern = this._input.get_regexp(t), n._update(), n;
-  }, s.prototype.until = function(t) {
-    var n = this._create();
-    return n._until_after = !1, n._until_pattern = this._input.get_regexp(t), n._update(), n;
-  }, s.prototype.starting_with = function(t) {
-    var n = this._create();
-    return n._starting_pattern = this._input.get_regexp(t, !0), n._update(), n;
-  }, s.prototype.matching = function(t) {
-    var n = this._create();
-    return n._match_pattern = this._input.get_regexp(t, !0), n._update(), n;
+  }, s.prototype.until_after = function(n) {
+    var t = this._create();
+    return t._until_after = !0, t._until_pattern = this._input.get_regexp(n), t._update(), t;
+  }, s.prototype.until = function(n) {
+    var t = this._create();
+    return t._until_after = !1, t._until_pattern = this._input.get_regexp(n), t._update(), t;
+  }, s.prototype.starting_with = function(n) {
+    var t = this._create();
+    return t._starting_pattern = this._input.get_regexp(n, !0), t._update(), t;
+  }, s.prototype.matching = function(n) {
+    var t = this._create();
+    return t._match_pattern = this._input.get_regexp(n, !0), t._update(), t;
   }, s.prototype._create = function() {
     return new s(this._input, this);
   }, s.prototype._update = function() {
@@ -2361,43 +2379,43 @@ function oc() {
   if (qi) return un;
   qi = 1;
   var s = zt().Pattern;
-  function t(n, e) {
-    s.call(this, n, e), e ? this._line_regexp = this._input.get_regexp(e._line_regexp) : this.__set_whitespace_patterns("", ""), this.newline_count = 0, this.whitespace_before_token = "";
+  function n(t, e) {
+    s.call(this, t, e), e ? this._line_regexp = this._input.get_regexp(e._line_regexp) : this.__set_whitespace_patterns("", ""), this.newline_count = 0, this.whitespace_before_token = "";
   }
-  return t.prototype = new s(), t.prototype.__set_whitespace_patterns = function(n, e) {
-    n += "\\t ", e += "\\n\\r", this._match_pattern = this._input.get_regexp(
-      "[" + n + e + "]+",
+  return n.prototype = new s(), n.prototype.__set_whitespace_patterns = function(t, e) {
+    t += "\\t ", e += "\\n\\r", this._match_pattern = this._input.get_regexp(
+      "[" + t + e + "]+",
       !0
     ), this._newline_regexp = this._input.get_regexp(
       "\\r\\n|[" + e + "]"
     );
-  }, t.prototype.read = function() {
+  }, n.prototype.read = function() {
     this.newline_count = 0, this.whitespace_before_token = "";
-    var n = this._input.read(this._match_pattern);
-    if (n === " ")
+    var t = this._input.read(this._match_pattern);
+    if (t === " ")
       this.whitespace_before_token = " ";
-    else if (n) {
-      var e = this.__split(this._newline_regexp, n);
+    else if (t) {
+      var e = this.__split(this._newline_regexp, t);
       this.newline_count = e.length - 1, this.whitespace_before_token = e[this.newline_count];
     }
-    return n;
-  }, t.prototype.matching = function(n, e) {
+    return t;
+  }, n.prototype.matching = function(t, e) {
     var i = this._create();
-    return i.__set_whitespace_patterns(n, e), i._update(), i;
-  }, t.prototype._create = function() {
-    return new t(this._input, this);
-  }, t.prototype.__split = function(n, e) {
-    n.lastIndex = 0;
-    for (var i = 0, a = [], l = n.exec(e); l; )
-      a.push(e.substring(i, l.index)), i = l.index + l[0].length, l = n.exec(e);
+    return i.__set_whitespace_patterns(t, e), i._update(), i;
+  }, n.prototype._create = function() {
+    return new n(this._input, this);
+  }, n.prototype.__split = function(t, e) {
+    t.lastIndex = 0;
+    for (var i = 0, a = [], l = t.exec(e); l; )
+      a.push(e.substring(i, l.index)), i = l.index + l[0].length, l = t.exec(e);
     return i < e.length ? a.push(e.substring(i, e.length)) : a.push(""), a;
-  }, un.WhitespacePattern = t, un;
+  }, un.WhitespacePattern = n, un;
 }
 var Wi;
 function Pt() {
   if (Wi) return Ct;
   Wi = 1;
-  var s = fi().InputScanner, t = na().Token, n = rc().TokenStream, e = oc().WhitespacePattern, i = {
+  var s = fi().InputScanner, n = na().Token, t = rc().TokenStream, e = oc().WhitespacePattern, i = {
     START: "TK_START",
     RAW: "TK_RAW",
     EOF: "TK_EOF"
@@ -2405,11 +2423,11 @@ function Pt() {
     this._input = new s(l), this._options = o || {}, this.__tokens = null, this._patterns = {}, this._patterns.whitespace = new e(this._input);
   };
   return a.prototype.tokenize = function() {
-    this._input.restart(), this.__tokens = new n(), this._reset();
-    for (var l, o = new t(i.START, ""), _ = null, h = [], u = new n(); o.type !== i.EOF; ) {
+    this._input.restart(), this.__tokens = new t(), this._reset();
+    for (var l, o = new n(i.START, ""), _ = null, p = [], u = new t(); o.type !== i.EOF; ) {
       for (l = this._get_next_token(o, _); this._is_comment(l); )
         u.add(l), l = this._get_next_token(o, _);
-      u.isEmpty() || (l.comments_before = u, u = new n()), l.parent = _, this._is_opening(l) ? (h.push(_), _ = l) : _ && this._is_closing(l, _) && (l.opened = _, _.closed = l, _ = h.pop(), l.parent = _), l.previous = o, o.next = l, this.__tokens.add(l), o = l;
+      u.isEmpty() || (l.comments_before = u, u = new t()), l.parent = _, this._is_opening(l) ? (p.push(_), _ = l) : _ && this._is_closing(l, _) && (l.opened = _, _.closed = l, _ = p.pop(), l.parent = _), l.previous = o, o.next = l, this.__tokens.add(l), o = l;
     }
     return this.__tokens;
   }, a.prototype._is_first_token = function() {
@@ -2426,7 +2444,7 @@ function Pt() {
   }, a.prototype._is_closing = function(l, o) {
     return !1;
   }, a.prototype._create_token = function(l, o) {
-    var _ = new t(
+    var _ = new n(
       l,
       o,
       this._patterns.whitespace.newline_count,
@@ -2441,26 +2459,26 @@ var pn = {}, Hi;
 function hi() {
   if (Hi) return pn;
   Hi = 1;
-  function s(t, n) {
-    t = typeof t == "string" ? t : t.source, n = typeof n == "string" ? n : n.source, this.__directives_block_pattern = new RegExp(t + / beautify( \w+[:]\w+)+ /.source + n, "g"), this.__directive_pattern = / (\w+)[:](\w+)/g, this.__directives_end_ignore_pattern = new RegExp(t + /\sbeautify\signore:end\s/.source + n, "g");
+  function s(n, t) {
+    n = typeof n == "string" ? n : n.source, t = typeof t == "string" ? t : t.source, this.__directives_block_pattern = new RegExp(n + / beautify( \w+[:]\w+)+ /.source + t, "g"), this.__directive_pattern = / (\w+)[:](\w+)/g, this.__directives_end_ignore_pattern = new RegExp(n + /\sbeautify\signore:end\s/.source + t, "g");
   }
-  return s.prototype.get_directives = function(t) {
-    if (!t.match(this.__directives_block_pattern))
+  return s.prototype.get_directives = function(n) {
+    if (!n.match(this.__directives_block_pattern))
       return null;
-    var n = {};
+    var t = {};
     this.__directive_pattern.lastIndex = 0;
-    for (var e = this.__directive_pattern.exec(t); e; )
-      n[e[1]] = e[2], e = this.__directive_pattern.exec(t);
-    return n;
-  }, s.prototype.readIgnored = function(t) {
-    return t.readUntilAfter(this.__directives_end_ignore_pattern);
+    for (var e = this.__directive_pattern.exec(n); e; )
+      t[e[1]] = e[2], e = this.__directive_pattern.exec(n);
+    return t;
+  }, s.prototype.readIgnored = function(n) {
+    return n.readUntilAfter(this.__directives_end_ignore_pattern);
   }, pn.Directives = s, pn;
 }
 var fn = {}, ji;
 function aa() {
   if (ji) return fn;
   ji = 1;
-  var s = zt().Pattern, t = {
+  var s = zt().Pattern, n = {
     django: !1,
     erb: !1,
     handlebars: !1,
@@ -2468,8 +2486,8 @@ function aa() {
     smarty: !1,
     angular: !1
   };
-  function n(e, i) {
-    s.call(this, e, i), this.__template_pattern = null, this._disabled = Object.assign({}, t), this._excluded = Object.assign({}, t), i && (this.__template_pattern = this._input.get_regexp(i.__template_pattern), this._excluded = Object.assign(this._excluded, i._excluded), this._disabled = Object.assign(this._disabled, i._disabled));
+  function t(e, i) {
+    s.call(this, e, i), this.__template_pattern = null, this._disabled = Object.assign({}, n), this._excluded = Object.assign({}, n), i && (this.__template_pattern = this._input.get_regexp(i.__template_pattern), this._excluded = Object.assign(this._excluded, i._excluded), this._disabled = Object.assign(this._disabled, i._disabled));
     var a = new s(e);
     this.__patterns = {
       handlebars_comment: a.starting_with(/{{!--/).until_after(/--}}/),
@@ -2486,44 +2504,44 @@ function aa() {
       smarty_literal: a.starting_with(/{literal}/).until_after(/{\/literal}/)
     };
   }
-  return n.prototype = new s(), n.prototype._create = function() {
-    return new n(this._input, this);
-  }, n.prototype._update = function() {
+  return t.prototype = new s(), t.prototype._create = function() {
+    return new t(this._input, this);
+  }, t.prototype._update = function() {
     this.__set_templated_pattern();
-  }, n.prototype.disable = function(e) {
+  }, t.prototype.disable = function(e) {
     var i = this._create();
     return i._disabled[e] = !0, i._update(), i;
-  }, n.prototype.read_options = function(e) {
+  }, t.prototype.read_options = function(e) {
     var i = this._create();
-    for (var a in t)
+    for (var a in n)
       i._disabled[a] = e.templating.indexOf(a) === -1;
     return i._update(), i;
-  }, n.prototype.exclude = function(e) {
+  }, t.prototype.exclude = function(e) {
     var i = this._create();
     return i._excluded[e] = !0, i._update(), i;
-  }, n.prototype.read = function() {
+  }, t.prototype.read = function() {
     var e = "";
     this._match_pattern ? e = this._input.read(this._starting_pattern) : e = this._input.read(this._starting_pattern, this.__template_pattern);
     for (var i = this._read_template(); i; )
       this._match_pattern ? i += this._input.read(this._match_pattern) : i += this._input.readUntil(this.__template_pattern), e += i, i = this._read_template();
     return this._until_after && (e += this._input.readUntilAfter(this._until_pattern)), e;
-  }, n.prototype.__set_templated_pattern = function() {
+  }, t.prototype.__set_templated_pattern = function() {
     var e = [];
     this._disabled.php || e.push(this.__patterns.php._starting_pattern.source), this._disabled.handlebars || e.push(this.__patterns.handlebars._starting_pattern.source), this._disabled.angular || e.push(this.__patterns.handlebars._starting_pattern.source), this._disabled.erb || e.push(this.__patterns.erb._starting_pattern.source), this._disabled.django || (e.push(this.__patterns.django._starting_pattern.source), e.push(this.__patterns.django_value._starting_pattern.source), e.push(this.__patterns.django_comment._starting_pattern.source)), this._disabled.smarty || e.push(this.__patterns.smarty._starting_pattern.source), this._until_pattern && e.push(this._until_pattern.source), this.__template_pattern = this._input.get_regexp("(?:" + e.join("|") + ")");
-  }, n.prototype._read_template = function() {
+  }, t.prototype._read_template = function() {
     var e = "", i = this._input.peek();
     if (i === "<") {
       var a = this._input.peek(1);
       !this._disabled.php && !this._excluded.php && a === "?" && (e = e || this.__patterns.php.read()), !this._disabled.erb && !this._excluded.erb && a === "%" && (e = e || this.__patterns.erb.read());
     } else i === "{" && (!this._disabled.handlebars && !this._excluded.handlebars && (e = e || this.__patterns.handlebars_comment.read(), e = e || this.__patterns.handlebars_unescaped.read(), e = e || this.__patterns.handlebars.read()), this._disabled.django || (!this._excluded.django && !this._excluded.handlebars && (e = e || this.__patterns.django_value.read()), this._excluded.django || (e = e || this.__patterns.django_comment.read(), e = e || this.__patterns.django.read())), this._disabled.smarty || this._disabled.django && this._disabled.handlebars && (e = e || this.__patterns.smarty_comment.read(), e = e || this.__patterns.smarty_literal.read(), e = e || this.__patterns.smarty.read()));
     return e;
-  }, fn.TemplatablePattern = n, fn;
+  }, fn.TemplatablePattern = t, fn;
 }
 var Vi;
 function It() {
   if (Vi) return it;
   Vi = 1;
-  var s = fi().InputScanner, t = Pt().Tokenizer, n = Pt().TOKEN, e = hi().Directives, i = ia(), a = zt().Pattern, l = aa().TemplatablePattern;
+  var s = fi().InputScanner, n = Pt().Tokenizer, t = Pt().TOKEN, e = hi().Directives, i = ia(), a = zt().Pattern, l = aa().TemplatablePattern;
   function o(v, E) {
     return E.indexOf(v) !== -1;
   }
@@ -2543,68 +2561,68 @@ function It() {
     COMMENT: "TK_COMMENT",
     DOT: "TK_DOT",
     UNKNOWN: "TK_UNKNOWN",
-    START: n.START,
-    RAW: n.RAW,
-    EOF: n.EOF
-  }, h = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, p = /[0-9]/, m = /[^\d\.]/, w = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), x = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
-  x = x.replace(/[-[\]{}()*+?.,\\^$|#]/g, "\\$&"), x = "\\?\\.(?!\\d) " + x, x = x.replace(/ /g, "|");
-  var O = new RegExp(x), d = "continue,try,throw,return,var,let,const,if,switch,case,default,for,while,break,function,import,export".split(","), c = d.concat(["do", "in", "of", "else", "get", "set", "new", "catch", "finally", "typeof", "yield", "async", "await", "from", "as", "class", "extends"]), f = new RegExp("^(?:" + c.join("|") + ")$"), R, A = function(v, E) {
-    t.call(this, v, E), this._patterns.whitespace = this._patterns.whitespace.matching(
+    START: t.START,
+    RAW: t.RAW,
+    EOF: t.EOF
+  }, p = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, g = /[0-9]/, m = /[^\d\.]/, w = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), N = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
+  N = N.replace(/[-[\]{}()*+?.,\\^$|#]/g, "\\$&"), N = "\\?\\.(?!\\d) " + N, N = N.replace(/ /g, "|");
+  var x = new RegExp(N), d = "continue,try,throw,return,var,let,const,if,switch,case,default,for,while,break,function,import,export".split(","), c = d.concat(["do", "in", "of", "else", "get", "set", "new", "catch", "finally", "typeof", "yield", "async", "await", "from", "as", "class", "extends"]), f = new RegExp("^(?:" + c.join("|") + ")$"), A, R = function(v, E) {
+    n.call(this, v, E), this._patterns.whitespace = this._patterns.whitespace.matching(
       /\u00A0\u1680\u180e\u2000-\u200a\u202f\u205f\u3000\ufeff/.source,
       /\u2028\u2029/.source
     );
-    var g = new a(this._input), S = new l(this._input).read_options(this._options);
+    var h = new a(this._input), S = new l(this._input).read_options(this._options);
     this.__patterns = {
       template: S,
       identifier: S.starting_with(i.identifier).matching(i.identifierMatch),
-      number: g.matching(u),
-      punct: g.matching(O),
+      number: h.matching(u),
+      punct: h.matching(x),
       // comment ends just before nearest linefeed or end of file
-      comment: g.starting_with(/\/\//).until(/[\n\r\u2028\u2029]/),
+      comment: h.starting_with(/\/\//).until(/[\n\r\u2028\u2029]/),
       //  /* ... */ comment ends with nearest */ or end of file
-      block_comment: g.starting_with(/\/\*/).until_after(/\*\//),
-      html_comment_start: g.matching(/<!--/),
-      html_comment_end: g.matching(/-->/),
-      include: g.starting_with(/#include/).until_after(i.lineBreak),
-      shebang: g.starting_with(/#!/).until_after(i.lineBreak),
-      xml: g.matching(/[\s\S]*?<(\/?)([-a-zA-Z:0-9_.]+|{[^}]+?}|!\[CDATA\[[^\]]*?\]\]|)(\s*{[^}]+?}|\s+[-a-zA-Z:0-9_.]+|\s+[-a-zA-Z:0-9_.]+\s*=\s*('[^']*'|"[^"]*"|{([^{}]|{[^}]+?})+?}))*\s*(\/?)\s*>/),
+      block_comment: h.starting_with(/\/\*/).until_after(/\*\//),
+      html_comment_start: h.matching(/<!--/),
+      html_comment_end: h.matching(/-->/),
+      include: h.starting_with(/#include/).until_after(i.lineBreak),
+      shebang: h.starting_with(/#!/).until_after(i.lineBreak),
+      xml: h.matching(/[\s\S]*?<(\/?)([-a-zA-Z:0-9_.]+|{[^}]+?}|!\[CDATA\[[^\]]*?\]\]|)(\s*{[^}]+?}|\s+[-a-zA-Z:0-9_.]+|\s+[-a-zA-Z:0-9_.]+\s*=\s*('[^']*'|"[^"]*"|{([^{}]|{[^}]+?})+?}))*\s*(\/?)\s*>/),
       single_quote: S.until(/['\\\n\r\u2028\u2029]/),
       double_quote: S.until(/["\\\n\r\u2028\u2029]/),
       template_text: S.until(/[`\\$]/),
       template_expression: S.until(/[`}\\]/)
     };
   };
-  A.prototype = new t(), A.prototype._is_comment = function(v) {
+  R.prototype = new n(), R.prototype._is_comment = function(v) {
     return v.type === _.COMMENT || v.type === _.BLOCK_COMMENT || v.type === _.UNKNOWN;
-  }, A.prototype._is_opening = function(v) {
+  }, R.prototype._is_opening = function(v) {
     return v.type === _.START_BLOCK || v.type === _.START_EXPR;
-  }, A.prototype._is_closing = function(v, E) {
+  }, R.prototype._is_closing = function(v, E) {
     return (v.type === _.END_BLOCK || v.type === _.END_EXPR) && E && (v.text === "]" && E.text === "[" || v.text === ")" && E.text === "(" || v.text === "}" && E.text === "{");
-  }, A.prototype._reset = function() {
-    R = !1;
-  }, A.prototype._get_next_token = function(v, E) {
-    var g = null;
+  }, R.prototype._reset = function() {
+    A = !1;
+  }, R.prototype._get_next_token = function(v, E) {
+    var h = null;
     this._readWhitespace();
     var S = this._input.peek();
-    return S === null ? this._create_token(_.EOF, "") : (g = g || this._read_non_javascript(S), g = g || this._read_string(S), g = g || this._read_pair(S, this._input.peek(1)), g = g || this._read_word(v), g = g || this._read_singles(S), g = g || this._read_comment(S), g = g || this._read_regexp(S, v), g = g || this._read_xml(S, v), g = g || this._read_punctuation(), g = g || this._create_token(_.UNKNOWN, this._input.next()), g);
-  }, A.prototype._read_word = function(v) {
+    return S === null ? this._create_token(_.EOF, "") : (h = h || this._read_non_javascript(S), h = h || this._read_string(S), h = h || this._read_pair(S, this._input.peek(1)), h = h || this._read_word(v), h = h || this._read_singles(S), h = h || this._read_comment(S), h = h || this._read_regexp(S, v), h = h || this._read_xml(S, v), h = h || this._read_punctuation(), h = h || this._create_token(_.UNKNOWN, this._input.next()), h);
+  }, R.prototype._read_word = function(v) {
     var E;
     if (E = this.__patterns.identifier.read(), E !== "")
       return E = E.replace(i.allLineBreaks, `
 `), !(v.type === _.DOT || v.type === _.RESERVED && (v.text === "set" || v.text === "get")) && f.test(E) ? (E === "in" || E === "of") && (v.type === _.WORD || v.type === _.STRING) ? this._create_token(_.OPERATOR, E) : this._create_token(_.RESERVED, E) : this._create_token(_.WORD, E);
     if (E = this.__patterns.number.read(), E !== "")
       return this._create_token(_.WORD, E);
-  }, A.prototype._read_singles = function(v) {
+  }, R.prototype._read_singles = function(v) {
     var E = null;
     return v === "(" || v === "[" ? E = this._create_token(_.START_EXPR, v) : v === ")" || v === "]" ? E = this._create_token(_.END_EXPR, v) : v === "{" ? E = this._create_token(_.START_BLOCK, v) : v === "}" ? E = this._create_token(_.END_BLOCK, v) : v === ";" ? E = this._create_token(_.SEMICOLON, v) : v === "." && m.test(this._input.peek(1)) ? E = this._create_token(_.DOT, v) : v === "," && (E = this._create_token(_.COMMA, v)), E && this._input.next(), E;
-  }, A.prototype._read_pair = function(v, E) {
-    var g = null;
-    return v === "#" && E === "{" && (g = this._create_token(_.START_BLOCK, v + E)), g && (this._input.next(), this._input.next()), g;
-  }, A.prototype._read_punctuation = function() {
+  }, R.prototype._read_pair = function(v, E) {
+    var h = null;
+    return v === "#" && E === "{" && (h = this._create_token(_.START_BLOCK, v + E)), h && (this._input.next(), this._input.next()), h;
+  }, R.prototype._read_punctuation = function() {
     var v = this.__patterns.punct.read();
     if (v !== "")
       return v === "=" ? this._create_token(_.EQUALS, v) : v === "?." ? this._create_token(_.DOT, v) : this._create_token(_.OPERATOR, v);
-  }, A.prototype._read_non_javascript = function(v) {
+  }, R.prototype._read_non_javascript = function(v) {
     var E = "";
     if (v === "#") {
       if (this._is_first_token() && (E = this.__patterns.shebang.read(), E))
@@ -2614,43 +2632,43 @@ function It() {
         return this._create_token(_.UNKNOWN, E.trim() + `
 `);
       v = this._input.next();
-      var g = "#";
-      if (this._input.hasNext() && this._input.testChar(p)) {
+      var h = "#";
+      if (this._input.hasNext() && this._input.testChar(g)) {
         do
-          v = this._input.next(), g += v;
+          v = this._input.next(), h += v;
         while (this._input.hasNext() && v !== "#" && v !== "=");
-        return v === "#" || (this._input.peek() === "[" && this._input.peek(1) === "]" ? (g += "[]", this._input.next(), this._input.next()) : this._input.peek() === "{" && this._input.peek(1) === "}" && (g += "{}", this._input.next(), this._input.next())), this._create_token(_.WORD, g);
+        return v === "#" || (this._input.peek() === "[" && this._input.peek(1) === "]" ? (h += "[]", this._input.next(), this._input.next()) : this._input.peek() === "{" && this._input.peek(1) === "}" && (h += "{}", this._input.next(), this._input.next())), this._create_token(_.WORD, h);
       }
       this._input.back();
     } else if (v === "<" && this._is_first_token()) {
       if (E = this.__patterns.html_comment_start.read(), E) {
         for (; this._input.hasNext() && !this._input.testChar(i.newline); )
           E += this._input.next();
-        return R = !0, this._create_token(_.COMMENT, E);
+        return A = !0, this._create_token(_.COMMENT, E);
       }
-    } else if (R && v === "-" && (E = this.__patterns.html_comment_end.read(), E))
-      return R = !1, this._create_token(_.COMMENT, E);
+    } else if (A && v === "-" && (E = this.__patterns.html_comment_end.read(), E))
+      return A = !1, this._create_token(_.COMMENT, E);
     return null;
-  }, A.prototype._read_comment = function(v) {
+  }, R.prototype._read_comment = function(v) {
     var E = null;
     if (v === "/") {
-      var g = "";
+      var h = "";
       if (this._input.peek(1) === "*") {
-        g = this.__patterns.block_comment.read();
-        var S = h.get_directives(g);
-        S && S.ignore === "start" && (g += h.readIgnored(this._input)), g = g.replace(i.allLineBreaks, `
-`), E = this._create_token(_.BLOCK_COMMENT, g), E.directives = S;
-      } else this._input.peek(1) === "/" && (g = this.__patterns.comment.read(), E = this._create_token(_.COMMENT, g));
+        h = this.__patterns.block_comment.read();
+        var S = p.get_directives(h);
+        S && S.ignore === "start" && (h += p.readIgnored(this._input)), h = h.replace(i.allLineBreaks, `
+`), E = this._create_token(_.BLOCK_COMMENT, h), E.directives = S;
+      } else this._input.peek(1) === "/" && (h = this.__patterns.comment.read(), E = this._create_token(_.COMMENT, h));
     }
     return E;
-  }, A.prototype._read_string = function(v) {
+  }, R.prototype._read_string = function(v) {
     if (v === "`" || v === "'" || v === '"') {
       var E = this._input.next();
       return this.has_char_escapes = !1, v === "`" ? E += this._read_string_recursive("`", !0, "${") : E += this._read_string_recursive(v), this.has_char_escapes && this._options.unescape_strings && (E = D(E)), this._input.peek() === v && (E += this._input.next()), E = E.replace(i.allLineBreaks, `
 `), this._create_token(_.STRING, E);
     }
     return null;
-  }, A.prototype._allow_regexp_or_xml = function(v) {
+  }, R.prototype._allow_regexp_or_xml = function(v) {
     return v.type === _.RESERVED && o(v.text, ["return", "case", "throw", "else", "do", "typeof", "yield"]) || v.type === _.END_EXPR && v.text === ")" && v.opened.previous.type === _.RESERVED && o(v.opened.previous.text, ["if", "while", "for"]) || o(v.type, [
       _.COMMENT,
       _.START_EXPR,
@@ -2663,31 +2681,31 @@ function It() {
       _.SEMICOLON,
       _.COMMA
     ]);
-  }, A.prototype._read_regexp = function(v, E) {
+  }, R.prototype._read_regexp = function(v, E) {
     if (v === "/" && this._allow_regexp_or_xml(E)) {
-      for (var g = this._input.next(), S = !1, r = !1; this._input.hasNext() && (S || r || this._input.peek() !== v) && !this._input.testChar(i.newline); )
-        g += this._input.peek(), S ? S = !1 : (S = this._input.peek() === "\\", this._input.peek() === "[" ? r = !0 : this._input.peek() === "]" && (r = !1)), this._input.next();
-      return this._input.peek() === v && (g += this._input.next(), g += this._input.read(i.identifier)), this._create_token(_.STRING, g);
+      for (var h = this._input.next(), S = !1, r = !1; this._input.hasNext() && (S || r || this._input.peek() !== v) && !this._input.testChar(i.newline); )
+        h += this._input.peek(), S ? S = !1 : (S = this._input.peek() === "\\", this._input.peek() === "[" ? r = !0 : this._input.peek() === "]" && (r = !1)), this._input.next();
+      return this._input.peek() === v && (h += this._input.next(), h += this._input.read(i.identifier)), this._create_token(_.STRING, h);
     }
     return null;
-  }, A.prototype._read_xml = function(v, E) {
+  }, R.prototype._read_xml = function(v, E) {
     if (this._options.e4x && v === "<" && this._allow_regexp_or_xml(E)) {
-      var g = "", S = this.__patterns.xml.read_match();
+      var h = "", S = this.__patterns.xml.read_match();
       if (S) {
-        for (var r = S[2].replace(/^{\s+/, "{").replace(/\s+}$/, "}"), y = r.indexOf("{") === 0, N = 0; S; ) {
+        for (var r = S[2].replace(/^{\s+/, "{").replace(/\s+}$/, "}"), y = r.indexOf("{") === 0, O = 0; S; ) {
           var F = !!S[1], G = S[2], X = !!S[S.length - 1] || G.slice(0, 8) === "![CDATA[";
-          if (!X && (G === r || y && G.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (F ? --N : ++N), g += S[0], N <= 0)
+          if (!X && (G === r || y && G.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (F ? --O : ++O), h += S[0], O <= 0)
             break;
           S = this.__patterns.xml.read_match();
         }
-        return S || (g += this._input.match(/[\s\S]*/g)[0]), g = g.replace(i.allLineBreaks, `
-`), this._create_token(_.STRING, g);
+        return S || (h += this._input.match(/[\s\S]*/g)[0]), h = h.replace(i.allLineBreaks, `
+`), this._create_token(_.STRING, h);
       }
     }
     return null;
   };
   function D(v) {
-    for (var E = "", g = 0, S = new s(v), r = null; S.hasNext(); )
+    for (var E = "", h = 0, S = new s(v), r = null; S.hasNext(); )
       if (r = S.match(/([\s]|[^\\]|\\\\)+/g), r && (E += r[0]), S.peek() === "\\") {
         if (S.next(), S.peek() === "x")
           r = S.match(/x([0-9A-Fa-f]{2})/g);
@@ -2697,49 +2715,49 @@ function It() {
           E += "\\", S.hasNext() && (E += S.next());
           continue;
         }
-        if (!r || (g = parseInt(r[1], 16), g > 126 && g <= 255 && r[0].indexOf("x") === 0))
+        if (!r || (h = parseInt(r[1], 16), h > 126 && h <= 255 && r[0].indexOf("x") === 0))
           return v;
-        g >= 0 && g < 32 || g > 1114111 ? E += "\\" + r[0] : g === 34 || g === 39 || g === 92 ? E += "\\" + String.fromCharCode(g) : E += String.fromCharCode(g);
+        h >= 0 && h < 32 || h > 1114111 ? E += "\\" + r[0] : h === 34 || h === 39 || h === 92 ? E += "\\" + String.fromCharCode(h) : E += String.fromCharCode(h);
       }
     return E;
   }
-  return A.prototype._read_string_recursive = function(v, E, g) {
+  return R.prototype._read_string_recursive = function(v, E, h) {
     var S, r;
     v === "'" ? r = this.__patterns.single_quote : v === '"' ? r = this.__patterns.double_quote : v === "`" ? r = this.__patterns.template_text : v === "}" && (r = this.__patterns.template_expression);
-    for (var y = r.read(), N = ""; this._input.hasNext(); ) {
-      if (N = this._input.next(), N === v || !E && i.newline.test(N)) {
+    for (var y = r.read(), O = ""; this._input.hasNext(); ) {
+      if (O = this._input.next(), O === v || !E && i.newline.test(O)) {
         this._input.back();
         break;
-      } else N === "\\" && this._input.hasNext() ? (S = this._input.peek(), S === "x" || S === "u" ? this.has_char_escapes = !0 : S === "\r" && this._input.peek(1) === `
-` && this._input.next(), N += this._input.next()) : g && (g === "${" && N === "$" && this._input.peek() === "{" && (N += this._input.next()), g === N && (v === "`" ? N += this._read_string_recursive("}", E, "`") : N += this._read_string_recursive("`", E, "${"), this._input.hasNext() && (N += this._input.next())));
-      N += r.read(), y += N;
+      } else O === "\\" && this._input.hasNext() ? (S = this._input.peek(), S === "x" || S === "u" ? this.has_char_escapes = !0 : S === "\r" && this._input.peek(1) === `
+` && this._input.next(), O += this._input.next()) : h && (h === "${" && O === "$" && this._input.peek() === "{" && (O += this._input.next()), h === O && (v === "`" ? O += this._read_string_recursive("}", E, "`") : O += this._read_string_recursive("`", E, "${"), this._input.hasNext() && (O += this._input.next())));
+      O += r.read(), y += O;
     }
     return y;
-  }, it.Tokenizer = A, it.TOKEN = _, it.positionable_operators = w.slice(), it.line_starters = d.slice(), it;
+  }, it.Tokenizer = R, it.TOKEN = _, it.positionable_operators = w.slice(), it.line_starters = d.slice(), it;
 }
 var Zi;
 function lc() {
   if (Zi) return sn;
   Zi = 1;
-  var s = di().Output, t = na().Token, n = ia(), e = sa().Options, i = It().Tokenizer, a = It().line_starters, l = It().positionable_operators, o = It().TOKEN;
+  var s = di().Output, n = na().Token, t = ia(), e = sa().Options, i = It().Tokenizer, a = It().line_starters, l = It().positionable_operators, o = It().TOKEN;
   function _(r, y) {
     return y.indexOf(r) !== -1;
   }
-  function h(r) {
+  function p(r) {
     return r.replace(/^\s+/g, "");
   }
   function u(r) {
-    for (var y = {}, N = 0; N < r.length; N++)
-      y[r[N].replace(/-/g, "_")] = r[N];
+    for (var y = {}, O = 0; O < r.length; O++)
+      y[r[O].replace(/-/g, "_")] = r[O];
     return y;
   }
-  function p(r, y) {
+  function g(r, y) {
     return r && r.type === o.RESERVED && r.text === y;
   }
   function m(r, y) {
     return r && r.type === o.RESERVED && _(r.text, y);
   }
-  var w = ["case", "return", "do", "if", "throw", "else", "await", "break", "continue", "async"], x = ["before-newline", "after-newline", "preserve-newline"], O = u(x), d = [O.before_newline, O.preserve_newline], c = {
+  var w = ["case", "return", "do", "if", "throw", "else", "await", "break", "continue", "async"], N = ["before-newline", "after-newline", "preserve-newline"], x = u(N), d = [x.before_newline, x.preserve_newline], c = {
     BlockStatement: "BlockStatement",
     // 'BLOCK'
     Statement: "Statement",
@@ -2758,45 +2776,45 @@ function lc() {
   function f(r, y) {
     y.multiline_frame || y.mode === c.ForInitializer || y.mode === c.Conditional || r.remove_indent(y.start_line_index);
   }
-  function R(r) {
-    r = r.replace(n.allLineBreaks, `
+  function A(r) {
+    r = r.replace(t.allLineBreaks, `
 `);
-    for (var y = [], N = r.indexOf(`
-`); N !== -1; )
-      y.push(r.substring(0, N)), r = r.substring(N + 1), N = r.indexOf(`
+    for (var y = [], O = r.indexOf(`
+`); O !== -1; )
+      y.push(r.substring(0, O)), r = r.substring(O + 1), O = r.indexOf(`
 `);
     return r.length && y.push(r), y;
   }
-  function A(r) {
+  function R(r) {
     return r === c.ArrayLiteral;
   }
   function D(r) {
     return _(r, [c.Expression, c.ForInitializer, c.Conditional]);
   }
   function v(r, y) {
-    for (var N = 0; N < r.length; N++) {
-      var F = r[N].trim();
+    for (var O = 0; O < r.length; O++) {
+      var F = r[O].trim();
       if (F.charAt(0) !== y)
         return !1;
     }
     return !0;
   }
   function E(r, y) {
-    for (var N = 0, F = r.length, G; N < F; N++)
-      if (G = r[N], G && G.indexOf(y) !== 0)
+    for (var O = 0, F = r.length, G; O < F; O++)
+      if (G = r[O], G && G.indexOf(y) !== 0)
         return !1;
     return !0;
   }
-  function g(r, y) {
+  function h(r, y) {
     y = y || {}, this._source_text = r || "", this._output = null, this._tokens = null, this._last_last_text = null, this._flags = null, this._previous_flags = null, this._flag_store = null, this._options = new e(y);
   }
-  g.prototype.create_flags = function(r, y) {
-    var N = 0;
-    r && (N = r.indentation_level, !this._output.just_added_newline() && r.line_indent_level > N && (N = r.line_indent_level));
+  h.prototype.create_flags = function(r, y) {
+    var O = 0;
+    r && (O = r.indentation_level, !this._output.just_added_newline() && r.line_indent_level > O && (O = r.line_indent_level));
     var F = {
       mode: y,
       parent: r,
-      last_token: r ? r.last_token : new t(o.START_BLOCK, ""),
+      last_token: r ? r.last_token : new n(o.START_BLOCK, ""),
       // last token text
       last_word: r ? r.last_word : "",
       // last TOKEN.WORD passed
@@ -2819,52 +2837,52 @@ function lc() {
       // the indented case-action block
       case_block: !1,
       // the indented case-action block is wrapped with {}
-      indentation_level: N,
+      indentation_level: O,
       alignment: 0,
-      line_indent_level: r ? r.line_indent_level : N,
+      line_indent_level: r ? r.line_indent_level : O,
       start_line_index: this._output.get_line_number(),
       ternary_depth: 0
     };
     return F;
-  }, g.prototype._reset = function(r) {
+  }, h.prototype._reset = function(r) {
     var y = r.match(/^[\t ]*/)[0];
     this._last_last_text = "", this._output = new s(this._options, y), this._output.raw = this._options.test_output_raw, this._flag_store = [], this.set_mode(c.BlockStatement);
-    var N = new i(r, this._options);
-    return this._tokens = N.tokenize(), r;
-  }, g.prototype.beautify = function() {
+    var O = new i(r, this._options);
+    return this._tokens = O.tokenize(), r;
+  }, h.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
-    var r, y = this._reset(this._source_text), N = this._options.eol;
-    this._options.eol === "auto" && (N = `
-`, y && n.lineBreak.test(y || "") && (N = y.match(n.lineBreak)[0]));
+    var r, y = this._reset(this._source_text), O = this._options.eol;
+    this._options.eol === "auto" && (O = `
+`, y && t.lineBreak.test(y || "") && (O = y.match(t.lineBreak)[0]));
     for (var F = this._tokens.next(); F; )
       this.handle_token(F), this._last_last_text = this._flags.last_token.text, this._flags.last_token = F, F = this._tokens.next();
-    return r = this._output.get_code(N), r;
-  }, g.prototype.handle_token = function(r, y) {
+    return r = this._output.get_code(O), r;
+  }, h.prototype.handle_token = function(r, y) {
     r.type === o.START_EXPR ? this.handle_start_expr(r) : r.type === o.END_EXPR ? this.handle_end_expr(r) : r.type === o.START_BLOCK ? this.handle_start_block(r) : r.type === o.END_BLOCK ? this.handle_end_block(r) : r.type === o.WORD ? this.handle_word(r) : r.type === o.RESERVED ? this.handle_word(r) : r.type === o.SEMICOLON ? this.handle_semicolon(r) : r.type === o.STRING ? this.handle_string(r) : r.type === o.EQUALS ? this.handle_equals(r) : r.type === o.OPERATOR ? this.handle_operator(r) : r.type === o.COMMA ? this.handle_comma(r) : r.type === o.BLOCK_COMMENT ? this.handle_block_comment(r, y) : r.type === o.COMMENT ? this.handle_comment(r, y) : r.type === o.DOT ? this.handle_dot(r) : r.type === o.EOF ? this.handle_eof(r) : r.type === o.UNKNOWN ? this.handle_unknown(r, y) : this.handle_unknown(r, y);
-  }, g.prototype.handle_whitespace_and_comments = function(r, y) {
-    var N = r.newlines, F = this._options.keep_array_indentation && A(this._flags.mode);
+  }, h.prototype.handle_whitespace_and_comments = function(r, y) {
+    var O = r.newlines, F = this._options.keep_array_indentation && R(this._flags.mode);
     if (r.comments_before)
       for (var G = r.comments_before.next(); G; )
         this.handle_whitespace_and_comments(G, y), this.handle_token(G, y), G = r.comments_before.next();
     if (F)
-      for (var X = 0; X < N; X += 1)
+      for (var X = 0; X < O; X += 1)
         this.print_newline(X > 0, y);
-    else if (this._options.max_preserve_newlines && N > this._options.max_preserve_newlines && (N = this._options.max_preserve_newlines), this._options.preserve_newlines && N > 1) {
+    else if (this._options.max_preserve_newlines && O > this._options.max_preserve_newlines && (O = this._options.max_preserve_newlines), this._options.preserve_newlines && O > 1) {
       this.print_newline(!1, y);
-      for (var M = 1; M < N; M += 1)
+      for (var M = 1; M < O; M += 1)
         this.print_newline(!0, y);
     }
   };
   var S = ["async", "break", "continue", "return", "throw", "yield"];
-  return g.prototype.allow_wrap_or_preserved_newline = function(r, y) {
+  return h.prototype.allow_wrap_or_preserved_newline = function(r, y) {
     if (y = y === void 0 ? !1 : y, !this._output.just_added_newline()) {
-      var N = this._options.preserve_newlines && r.newlines || y, F = _(this._flags.last_token.text, l) || _(r.text, l);
+      var O = this._options.preserve_newlines && r.newlines || y, F = _(this._flags.last_token.text, l) || _(r.text, l);
       if (F) {
         var G = _(this._flags.last_token.text, l) && _(this._options.operator_position, d) || _(r.text, l);
-        N = N && G;
+        O = O && G;
       }
-      if (N)
+      if (O)
         this.print_newline(!1, !0);
       else if (this._options.wrap_line_length) {
         if (m(this._flags.last_token, S))
@@ -2872,14 +2890,14 @@ function lc() {
         this._output.set_wrap_point();
       }
     }
-  }, g.prototype.print_newline = function(r, y) {
+  }, h.prototype.print_newline = function(r, y) {
     if (!y && this._flags.last_token.text !== ";" && this._flags.last_token.text !== "," && this._flags.last_token.text !== "=" && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++"))
-      for (var N = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(N, "else")) && !this._flags.do_block; )
+      for (var O = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && g(O, "else")) && !this._flags.do_block; )
         this.restore_mode();
     this._output.add_new_line(r) && (this._flags.multiline_frame = !0);
-  }, g.prototype.print_token_line_indentation = function(r) {
-    this._output.just_added_newline() && (this._options.keep_array_indentation && r.newlines && (r.text === "[" || A(this._flags.mode)) ? (this._output.current_line.set_indent(-1), this._output.current_line.push(r.whitespace_before), this._output.space_before_token = !1) : this._output.set_indent(this._flags.indentation_level, this._flags.alignment) && (this._flags.line_indent_level = this._flags.indentation_level));
-  }, g.prototype.print_token = function(r) {
+  }, h.prototype.print_token_line_indentation = function(r) {
+    this._output.just_added_newline() && (this._options.keep_array_indentation && r.newlines && (r.text === "[" || R(this._flags.mode)) ? (this._output.current_line.set_indent(-1), this._output.current_line.push(r.whitespace_before), this._output.space_before_token = !1) : this._output.set_indent(this._flags.indentation_level, this._flags.alignment) && (this._flags.line_indent_level = this._flags.indentation_level));
+  }, h.prototype.print_token = function(r) {
     if (this._output.raw) {
       this._output.add_raw_token(r);
       return;
@@ -2889,23 +2907,23 @@ function lc() {
       this._output.previous_line.is_empty() && (this._output.previous_line.push(y), this._output.trim(!0), this._output.current_line.pop(), this._output.trim()), this.print_token_line_indentation(r), this._output.add_token(","), this._output.space_before_token = !0;
     }
     this.print_token_line_indentation(r), this._output.non_breaking_space = !0, this._output.add_token(r.text), this._output.previous_token_wrapped && (this._flags.multiline_frame = !0);
-  }, g.prototype.indent = function() {
+  }, h.prototype.indent = function() {
     this._flags.indentation_level += 1, this._output.set_indent(this._flags.indentation_level, this._flags.alignment);
-  }, g.prototype.deindent = function() {
+  }, h.prototype.deindent = function() {
     this._flags.indentation_level > 0 && (!this._flags.parent || this._flags.indentation_level > this._flags.parent.indentation_level) && (this._flags.indentation_level -= 1, this._output.set_indent(this._flags.indentation_level, this._flags.alignment));
-  }, g.prototype.set_mode = function(r) {
+  }, h.prototype.set_mode = function(r) {
     this._flags ? (this._flag_store.push(this._flags), this._previous_flags = this._flags) : this._previous_flags = this.create_flags(null, r), this._flags = this.create_flags(this._previous_flags, r), this._output.set_indent(this._flags.indentation_level, this._flags.alignment);
-  }, g.prototype.restore_mode = function() {
+  }, h.prototype.restore_mode = function() {
     this._flag_store.length > 0 && (this._previous_flags = this._flags, this._flags = this._flag_store.pop(), this._previous_flags.mode === c.Statement && f(this._output, this._previous_flags), this._output.set_indent(this._flags.indentation_level, this._flags.alignment));
-  }, g.prototype.start_of_object_property = function() {
+  }, h.prototype.start_of_object_property = function() {
     return this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"]));
-  }, g.prototype.start_of_statement = function(r) {
+  }, h.prototype.start_of_statement = function(r) {
     var y = !1;
-    return y = y || m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD, y = y || p(this._flags.last_token, "do"), y = y || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && m(this._flags.last_token, S) && !r.newlines, y = y || p(this._flags.last_token, "else") && !(p(r, "if") && !r.comments_before), y = y || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), y = y || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(r.text === "--" || r.text === "++") && this._last_last_text !== "function" && r.type !== o.WORD && r.type !== o.RESERVED, y = y || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"])), y ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(r, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
+    return y = y || m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD, y = y || g(this._flags.last_token, "do"), y = y || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && m(this._flags.last_token, S) && !r.newlines, y = y || g(this._flags.last_token, "else") && !(g(r, "if") && !r.comments_before), y = y || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), y = y || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(r.text === "--" || r.text === "++") && this._last_last_text !== "function" && r.type !== o.WORD && r.type !== o.RESERVED, y = y || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"])), y ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(r, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
       r,
       m(r, ["do", "for", "if", "while"])
     ), !0) : !1;
-  }, g.prototype.handle_start_expr = function(r) {
+  }, h.prototype.handle_start_expr = function(r) {
     this.start_of_statement(r) || this.handle_whitespace_and_comments(r);
     var y = c.Expression;
     if (r.text === "[") {
@@ -2913,7 +2931,7 @@ function lc() {
         m(this._flags.last_token, a) && (this._output.space_before_token = !0), this.print_token(r), this.set_mode(y), this.indent(), this._options.space_in_paren && (this._output.space_before_token = !0);
         return;
       }
-      y = c.ArrayLiteral, A(this._flags.mode) && (this._flags.last_token.text === "[" || this._flags.last_token.text === "," && (this._last_last_text === "]" || this._last_last_text === "}")) && (this._options.keep_array_indentation || this.print_newline()), _(this._flags.last_token.type, [o.START_EXPR, o.END_EXPR, o.WORD, o.OPERATOR, o.DOT]) || (this._output.space_before_token = !0);
+      y = c.ArrayLiteral, R(this._flags.mode) && (this._flags.last_token.text === "[" || this._flags.last_token.text === "," && (this._last_last_text === "]" || this._last_last_text === "}")) && (this._options.keep_array_indentation || this.print_newline()), _(this._flags.last_token.type, [o.START_EXPR, o.END_EXPR, o.WORD, o.OPERATOR, o.DOT]) || (this._output.space_before_token = !0);
     } else {
       if (this._flags.last_token.type === o.RESERVED)
         this._flags.last_token.text === "for" ? (this._output.space_before_token = this._options.space_before_conditional, y = c.ForInitializer) : _(this._flags.last_token.text, ["if", "while", "switch"]) ? (this._output.space_before_token = this._options.space_before_conditional, y = c.Conditional) : _(this._flags.last_word, ["await", "async"]) ? this._output.space_before_token = !0 : this._flags.last_token.text === "import" && r.whitespace_before === "" ? this._output.space_before_token = !1 : (_(this._flags.last_token.text, a) || this._flags.last_token.text === "catch") && (this._output.space_before_token = !0);
@@ -2921,27 +2939,27 @@ function lc() {
         this.start_of_object_property() || this.allow_wrap_or_preserved_newline(r);
       else if (this._flags.last_token.type === o.WORD) {
         this._output.space_before_token = !1;
-        var N = this._tokens.peek(-3);
-        if (this._options.space_after_named_function && N) {
+        var O = this._tokens.peek(-3);
+        if (this._options.space_after_named_function && O) {
           var F = this._tokens.peek(-4);
-          m(N, ["async", "function"]) || N.text === "*" && m(F, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (N.text === "{" || N.text === "," || N.text === "*" && (F.text === "{" || F.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
+          m(O, ["async", "function"]) || O.text === "*" && m(F, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (O.text === "{" || O.text === "," || O.text === "*" && (F.text === "{" || F.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
         }
       } else
         this.allow_wrap_or_preserved_newline(r);
       (this._flags.last_token.type === o.RESERVED && (this._flags.last_word === "function" || this._flags.last_word === "typeof") || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","]))) && (this._output.space_before_token = this._options.space_after_anon_function);
     }
     this._flags.last_token.text === ";" || this._flags.last_token.type === o.START_BLOCK ? this.print_newline() : (this._flags.last_token.type === o.END_EXPR || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.END_BLOCK || this._flags.last_token.text === "." || this._flags.last_token.type === o.COMMA) && this.allow_wrap_or_preserved_newline(r, r.newlines), this.print_token(r), this.set_mode(y), this._options.space_in_paren && (this._output.space_before_token = !0), this.indent();
-  }, g.prototype.handle_end_expr = function(r) {
+  }, h.prototype.handle_end_expr = function(r) {
     for (; this._flags.mode === c.Statement; )
       this.restore_mode();
     this.handle_whitespace_and_comments(r), this._flags.multiline_frame && this.allow_wrap_or_preserved_newline(
       r,
-      r.text === "]" && A(this._flags.mode) && !this._options.keep_array_indentation
+      r.text === "]" && R(this._flags.mode) && !this._options.keep_array_indentation
     ), this._options.space_in_paren && (this._flags.last_token.type === o.START_EXPR && !this._options.space_in_empty_paren ? (this._output.trim(), this._output.space_before_token = !1) : this._output.space_before_token = !0), this.deindent(), this.print_token(r), this.restore_mode(), f(this._output, this._previous_flags), this._flags.do_while && this._previous_flags.mode === c.Conditional && (this._previous_flags.mode = c.Expression, this._flags.do_block = !1, this._flags.do_while = !1);
-  }, g.prototype.handle_start_block = function(r) {
+  }, h.prototype.handle_start_block = function(r) {
     this.handle_whitespace_and_comments(r);
-    var y = this._tokens.peek(), N = this._tokens.peek(1);
-    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : N && (_(N.text, [":", ","]) && _(y.type, [o.STRING, o.WORD, o.RESERVED]) || _(y.text, ["get", "set", "..."]) && _(N.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(N.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || m(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && m(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
+    var y = this._tokens.peek(), O = this._tokens.peek(1);
+    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : O && (_(O.text, [":", ","]) && _(y.type, [o.STRING, o.WORD, o.RESERVED]) || _(y.text, ["get", "set", "..."]) && _(O.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(O.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || m(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && m(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
     var F = !y.comments_before && y.text === "}", G = F && this._flags.last_word === "function" && this._flags.last_token.type === o.END_EXPR;
     if (this._options.brace_preserve_inline) {
       var X = 0, M = null;
@@ -2953,13 +2971,13 @@ function lc() {
         }
       while (M.type !== o.EOF && !(M.type === o.END_BLOCK && M.opened === r));
     }
-    (this._options.brace_style === "expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (G || this._flags.last_token.type === o.EQUALS || m(this._flags.last_token, w) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (A(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(r), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(r), this.indent(), !F && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
-  }, g.prototype.handle_end_block = function(r) {
+    (this._options.brace_style === "expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (G || this._flags.last_token.type === o.EQUALS || m(this._flags.last_token, w) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (R(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(r), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(r), this.indent(), !F && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
+  }, h.prototype.handle_end_block = function(r) {
     for (this.handle_whitespace_and_comments(r); this._flags.mode === c.Statement; )
       this.restore_mode();
     var y = this._flags.last_token.type === o.START_BLOCK;
-    this._flags.inline_frame && !y ? this._output.space_before_token = !0 : this._options.brace_style === "expand" ? y || this.print_newline() : y || (A(this._flags.mode) && this._options.keep_array_indentation ? (this._options.keep_array_indentation = !1, this.print_newline(), this._options.keep_array_indentation = !0) : this.print_newline()), this.restore_mode(), this.print_token(r);
-  }, g.prototype.handle_word = function(r) {
+    this._flags.inline_frame && !y ? this._output.space_before_token = !0 : this._options.brace_style === "expand" ? y || this.print_newline() : y || (R(this._flags.mode) && this._options.keep_array_indentation ? (this._options.keep_array_indentation = !1, this.print_newline(), this._options.keep_array_indentation = !0) : this.print_newline()), this.restore_mode(), this.print_token(r);
+  }, h.prototype.handle_word = function(r) {
     if (r.type === o.RESERVED) {
       if (_(r.text, ["set", "get"]) && this._flags.mode !== c.ObjectLiteral)
         r.type = o.WORD;
@@ -2973,13 +2991,13 @@ function lc() {
       }
     }
     if (this.start_of_statement(r) ? m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD && (this._flags.declaration_statement = !0) : r.newlines && !D(this._flags.mode) && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++") && this._flags.last_token.type !== o.EQUALS && (this._options.preserve_newlines || !m(this._flags.last_token, ["var", "let", "const", "set", "get"])) ? (this.handle_whitespace_and_comments(r), this.print_newline()) : this.handle_whitespace_and_comments(r), this._flags.do_block && !this._flags.do_while)
-      if (p(r, "while")) {
+      if (g(r, "while")) {
         this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0, this._flags.do_while = !0;
         return;
       } else
         this.print_newline(), this._flags.do_block = !1;
     if (this._flags.if_block)
-      if (!this._flags.else_block && p(r, "else"))
+      if (!this._flags.else_block && g(r, "else"))
         this._flags.else_block = !0;
       else {
         for (; this._flags.mode === c.Statement; )
@@ -2991,12 +3009,12 @@ function lc() {
       return;
     }
     if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR) && !this.start_of_object_property() && !// start of object property is different for numeric values with +/- prefix operators
-    (_(this._flags.last_token.text, ["+", "-"]) && this._last_last_text === ":" && this._flags.parent.mode === c.ObjectLiteral) && this.allow_wrap_or_preserved_newline(r), p(r, "function")) {
-      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !r.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? m(this._flags.last_token, ["get", "set", "new", "export"]) || m(this._flags.last_token, S) ? this._output.space_before_token = !0 : p(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (D(this._flags.mode) || A(this._flags.mode)) || this.print_newline(), this.print_token(r), this._flags.last_word = r.text;
+    (_(this._flags.last_token.text, ["+", "-"]) && this._last_last_text === ":" && this._flags.parent.mode === c.ObjectLiteral) && this.allow_wrap_or_preserved_newline(r), g(r, "function")) {
+      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !r.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? m(this._flags.last_token, ["get", "set", "new", "export"]) || m(this._flags.last_token, S) ? this._output.space_before_token = !0 : g(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (D(this._flags.mode) || R(this._flags.mode)) || this.print_newline(), this.print_token(r), this._flags.last_word = r.text;
       return;
     }
-    var N = "NONE";
-    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? N = "SPACE" : m(r, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines ? N = "NEWLINE" : (N = "SPACE", this._output.space_before_token = !0) : N = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? N = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && D(this._flags.mode) ? N = "SPACE" : this._flags.last_token.type === o.STRING ? N = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? N = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? N = "SPACE" : N = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, N = "NEWLINE"), m(r, a) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? N = "SPACE" : N = "NEWLINE"), m(r, ["else", "catch", "finally"]))
+    var O = "NONE";
+    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? O = "SPACE" : m(r, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines ? O = "NEWLINE" : (O = "SPACE", this._output.space_before_token = !0) : O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && D(this._flags.mode) ? O = "SPACE" : this._flags.last_token.type === o.STRING ? O = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? O = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? O = "SPACE" : O = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, O = "NEWLINE"), m(r, a) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? O = "SPACE" : O = "NEWLINE"), m(r, ["else", "catch", "finally"]))
       if ((!(this._flags.last_token.type === o.END_BLOCK && this._previous_flags.mode === c.BlockStatement) || this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame)
         this.print_newline();
       else {
@@ -3004,21 +3022,21 @@ function lc() {
         var F = this._output.current_line;
         F.last() !== "}" && this.print_newline(), this._output.space_before_token = !0;
       }
-    else N === "NEWLINE" ? m(this._flags.last_token, w) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && m(r, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !m(r, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (p(r, "if") && p(r.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : m(r, a) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && A(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : N === "SPACE" && (this._output.space_before_token = !0);
-    r.previous && (r.previous.type === o.WORD || r.previous.type === o.RESERVED) && (this._output.space_before_token = !0), this.print_token(r), this._flags.last_word = r.text, r.type === o.RESERVED && (r.text === "do" ? this._flags.do_block = !0 : r.text === "if" ? this._flags.if_block = !0 : r.text === "import" ? this._flags.import_block = !0 : this._flags.import_block && p(r, "from") && (this._flags.import_block = !1));
-  }, g.prototype.handle_semicolon = function(r) {
+    else O === "NEWLINE" ? m(this._flags.last_token, w) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && m(r, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !m(r, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (g(r, "if") && g(r.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : m(r, a) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && R(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : O === "SPACE" && (this._output.space_before_token = !0);
+    r.previous && (r.previous.type === o.WORD || r.previous.type === o.RESERVED) && (this._output.space_before_token = !0), this.print_token(r), this._flags.last_word = r.text, r.type === o.RESERVED && (r.text === "do" ? this._flags.do_block = !0 : r.text === "if" ? this._flags.if_block = !0 : r.text === "import" ? this._flags.import_block = !0 : this._flags.import_block && g(r, "from") && (this._flags.import_block = !1));
+  }, h.prototype.handle_semicolon = function(r) {
     this.start_of_statement(r) ? this._output.space_before_token = !1 : this.handle_whitespace_and_comments(r);
-    for (var y = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && p(y, "else")) && !this._flags.do_block; )
+    for (var y = this._tokens.peek(); this._flags.mode === c.Statement && !(this._flags.if_block && g(y, "else")) && !this._flags.do_block; )
       this.restore_mode();
     this._flags.import_block && (this._flags.import_block = !1), this.print_token(r);
-  }, g.prototype.handle_string = function(r) {
+  }, h.prototype.handle_string = function(r) {
     r.text.startsWith("`") && r.newlines === 0 && r.whitespace_before === "" && (r.previous.text === ")" || this._flags.last_token.type === o.WORD) || (this.start_of_statement(r) ? this._output.space_before_token = !0 : (this.handle_whitespace_and_comments(r), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.inline_frame ? this._output.space_before_token = !0 : this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR ? this.start_of_object_property() || this.allow_wrap_or_preserved_newline(r) : r.text.startsWith("`") && this._flags.last_token.type === o.END_EXPR && (r.previous.text === "]" || r.previous.text === ")") && r.newlines === 0 ? this._output.space_before_token = !0 : this.print_newline())), this.print_token(r);
-  }, g.prototype.handle_equals = function(r) {
+  }, h.prototype.handle_equals = function(r) {
     this.start_of_statement(r) || this.handle_whitespace_and_comments(r), this._flags.declaration_statement && (this._flags.declaration_assignment = !0), this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0;
-  }, g.prototype.handle_comma = function(r) {
+  }, h.prototype.handle_comma = function(r) {
     this.handle_whitespace_and_comments(r, !0), this.print_token(r), this._output.space_before_token = !0, this._flags.declaration_statement ? (D(this._flags.parent.mode) && (this._flags.declaration_assignment = !1), this._flags.declaration_assignment ? (this._flags.declaration_assignment = !1, this.print_newline(!1, !0)) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r)) : this._flags.mode === c.ObjectLiteral || this._flags.mode === c.Statement && this._flags.parent.mode === c.ObjectLiteral ? (this._flags.mode === c.Statement && this.restore_mode(), this._flags.inline_frame || this.print_newline()) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r);
-  }, g.prototype.handle_operator = function(r) {
-    var y = r.text === "*" && (m(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), N = _(r.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, a) || this._flags.last_token.text === ",");
+  }, h.prototype.handle_operator = function(r) {
+    var y = r.text === "*" && (m(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), O = _(r.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, a) || this._flags.last_token.text === ",");
     if (!this.start_of_statement(r)) {
       var F = !y;
       this.handle_whitespace_and_comments(r, F);
@@ -3040,16 +3058,16 @@ function lc() {
       return;
     }
     var G = !0, X = !0, M = !1;
-    if (r.text === ":" ? this._flags.ternary_depth === 0 ? G = !1 : (this._flags.ternary_depth -= 1, M = !0) : r.text === "?" && (this._flags.ternary_depth += 1), !N && !y && this._options.preserve_newlines && _(r.text, l)) {
+    if (r.text === ":" ? this._flags.ternary_depth === 0 ? G = !1 : (this._flags.ternary_depth -= 1, M = !0) : r.text === "?" && (this._flags.ternary_depth += 1), !O && !y && this._options.preserve_newlines && _(r.text, l)) {
       var T = r.text === ":", I = T && M, W = T && !M;
       switch (this._options.operator_position) {
-        case O.before_newline:
+        case x.before_newline:
           this._output.space_before_token = !W, this.print_token(r), (!T || I) && this.allow_wrap_or_preserved_newline(r), this._output.space_before_token = !0;
           return;
-        case O.after_newline:
+        case x.after_newline:
           this._output.space_before_token = !0, !T || I ? this._tokens.peek().newlines ? this.print_newline(!1, !0) : this.allow_wrap_or_preserved_newline(r) : this._output.space_before_token = !1, this.print_token(r), this._output.space_before_token = !0;
           return;
-        case O.preserve_newline:
+        case x.preserve_newline:
           W || this.allow_wrap_or_preserved_newline(r), G = !(this._output.just_added_newline() || W), this._output.space_before_token = G, this.print_token(r), this._output.space_before_token = !0;
           return;
       }
@@ -3060,7 +3078,7 @@ function lc() {
       X = ae && _(ae.type, [o.WORD, o.RESERVED]);
     } else if (r.text === "...")
       this.allow_wrap_or_preserved_newline(r), G = this._flags.last_token.type === o.START_BLOCK, X = !1;
-    else if (_(r.text, ["--", "++", "!", "~"]) || N) {
+    else if (_(r.text, ["--", "++", "!", "~"]) || O) {
       if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR) && this.allow_wrap_or_preserved_newline(r), G = !1, X = !1, r.newlines && (r.text === "--" || r.text === "++" || r.text === "~")) {
         var Z = m(this._flags.last_token, w) && r.newlines;
         Z && (this._previous_flags.if_block || this._previous_flags.else_block) && this.restore_mode(), this.print_newline(Z, !0);
@@ -3068,7 +3086,7 @@ function lc() {
       this._flags.last_token.text === ";" && D(this._flags.mode) && (G = !0), this._flags.last_token.type === o.RESERVED ? G = !0 : this._flags.last_token.type === o.END_EXPR ? G = !(this._flags.last_token.text === "]" && (r.text === "--" || r.text === "++")) : this._flags.last_token.type === o.OPERATOR && (G = _(r.text, ["--", "-", "++", "+"]) && _(this._flags.last_token.text, ["--", "-", "++", "+"]), _(r.text, ["+", "-"]) && _(this._flags.last_token.text, ["--", "++"]) && (X = !0)), (this._flags.mode === c.BlockStatement && !this._flags.inline_frame || this._flags.mode === c.Statement) && (this._flags.last_token.text === "{" || this._flags.last_token.text === ";") && this.print_newline();
     }
     this._output.space_before_token = this._output.space_before_token || G, this.print_token(r), this._output.space_before_token = X;
-  }, g.prototype.handle_block_comment = function(r, y) {
+  }, h.prototype.handle_block_comment = function(r, y) {
     if (this._output.raw) {
       this._output.add_raw_token(r), r.directives && r.directives.preserve === "end" && (this._output.raw = this._options.test_output_raw);
       return;
@@ -3077,45 +3095,45 @@ function lc() {
       this.print_newline(!1, y), this.print_token(r), r.directives.preserve === "start" && (this._output.raw = !0), this.print_newline(!1, !0);
       return;
     }
-    if (!n.newline.test(r.text) && !r.newlines) {
+    if (!t.newline.test(r.text) && !r.newlines) {
       this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0;
       return;
     } else
       this.print_block_commment(r, y);
-  }, g.prototype.print_block_commment = function(r, y) {
-    var N = R(r.text), F, G = !1, X = !1, M = r.whitespace_before, T = M.length;
-    if (this.print_newline(!1, y), this.print_token_line_indentation(r), this._output.add_token(N[0]), this.print_newline(!1, y), N.length > 1) {
-      for (N = N.slice(1), G = v(N, "*"), X = E(N, M), G && (this._flags.alignment = 1), F = 0; F < N.length; F++)
-        G ? (this.print_token_line_indentation(r), this._output.add_token(h(N[F]))) : X && N[F] ? (this.print_token_line_indentation(r), this._output.add_token(N[F].substring(T))) : (this._output.current_line.set_indent(-1), this._output.add_token(N[F])), this.print_newline(!1, y);
+  }, h.prototype.print_block_commment = function(r, y) {
+    var O = A(r.text), F, G = !1, X = !1, M = r.whitespace_before, T = M.length;
+    if (this.print_newline(!1, y), this.print_token_line_indentation(r), this._output.add_token(O[0]), this.print_newline(!1, y), O.length > 1) {
+      for (O = O.slice(1), G = v(O, "*"), X = E(O, M), G && (this._flags.alignment = 1), F = 0; F < O.length; F++)
+        G ? (this.print_token_line_indentation(r), this._output.add_token(p(O[F]))) : X && O[F] ? (this.print_token_line_indentation(r), this._output.add_token(O[F].substring(T))) : (this._output.current_line.set_indent(-1), this._output.add_token(O[F])), this.print_newline(!1, y);
       this._flags.alignment = 0;
     }
-  }, g.prototype.handle_comment = function(r, y) {
+  }, h.prototype.handle_comment = function(r, y) {
     r.newlines ? this.print_newline(!1, y) : this._output.trim(!0), this._output.space_before_token = !0, this.print_token(r), this.print_newline(!1, y);
-  }, g.prototype.handle_dot = function(r) {
+  }, h.prototype.handle_dot = function(r) {
     this.start_of_statement(r) || this.handle_whitespace_and_comments(r, !0), this._flags.last_token.text.match("^[0-9]+$") && (this._output.space_before_token = !0), m(this._flags.last_token, w) ? this._output.space_before_token = !1 : this.allow_wrap_or_preserved_newline(
       r,
       this._flags.last_token.text === ")" && this._options.break_chained_methods
     ), this._options.unindent_chained_methods && this._output.just_added_newline() && this.deindent(), this.print_token(r);
-  }, g.prototype.handle_unknown = function(r, y) {
+  }, h.prototype.handle_unknown = function(r, y) {
     this.print_token(r), r.text[r.text.length - 1] === `
 ` && this.print_newline(!1, y);
-  }, g.prototype.handle_eof = function(r) {
+  }, h.prototype.handle_eof = function(r) {
     for (; this._flags.mode === c.Statement; )
       this.restore_mode();
     this.handle_whitespace_and_comments(r);
-  }, sn.Beautifier = g, sn;
+  }, sn.Beautifier = h, sn;
 }
 var Xi;
 function cc() {
   if (Xi) return At.exports;
   Xi = 1;
-  var s = lc().Beautifier, t = sa().Options;
-  function n(e, i) {
+  var s = lc().Beautifier, n = sa().Options;
+  function t(e, i) {
     var a = new s(e, i);
     return a.beautify();
   }
-  return At.exports = n, At.exports.defaultOptions = function() {
-    return new t();
+  return At.exports = t, At.exports.defaultOptions = function() {
+    return new n();
   }, At.exports;
 }
 var Mt = { exports: {} }, hn = {}, gn = {}, Yi;
@@ -3123,8 +3141,8 @@ function ra() {
   if (Yi) return gn;
   Yi = 1;
   var s = pi().Options;
-  function t(n) {
-    s.call(this, n, "css"), this.selector_separator_newline = this._get_boolean("selector_separator_newline", !0), this.newline_between_rules = this._get_boolean("newline_between_rules", !0);
+  function n(t) {
+    s.call(this, t, "css"), this.selector_separator_newline = this._get_boolean("selector_separator_newline", !0), this.newline_between_rules = this._get_boolean("newline_between_rules", !0);
     var e = this._get_boolean("space_around_selector_separator");
     this.space_around_combinator = this._get_boolean("space_around_combinator") || e;
     var i = this._get_selection_list("brace_style", ["collapse", "expand", "end-expand", "none", "preserve-inline"]);
@@ -3132,14 +3150,14 @@ function ra() {
     for (var a = 0; a < i.length; a++)
       i[a] !== "expand" ? this.brace_style = "collapse" : this.brace_style = i[a];
   }
-  return t.prototype = new s(), gn.Options = t, gn;
+  return n.prototype = new s(), gn.Options = n, gn;
 }
 var Qi;
 function _c() {
   if (Qi) return hn;
   Qi = 1;
-  var s = ra().Options, t = di().Output, n = fi().InputScanner, e = hi().Directives, i = new e(/\/\*/, /\*\//), a = /\r\n|[\r\n]/, l = /\r\n|[\r\n]/g, o = /\s/, _ = /(?:\s|\n)+/g, h = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, u = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
-  function p(m, w) {
+  var s = ra().Options, n = di().Output, t = fi().InputScanner, e = hi().Directives, i = new e(/\/\*/, /\*\//), a = /\r\n|[\r\n]/, l = /\r\n|[\r\n]/g, o = /\s/, _ = /(?:\s|\n)+/g, p = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, u = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
+  function g(m, w) {
     this._source_text = m || "", this._options = new s(w), this._ch = null, this._input = null, this.NESTED_AT_RULE = {
       page: !0,
       "font-face": !0,
@@ -3157,7 +3175,7 @@ function _c() {
       "grid-template"
     ];
   }
-  return p.prototype.eatString = function(m) {
+  return g.prototype.eatString = function(m) {
     var w = "";
     for (this._ch = this._input.next(); this._ch; ) {
       if (w += this._ch, this._ch === "\\")
@@ -3168,66 +3186,66 @@ function _c() {
       this._ch = this._input.next();
     }
     return w;
-  }, p.prototype.eatWhitespace = function(m) {
-    for (var w = o.test(this._input.peek()), x = 0; o.test(this._input.peek()); )
+  }, g.prototype.eatWhitespace = function(m) {
+    for (var w = o.test(this._input.peek()), N = 0; o.test(this._input.peek()); )
       this._ch = this._input.next(), m && this._ch === `
-` && (x === 0 || x < this._options.max_preserve_newlines) && (x++, this._output.add_new_line(!0));
+` && (N === 0 || N < this._options.max_preserve_newlines) && (N++, this._output.add_new_line(!0));
     return w;
-  }, p.prototype.foundNestedPseudoClass = function() {
-    for (var m = 0, w = 1, x = this._input.peek(w); x; ) {
-      if (x === "{")
+  }, g.prototype.foundNestedPseudoClass = function() {
+    for (var m = 0, w = 1, N = this._input.peek(w); N; ) {
+      if (N === "{")
         return !0;
-      if (x === "(")
+      if (N === "(")
         m += 1;
-      else if (x === ")") {
+      else if (N === ")") {
         if (m === 0)
           return !1;
         m -= 1;
-      } else if (x === ";" || x === "}")
+      } else if (N === ";" || N === "}")
         return !1;
-      w++, x = this._input.peek(w);
+      w++, N = this._input.peek(w);
     }
     return !1;
-  }, p.prototype.print_string = function(m) {
+  }, g.prototype.print_string = function(m) {
     this._output.set_indent(this._indentLevel), this._output.non_breaking_space = !0, this._output.add_token(m);
-  }, p.prototype.preserveSingleSpace = function(m) {
+  }, g.prototype.preserveSingleSpace = function(m) {
     m && (this._output.space_before_token = !0);
-  }, p.prototype.indent = function() {
+  }, g.prototype.indent = function() {
     this._indentLevel++;
-  }, p.prototype.outdent = function() {
+  }, g.prototype.outdent = function() {
     this._indentLevel > 0 && this._indentLevel--;
-  }, p.prototype.beautify = function() {
+  }, g.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
     var m = this._source_text, w = this._options.eol;
     w === "auto" && (w = `
 `, m && a.test(m || "") && (w = m.match(a)[0])), m = m.replace(l, `
 `);
-    var x = m.match(/^[\t ]*/)[0];
-    this._output = new t(this._options, x), this._input = new n(m), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
-    for (var O = 0, d = !1, c = !1, f = !1, R = !1, A = !1, D = this._ch, v = !1, E, g, S; E = this._input.read(_), g = E !== "", S = D, this._ch = this._input.next(), this._ch === "\\" && this._input.hasNext() && (this._ch += this._input.next()), D = this._ch, this._ch; )
+    var N = m.match(/^[\t ]*/)[0];
+    this._output = new n(this._options, N), this._input = new t(m), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
+    for (var x = 0, d = !1, c = !1, f = !1, A = !1, R = !1, D = this._ch, v = !1, E, h, S; E = this._input.read(_), h = E !== "", S = D, this._ch = this._input.next(), this._ch === "\\" && this._input.hasNext() && (this._ch += this._input.next()), D = this._ch, this._ch; )
       if (this._ch === "/" && this._input.peek() === "*") {
         this._output.add_new_line(), this._input.back();
-        var r = this._input.read(h), y = i.get_directives(r);
+        var r = this._input.read(p), y = i.get_directives(r);
         y && y.ignore === "start" && (r += i.readIgnored(this._input)), this.print_string(r), this.eatWhitespace(!0), this._output.add_new_line();
       } else if (this._ch === "/" && this._input.peek() === "/")
         this._output.space_before_token = !0, this._input.back(), this.print_string(this._input.read(u)), this.eatWhitespace(!0);
       else if (this._ch === "$") {
-        this.preserveSingleSpace(g), this.print_string(this._ch);
-        var N = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
-        N.match(/[ :]$/) && (N = this.eatString(": ").replace(/\s+$/, ""), this.print_string(N), this._output.space_before_token = !0), O === 0 && N.indexOf(":") !== -1 && (c = !0, this.indent());
+        this.preserveSingleSpace(h), this.print_string(this._ch);
+        var O = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
+        O.match(/[ :]$/) && (O = this.eatString(": ").replace(/\s+$/, ""), this.print_string(O), this._output.space_before_token = !0), x === 0 && O.indexOf(":") !== -1 && (c = !0, this.indent());
       } else if (this._ch === "@")
-        if (this.preserveSingleSpace(g), this._input.peek() === "{")
+        if (this.preserveSingleSpace(h), this._input.peek() === "{")
           this.print_string(this._ch + this.eatString("}"));
         else {
           this.print_string(this._ch);
           var F = this._input.peekUntilAfter(/[: ,;{}()[\]\/='"]/g);
-          F.match(/[ :]$/) && (F = this.eatString(": ").replace(/\s+$/, ""), this.print_string(F), this._output.space_before_token = !0), O === 0 && F.indexOf(":") !== -1 ? (c = !0, this.indent()) : F in this.NESTED_AT_RULE ? (this._nestedLevel += 1, F in this.CONDITIONAL_GROUP_RULE && (f = !0)) : O === 0 && !c && (R = !0);
+          F.match(/[ :]$/) && (F = this.eatString(": ").replace(/\s+$/, ""), this.print_string(F), this._output.space_before_token = !0), x === 0 && F.indexOf(":") !== -1 ? (c = !0, this.indent()) : F in this.NESTED_AT_RULE ? (this._nestedLevel += 1, F in this.CONDITIONAL_GROUP_RULE && (f = !0)) : x === 0 && !c && (A = !0);
         }
       else if (this._ch === "#" && this._input.peek() === "{")
-        this.preserveSingleSpace(g), this.print_string(this._ch + this.eatString("}"));
+        this.preserveSingleSpace(h), this.print_string(this._ch + this.eatString("}"));
       else if (this._ch === "{")
-        c && (c = !1, this.outdent()), R = !1, f ? (f = !1, d = this._indentLevel >= this._nestedLevel) : d = this._indentLevel >= this._nestedLevel - 1, this._options.newline_between_rules && d && this._output.previous_line && this._output.previous_line.item(-1) !== "{" && this._output.ensure_empty_line_above("/", ","), this._output.space_before_token = !0, this._options.brace_style === "expand" ? (this._output.add_new_line(), this.print_string(this._ch), this.indent(), this._output.set_indent(this._indentLevel)) : (S === "(" ? this._output.space_before_token = !1 : S !== "," && this.indent(), this.print_string(this._ch)), this.eatWhitespace(!0), this._output.add_new_line();
+        c && (c = !1, this.outdent()), A = !1, f ? (f = !1, d = this._indentLevel >= this._nestedLevel) : d = this._indentLevel >= this._nestedLevel - 1, this._options.newline_between_rules && d && this._output.previous_line && this._output.previous_line.item(-1) !== "{" && this._output.ensure_empty_line_above("/", ","), this._output.space_before_token = !0, this._options.brace_style === "expand" ? (this._output.add_new_line(), this.print_string(this._ch), this.indent(), this._output.set_indent(this._indentLevel)) : (S === "(" ? this._output.space_before_token = !1 : S !== "," && this.indent(), this.print_string(this._ch)), this.eatWhitespace(!0), this._output.add_new_line();
       else if (this._ch === "}")
         this.outdent(), this._output.add_new_line(), S === "{" && this._output.trim(!0), c && (this.outdent(), c = !1), this.print_string(this._ch), d = !1, this._nestedLevel && this._nestedLevel--, this.eatWhitespace(!0), this._output.add_new_line(), this._options.newline_between_rules && !this._output.just_added_blankline() && this._input.peek() !== "}" && this._output.add_new_line(!0), this._input.peek() === ")" && (this._output.trim(!0), this._options.brace_style === "expand" && this._output.add_new_line(!0));
       else if (this._ch === ":") {
@@ -3236,53 +3254,53 @@ function _c() {
             v = !0;
             break;
           }
-        (d || f) && !(this._input.lookBack("&") || this.foundNestedPseudoClass()) && !this._input.lookBack("(") && !R && O === 0 ? (this.print_string(":"), c || (c = !0, this._output.space_before_token = !0, this.eatWhitespace(!0), this.indent())) : (this._input.lookBack(" ") && (this._output.space_before_token = !0), this._input.peek() === ":" ? (this._ch = this._input.next(), this.print_string("::")) : this.print_string(":"));
+        (d || f) && !(this._input.lookBack("&") || this.foundNestedPseudoClass()) && !this._input.lookBack("(") && !A && x === 0 ? (this.print_string(":"), c || (c = !0, this._output.space_before_token = !0, this.eatWhitespace(!0), this.indent())) : (this._input.lookBack(" ") && (this._output.space_before_token = !0), this._input.peek() === ":" ? (this._ch = this._input.next(), this.print_string("::")) : this.print_string(":"));
       } else if (this._ch === '"' || this._ch === "'") {
         var X = S === '"' || S === "'";
-        this.preserveSingleSpace(X || g), this.print_string(this._ch + this.eatString(this._ch)), this.eatWhitespace(!0);
+        this.preserveSingleSpace(X || h), this.print_string(this._ch + this.eatString(this._ch)), this.eatWhitespace(!0);
       } else if (this._ch === ";")
-        v = !1, O === 0 ? (c && (this.outdent(), c = !1), R = !1, this.print_string(this._ch), this.eatWhitespace(!0), this._input.peek() !== "/" && this._output.add_new_line()) : (this.print_string(this._ch), this.eatWhitespace(!0), this._output.space_before_token = !0);
+        v = !1, x === 0 ? (c && (this.outdent(), c = !1), A = !1, this.print_string(this._ch), this.eatWhitespace(!0), this._input.peek() !== "/" && this._output.add_new_line()) : (this.print_string(this._ch), this.eatWhitespace(!0), this._output.space_before_token = !0);
       else if (this._ch === "(")
         if (this._input.lookBack("url"))
-          this.print_string(this._ch), this.eatWhitespace(), O++, this.indent(), this._ch = this._input.next(), this._ch === ")" || this._ch === '"' || this._ch === "'" ? this._input.back() : this._ch && (this.print_string(this._ch + this.eatString(")")), O && (O--, this.outdent()));
+          this.print_string(this._ch), this.eatWhitespace(), x++, this.indent(), this._ch = this._input.next(), this._ch === ")" || this._ch === '"' || this._ch === "'" ? this._input.back() : this._ch && (this.print_string(this._ch + this.eatString(")")), x && (x--, this.outdent()));
         else {
           var M = !1;
-          this._input.lookBack("with") && (M = !0), this.preserveSingleSpace(g || M), this.print_string(this._ch), c && S === "$" && this._options.selector_separator_newline ? (this._output.add_new_line(), A = !0) : (this.eatWhitespace(), O++, this.indent());
+          this._input.lookBack("with") && (M = !0), this.preserveSingleSpace(h || M), this.print_string(this._ch), c && S === "$" && this._options.selector_separator_newline ? (this._output.add_new_line(), R = !0) : (this.eatWhitespace(), x++, this.indent());
         }
       else if (this._ch === ")")
-        O && (O--, this.outdent()), A && this._input.peek() === ";" && this._options.selector_separator_newline && (A = !1, this.outdent(), this._output.add_new_line()), this.print_string(this._ch);
+        x && (x--, this.outdent()), R && this._input.peek() === ";" && this._options.selector_separator_newline && (R = !1, this.outdent(), this._output.add_new_line()), this.print_string(this._ch);
       else if (this._ch === ",")
-        this.print_string(this._ch), this.eatWhitespace(!0), this._options.selector_separator_newline && (!c || A) && O === 0 && !R ? this._output.add_new_line() : this._output.space_before_token = !0;
-      else if ((this._ch === ">" || this._ch === "+" || this._ch === "~") && !c && O === 0)
+        this.print_string(this._ch), this.eatWhitespace(!0), this._options.selector_separator_newline && (!c || R) && x === 0 && !A ? this._output.add_new_line() : this._output.space_before_token = !0;
+      else if ((this._ch === ">" || this._ch === "+" || this._ch === "~") && !c && x === 0)
         this._options.space_around_combinator ? (this._output.space_before_token = !0, this.print_string(this._ch), this._output.space_before_token = !0) : (this.print_string(this._ch), this.eatWhitespace(), this._ch && o.test(this._ch) && (this._ch = ""));
       else if (this._ch === "]")
         this.print_string(this._ch);
       else if (this._ch === "[")
-        this.preserveSingleSpace(g), this.print_string(this._ch);
+        this.preserveSingleSpace(h), this.print_string(this._ch);
       else if (this._ch === "=")
         this.eatWhitespace(), this.print_string("="), o.test(this._ch) && (this._ch = "");
       else if (this._ch === "!" && !this._input.lookBack("\\"))
         this._output.space_before_token = !0, this.print_string(this._ch);
       else {
         var T = S === '"' || S === "'";
-        this.preserveSingleSpace(T || g), this.print_string(this._ch), !this._output.just_added_newline() && this._input.peek() === `
+        this.preserveSingleSpace(T || h), this.print_string(this._ch), !this._output.just_added_newline() && this._input.peek() === `
 ` && v && this._output.add_new_line();
       }
     var I = this._output.get_code(w);
     return I;
-  }, hn.Beautifier = p, hn;
+  }, hn.Beautifier = g, hn;
 }
 var Ji;
 function uc() {
   if (Ji) return Mt.exports;
   Ji = 1;
-  var s = _c().Beautifier, t = ra().Options;
-  function n(e, i) {
+  var s = _c().Beautifier, n = ra().Options;
+  function t(e, i) {
     var a = new s(e, i);
     return a.beautify();
   }
-  return Mt.exports = n, Mt.exports.defaultOptions = function() {
-    return new t();
+  return Mt.exports = t, Mt.exports.defaultOptions = function() {
+    return new n();
   }, Mt.exports;
 }
 var Lt = { exports: {} }, bn = {}, mn = {}, es;
@@ -3290,8 +3308,8 @@ function oa() {
   if (es) return mn;
   es = 1;
   var s = pi().Options;
-  function t(n) {
-    s.call(this, n, "html"), this.templating.length === 1 && this.templating[0] === "auto" && (this.templating = ["django", "erb", "handlebars", "php"]), this.indent_inner_html = this._get_boolean("indent_inner_html"), this.indent_body_inner_html = this._get_boolean("indent_body_inner_html", !0), this.indent_head_inner_html = this._get_boolean("indent_head_inner_html", !0), this.indent_handlebars = this._get_boolean("indent_handlebars", !0), this.wrap_attributes = this._get_selection(
+  function n(t) {
+    s.call(this, t, "html"), this.templating.length === 1 && this.templating[0] === "auto" && (this.templating = ["django", "erb", "handlebars", "php"]), this.indent_inner_html = this._get_boolean("indent_inner_html"), this.indent_body_inner_html = this._get_boolean("indent_body_inner_html", !0), this.indent_head_inner_html = this._get_boolean("indent_head_inner_html", !0), this.indent_handlebars = this._get_boolean("indent_handlebars", !0), this.wrap_attributes = this._get_selection(
       "wrap_attributes",
       ["auto", "force", "force-aligned", "force-expand-multiline", "aligned-multiple", "preserve", "preserve-aligned"]
     ), this.wrap_attributes_min_attrs = this._get_number("wrap_attributes_min_attrs", 2), this.wrap_attributes_indent_size = this._get_number("wrap_attributes_indent_size", this.indent_size), this.extra_liners = this._get_array("extra_liners", ["head", "body", "/html"]), this.inline = this._get_array("inline", [
@@ -3388,13 +3406,13 @@ function oa() {
       "textarea"
     ]), this.unformatted_content_delimiter = this._get_characters("unformatted_content_delimiter"), this.indent_scripts = this._get_selection("indent_scripts", ["normal", "keep", "separate"]);
   }
-  return t.prototype = new s(), mn.Options = t, mn;
+  return n.prototype = new s(), mn.Options = n, mn;
 }
 var Dt = {}, ts;
 function ns() {
   if (ts) return Dt;
   ts = 1;
-  var s = Pt().Tokenizer, t = Pt().TOKEN, n = hi().Directives, e = aa().TemplatablePattern, i = zt().Pattern, a = {
+  var s = Pt().Tokenizer, n = Pt().TOKEN, t = hi().Directives, e = aa().TemplatablePattern, i = zt().Pattern, a = {
     TAG_OPEN: "TK_TAG_OPEN",
     TAG_CLOSE: "TK_TAG_CLOSE",
     CONTROL_FLOW_OPEN: "TK_CONTROL_FLOW_OPEN",
@@ -3405,12 +3423,12 @@ function ns() {
     COMMENT: "TK_COMMENT",
     TEXT: "TK_TEXT",
     UNKNOWN: "TK_UNKNOWN",
-    START: t.START,
-    RAW: t.RAW,
-    EOF: t.EOF
-  }, l = new n(/<\!--/, /-->/), o = function(_, h) {
-    s.call(this, _, h), this._current_tag_name = "";
-    var u = new e(this._input).read_options(this._options), p = new i(this._input);
+    START: n.START,
+    RAW: n.RAW,
+    EOF: n.EOF
+  }, l = new t(/<\!--/, /-->/), o = function(_, p) {
+    s.call(this, _, p), this._current_tag_name = "";
+    var u = new e(this._input).read_options(this._options), g = new i(this._input);
     if (this.__patterns = {
       word: u.until(/[\n\r\t <]/),
       word_control_flow_close_excluded: u.until(/[\n\r\t <}]/),
@@ -3418,119 +3436,119 @@ function ns() {
       double_quote: u.until_after(/"/),
       attribute: u.until(/[\n\r\t =>]|\/>/),
       element_name: u.until(/[\n\r\t >\/]/),
-      angular_control_flow_start: p.matching(/\@[a-zA-Z]+[^({]*[({]/),
-      handlebars_comment: p.starting_with(/{{!--/).until_after(/--}}/),
-      handlebars: p.starting_with(/{{/).until_after(/}}/),
-      handlebars_open: p.until(/[\n\r\t }]/),
-      handlebars_raw_close: p.until(/}}/),
-      comment: p.starting_with(/<!--/).until_after(/-->/),
-      cdata: p.starting_with(/<!\[CDATA\[/).until_after(/]]>/),
+      angular_control_flow_start: g.matching(/\@[a-zA-Z]+[^({]*[({]/),
+      handlebars_comment: g.starting_with(/{{!--/).until_after(/--}}/),
+      handlebars: g.starting_with(/{{/).until_after(/}}/),
+      handlebars_open: g.until(/[\n\r\t }]/),
+      handlebars_raw_close: g.until(/}}/),
+      comment: g.starting_with(/<!--/).until_after(/-->/),
+      cdata: g.starting_with(/<!\[CDATA\[/).until_after(/]]>/),
       // https://en.wikipedia.org/wiki/Conditional_comment
-      conditional_comment: p.starting_with(/<!\[/).until_after(/]>/),
-      processing: p.starting_with(/<\?/).until_after(/\?>/)
+      conditional_comment: g.starting_with(/<!\[/).until_after(/]>/),
+      processing: g.starting_with(/<\?/).until_after(/\?>/)
     }, this._options.indent_handlebars && (this.__patterns.word = this.__patterns.word.exclude("handlebars"), this.__patterns.word_control_flow_close_excluded = this.__patterns.word_control_flow_close_excluded.exclude("handlebars")), this._unformatted_content_delimiter = null, this._options.unformatted_content_delimiter) {
       var m = this._input.get_literal_regexp(this._options.unformatted_content_delimiter);
-      this.__patterns.unformatted_content_delimiter = p.matching(m).until_after(m);
+      this.__patterns.unformatted_content_delimiter = g.matching(m).until_after(m);
     }
   };
   return o.prototype = new s(), o.prototype._is_comment = function(_) {
     return !1;
   }, o.prototype._is_opening = function(_) {
     return _.type === a.TAG_OPEN || _.type === a.CONTROL_FLOW_OPEN;
-  }, o.prototype._is_closing = function(_, h) {
-    return _.type === a.TAG_CLOSE && h && ((_.text === ">" || _.text === "/>") && h.text[0] === "<" || _.text === "}}" && h.text[0] === "{" && h.text[1] === "{") || _.type === a.CONTROL_FLOW_CLOSE && _.text === "}" && h.text.endsWith("{");
+  }, o.prototype._is_closing = function(_, p) {
+    return _.type === a.TAG_CLOSE && p && ((_.text === ">" || _.text === "/>") && p.text[0] === "<" || _.text === "}}" && p.text[0] === "{" && p.text[1] === "{") || _.type === a.CONTROL_FLOW_CLOSE && _.text === "}" && p.text.endsWith("{");
   }, o.prototype._reset = function() {
     this._current_tag_name = "";
-  }, o.prototype._get_next_token = function(_, h) {
+  }, o.prototype._get_next_token = function(_, p) {
     var u = null;
     this._readWhitespace();
-    var p = this._input.peek();
-    return p === null ? this._create_token(a.EOF, "") : (u = u || this._read_open_handlebars(p, h), u = u || this._read_attribute(p, _, h), u = u || this._read_close(p, h), u = u || this._read_script_and_style(p, _), u = u || this._read_control_flows(p, h), u = u || this._read_raw_content(p, _, h), u = u || this._read_content_word(p, h), u = u || this._read_comment_or_cdata(p), u = u || this._read_processing(p), u = u || this._read_open(p, h), u = u || this._create_token(a.UNKNOWN, this._input.next()), u);
+    var g = this._input.peek();
+    return g === null ? this._create_token(a.EOF, "") : (u = u || this._read_open_handlebars(g, p), u = u || this._read_attribute(g, _, p), u = u || this._read_close(g, p), u = u || this._read_script_and_style(g, _), u = u || this._read_control_flows(g, p), u = u || this._read_raw_content(g, _, p), u = u || this._read_content_word(g, p), u = u || this._read_comment_or_cdata(g), u = u || this._read_processing(g), u = u || this._read_open(g, p), u = u || this._create_token(a.UNKNOWN, this._input.next()), u);
   }, o.prototype._read_comment_or_cdata = function(_) {
-    var h = null, u = null, p = null;
+    var p = null, u = null, g = null;
     if (_ === "<") {
       var m = this._input.peek(1);
-      m === "!" && (u = this.__patterns.comment.read(), u ? (p = l.get_directives(u), p && p.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (h = this._create_token(a.COMMENT, u), h.directives = p);
+      m === "!" && (u = this.__patterns.comment.read(), u ? (g = l.get_directives(u), g && g.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
     }
-    return h;
+    return p;
   }, o.prototype._read_processing = function(_) {
-    var h = null, u = null, p = null;
+    var p = null, u = null, g = null;
     if (_ === "<") {
       var m = this._input.peek(1);
-      (m === "!" || m === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (h = this._create_token(a.COMMENT, u), h.directives = p);
+      (m === "!" || m === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
     }
-    return h;
-  }, o.prototype._read_open = function(_, h) {
-    var u = null, p = null;
-    return (!h || h.type === a.CONTROL_FLOW_OPEN) && _ === "<" && (u = this._input.next(), this._input.peek() === "/" && (u += this._input.next()), u += this.__patterns.element_name.read(), p = this._create_token(a.TAG_OPEN, u)), p;
-  }, o.prototype._read_open_handlebars = function(_, h) {
-    var u = null, p = null;
-    return (!h || h.type === a.CONTROL_FLOW_OPEN) && (this._options.templating.includes("angular") || this._options.indent_handlebars) && _ === "{" && this._input.peek(1) === "{" && (this._options.indent_handlebars && this._input.peek(2) === "!" ? (u = this.__patterns.handlebars_comment.read(), u = u || this.__patterns.handlebars.read(), p = this._create_token(a.COMMENT, u)) : (u = this.__patterns.handlebars_open.read(), p = this._create_token(a.TAG_OPEN, u))), p;
-  }, o.prototype._read_control_flows = function(_, h) {
-    var u = "", p = null;
+    return p;
+  }, o.prototype._read_open = function(_, p) {
+    var u = null, g = null;
+    return (!p || p.type === a.CONTROL_FLOW_OPEN) && _ === "<" && (u = this._input.next(), this._input.peek() === "/" && (u += this._input.next()), u += this.__patterns.element_name.read(), g = this._create_token(a.TAG_OPEN, u)), g;
+  }, o.prototype._read_open_handlebars = function(_, p) {
+    var u = null, g = null;
+    return (!p || p.type === a.CONTROL_FLOW_OPEN) && (this._options.templating.includes("angular") || this._options.indent_handlebars) && _ === "{" && this._input.peek(1) === "{" && (this._options.indent_handlebars && this._input.peek(2) === "!" ? (u = this.__patterns.handlebars_comment.read(), u = u || this.__patterns.handlebars.read(), g = this._create_token(a.COMMENT, u)) : (u = this.__patterns.handlebars_open.read(), g = this._create_token(a.TAG_OPEN, u))), g;
+  }, o.prototype._read_control_flows = function(_, p) {
+    var u = "", g = null;
     if (!this._options.templating.includes("angular"))
-      return p;
+      return g;
     if (_ === "@") {
       if (u = this.__patterns.angular_control_flow_start.read(), u === "")
-        return p;
+        return g;
       for (var m = u.endsWith("(") ? 1 : 0, w = 0; !(u.endsWith("{") && m === w); ) {
-        var x = this._input.next();
-        if (x === null)
+        var N = this._input.next();
+        if (N === null)
           break;
-        x === "(" ? m++ : x === ")" && w++, u += x;
+        N === "(" ? m++ : N === ")" && w++, u += N;
       }
-      p = this._create_token(a.CONTROL_FLOW_OPEN, u);
-    } else _ === "}" && h && h.type === a.CONTROL_FLOW_OPEN && (u = this._input.next(), p = this._create_token(a.CONTROL_FLOW_CLOSE, u));
-    return p;
-  }, o.prototype._read_close = function(_, h) {
-    var u = null, p = null;
-    return h && h.type === a.TAG_OPEN && (h.text[0] === "<" && (_ === ">" || _ === "/" && this._input.peek(1) === ">") ? (u = this._input.next(), _ === "/" && (u += this._input.next()), p = this._create_token(a.TAG_CLOSE, u)) : h.text[0] === "{" && _ === "}" && this._input.peek(1) === "}" && (this._input.next(), this._input.next(), p = this._create_token(a.TAG_CLOSE, "}}"))), p;
-  }, o.prototype._read_attribute = function(_, h, u) {
-    var p = null, m = "";
+      g = this._create_token(a.CONTROL_FLOW_OPEN, u);
+    } else _ === "}" && p && p.type === a.CONTROL_FLOW_OPEN && (u = this._input.next(), g = this._create_token(a.CONTROL_FLOW_CLOSE, u));
+    return g;
+  }, o.prototype._read_close = function(_, p) {
+    var u = null, g = null;
+    return p && p.type === a.TAG_OPEN && (p.text[0] === "<" && (_ === ">" || _ === "/" && this._input.peek(1) === ">") ? (u = this._input.next(), _ === "/" && (u += this._input.next()), g = this._create_token(a.TAG_CLOSE, u)) : p.text[0] === "{" && _ === "}" && this._input.peek(1) === "}" && (this._input.next(), this._input.next(), g = this._create_token(a.TAG_CLOSE, "}}"))), g;
+  }, o.prototype._read_attribute = function(_, p, u) {
+    var g = null, m = "";
     if (u && u.text[0] === "<")
       if (_ === "=")
-        p = this._create_token(a.EQUALS, this._input.next());
+        g = this._create_token(a.EQUALS, this._input.next());
       else if (_ === '"' || _ === "'") {
         var w = this._input.next();
-        _ === '"' ? w += this.__patterns.double_quote.read() : w += this.__patterns.single_quote.read(), p = this._create_token(a.VALUE, w);
+        _ === '"' ? w += this.__patterns.double_quote.read() : w += this.__patterns.single_quote.read(), g = this._create_token(a.VALUE, w);
       } else
-        m = this.__patterns.attribute.read(), m && (h.type === a.EQUALS ? p = this._create_token(a.VALUE, m) : p = this._create_token(a.ATTRIBUTE, m));
-    return p;
+        m = this.__patterns.attribute.read(), m && (p.type === a.EQUALS ? g = this._create_token(a.VALUE, m) : g = this._create_token(a.ATTRIBUTE, m));
+    return g;
   }, o.prototype._is_content_unformatted = function(_) {
     return this._options.void_elements.indexOf(_) === -1 && (this._options.content_unformatted.indexOf(_) !== -1 || this._options.unformatted.indexOf(_) !== -1);
-  }, o.prototype._read_raw_content = function(_, h, u) {
-    var p = "";
+  }, o.prototype._read_raw_content = function(_, p, u) {
+    var g = "";
     if (u && u.text[0] === "{")
-      p = this.__patterns.handlebars_raw_close.read();
-    else if (h.type === a.TAG_CLOSE && h.opened.text[0] === "<" && h.text[0] !== "/") {
-      var m = h.opened.text.substr(1).toLowerCase();
-      this._is_content_unformatted(m) && (p = this._input.readUntil(new RegExp("</" + m + "[\\n\\r\\t ]*?>", "ig")));
+      g = this.__patterns.handlebars_raw_close.read();
+    else if (p.type === a.TAG_CLOSE && p.opened.text[0] === "<" && p.text[0] !== "/") {
+      var m = p.opened.text.substr(1).toLowerCase();
+      this._is_content_unformatted(m) && (g = this._input.readUntil(new RegExp("</" + m + "[\\n\\r\\t ]*?>", "ig")));
     }
-    return p ? this._create_token(a.TEXT, p) : null;
-  }, o.prototype._read_script_and_style = function(_, h) {
-    if (h.type === a.TAG_CLOSE && h.opened.text[0] === "<" && h.text[0] !== "/") {
-      var u = h.opened.text.substr(1).toLowerCase();
+    return g ? this._create_token(a.TEXT, g) : null;
+  }, o.prototype._read_script_and_style = function(_, p) {
+    if (p.type === a.TAG_CLOSE && p.opened.text[0] === "<" && p.text[0] !== "/") {
+      var u = p.opened.text.substr(1).toLowerCase();
       if (u === "script" || u === "style") {
-        var p = this._read_comment_or_cdata(_);
-        if (p)
-          return p.type = a.TEXT, p;
+        var g = this._read_comment_or_cdata(_);
+        if (g)
+          return g.type = a.TEXT, g;
         var m = this._input.readUntil(new RegExp("</" + u + "[\\n\\r\\t ]*?>", "ig"));
         if (m)
           return this._create_token(a.TEXT, m);
       }
     }
     return null;
-  }, o.prototype._read_content_word = function(_, h) {
+  }, o.prototype._read_content_word = function(_, p) {
     var u = "";
-    return this._options.unformatted_content_delimiter && _ === this._options.unformatted_content_delimiter[0] && (u = this.__patterns.unformatted_content_delimiter.read()), u || (u = h && h.type === a.CONTROL_FLOW_OPEN ? this.__patterns.word_control_flow_close_excluded.read() : this.__patterns.word.read()), u ? this._create_token(a.TEXT, u) : null;
+    return this._options.unformatted_content_delimiter && _ === this._options.unformatted_content_delimiter[0] && (u = this.__patterns.unformatted_content_delimiter.read()), u || (u = p && p.type === a.CONTROL_FLOW_OPEN ? this.__patterns.word_control_flow_close_excluded.read() : this.__patterns.word.read()), u ? this._create_token(a.TEXT, u) : null;
   }, Dt.Tokenizer = o, Dt.TOKEN = a, Dt;
 }
 var is;
 function dc() {
   if (is) return bn;
   is = 1;
-  var s = oa().Options, t = di().Output, n = ns().Tokenizer, e = ns().TOKEN, i = /\r\n|[\r\n]/, a = /\r\n|[\r\n]/g, l = function(d, c) {
-    this.indent_level = 0, this.alignment_size = 0, this.max_preserve_newlines = d.max_preserve_newlines, this.preserve_newlines = d.preserve_newlines, this._output = new t(d, c);
+  var s = oa().Options, n = di().Output, t = ns().Tokenizer, e = ns().TOKEN, i = /\r\n|[\r\n]/, a = /\r\n|[\r\n]/g, l = function(d, c) {
+    this.indent_level = 0, this.alignment_size = 0, this.max_preserve_newlines = d.max_preserve_newlines, this.preserve_newlines = d.preserve_newlines, this._output = new n(d, c);
   };
   l.prototype.current_line_has_match = function(d) {
     return this._output.current_line.has_match(d);
@@ -3571,27 +3589,27 @@ function dc() {
     }
     return c;
   }, _ = function(d, c) {
-    var f = null, R = null;
-    return c.closed ? (d === "script" ? f = "text/javascript" : d === "style" && (f = "text/css"), f = o(c) || f, f.search("text/css") > -1 ? R = "css" : f.search(/module|((text|application|dojo)\/(x-)?(javascript|ecmascript|jscript|livescript|(ld\+)?json|method|aspect))/) > -1 ? R = "javascript" : f.search(/(text|application|dojo)\/(x-)?(html)/) > -1 ? R = "html" : f.search(/test\/null/) > -1 && (R = "null"), R) : null;
+    var f = null, A = null;
+    return c.closed ? (d === "script" ? f = "text/javascript" : d === "style" && (f = "text/css"), f = o(c) || f, f.search("text/css") > -1 ? A = "css" : f.search(/module|((text|application|dojo)\/(x-)?(javascript|ecmascript|jscript|livescript|(ld\+)?json|method|aspect))/) > -1 ? A = "javascript" : f.search(/(text|application|dojo)\/(x-)?(html)/) > -1 ? A = "html" : f.search(/test\/null/) > -1 && (A = "null"), A) : null;
   };
-  function h(d, c) {
+  function p(d, c) {
     return c.indexOf(d) !== -1;
   }
   function u(d, c, f) {
     this.parent = d || null, this.tag = c ? c.tag_name : "", this.indent_level = f || 0, this.parser_token = c || null;
   }
-  function p(d) {
+  function g(d) {
     this._printer = d, this._current_frame = null;
   }
-  p.prototype.get_parser_token = function() {
+  g.prototype.get_parser_token = function() {
     return this._current_frame ? this._current_frame.parser_token : null;
-  }, p.prototype.record_tag = function(d) {
+  }, g.prototype.record_tag = function(d) {
     var c = new u(this._current_frame, d, this._printer.indent_level);
     this._current_frame = c;
-  }, p.prototype._try_pop_frame = function(d) {
+  }, g.prototype._try_pop_frame = function(d) {
     var c = null;
     return d && (c = d.parser_token, this._printer.indent_level = d.indent_level, this._current_frame = d.parent), c;
-  }, p.prototype._get_frame = function(d, c) {
+  }, g.prototype._get_frame = function(d, c) {
     for (var f = this._current_frame; f && d.indexOf(f.tag) === -1; ) {
       if (c && c.indexOf(f.tag) !== -1) {
         f = null;
@@ -3600,17 +3618,17 @@ function dc() {
       f = f.parent;
     }
     return f;
-  }, p.prototype.try_pop = function(d, c) {
+  }, g.prototype.try_pop = function(d, c) {
     var f = this._get_frame([d], c);
     return this._try_pop_frame(f);
-  }, p.prototype.indent_to_tag = function(d) {
+  }, g.prototype.indent_to_tag = function(d) {
     var c = this._get_frame(d);
     c && (this._printer.indent_level = c.indent_level);
   };
-  function m(d, c, f, R) {
-    this._source_text = d || "", c = c || {}, this._js_beautify = f, this._css_beautify = R, this._tag_stack = null;
-    var A = new s(c, "html");
-    this._options = A, this._is_wrap_attributes_force = this._options.wrap_attributes.substr(0, 5) === "force", this._is_wrap_attributes_force_expand_multiline = this._options.wrap_attributes === "force-expand-multiline", this._is_wrap_attributes_force_aligned = this._options.wrap_attributes === "force-aligned", this._is_wrap_attributes_aligned_multiple = this._options.wrap_attributes === "aligned-multiple", this._is_wrap_attributes_preserve = this._options.wrap_attributes.substr(0, 8) === "preserve", this._is_wrap_attributes_preserve_aligned = this._options.wrap_attributes === "preserve-aligned";
+  function m(d, c, f, A) {
+    this._source_text = d || "", c = c || {}, this._js_beautify = f, this._css_beautify = A, this._tag_stack = null;
+    var R = new s(c, "html");
+    this._options = R, this._is_wrap_attributes_force = this._options.wrap_attributes.substr(0, 5) === "force", this._is_wrap_attributes_force_expand_multiline = this._options.wrap_attributes === "force-expand-multiline", this._is_wrap_attributes_force_aligned = this._options.wrap_attributes === "force-aligned", this._is_wrap_attributes_aligned_multiple = this._options.wrap_attributes === "aligned-multiple", this._is_wrap_attributes_preserve = this._options.wrap_attributes.substr(0, 8) === "preserve", this._is_wrap_attributes_preserve_aligned = this._options.wrap_attributes === "preserve-aligned";
   }
   m.prototype.beautify = function() {
     if (this._options.disabled)
@@ -3619,13 +3637,13 @@ function dc() {
     this._options.eol === "auto" && (c = `
 `, d && i.test(d) && (c = d.match(i)[0])), d = d.replace(a, `
 `);
-    var f = d.match(/^[\t ]*/)[0], R = {
+    var f = d.match(/^[\t ]*/)[0], A = {
       text: "",
       type: ""
-    }, A = new w(this._options), D = new l(this._options, f), v = new n(d, this._options).tokenize();
-    this._tag_stack = new p(D);
-    for (var E = null, g = v.next(); g.type !== e.EOF; )
-      g.type === e.TAG_OPEN || g.type === e.COMMENT ? (E = this._handle_tag_open(D, g, A, R, v), A = E) : g.type === e.ATTRIBUTE || g.type === e.EQUALS || g.type === e.VALUE || g.type === e.TEXT && !A.tag_complete ? E = this._handle_inside_tag(D, g, A, R) : g.type === e.TAG_CLOSE ? E = this._handle_tag_close(D, g, A) : g.type === e.TEXT ? E = this._handle_text(D, g, A) : g.type === e.CONTROL_FLOW_OPEN ? E = this._handle_control_flow_open(D, g) : g.type === e.CONTROL_FLOW_CLOSE ? E = this._handle_control_flow_close(D, g) : D.add_raw_token(g), R = E, g = v.next();
+    }, R = new w(this._options), D = new l(this._options, f), v = new t(d, this._options).tokenize();
+    this._tag_stack = new g(D);
+    for (var E = null, h = v.next(); h.type !== e.EOF; )
+      h.type === e.TAG_OPEN || h.type === e.COMMENT ? (E = this._handle_tag_open(D, h, R, A, v), R = E) : h.type === e.ATTRIBUTE || h.type === e.EQUALS || h.type === e.VALUE || h.type === e.TEXT && !R.tag_complete ? E = this._handle_inside_tag(D, h, R, A) : h.type === e.TAG_CLOSE ? E = this._handle_tag_close(D, h, R) : h.type === e.TEXT ? E = this._handle_text(D, h, R) : h.type === e.CONTROL_FLOW_OPEN ? E = this._handle_control_flow_open(D, h) : h.type === e.CONTROL_FLOW_CLOSE ? E = this._handle_control_flow_close(D, h) : D.add_raw_token(h), A = E, h = v.next();
     var S = D._output.get_code(c);
     return S;
   }, m.prototype._handle_control_flow_open = function(d, c) {
@@ -3641,68 +3659,68 @@ function dc() {
     };
     return d.deindent(), c.newlines ? d.print_preserved_newlines(c) : d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), d.print_token(c), f;
   }, m.prototype._handle_tag_close = function(d, c, f) {
-    var R = {
+    var A = {
       text: c.text,
       type: c.type
     };
-    return d.alignment_size = 0, f.tag_complete = !0, d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : (f.tag_start_char === "<" && (d.set_space_before_token(c.text[0] === "/", !0), this._is_wrap_attributes_force_expand_multiline && f.has_wrapped_attrs && d.print_newline(!1)), d.print_token(c)), f.indent_content && !(f.is_unformatted || f.is_content_unformatted) && (d.indent(), f.indent_content = !1), !f.is_inline_element && !(f.is_unformatted || f.is_content_unformatted) && d.set_wrap_point(), R;
-  }, m.prototype._handle_inside_tag = function(d, c, f, R) {
-    var A = f.has_wrapped_attrs, D = {
+    return d.alignment_size = 0, f.tag_complete = !0, d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : (f.tag_start_char === "<" && (d.set_space_before_token(c.text[0] === "/", !0), this._is_wrap_attributes_force_expand_multiline && f.has_wrapped_attrs && d.print_newline(!1)), d.print_token(c)), f.indent_content && !(f.is_unformatted || f.is_content_unformatted) && (d.indent(), f.indent_content = !1), !f.is_inline_element && !(f.is_unformatted || f.is_content_unformatted) && d.set_wrap_point(), A;
+  }, m.prototype._handle_inside_tag = function(d, c, f, A) {
+    var R = f.has_wrapped_attrs, D = {
       text: c.text,
       type: c.type
     };
-    return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : f.tag_start_char === "{" && c.type === e.TEXT ? d.print_preserved_newlines(c) ? (c.newlines = 0, d.add_raw_token(c)) : d.print_token(c) : (c.type === e.ATTRIBUTE ? d.set_space_before_token(!0) : (c.type === e.EQUALS || c.type === e.VALUE && c.previous.type === e.EQUALS) && d.set_space_before_token(!1), c.type === e.ATTRIBUTE && f.tag_start_char === "<" && ((this._is_wrap_attributes_preserve || this._is_wrap_attributes_preserve_aligned) && (d.traverse_whitespace(c), A = A || c.newlines !== 0), this._is_wrap_attributes_force && f.attr_count >= this._options.wrap_attributes_min_attrs && (R.type !== e.TAG_OPEN || // ie. second attribute and beyond
-    this._is_wrap_attributes_force_expand_multiline) && (d.print_newline(!1), A = !0)), d.print_token(c), A = A || d.previous_token_wrapped(), f.has_wrapped_attrs = A), D;
+    return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : f.tag_start_char === "{" && c.type === e.TEXT ? d.print_preserved_newlines(c) ? (c.newlines = 0, d.add_raw_token(c)) : d.print_token(c) : (c.type === e.ATTRIBUTE ? d.set_space_before_token(!0) : (c.type === e.EQUALS || c.type === e.VALUE && c.previous.type === e.EQUALS) && d.set_space_before_token(!1), c.type === e.ATTRIBUTE && f.tag_start_char === "<" && ((this._is_wrap_attributes_preserve || this._is_wrap_attributes_preserve_aligned) && (d.traverse_whitespace(c), R = R || c.newlines !== 0), this._is_wrap_attributes_force && f.attr_count >= this._options.wrap_attributes_min_attrs && (A.type !== e.TAG_OPEN || // ie. second attribute and beyond
+    this._is_wrap_attributes_force_expand_multiline) && (d.print_newline(!1), R = !0)), d.print_token(c), R = R || d.previous_token_wrapped(), f.has_wrapped_attrs = R), D;
   }, m.prototype._handle_text = function(d, c, f) {
-    var R = {
+    var A = {
       text: c.text,
       type: "TK_CONTENT"
     };
-    return f.custom_beautifier_name ? this._print_custom_beatifier_text(d, c, f) : f.is_unformatted || f.is_content_unformatted ? d.add_raw_token(c) : (d.traverse_whitespace(c), d.print_token(c)), R;
+    return f.custom_beautifier_name ? this._print_custom_beatifier_text(d, c, f) : f.is_unformatted || f.is_content_unformatted ? d.add_raw_token(c) : (d.traverse_whitespace(c), d.print_token(c)), A;
   }, m.prototype._print_custom_beatifier_text = function(d, c, f) {
-    var R = this;
+    var A = this;
     if (c.text !== "") {
-      var A = c.text, D, v = 1, E = "", g = "";
+      var R = c.text, D, v = 1, E = "", h = "";
       f.custom_beautifier_name === "javascript" && typeof this._js_beautify == "function" ? D = this._js_beautify : f.custom_beautifier_name === "css" && typeof this._css_beautify == "function" ? D = this._css_beautify : f.custom_beautifier_name === "html" && (D = function(G, X) {
-        var M = new m(G, X, R._js_beautify, R._css_beautify);
+        var M = new m(G, X, A._js_beautify, A._css_beautify);
         return M.beautify();
       }), this._options.indent_scripts === "keep" ? v = 0 : this._options.indent_scripts === "separate" && (v = -d.indent_level);
       var S = d.get_full_indent(v);
-      if (A = A.replace(/\n[ \t]*$/, ""), f.custom_beautifier_name !== "html" && A[0] === "<" && A.match(/^(<!--|<!\[CDATA\[)/)) {
-        var r = /^(<!--[^\n]*|<!\[CDATA\[)(\n?)([ \t\n]*)([\s\S]*)(-->|]]>)$/.exec(A);
+      if (R = R.replace(/\n[ \t]*$/, ""), f.custom_beautifier_name !== "html" && R[0] === "<" && R.match(/^(<!--|<!\[CDATA\[)/)) {
+        var r = /^(<!--[^\n]*|<!\[CDATA\[)(\n?)([ \t\n]*)([\s\S]*)(-->|]]>)$/.exec(R);
         if (!r) {
           d.add_raw_token(c);
           return;
         }
         E = S + r[1] + `
-`, A = r[4], r[5] && (g = S + r[5]), A = A.replace(/\n[ \t]*$/, ""), (r[2] || r[3].indexOf(`
+`, R = r[4], r[5] && (h = S + r[5]), R = R.replace(/\n[ \t]*$/, ""), (r[2] || r[3].indexOf(`
 `) !== -1) && (r = r[3].match(/[ \t]+$/), r && (c.whitespace_before = r[0]));
       }
-      if (A)
+      if (R)
         if (D) {
           var y = function() {
             this.eol = `
 `;
           };
           y.prototype = this._options.raw_options;
-          var N = new y();
-          A = D(S + A, N);
+          var O = new y();
+          R = D(S + R, O);
         } else {
           var F = c.whitespace_before;
-          F && (A = A.replace(new RegExp(`
+          F && (R = R.replace(new RegExp(`
 (` + F + ")?", "g"), `
-`)), A = S + A.replace(/\n/g, `
+`)), R = S + R.replace(/\n/g, `
 ` + S);
         }
-      E && (A ? A = E + A + `
-` + g : A = E + g), d.print_newline(!1), A && (c.text = A, c.whitespace_before = "", c.newlines = 0, d.add_raw_token(c), d.print_newline(!0));
+      E && (R ? R = E + R + `
+` + h : R = E + h), d.print_newline(!1), R && (c.text = R, c.whitespace_before = "", c.newlines = 0, d.add_raw_token(c), d.print_newline(!0));
     }
-  }, m.prototype._handle_tag_open = function(d, c, f, R, A) {
+  }, m.prototype._handle_tag_open = function(d, c, f, A, R) {
     var D = this._get_tag_open_token(c);
-    if ((f.is_unformatted || f.is_content_unformatted) && !f.is_empty_element && c.type === e.TAG_OPEN && !D.is_start_tag ? (d.add_raw_token(c), D.start_tag_token = this._tag_stack.try_pop(D.tag_name)) : (d.traverse_whitespace(c), this._set_tag_position(d, c, D, f, R), D.is_inline_element || d.set_wrap_point(), d.print_token(c)), D.is_start_tag && this._is_wrap_attributes_force) {
+    if ((f.is_unformatted || f.is_content_unformatted) && !f.is_empty_element && c.type === e.TAG_OPEN && !D.is_start_tag ? (d.add_raw_token(c), D.start_tag_token = this._tag_stack.try_pop(D.tag_name)) : (d.traverse_whitespace(c), this._set_tag_position(d, c, D, f, A), D.is_inline_element || d.set_wrap_point(), d.print_token(c)), D.is_start_tag && this._is_wrap_attributes_force) {
       var v = 0, E;
       do
-        E = A.peek(v), E.type === e.ATTRIBUTE && (D.attr_count += 1), v += 1;
+        E = R.peek(v), E.type === e.ATTRIBUTE && (D.attr_count += 1), v += 1;
       while (E.type !== e.EOF && E.type !== e.TAG_CLOSE);
     }
     return (this._is_wrap_attributes_force_aligned || this._is_wrap_attributes_aligned_multiple || this._is_wrap_attributes_preserve_aligned) && (D.alignment_size = c.text.length + 1), !D.tag_complete && !D.is_unformatted && (d.alignment_size = D.alignment_size), D;
@@ -3711,33 +3729,33 @@ function dc() {
     if (this.parent = c || null, this.text = "", this.type = "TK_TAG_OPEN", this.tag_name = "", this.is_inline_element = !1, this.is_unformatted = !1, this.is_content_unformatted = !1, this.is_empty_element = !1, this.is_start_tag = !1, this.is_end_tag = !1, this.indent_content = !1, this.multiline_content = !1, this.custom_beautifier_name = null, this.start_tag_token = null, this.attr_count = 0, this.has_wrapped_attrs = !1, this.alignment_size = 0, this.tag_complete = !1, this.tag_start_char = "", this.tag_check = "", !f)
       this.tag_complete = !0;
     else {
-      var R;
-      this.tag_start_char = f.text[0], this.text = f.text, this.tag_start_char === "<" ? (R = f.text.match(/^<([^\s>]*)/), this.tag_check = R ? R[1] : "") : (R = f.text.match(/^{{~?(?:[\^]|#\*?)?([^\s}]+)/), this.tag_check = R ? R[1] : "", (f.text.startsWith("{{#>") || f.text.startsWith("{{~#>")) && this.tag_check[0] === ">" && (this.tag_check === ">" && f.next !== null ? this.tag_check = f.next.text.split(" ")[0] : this.tag_check = f.text.split(">")[1])), this.tag_check = this.tag_check.toLowerCase(), f.type === e.COMMENT && (this.tag_complete = !0), this.is_start_tag = this.tag_check.charAt(0) !== "/", this.tag_name = this.is_start_tag ? this.tag_check : this.tag_check.substr(1), this.is_end_tag = !this.is_start_tag || f.closed && f.closed.text === "/>";
-      var A = 2;
-      this.tag_start_char === "{" && this.text.length >= 3 && this.text.charAt(2) === "~" && (A = 3), this.is_end_tag = this.is_end_tag || this.tag_start_char === "{" && (!d.indent_handlebars || this.text.length < 3 || /[^#\^]/.test(this.text.charAt(A)));
+      var A;
+      this.tag_start_char = f.text[0], this.text = f.text, this.tag_start_char === "<" ? (A = f.text.match(/^<([^\s>]*)/), this.tag_check = A ? A[1] : "") : (A = f.text.match(/^{{~?(?:[\^]|#\*?)?([^\s}]+)/), this.tag_check = A ? A[1] : "", (f.text.startsWith("{{#>") || f.text.startsWith("{{~#>")) && this.tag_check[0] === ">" && (this.tag_check === ">" && f.next !== null ? this.tag_check = f.next.text.split(" ")[0] : this.tag_check = f.text.split(">")[1])), this.tag_check = this.tag_check.toLowerCase(), f.type === e.COMMENT && (this.tag_complete = !0), this.is_start_tag = this.tag_check.charAt(0) !== "/", this.tag_name = this.is_start_tag ? this.tag_check : this.tag_check.substr(1), this.is_end_tag = !this.is_start_tag || f.closed && f.closed.text === "/>";
+      var R = 2;
+      this.tag_start_char === "{" && this.text.length >= 3 && this.text.charAt(2) === "~" && (R = 3), this.is_end_tag = this.is_end_tag || this.tag_start_char === "{" && (!d.indent_handlebars || this.text.length < 3 || /[^#\^]/.test(this.text.charAt(R)));
     }
   };
   m.prototype._get_tag_open_token = function(d) {
     var c = new w(this._options, this._tag_stack.get_parser_token(), d);
-    return c.alignment_size = this._options.wrap_attributes_indent_size, c.is_end_tag = c.is_end_tag || h(c.tag_check, this._options.void_elements), c.is_empty_element = c.tag_complete || c.is_start_tag && c.is_end_tag, c.is_unformatted = !c.tag_complete && h(c.tag_check, this._options.unformatted), c.is_content_unformatted = !c.is_empty_element && h(c.tag_check, this._options.content_unformatted), c.is_inline_element = h(c.tag_name, this._options.inline) || this._options.inline_custom_elements && c.tag_name.includes("-") || c.tag_start_char === "{", c;
-  }, m.prototype._set_tag_position = function(d, c, f, R, A) {
-    if (f.is_empty_element || (f.is_end_tag ? f.start_tag_token = this._tag_stack.try_pop(f.tag_name) : (this._do_optional_end_element(f) && (f.is_inline_element || d.print_newline(!1)), this._tag_stack.record_tag(f), (f.tag_name === "script" || f.tag_name === "style") && !(f.is_unformatted || f.is_content_unformatted) && (f.custom_beautifier_name = _(f.tag_check, c)))), h(f.tag_check, this._options.extra_liners) && (d.print_newline(!1), d._output.just_added_blankline() || d.print_newline(!0)), f.is_empty_element) {
+    return c.alignment_size = this._options.wrap_attributes_indent_size, c.is_end_tag = c.is_end_tag || p(c.tag_check, this._options.void_elements), c.is_empty_element = c.tag_complete || c.is_start_tag && c.is_end_tag, c.is_unformatted = !c.tag_complete && p(c.tag_check, this._options.unformatted), c.is_content_unformatted = !c.is_empty_element && p(c.tag_check, this._options.content_unformatted), c.is_inline_element = p(c.tag_name, this._options.inline) || this._options.inline_custom_elements && c.tag_name.includes("-") || c.tag_start_char === "{", c;
+  }, m.prototype._set_tag_position = function(d, c, f, A, R) {
+    if (f.is_empty_element || (f.is_end_tag ? f.start_tag_token = this._tag_stack.try_pop(f.tag_name) : (this._do_optional_end_element(f) && (f.is_inline_element || d.print_newline(!1)), this._tag_stack.record_tag(f), (f.tag_name === "script" || f.tag_name === "style") && !(f.is_unformatted || f.is_content_unformatted) && (f.custom_beautifier_name = _(f.tag_check, c)))), p(f.tag_check, this._options.extra_liners) && (d.print_newline(!1), d._output.just_added_blankline() || d.print_newline(!0)), f.is_empty_element) {
       if (f.tag_start_char === "{" && f.tag_check === "else") {
         this._tag_stack.indent_to_tag(["if", "unless", "each"]), f.indent_content = !0;
         var D = d.current_line_has_match(/{{#if/);
         D || d.print_newline(!1);
       }
-      f.tag_name === "!--" && A.type === e.TAG_CLOSE && R.is_end_tag && f.text.indexOf(`
+      f.tag_name === "!--" && R.type === e.TAG_CLOSE && A.is_end_tag && f.text.indexOf(`
 `) === -1 || (f.is_inline_element || f.is_unformatted || d.print_newline(!1), this._calcluate_parent_multiline(d, f));
     } else if (f.is_end_tag) {
       var v = !1;
-      v = f.start_tag_token && f.start_tag_token.multiline_content, v = v || !f.is_inline_element && !(R.is_inline_element || R.is_unformatted) && !(A.type === e.TAG_CLOSE && f.start_tag_token === R) && A.type !== "TK_CONTENT", (f.is_content_unformatted || f.is_unformatted) && (v = !1), v && d.print_newline(!1);
+      v = f.start_tag_token && f.start_tag_token.multiline_content, v = v || !f.is_inline_element && !(A.is_inline_element || A.is_unformatted) && !(R.type === e.TAG_CLOSE && f.start_tag_token === A) && R.type !== "TK_CONTENT", (f.is_content_unformatted || f.is_unformatted) && (v = !1), v && d.print_newline(!1);
     } else
-      f.indent_content = !f.custom_beautifier_name, f.tag_start_char === "<" && (f.tag_name === "html" ? f.indent_content = this._options.indent_inner_html : f.tag_name === "head" ? f.indent_content = this._options.indent_head_inner_html : f.tag_name === "body" && (f.indent_content = this._options.indent_body_inner_html)), !(f.is_inline_element || f.is_unformatted) && (A.type !== "TK_CONTENT" || f.is_content_unformatted) && d.print_newline(!1), this._calcluate_parent_multiline(d, f);
+      f.indent_content = !f.custom_beautifier_name, f.tag_start_char === "<" && (f.tag_name === "html" ? f.indent_content = this._options.indent_inner_html : f.tag_name === "head" ? f.indent_content = this._options.indent_head_inner_html : f.tag_name === "body" && (f.indent_content = this._options.indent_body_inner_html)), !(f.is_inline_element || f.is_unformatted) && (R.type !== "TK_CONTENT" || f.is_content_unformatted) && d.print_newline(!1), this._calcluate_parent_multiline(d, f);
   }, m.prototype._calcluate_parent_multiline = function(d, c) {
     c.parent && d._output.just_added_newline() && !((c.is_inline_element || c.is_unformatted) && c.parent.is_inline_element) && (c.parent.multiline_content = !0);
   };
-  var x = ["address", "article", "aside", "blockquote", "details", "div", "dl", "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr", "main", "menu", "nav", "ol", "p", "pre", "section", "table", "ul"], O = ["a", "audio", "del", "ins", "map", "noscript", "video"];
+  var N = ["address", "article", "aside", "blockquote", "details", "div", "dl", "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr", "main", "menu", "nav", "ol", "p", "pre", "section", "table", "ul"], x = ["a", "audio", "del", "ins", "map", "noscript", "video"];
   return m.prototype._do_optional_end_element = function(d) {
     var c = null;
     if (!(d.is_empty_element || !d.is_start_tag || !d.parent)) {
@@ -3747,9 +3765,9 @@ function dc() {
         c = c || this._tag_stack.try_pop("li", ["ol", "ul", "menu"]);
       else if (d.tag_name === "dd" || d.tag_name === "dt")
         c = c || this._tag_stack.try_pop("dt", ["dl"]), c = c || this._tag_stack.try_pop("dd", ["dl"]);
-      else if (d.parent.tag_name === "p" && x.indexOf(d.tag_name) !== -1) {
+      else if (d.parent.tag_name === "p" && N.indexOf(d.tag_name) !== -1) {
         var f = d.parent.parent;
-        (!f || O.indexOf(f.tag_name) === -1) && (c = c || this._tag_stack.try_pop("p"));
+        (!f || x.indexOf(f.tag_name) === -1) && (c = c || this._tag_stack.try_pop("p"));
       } else d.tag_name === "rp" || d.tag_name === "rt" ? (c = c || this._tag_stack.try_pop("rt", ["ruby", "rtc"]), c = c || this._tag_stack.try_pop("rp", ["ruby", "rtc"])) : d.tag_name === "optgroup" ? c = c || this._tag_stack.try_pop("optgroup", ["select"]) : d.tag_name === "option" ? c = c || this._tag_stack.try_pop("option", ["select", "datalist", "optgroup"]) : d.tag_name === "colgroup" ? c = c || this._tag_stack.try_pop("caption", ["table"]) : d.tag_name === "thead" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"])) : d.tag_name === "tbody" || d.tag_name === "tfoot" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("thead", ["table"]), c = c || this._tag_stack.try_pop("tbody", ["table"])) : d.tag_name === "tr" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("tr", ["table", "thead", "tbody", "tfoot"])) : (d.tag_name === "th" || d.tag_name === "td") && (c = c || this._tag_stack.try_pop("td", ["table", "thead", "tbody", "tfoot", "tr"]), c = c || this._tag_stack.try_pop("th", ["table", "thead", "tbody", "tfoot", "tr"]));
       return d.parent = this._tag_stack.get_parser_token(), c;
     }
@@ -3759,37 +3777,37 @@ var ss;
 function pc() {
   if (ss) return Lt.exports;
   ss = 1;
-  var s = dc().Beautifier, t = oa().Options;
-  function n(e, i, a, l) {
+  var s = dc().Beautifier, n = oa().Options;
+  function t(e, i, a, l) {
     var o = new s(e, i, a, l);
     return o.beautify();
   }
-  return Lt.exports = n, Lt.exports.defaultOptions = function() {
-    return new t();
+  return Lt.exports = t, Lt.exports.defaultOptions = function() {
+    return new n();
   }, Lt.exports;
 }
 var as;
 function fc() {
-  if (as) return dt;
+  if (as) return pt;
   as = 1;
-  var s = cc(), t = uc(), n = pc();
+  var s = cc(), n = uc(), t = pc();
   function e(i, a, l, o) {
-    return l = l || s, o = o || t, n(i, a, l, o);
+    return l = l || s, o = o || n, t(i, a, l, o);
   }
-  return e.defaultOptions = n.defaultOptions, dt.js = s, dt.css = t, dt.html = e, dt;
+  return e.defaultOptions = t.defaultOptions, pt.js = s, pt.css = n, pt.html = e, pt;
 }
 var rs;
 function hc() {
   return rs || (rs = 1, (function(s) {
-    function t(n, e, i) {
+    function n(t, e, i) {
       var a = function(l, o) {
-        return n.js_beautify(l, o);
+        return t.js_beautify(l, o);
       };
-      return a.js = n.js_beautify, a.css = e.css_beautify, a.html = i.html_beautify, a.js_beautify = n.js_beautify, a.css_beautify = e.css_beautify, a.html_beautify = i.html_beautify, a;
+      return a.js = t.js_beautify, a.css = e.css_beautify, a.html = i.html_beautify, a.js_beautify = t.js_beautify, a.css_beautify = e.css_beautify, a.html_beautify = i.html_beautify, a;
     }
-    (function(n) {
+    (function(t) {
       var e = fc();
-      e.js_beautify = e.js, e.css_beautify = e.css, e.html_beautify = e.html, n.exports = t(e, e, e);
+      e.js_beautify = e.js, e.css_beautify = e.css, e.html_beautify = e.html, t.exports = n(e, e, e);
     })(s);
   })(nn)), nn.exports;
 }
@@ -3807,7 +3825,7 @@ function la() {
       (J === "object" || J === "function") && !Object.isFrozen(U) && s(U);
     }), b;
   }
-  class t {
+  class n {
     /**
      * @param {CompiledMode} mode
      */
@@ -3818,7 +3836,7 @@ function la() {
       this.isMatchIgnored = !0;
     }
   }
-  function n(b) {
+  function t(b) {
     return b.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
   }
   function e(b, ...C) {
@@ -3858,7 +3876,7 @@ function la() {
      *
      * @param {string} text */
     addText(C) {
-      this.buffer += n(C);
+      this.buffer += t(C);
     }
     /**
      * Adds a node open to the output stream (if needed)
@@ -3898,7 +3916,7 @@ function la() {
     const C = { children: [] };
     return Object.assign(C, b), C;
   };
-  class h {
+  class p {
     constructor() {
       this.rootNode = _(), this.stack = [this.rootNode];
     }
@@ -3946,11 +3964,11 @@ function la() {
      */
     static _collapse(C) {
       typeof C != "string" && C.children && (C.children.every((U) => typeof U == "string") ? C.children = [C.children.join("")] : C.children.forEach((U) => {
-        h._collapse(U);
+        p._collapse(U);
       }));
     }
   }
-  class u extends h {
+  class u extends p {
     /**
      * @param {*} options
      */
@@ -3985,44 +4003,44 @@ function la() {
       return this.closeAllNodes(), !0;
     }
   }
-  function p(b) {
+  function g(b) {
     return b ? typeof b == "string" ? b : b.source : null;
   }
   function m(b) {
-    return O("(?=", b, ")");
+    return x("(?=", b, ")");
   }
   function w(b) {
-    return O("(?:", b, ")*");
+    return x("(?:", b, ")*");
   }
-  function x(b) {
-    return O("(?:", b, ")?");
+  function N(b) {
+    return x("(?:", b, ")?");
   }
-  function O(...b) {
-    return b.map((U) => p(U)).join("");
+  function x(...b) {
+    return b.map((U) => g(U)).join("");
   }
   function d(b) {
     const C = b[b.length - 1];
     return typeof C == "object" && C.constructor === Object ? (b.splice(b.length - 1, 1), C) : {};
   }
   function c(...b) {
-    return "(" + (d(b).capture ? "" : "?:") + b.map((J) => p(J)).join("|") + ")";
+    return "(" + (d(b).capture ? "" : "?:") + b.map((J) => g(J)).join("|") + ")";
   }
   function f(b) {
     return new RegExp(b.toString() + "|").exec("").length - 1;
   }
-  function R(b, C) {
+  function A(b, C) {
     const U = b && b.exec(C);
     return U && U.index === 0;
   }
-  const A = /\[(?:[^\\\]]|\\.)*\]|\(\??|\\([1-9][0-9]*)|\\./;
+  const R = /\[(?:[^\\\]]|\\.)*\]|\(\??|\\([1-9][0-9]*)|\\./;
   function D(b, { joinWith: C }) {
     let U = 0;
     return b.map((J) => {
       U += 1;
       const he = U;
-      let ge = p(J), q = "";
+      let ge = g(J), q = "";
       for (; ge.length > 0; ) {
-        const K = A.exec(ge);
+        const K = R.exec(ge);
         if (!K) {
           q += ge;
           break;
@@ -4032,9 +4050,9 @@ function la() {
       return q;
     }).map((J) => `(${J})`).join(C);
   }
-  const v = /\b\B/, E = "[a-zA-Z]\\w*", g = "[a-zA-Z_]\\w*", S = "\\b\\d+(\\.\\d+)?", r = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", y = "\\b(0b[01]+)", N = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", F = (b = {}) => {
+  const v = /\b\B/, E = "[a-zA-Z]\\w*", h = "[a-zA-Z_]\\w*", S = "\\b\\d+(\\.\\d+)?", r = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", y = "\\b(0b[01]+)", O = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", F = (b = {}) => {
     const C = /^#![ ]*\//;
-    return b.binary && (b.begin = O(
+    return b.binary && (b.begin = x(
       C,
       /.*\b/,
       b.binary,
@@ -4121,7 +4139,7 @@ function la() {
         //
         // for a visual example please see:
         // https://github.com/highlightjs/highlight.js/issues/2827
-        begin: O(
+        begin: x(
           /[ ]+/,
           // necessary to prevent us gobbling up doctags like /* @author Bob Mcgill */
           "(",
@@ -4163,11 +4181,11 @@ function la() {
     relevance: 0
   }, pe = {
     scope: "title",
-    begin: g,
+    begin: h,
     relevance: 0
   }, ue = {
     // excludes method names from keyword processing
-    begin: "\\.\\s*" + g,
+    begin: "\\.\\s*" + h,
     relevance: 0
   };
   var ye = /* @__PURE__ */ Object.freeze({
@@ -4205,10 +4223,10 @@ function la() {
     PHRASAL_WORDS_MODE: T,
     QUOTE_STRING_MODE: M,
     REGEXP_MODE: Me,
-    RE_STARTERS_RE: N,
+    RE_STARTERS_RE: O,
     SHEBANG: F,
     TITLE_MODE: Fe,
-    UNDERSCORE_IDENT_RE: g,
+    UNDERSCORE_IDENT_RE: h,
     UNDERSCORE_TITLE_MODE: pe
   });
   function Te(b, C) {
@@ -4229,7 +4247,7 @@ function la() {
       b.begin = b.match, delete b.match;
     }
   }
-  function ot(b, C) {
+  function lt(b, C) {
     b.relevance === void 0 && (b.relevance = 1);
   }
   const gt = (b, C) => {
@@ -4238,7 +4256,7 @@ function la() {
     const U = Object.assign({}, b);
     Object.keys(b).forEach((J) => {
       delete b[J];
-    }), b.keywords = U.keywords, b.begin = O(U.beforeMatch, m(U.begin)), b.starts = {
+    }), b.keywords = U.keywords, b.begin = x(U.beforeMatch, m(U.begin)), b.starts = {
       relevance: 0,
       contains: [
         Object.assign(U, { endsParent: !0 })
@@ -4271,11 +4289,11 @@ function la() {
     function he(ge, q) {
       C && (q = q.map((K) => K.toLowerCase())), q.forEach(function(K) {
         const Y = K.split("|");
-        J[Y[0]] = [ge, lt(Y[0], Y[1])];
+        J[Y[0]] = [ge, ct(Y[0], Y[1])];
       });
     }
   }
-  function lt(b, C) {
+  function ct(b, C) {
     return C ? Number(C) : Gt(b) ? 0 : 1;
   }
   function Gt(b) {
@@ -4304,7 +4322,7 @@ function la() {
       Et(b, b.begin, { key: "beginScope" }), b.begin = D(b.begin, { joinWith: "" });
     }
   }
-  function ct(b) {
+  function _t(b) {
     if (Array.isArray(b.end)) {
       if (b.skip || b.excludeEnd || b.returnEnd)
         throw Ke("skip, excludeEnd, returnEnd not compatible with endScope: {}"), tt;
@@ -4317,12 +4335,12 @@ function la() {
     b.scope && typeof b.scope == "object" && b.scope !== null && (b.beginScope = b.scope, delete b.scope);
   }
   function wt(b) {
-    qt(b), typeof b.beginScope == "string" && (b.beginScope = { _wrap: b.beginScope }), typeof b.endScope == "string" && (b.endScope = { _wrap: b.endScope }), yt(b), ct(b);
+    qt(b), typeof b.beginScope == "string" && (b.beginScope = { _wrap: b.beginScope }), typeof b.endScope == "string" && (b.endScope = { _wrap: b.endScope }), yt(b), _t(b);
   }
   function Wt(b) {
     function C(q, K) {
       return new RegExp(
-        p(q),
+        g(q),
         "m" + (b.case_insensitive ? "i" : "") + (b.unicodeRegex ? "u" : "") + (K ? "g" : "")
       );
     }
@@ -4345,7 +4363,7 @@ function la() {
         const Y = this.matcherRe.exec(K);
         if (!Y)
           return null;
-        const we = Y.findIndex((ut, Zt) => Zt > 0 && ut !== void 0), me = this.matchIndexes[we];
+        const we = Y.findIndex((dt, Zt) => Zt > 0 && dt !== void 0), me = this.matchIndexes[we];
         return Y.splice(0, we), Object.assign(Y, me);
       }
     }
@@ -4404,10 +4422,10 @@ function la() {
         // raw array if they wanted to perhaps manipulate it, etc.
         ht,
         // default to 1 relevance if not specified
-        ot
+        lt
       ].forEach((me) => me(q, K)), q.isCompiled = !0;
       let we = null;
-      return typeof q.keywords == "object" && q.keywords.$pattern && (q.keywords = Object.assign({}, q.keywords), we = q.keywords.$pattern, delete q.keywords.$pattern), we = we || /\w+/, q.keywords && (q.keywords = mt(q.keywords, b.case_insensitive)), Y.keywordPatternRe = C(we, !0), K && (q.begin || (q.begin = /\B|\b/), Y.beginRe = C(Y.begin), !q.end && !q.endsWithParent && (q.end = /\B|\b/), q.end && (Y.endRe = C(Y.end)), Y.terminatorEnd = p(Y.end) || "", q.endsWithParent && K.terminatorEnd && (Y.terminatorEnd += (q.end ? "|" : "") + K.terminatorEnd)), q.illegal && (Y.illegalRe = C(
+      return typeof q.keywords == "object" && q.keywords.$pattern && (q.keywords = Object.assign({}, q.keywords), we = q.keywords.$pattern, delete q.keywords.$pattern), we = we || /\w+/, q.keywords && (q.keywords = mt(q.keywords, b.case_insensitive)), Y.keywordPatternRe = C(we, !0), K && (q.begin || (q.begin = /\B|\b/), Y.beginRe = C(Y.begin), !q.end && !q.endsWithParent && (q.end = /\B|\b/), q.end && (Y.endRe = C(Y.end)), Y.terminatorEnd = g(Y.end) || "", q.endsWithParent && K.terminatorEnd && (Y.terminatorEnd += (q.end ? "|" : "") + K.terminatorEnd)), q.illegal && (Y.illegalRe = C(
         /** @type {RegExp | string} */
         q.illegal
       )), q.contains || (q.contains = []), q.contains = [].concat(...q.contains.map(function(me) {
@@ -4441,7 +4459,7 @@ function la() {
       super(C), this.name = "HTMLInjectionError", this.html = U;
     }
   }
-  const _t = n, Nt = e, oe = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(b) {
+  const ut = t, Nt = e, oe = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(b) {
     const C = /* @__PURE__ */ Object.create(null), U = /* @__PURE__ */ Object.create(null), J = [];
     let he = !0;
     const ge = "Could not find the language '{}', did you forget to load/include a language module?", q = { disableAutodetect: !0, name: "Plain text", contains: [] };
@@ -4479,10 +4497,10 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
         language: ve
       };
       St("before:highlight", De);
-      const je = De.result ? De.result : ut(De.language, De.code, se);
+      const je = De.result ? De.result : dt(De.language, De.code, se);
       return je.code = De.code, St("after:highlight", je), je;
     }
-    function ut(B, j, se, ce) {
+    function dt(B, j, se, ce) {
       const ve = /* @__PURE__ */ Object.create(null);
       function De(z, H) {
         return z.keywords[H];
@@ -4520,7 +4538,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
             Ne.addText(_e);
             return;
           }
-          z = ut(ee.subLanguage, _e, !0, xi[ee.subLanguage]), xi[ee.subLanguage] = /** @type {CompiledMode} */
+          z = dt(ee.subLanguage, _e, !0, xi[ee.subLanguage]), xi[ee.subLanguage] = /** @type {CompiledMode} */
           z._top;
         } else
           z = Xt(_e, ee.subLanguage.length ? ee.subLanguage : null);
@@ -4548,10 +4566,10 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
         return z.scope && typeof z.scope == "string" && Ne.openNode(Pe.classNameAliases[z.scope] || z.scope), z.beginScope && (z.beginScope._wrap ? (Be(_e, Pe.classNameAliases[z.beginScope._wrap] || z.beginScope._wrap), _e = "") : z.beginScope._multi && (vi(z.beginScope, H), _e = "")), ee = Object.create(z, { parent: { value: ee } }), ee;
       }
       function yi(z, H, ie) {
-        let le = R(z.endRe, ie);
+        let le = A(z.endRe, ie);
         if (le) {
           if (z["on:end"]) {
-            const Oe = new t(z);
+            const Oe = new n(z);
             z["on:end"](H, Oe), Oe.isMatchIgnored && (le = !1);
           }
           if (le) {
@@ -4567,7 +4585,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
         return ee.matcher.regexIndex === 0 ? (_e += z[0], 1) : (en = !0, 0);
       }
       function wa(z) {
-        const H = z[0], ie = z.rule, le = new t(ie), Oe = [ie.__beforeBegin, ie["on:begin"]];
+        const H = z[0], ie = z.rule, le = new n(ie), Oe = [ie.__beforeBegin, ie["on:begin"]];
         for (const Ge of Oe)
           if (Ge && (Ge(z, le), le.isMatchIgnored))
             return ya(H);
@@ -4652,7 +4670,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
         if (z.message && z.message.includes("Illegal"))
           return {
             language: B,
-            value: _t(j),
+            value: ut(j),
             illegal: !0,
             relevance: 0,
             _illegalBy: {
@@ -4667,7 +4685,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
         if (he)
           return {
             language: B,
-            value: _t(j),
+            value: ut(j),
             illegal: !1,
             relevance: 0,
             errorRaised: z,
@@ -4679,7 +4697,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
     }
     function Zt(B) {
       const j = {
-        value: _t(B),
+        value: ut(B),
         illegal: !1,
         relevance: 0,
         _top: q,
@@ -4690,7 +4708,7 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
     function Xt(B, j) {
       j = j || K.languages || Object.keys(C);
       const se = Zt(B), ce = j.filter(He).filter(mi).map(
-        (Ce) => ut(Ce, B, !1)
+        (Ce) => dt(Ce, B, !1)
       );
       ce.unshift(se);
       const ve = ce.sort((Ce, Be) => {
@@ -4841,10 +4859,10 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
     }, b.safeMode = function() {
       he = !0;
     }, b.versionString = jt, b.regex = {
-      concat: O,
+      concat: x,
       lookahead: m,
       either: c,
-      optional: x,
+      optional: N,
       anyNumberOfTimes: w
     };
     for (const B in ye)
@@ -4857,8 +4875,8 @@ var En, cs;
 function gc() {
   if (cs) return En;
   cs = 1;
-  function s(t) {
-    const n = t.regex, e = n.concat(/[\p{L}_]/u, n.optional(/[\p{L}0-9_.-]*:/u), /[\p{L}0-9_.-]*/u), i = /[\p{L}0-9._:-]+/u, a = {
+  function s(n) {
+    const t = n.regex, e = t.concat(/[\p{L}_]/u, t.optional(/[\p{L}0-9_.-]*:/u), /[\p{L}0-9_.-]*/u), i = /[\p{L}0-9._:-]+/u, a = {
       className: "symbol",
       begin: /&[a-z]+;|&#[0-9]+;|&#x[a-f0-9]+;/
     }, l = {
@@ -4870,10 +4888,10 @@ function gc() {
           illegal: /\n/
         }
       ]
-    }, o = t.inherit(l, {
+    }, o = n.inherit(l, {
       begin: /\(/,
       end: /\)/
-    }), _ = t.inherit(t.APOS_STRING_MODE, { className: "string" }), h = t.inherit(t.QUOTE_STRING_MODE, { className: "string" }), u = {
+    }), _ = n.inherit(n.APOS_STRING_MODE, { className: "string" }), p = n.inherit(n.QUOTE_STRING_MODE, { className: "string" }), u = {
       endsWithParent: !0,
       illegal: /</,
       relevance: 0,
@@ -4932,7 +4950,7 @@ function gc() {
           relevance: 10,
           contains: [
             l,
-            h,
+            p,
             _,
             o,
             {
@@ -4946,7 +4964,7 @@ function gc() {
                   contains: [
                     l,
                     o,
-                    h,
+                    p,
                     _
                   ]
                 }
@@ -4954,7 +4972,7 @@ function gc() {
             }
           ]
         },
-        t.COMMENT(
+        n.COMMENT(
           /<!--/,
           /-->/,
           { relevance: 10 }
@@ -4974,7 +4992,7 @@ function gc() {
               begin: /<\?xml/,
               relevance: 10,
               contains: [
-                h
+                p
               ]
             },
             {
@@ -5027,14 +5045,14 @@ function gc() {
         // open tag
         {
           className: "tag",
-          begin: n.concat(
+          begin: t.concat(
             /</,
-            n.lookahead(n.concat(
+            t.lookahead(t.concat(
               e,
               // <tag/>
               // <tag>
               // <tag ...
-              n.either(/\/>/, />/, /\s/)
+              t.either(/\/>/, />/, /\s/)
             ))
           ),
           end: /\/?>/,
@@ -5050,9 +5068,9 @@ function gc() {
         // close tag
         {
           className: "tag",
-          begin: n.concat(
+          begin: t.concat(
             /<\//,
-            n.lookahead(n.concat(
+            t.lookahead(t.concat(
               e,
               />/
             ))
@@ -5079,8 +5097,8 @@ var yn, _s;
 function bc() {
   if (_s) return yn;
   _s = 1;
-  function s(t) {
-    const n = t.regex, e = {}, i = {
+  function s(n) {
+    const t = n.regex, e = {}, i = {
       begin: /\$\{/,
       end: /\}/,
       contains: [
@@ -5095,7 +5113,7 @@ function bc() {
     Object.assign(e, {
       className: "variable",
       variants: [
-        { begin: n.concat(
+        { begin: t.concat(
           /\$[\w\d#@][\w\d_]*/,
           // negative look-ahead tries to avoid matching patterns that are not
           // Perl at all like $ident$, @ident@, etc.
@@ -5108,9 +5126,9 @@ function bc() {
       className: "subst",
       begin: /\$\(/,
       end: /\)/,
-      contains: [t.BACKSLASH_ESCAPE]
-    }, l = t.inherit(
-      t.COMMENT(),
+      contains: [n.BACKSLASH_ESCAPE]
+    }, l = n.inherit(
+      n.COMMENT(),
       {
         match: [
           /(^|\s)/,
@@ -5123,7 +5141,7 @@ function bc() {
     ), o = {
       begin: /<<-?\s*(?=\w+)/,
       starts: { contains: [
-        t.END_SAME_AS_BEGIN({
+        n.END_SAME_AS_BEGIN({
           begin: /(\w+)/,
           end: /(\w+)/,
           className: "string"
@@ -5134,19 +5152,19 @@ function bc() {
       begin: /"/,
       end: /"/,
       contains: [
-        t.BACKSLASH_ESCAPE,
+        n.BACKSLASH_ESCAPE,
         e,
         a
       ]
     };
     a.contains.push(_);
-    const h = {
+    const p = {
       match: /\\"/
     }, u = {
       className: "string",
       begin: /'/,
       end: /'/
-    }, p = {
+    }, g = {
       match: /\\'/
     }, m = {
       begin: /\$?\(\(/,
@@ -5156,7 +5174,7 @@ function bc() {
           begin: /\d+#[0-9a-f]+/,
           className: "number"
         },
-        t.NUMBER_MODE,
+        n.NUMBER_MODE,
         e
       ]
     }, w = [
@@ -5169,14 +5187,14 @@ function bc() {
       "tcsh",
       "dash",
       "scsh"
-    ], x = t.SHEBANG({
+    ], N = n.SHEBANG({
       binary: `(${w.join("|")})`,
       relevance: 10
-    }), O = {
+    }), x = {
       className: "function",
       begin: /\w[\w\d_]*\s*\(\s*\)\s*\{/,
       returnBegin: !0,
-      contains: [t.inherit(t.TITLE_MODE, { begin: /\w[\w\d_]*/ })],
+      contains: [n.inherit(n.TITLE_MODE, { begin: /\w[\w\d_]*/ })],
       relevance: 0
     }, d = [
       "if",
@@ -5199,7 +5217,7 @@ function bc() {
     ], c = [
       "true",
       "false"
-    ], f = { match: /(\/[a-z._-]+)+/ }, R = [
+    ], f = { match: /(\/[a-z._-]+)+/ }, A = [
       "break",
       "cd",
       "continue",
@@ -5218,7 +5236,7 @@ function bc() {
       "trap",
       "umask",
       "unset"
-    ], A = [
+    ], R = [
       "alias",
       "bind",
       "builtin",
@@ -5426,8 +5444,8 @@ function bc() {
         keyword: d,
         literal: c,
         built_in: [
-          ...R,
           ...A,
+          ...R,
           // Shell modifiers
           "set",
           "shopt",
@@ -5436,19 +5454,19 @@ function bc() {
         ]
       },
       contains: [
-        x,
+        N,
         // to catch known shells and boost relevancy
-        t.SHEBANG(),
+        n.SHEBANG(),
         // to catch unknown shells but still highlight the shebang
-        O,
+        x,
         m,
         l,
         o,
         f,
         _,
-        h,
-        u,
         p,
+        u,
+        g,
         e
       ]
     };
@@ -5459,8 +5477,8 @@ var wn, us;
 function mc() {
   if (us) return wn;
   us = 1;
-  function s(t) {
-    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(" + i + "|" + n.optional(a) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
+  function s(n) {
+    const t = n.regex, e = n.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(" + i + "|" + t.optional(a) + "[a-zA-Z_]\\w*" + t.optional("<[^<>]+>") + ")", _ = {
       className: "type",
       variants: [
         { begin: "\\b[a-z\\d_]*_t\\b" },
@@ -5473,19 +5491,19 @@ function mc() {
           begin: '(u8?|U|L)?"',
           end: '"',
           illegal: "\\n",
-          contains: [t.BACKSLASH_ESCAPE]
+          contains: [n.BACKSLASH_ESCAPE]
         },
         {
           begin: "(u8?|U|L)?'(" + "\\\\(x[0-9A-Fa-f]{2}|u[0-9A-Fa-f]{4,8}|[0-7]{3}|\\S)" + "|.)",
           end: "'",
           illegal: "."
         },
-        t.END_SAME_AS_BEGIN({
+        n.END_SAME_AS_BEGIN({
           begin: /(?:u8?|U|L)?R"([^()\\ ]{0,16})\(/,
           end: /\)([^()\\ ]{0,16})"/
         })
       ]
-    }, p = {
+    }, g = {
       className: "number",
       variants: [
         { match: /\b(0b[01']+)/ },
@@ -5504,19 +5522,19 @@ function mc() {
           begin: /\\\n/,
           relevance: 0
         },
-        t.inherit(u, { className: "string" }),
+        n.inherit(u, { className: "string" }),
         {
           className: "string",
           begin: /<.*?>/
         },
         e,
-        t.C_BLOCK_COMMENT_MODE
+        n.C_BLOCK_COMMENT_MODE
       ]
     }, w = {
       className: "title",
-      begin: n.optional(a) + t.IDENT_RE,
+      begin: t.optional(a) + n.IDENT_RE,
       relevance: 0
-    }, x = n.optional(a) + t.IDENT_RE + "\\s*\\(", c = {
+    }, N = t.optional(a) + n.IDENT_RE + "\\s*\\(", c = {
       keyword: [
         "asm",
         "auto",
@@ -5604,10 +5622,10 @@ function mc() {
       m,
       _,
       e,
-      t.C_BLOCK_COMMENT_MODE,
-      p,
+      n.C_BLOCK_COMMENT_MODE,
+      g,
       u
-    ], R = {
+    ], A = {
       // This mode covers expression context where we can't expect a function
       // definition and shouldn't highlight anything that looks like one:
       // `return some()`, `else if()`, `(x*sum(1, 2))`
@@ -5636,8 +5654,8 @@ function mc() {
         }
       ]),
       relevance: 0
-    }, A = {
-      begin: "(" + o + "[\\*&\\s]+)+" + x,
+    }, R = {
+      begin: "(" + o + "[\\*&\\s]+)+" + N,
       returnBegin: !0,
       end: /[{;=]/,
       excludeEnd: !0,
@@ -5651,9 +5669,9 @@ function mc() {
           relevance: 0
         },
         {
-          begin: x,
+          begin: N,
           returnBegin: !0,
-          contains: [t.inherit(w, { className: "title.function" })],
+          contains: [n.inherit(w, { className: "title.function" })],
           relevance: 0
         },
         // allow for multiple declarations, e.g.:
@@ -5670,9 +5688,9 @@ function mc() {
           relevance: 0,
           contains: [
             e,
-            t.C_BLOCK_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE,
             u,
-            p,
+            g,
             _,
             // Count matching parentheses.
             {
@@ -5683,9 +5701,9 @@ function mc() {
               contains: [
                 "self",
                 e,
-                t.C_BLOCK_COMMENT_MODE,
+                n.C_BLOCK_COMMENT_MODE,
                 u,
-                p,
+                g,
                 _
               ]
             }
@@ -5693,7 +5711,7 @@ function mc() {
         },
         _,
         e,
-        t.C_BLOCK_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE,
         m
       ]
     };
@@ -5706,13 +5724,13 @@ function mc() {
       disableAutodetect: !0,
       illegal: "</",
       contains: [].concat(
-        R,
         A,
+        R,
         f,
         [
           m,
           {
-            begin: t.IDENT_RE + "::",
+            begin: n.IDENT_RE + "::",
             keywords: c
           },
           {
@@ -5721,7 +5739,7 @@ function mc() {
             end: /[{;:<>=]/,
             contains: [
               { beginKeywords: "final class struct" },
-              t.TITLE_MODE
+              n.TITLE_MODE
             ]
           }
         ]
@@ -5739,8 +5757,8 @@ var xn, ds;
 function vc() {
   if (ds) return xn;
   ds = 1;
-  function s(t) {
-    const n = t.regex, e = t.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(?!struct)(" + i + "|" + n.optional(a) + "[a-zA-Z_]\\w*" + n.optional("<[^<>]+>") + ")", _ = {
+  function s(n) {
+    const t = n.regex, e = n.COMMENT("//", "$", { contains: [{ begin: /\\\n/ }] }), i = "decltype\\(auto\\)", a = "[a-zA-Z_]\\w*::", o = "(?!struct)(" + i + "|" + t.optional(a) + "[a-zA-Z_]\\w*" + t.optional("<[^<>]+>") + ")", _ = {
       className: "type",
       begin: "\\b[a-z\\d_]*_t\\b"
     }, u = {
@@ -5750,19 +5768,19 @@ function vc() {
           begin: '(u8?|U|L)?"',
           end: '"',
           illegal: "\\n",
-          contains: [t.BACKSLASH_ESCAPE]
+          contains: [n.BACKSLASH_ESCAPE]
         },
         {
           begin: "(u8?|U|L)?'(" + "\\\\(x[0-9A-Fa-f]{2}|u[0-9A-Fa-f]{4,8}|[0-7]{3}|\\S)" + "|.)",
           end: "'",
           illegal: "."
         },
-        t.END_SAME_AS_BEGIN({
+        n.END_SAME_AS_BEGIN({
           begin: /(?:u8?|U|L)?R"([^()\\ ]{0,16})\(/,
           end: /\)([^()\\ ]{0,16})"/
         })
       ]
-    }, p = {
+    }, g = {
       className: "number",
       variants: [
         // Floating-point literal.
@@ -5787,19 +5805,19 @@ function vc() {
           begin: /\\\n/,
           relevance: 0
         },
-        t.inherit(u, { className: "string" }),
+        n.inherit(u, { className: "string" }),
         {
           className: "string",
           begin: /<.*?>/
         },
         e,
-        t.C_BLOCK_COMMENT_MODE
+        n.C_BLOCK_COMMENT_MODE
       ]
     }, w = {
       className: "title",
-      begin: n.optional(a) + t.IDENT_RE,
+      begin: t.optional(a) + n.IDENT_RE,
       relevance: 0
-    }, x = n.optional(a) + t.IDENT_RE + "\\s*\\(", O = [
+    }, N = t.optional(a) + n.IDENT_RE + "\\s*\\(", x = [
       "alignas",
       "alignof",
       "and",
@@ -6065,7 +6083,7 @@ function vc() {
       "vsprintf"
     ], D = {
       type: d,
-      keyword: O,
+      keyword: x,
       literal: [
         "NULL",
         "false",
@@ -6082,25 +6100,25 @@ function vc() {
         // Only for relevance, not highlighting.
         _hint: f
       },
-      begin: n.concat(
+      begin: t.concat(
         /\b/,
         /(?!decltype)/,
         /(?!if)/,
         /(?!for)/,
         /(?!switch)/,
         /(?!while)/,
-        t.IDENT_RE,
-        n.lookahead(/(<[^<>]+>|)\s*\(/)
+        n.IDENT_RE,
+        t.lookahead(/(<[^<>]+>|)\s*\(/)
       )
     }, E = [
       v,
       m,
       _,
       e,
-      t.C_BLOCK_COMMENT_MODE,
-      p,
+      n.C_BLOCK_COMMENT_MODE,
+      g,
       u
-    ], g = {
+    ], h = {
       // This mode covers expression context where we can't expect a function
       // definition and shouldn't highlight anything that looks like one:
       // `return some()`, `else if()`, `(x*sum(1, 2))`
@@ -6131,7 +6149,7 @@ function vc() {
       relevance: 0
     }, S = {
       className: "function",
-      begin: "(" + o + "[\\*&\\s]+)+" + x,
+      begin: "(" + o + "[\\*&\\s]+)+" + N,
       returnBegin: !0,
       end: /[{;=]/,
       excludeEnd: !0,
@@ -6145,7 +6163,7 @@ function vc() {
           relevance: 0
         },
         {
-          begin: x,
+          begin: N,
           returnBegin: !0,
           contains: [w],
           relevance: 0
@@ -6162,7 +6180,7 @@ function vc() {
           endsWithParent: !0,
           contains: [
             u,
-            p
+            g
           ]
         },
         // allow for multiple declarations, e.g.:
@@ -6179,9 +6197,9 @@ function vc() {
           relevance: 0,
           contains: [
             e,
-            t.C_BLOCK_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE,
             u,
-            p,
+            g,
             _,
             // Count matching parentheses.
             {
@@ -6192,9 +6210,9 @@ function vc() {
               contains: [
                 "self",
                 e,
-                t.C_BLOCK_COMMENT_MODE,
+                n.C_BLOCK_COMMENT_MODE,
                 u,
-                p,
+                g,
                 _
               ]
             }
@@ -6202,7 +6220,7 @@ function vc() {
         },
         _,
         e,
-        t.C_BLOCK_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE,
         m
       ]
     };
@@ -6221,7 +6239,7 @@ function vc() {
       illegal: "</",
       classNameAliases: { "function.dispatch": "built_in" },
       contains: [].concat(
-        g,
+        h,
         S,
         v,
         E,
@@ -6238,7 +6256,7 @@ function vc() {
             ]
           },
           {
-            begin: t.IDENT_RE + "::",
+            begin: n.IDENT_RE + "::",
             keywords: D
           },
           {
@@ -6263,8 +6281,8 @@ var Nn, ps;
 function Ec() {
   if (ps) return Nn;
   ps = 1;
-  function s(t) {
-    const n = [
+  function s(n) {
+    const t = [
       "bool",
       "byte",
       "char",
@@ -6407,9 +6425,9 @@ function Ec() {
       "yield"
     ], o = {
       keyword: a.concat(l),
-      built_in: n,
+      built_in: t,
       literal: i
-    }, _ = t.inherit(t.TITLE_MODE, { begin: "[a-zA-Z](\\.?\\w)*" }), h = {
+    }, _ = n.inherit(n.TITLE_MODE, { begin: "[a-zA-Z](\\.?\\w)*" }), p = {
       className: "number",
       variants: [
         { begin: "\\b(0b[01']+)" },
@@ -6421,17 +6439,17 @@ function Ec() {
       className: "string",
       begin: /"""("*)(?!")(.|\n)*?"""\1/,
       relevance: 1
-    }, p = {
+    }, g = {
       className: "string",
       begin: '@"',
       end: '"',
       contains: [{ begin: '""' }]
-    }, m = t.inherit(p, { illegal: /\n/ }), w = {
+    }, m = n.inherit(g, { illegal: /\n/ }), w = {
       className: "subst",
       begin: /\{/,
       end: /\}/,
       keywords: o
-    }, x = t.inherit(w, { illegal: /\n/ }), O = {
+    }, N = n.inherit(w, { illegal: /\n/ }), x = {
       className: "string",
       begin: /\$"/,
       end: '"',
@@ -6439,8 +6457,8 @@ function Ec() {
       contains: [
         { begin: /\{\{/ },
         { begin: /\}\}/ },
-        t.BACKSLASH_ESCAPE,
-        x
+        n.BACKSLASH_ESCAPE,
+        N
       ]
     }, d = {
       className: "string",
@@ -6452,50 +6470,50 @@ function Ec() {
         { begin: '""' },
         w
       ]
-    }, c = t.inherit(d, {
+    }, c = n.inherit(d, {
       illegal: /\n/,
       contains: [
         { begin: /\{\{/ },
         { begin: /\}\}/ },
         { begin: '""' },
-        x
+        N
       ]
     });
     w.contains = [
       d,
-      O,
+      x,
+      g,
+      n.APOS_STRING_MODE,
+      n.QUOTE_STRING_MODE,
       p,
-      t.APOS_STRING_MODE,
-      t.QUOTE_STRING_MODE,
-      h,
-      t.C_BLOCK_COMMENT_MODE
-    ], x.contains = [
+      n.C_BLOCK_COMMENT_MODE
+    ], N.contains = [
       c,
-      O,
+      x,
       m,
-      t.APOS_STRING_MODE,
-      t.QUOTE_STRING_MODE,
-      h,
-      t.inherit(t.C_BLOCK_COMMENT_MODE, { illegal: /\n/ })
+      n.APOS_STRING_MODE,
+      n.QUOTE_STRING_MODE,
+      p,
+      n.inherit(n.C_BLOCK_COMMENT_MODE, { illegal: /\n/ })
     ];
     const f = { variants: [
       u,
       d,
-      O,
-      p,
-      t.APOS_STRING_MODE,
-      t.QUOTE_STRING_MODE
-    ] }, R = {
+      x,
+      g,
+      n.APOS_STRING_MODE,
+      n.QUOTE_STRING_MODE
+    ] }, A = {
       begin: "<",
       end: ">",
       contains: [
         { beginKeywords: "in out" },
         _
       ]
-    }, A = t.IDENT_RE + "(<" + t.IDENT_RE + "(\\s*,\\s*" + t.IDENT_RE + ")*>)?(\\[\\])?", D = {
+    }, R = n.IDENT_RE + "(<" + n.IDENT_RE + "(\\s*,\\s*" + n.IDENT_RE + ")*>)?(\\[\\])?", D = {
       // prevents expressions like `@class` from incorrect flagging
       // `class` as a keyword
-      begin: "@" + t.IDENT_RE,
+      begin: "@" + n.IDENT_RE,
       relevance: 0
     };
     return {
@@ -6507,7 +6525,7 @@ function Ec() {
       keywords: o,
       illegal: /::/,
       contains: [
-        t.COMMENT(
+        n.COMMENT(
           "///",
           "$",
           {
@@ -6530,8 +6548,8 @@ function Ec() {
             ]
           }
         ),
-        t.C_LINE_COMMENT_MODE,
-        t.C_BLOCK_COMMENT_MODE,
+        n.C_LINE_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE,
         {
           className: "meta",
           begin: "#",
@@ -6539,7 +6557,7 @@ function Ec() {
           keywords: { keyword: "if else elif endif define undef warning error line region endregion pragma checksum" }
         },
         f,
-        h,
+        p,
         {
           beginKeywords: "class interface",
           relevance: 0,
@@ -6548,9 +6566,9 @@ function Ec() {
           contains: [
             { beginKeywords: "where class" },
             _,
-            R,
-            t.C_LINE_COMMENT_MODE,
-            t.C_BLOCK_COMMENT_MODE
+            A,
+            n.C_LINE_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE
           ]
         },
         {
@@ -6560,8 +6578,8 @@ function Ec() {
           illegal: /[^\s:]/,
           contains: [
             _,
-            t.C_LINE_COMMENT_MODE,
-            t.C_BLOCK_COMMENT_MODE
+            n.C_LINE_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE
           ]
         },
         {
@@ -6571,9 +6589,9 @@ function Ec() {
           illegal: /[^\s:]/,
           contains: [
             _,
-            R,
-            t.C_LINE_COMMENT_MODE,
-            t.C_BLOCK_COMMENT_MODE
+            A,
+            n.C_LINE_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE
           ]
         },
         {
@@ -6599,7 +6617,7 @@ function Ec() {
         },
         {
           className: "function",
-          begin: "(" + A + "\\s+)+" + t.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
+          begin: "(" + R + "\\s+)+" + n.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
           returnBegin: !0,
           end: /\s*[{;=]/,
           excludeEnd: !0,
@@ -6611,11 +6629,11 @@ function Ec() {
               relevance: 0
             },
             {
-              begin: t.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
+              begin: n.IDENT_RE + "\\s*(<[^=]+>\\s*)?\\(",
               returnBegin: !0,
               contains: [
-                t.TITLE_MODE,
-                R
+                n.TITLE_MODE,
+                A
               ],
               relevance: 0
             },
@@ -6630,12 +6648,12 @@ function Ec() {
               relevance: 0,
               contains: [
                 f,
-                h,
-                t.C_BLOCK_COMMENT_MODE
+                p,
+                n.C_BLOCK_COMMENT_MODE
               ]
             },
-            t.C_LINE_COMMENT_MODE,
-            t.C_BLOCK_COMMENT_MODE
+            n.C_LINE_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE
           ]
         },
         D
@@ -6648,12 +6666,12 @@ var On, fs;
 function yc() {
   if (fs) return On;
   fs = 1;
-  const s = (h) => ({
+  const s = (p) => ({
     IMPORTANT: {
       scope: "meta",
       begin: "!important"
     },
-    BLOCK_COMMENT: h.C_BLOCK_COMMENT_MODE,
+    BLOCK_COMMENT: p.C_BLOCK_COMMENT_MODE,
     HEXCOLOR: {
       scope: "number",
       begin: /#(([0-9a-fA-F]{3,4})|(([0-9a-fA-F]{2}){3,4}))\b/
@@ -6668,20 +6686,20 @@ function yc() {
       end: /\]/,
       illegal: "$",
       contains: [
-        h.APOS_STRING_MODE,
-        h.QUOTE_STRING_MODE
+        p.APOS_STRING_MODE,
+        p.QUOTE_STRING_MODE
       ]
     },
     CSS_NUMBER_MODE: {
       scope: "number",
-      begin: h.NUMBER_RE + "(%|em|ex|ch|rem|vw|vh|vmin|vmax|cm|mm|in|pt|pc|px|deg|grad|rad|turn|s|ms|Hz|kHz|dpi|dpcm|dppx)?",
+      begin: p.NUMBER_RE + "(%|em|ex|ch|rem|vw|vh|vmin|vmax|cm|mm|in|pt|pc|px|deg|grad|rad|turn|s|ms|Hz|kHz|dpi|dpcm|dppx)?",
       relevance: 0
     },
     CSS_VARIABLE: {
       className: "attr",
       begin: /--[A-Za-z_][A-Za-z0-9_-]*/
     }
-  }), t = [
+  }), n = [
     "a",
     "abbr",
     "address",
@@ -6759,7 +6777,7 @@ function yc() {
     "ul",
     "var",
     "video"
-  ], n = [
+  ], t = [
     "defs",
     "g",
     "marker",
@@ -6802,8 +6820,8 @@ function yc() {
     "foreignObject",
     "clipPath"
   ], e = [
-    ...t,
-    ...n
+    ...n,
+    ...t
   ], i = [
     "any-hover",
     "any-pointer",
@@ -7445,10 +7463,10 @@ function yc() {
     "z-index",
     "zoom"
   ].sort().reverse();
-  function _(h) {
-    const u = h.regex, p = s(h), m = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, w = "and or not only", x = /@-?\w[\w]*(-\w+)*/, O = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
-      h.APOS_STRING_MODE,
-      h.QUOTE_STRING_MODE
+  function _(p) {
+    const u = p.regex, g = s(p), m = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, w = "and or not only", N = /@-?\w[\w]*(-\w+)*/, x = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
+      p.APOS_STRING_MODE,
+      p.QUOTE_STRING_MODE
     ];
     return {
       name: "CSS",
@@ -7461,11 +7479,11 @@ function yc() {
         keyframePosition: "selector-tag"
       },
       contains: [
-        p.BLOCK_COMMENT,
+        g.BLOCK_COMMENT,
         m,
         // to recognize keyframe 40% etc which are outside the scope of our
         // attribute value mode
-        p.CSS_NUMBER_MODE,
+        g.CSS_NUMBER_MODE,
         {
           className: "selector-id",
           begin: /#[A-Za-z0-9_-]+/,
@@ -7473,10 +7491,10 @@ function yc() {
         },
         {
           className: "selector-class",
-          begin: "\\." + O,
+          begin: "\\." + x,
           relevance: 0
         },
-        p.ATTRIBUTE_SELECTOR_MODE,
+        g.ATTRIBUTE_SELECTOR_MODE,
         {
           className: "selector-pseudo",
           variants: [
@@ -7490,7 +7508,7 @@ function yc() {
         //   end: /\)/,
         //   contains: [ hljs.CSS_NUMBER_MODE ]
         // },
-        p.CSS_VARIABLE,
+        g.CSS_VARIABLE,
         {
           className: "attribute",
           begin: "\\b(" + o.join("|") + ")\\b"
@@ -7500,10 +7518,10 @@ function yc() {
           begin: /:/,
           end: /[;}{]/,
           contains: [
-            p.BLOCK_COMMENT,
-            p.HEXCOLOR,
-            p.IMPORTANT,
-            p.CSS_NUMBER_MODE,
+            g.BLOCK_COMMENT,
+            g.HEXCOLOR,
+            g.IMPORTANT,
+            g.CSS_NUMBER_MODE,
             ...d,
             // needed to highlight these as strings and to avoid issues with
             // illegal characters that might be inside urls that would tigger the
@@ -7526,7 +7544,7 @@ function yc() {
                 }
               ]
             },
-            p.FUNCTION_DISPATCH
+            g.FUNCTION_DISPATCH
           ]
         },
         {
@@ -7538,7 +7556,7 @@ function yc() {
           contains: [
             {
               className: "keyword",
-              begin: x
+              begin: N
             },
             {
               begin: /\s/,
@@ -7556,7 +7574,7 @@ function yc() {
                   className: "attribute"
                 },
                 ...d,
-                p.CSS_NUMBER_MODE
+                g.CSS_NUMBER_MODE
               ]
             }
           ]
@@ -7574,8 +7592,8 @@ var Sn, hs;
 function wc() {
   if (hs) return Sn;
   hs = 1;
-  function s(t) {
-    const n = t.regex, e = {
+  function s(n) {
+    const t = n.regex, e = {
       begin: /<\/?[A-Za-z_]/,
       end: ">",
       subLanguage: "xml",
@@ -7635,7 +7653,7 @@ function wc() {
           excludeBegin: !0
         }
       ]
-    }, _ = /[A-Za-z][A-Za-z0-9+.-]*/, h = {
+    }, _ = /[A-Za-z][A-Za-z0-9+.-]*/, p = {
       variants: [
         // too much like nested array access in so many languages
         // to have any real relevance
@@ -7649,7 +7667,7 @@ function wc() {
           relevance: 2
         },
         {
-          begin: n.concat(/\[.+?\]\(/, _, /:\/\/.*?\)/),
+          begin: t.concat(/\[.+?\]\(/, _, /:\/\/.*?\)/),
           relevance: 2
         },
         // relative urls
@@ -7708,7 +7726,7 @@ function wc() {
           end: /\*{2}/
         }
       ]
-    }, p = {
+    }, g = {
       className: "emphasis",
       contains: [],
       // defined later
@@ -7723,20 +7741,20 @@ function wc() {
           relevance: 0
         }
       ]
-    }, m = t.inherit(u, { contains: [] }), w = t.inherit(p, { contains: [] });
-    u.contains.push(w), p.contains.push(m);
-    let x = [
+    }, m = n.inherit(u, { contains: [] }), w = n.inherit(g, { contains: [] });
+    u.contains.push(w), g.contains.push(m);
+    let N = [
       e,
-      h
+      p
     ];
     return [
       u,
-      p,
+      g,
       m,
       w
     ].forEach((f) => {
-      f.contains = f.contains.concat(x);
-    }), x = x.concat(u, p), {
+      f.contains = f.contains.concat(N);
+    }), N = N.concat(u, g), {
       name: "Markdown",
       aliases: [
         "md",
@@ -7750,7 +7768,7 @@ function wc() {
             {
               begin: "^#{1,6}",
               end: "$",
-              contains: x
+              contains: N
             },
             {
               begin: "(?=^.+?\\n[=-]{2,}$)",
@@ -7759,7 +7777,7 @@ function wc() {
                 {
                   begin: "^",
                   end: "\\n",
-                  contains: x
+                  contains: N
                 }
               ]
             }
@@ -7768,16 +7786,16 @@ function wc() {
         e,
         l,
         u,
-        p,
+        g,
         {
           className: "quote",
           begin: "^>\\s+",
-          contains: x,
+          contains: N,
           end: "$"
         },
         a,
         i,
-        h,
+        p,
         o,
         {
           //https://spec.commonmark.org/0.31.2/#entity-references
@@ -7793,8 +7811,8 @@ var Tn, gs;
 function xc() {
   if (gs) return Tn;
   gs = 1;
-  function s(t) {
-    const n = t.regex;
+  function s(n) {
+    const t = n.regex;
     return {
       name: "Diff",
       aliases: ["patch"],
@@ -7802,7 +7820,7 @@ function xc() {
         {
           className: "meta",
           relevance: 10,
-          match: n.either(
+          match: t.either(
             /^@@ +-\d+,\d+ +\+\d+,\d+ +@@/,
             /^\*\*\* +\d+,\d+ +\*\*\*\*$/,
             /^--- +\d+,\d+ +----$/
@@ -7812,7 +7830,7 @@ function xc() {
           className: "comment",
           variants: [
             {
-              begin: n.either(
+              begin: t.either(
                 /Index: /,
                 /^index/,
                 /={3,}/,
@@ -7850,12 +7868,12 @@ var kn, bs;
 function Nc() {
   if (bs) return kn;
   bs = 1;
-  function s(t) {
-    const n = t.regex, e = "([a-zA-Z_]\\w*[!?=]?|[-+~]@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?)", i = n.either(
+  function s(n) {
+    const t = n.regex, e = "([a-zA-Z_]\\w*[!?=]?|[-+~]@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?)", i = t.either(
       /\b([A-Z]+[a-z0-9]+)+/,
       // ends in caps
       /\b([A-Z]+[a-z0-9]+)+[A-Z]+/
-    ), a = n.concat(i, /(::\w+)*/), o = {
+    ), a = t.concat(i, /(::\w+)*/), o = {
       "variable.constant": [
         "__FILE__",
         "__LINE__",
@@ -7928,16 +7946,16 @@ function Nc() {
     }, _ = {
       className: "doctag",
       begin: "@[A-Za-z]+"
-    }, h = {
+    }, p = {
       begin: "#<",
       end: ">"
     }, u = [
-      t.COMMENT(
+      n.COMMENT(
         "#",
         "$",
         { contains: [_] }
       ),
-      t.COMMENT(
+      n.COMMENT(
         "^=begin",
         "^=end",
         {
@@ -7945,8 +7963,8 @@ function Nc() {
           relevance: 10
         }
       ),
-      t.COMMENT("^__END__", t.MATCH_NOTHING_RE)
-    ], p = {
+      n.COMMENT("^__END__", n.MATCH_NOTHING_RE)
+    ], g = {
       className: "subst",
       begin: /#\{/,
       end: /\}/,
@@ -7954,8 +7972,8 @@ function Nc() {
     }, m = {
       className: "string",
       contains: [
-        t.BACKSLASH_ESCAPE,
-        p
+        n.BACKSLASH_ESCAPE,
+        g
       ],
       variants: [
         {
@@ -8014,28 +8032,28 @@ function Nc() {
         {
           // this guard makes sure that we have an entire heredoc and not a false
           // positive (auto-detect, etc.)
-          begin: n.concat(
+          begin: t.concat(
             /<<[-~]?'?/,
-            n.lookahead(/(\w+)(?=\W)[^\n]*\n(?:[^\n]*\n)*?\s*\1\b/)
+            t.lookahead(/(\w+)(?=\W)[^\n]*\n(?:[^\n]*\n)*?\s*\1\b/)
           ),
           contains: [
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /(\w+)/,
               end: /(\w+)/,
               contains: [
-                t.BACKSLASH_ESCAPE,
-                p
+                n.BACKSLASH_ESCAPE,
+                g
               ]
             })
           ]
         }
       ]
-    }, w = "[1-9](_?[0-9])*|0", x = "[0-9](_?[0-9])*", O = {
+    }, w = "[1-9](_?[0-9])*|0", N = "[0-9](_?[0-9])*", x = {
       className: "number",
       relevance: 0,
       variants: [
         // decimal integer/float, optionally exponential or rational, optionally imaginary
-        { begin: `\\b(${w})(\\.(${x}))?([eE][+-]?(${x})|r)?i?\\b` },
+        { begin: `\\b(${w})(\\.(${N}))?([eE][+-]?(${N})|r)?i?\\b` },
         // explicit decimal/binary/octal/hexadecimal integer,
         // optionally rational and/or imaginary
         { begin: "\\b0[dD][0-9](_?[0-9])*r?i?\\b" },
@@ -8130,11 +8148,11 @@ function Nc() {
       },
       {
         // swallow namespace qualifiers before symbols
-        begin: t.IDENT_RE + "::"
+        begin: n.IDENT_RE + "::"
       },
       {
         className: "symbol",
-        begin: t.UNDERSCORE_IDENT_RE + "(!|\\?)?:",
+        begin: n.UNDERSCORE_IDENT_RE + "(!|\\?)?:",
         relevance: 0
       },
       {
@@ -8146,7 +8164,7 @@ function Nc() {
         ],
         relevance: 0
       },
-      O,
+      x,
       {
         // negative-look forward attempts to prevent false matches like:
         // @ident@ or $ident$ that might indicate this is not ruby at all
@@ -8165,14 +8183,14 @@ function Nc() {
       },
       {
         // regexp container
-        begin: "(" + t.RE_STARTERS_RE + "|unless)\\s*",
+        begin: "(" + n.RE_STARTERS_RE + "|unless)\\s*",
         keywords: "unless",
         contains: [
           {
             className: "regexp",
             contains: [
-              t.BACKSLASH_ESCAPE,
-              p
+              n.BACKSLASH_ESCAPE,
+              g
             ],
             illegal: /\n/,
             variants: [
@@ -8198,11 +8216,11 @@ function Nc() {
               }
             ]
           }
-        ].concat(h, u),
+        ].concat(p, u),
         relevance: 0
       }
-    ].concat(h, u);
-    p.contains = E, d.contains = E;
+    ].concat(p, u);
+    g.contains = E, d.contains = E;
     const y = [
       {
         begin: /^\s*=>/,
@@ -8221,7 +8239,7 @@ function Nc() {
         }
       }
     ];
-    return u.unshift(h), {
+    return u.unshift(p), {
       name: "Ruby",
       aliases: [
         "rb",
@@ -8232,7 +8250,7 @@ function Nc() {
       ],
       keywords: o,
       illegal: /\/\*/,
-      contains: [t.SHEBANG({ binary: "ruby" })].concat(y).concat(u).concat(E)
+      contains: [n.SHEBANG({ binary: "ruby" })].concat(y).concat(u).concat(E)
     };
   }
   return kn = s, kn;
@@ -8241,7 +8259,7 @@ var Rn, ms;
 function Oc() {
   if (ms) return Rn;
   ms = 1;
-  function s(t) {
+  function s(n) {
     const l = {
       keyword: [
         "break",
@@ -8322,13 +8340,13 @@ function Oc() {
       keywords: l,
       illegal: "</",
       contains: [
-        t.C_LINE_COMMENT_MODE,
-        t.C_BLOCK_COMMENT_MODE,
+        n.C_LINE_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE,
         {
           className: "string",
           variants: [
-            t.QUOTE_STRING_MODE,
-            t.APOS_STRING_MODE,
+            n.QUOTE_STRING_MODE,
+            n.APOS_STRING_MODE,
             {
               begin: "`",
               end: "`"
@@ -8375,7 +8393,7 @@ function Oc() {
           end: "\\s*(\\{|$)",
           excludeEnd: !0,
           contains: [
-            t.TITLE_MODE,
+            n.TITLE_MODE,
             {
               className: "params",
               begin: /\(/,
@@ -8395,8 +8413,8 @@ var An, vs;
 function Sc() {
   if (vs) return An;
   vs = 1;
-  function s(t) {
-    const n = t.regex, e = /[_A-Za-z][_0-9A-Za-z]*/;
+  function s(n) {
+    const t = n.regex, e = /[_A-Za-z][_0-9A-Za-z]*/;
     return {
       name: "GraphQL",
       aliases: ["gql"],
@@ -8425,9 +8443,9 @@ function Sc() {
         ]
       },
       contains: [
-        t.HASH_COMMENT_MODE,
-        t.QUOTE_STRING_MODE,
-        t.NUMBER_MODE,
+        n.HASH_COMMENT_MODE,
+        n.QUOTE_STRING_MODE,
+        n.NUMBER_MODE,
         {
           scope: "punctuation",
           match: /[.]{3}/,
@@ -8452,7 +8470,7 @@ function Sc() {
         },
         {
           scope: "symbol",
-          begin: n.concat(e, n.lookahead(/\s*:/)),
+          begin: t.concat(e, t.lookahead(/\s*:/)),
           relevance: 0
         }
       ],
@@ -8468,15 +8486,15 @@ var Cn, Es;
 function Tc() {
   if (Es) return Cn;
   Es = 1;
-  function s(t) {
-    const n = t.regex, e = {
+  function s(n) {
+    const t = n.regex, e = {
       className: "number",
       relevance: 0,
       variants: [
         { begin: /([+-]+)?[\d]+_[\d_]+/ },
-        { begin: t.NUMBER_RE }
+        { begin: n.NUMBER_RE }
       ]
-    }, i = t.COMMENT();
+    }, i = n.COMMENT();
     i.variants = [
       {
         begin: /;/,
@@ -8498,7 +8516,7 @@ function Tc() {
       begin: /\bon|off|true|false|yes|no\b/
     }, o = {
       className: "string",
-      contains: [t.BACKSLASH_ESCAPE],
+      contains: [n.BACKSLASH_ESCAPE],
       variants: [
         {
           begin: "'''",
@@ -8531,16 +8549,16 @@ function Tc() {
         "self"
       ],
       relevance: 0
-    }, h = /[A-Za-z0-9_-]+/, u = /"(\\"|[^"])*"/, p = /'[^']*'/, m = n.either(
-      h,
+    }, p = /[A-Za-z0-9_-]+/, u = /"(\\"|[^"])*"/, g = /'[^']*'/, m = t.either(
+      p,
       u,
-      p
-    ), w = n.concat(
+      g
+    ), w = t.concat(
       m,
       "(\\s*\\.\\s*",
       m,
       ")*",
-      n.lookahead(/\s*=\s*[^#\s]/)
+      t.lookahead(/\s*=\s*[^#\s]/)
     );
     return {
       name: "TOML, also INI",
@@ -8578,22 +8596,22 @@ var In, ys;
 function kc() {
   if (ys) return In;
   ys = 1;
-  var s = "[0-9](_*[0-9])*", t = `\\.(${s})`, n = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
+  var s = "[0-9](_*[0-9])*", n = `\\.(${s})`, t = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
     className: "number",
     variants: [
       // DecimalFloatingPointLiteral
       // including ExponentPart
-      { begin: `(\\b(${s})((${t})|\\.)?|(${t}))[eE][+-]?(${s})[fFdD]?\\b` },
+      { begin: `(\\b(${s})((${n})|\\.)?|(${n}))[eE][+-]?(${s})[fFdD]?\\b` },
       // excluding ExponentPart
-      { begin: `\\b(${s})((${t})[fFdD]?\\b|\\.([fFdD]\\b)?)` },
-      { begin: `(${t})[fFdD]?\\b` },
+      { begin: `\\b(${s})((${n})[fFdD]?\\b|\\.([fFdD]\\b)?)` },
+      { begin: `(${n})[fFdD]?\\b` },
       { begin: `\\b(${s})[fFdD]\\b` },
       // HexadecimalFloatingPointLiteral
-      { begin: `\\b0[xX]((${n})\\.?|(${n})?\\.(${n}))[pP][+-]?(${s})[fFdD]?\\b` },
+      { begin: `\\b0[xX]((${t})\\.?|(${t})?\\.(${t}))[pP][+-]?(${s})[fFdD]?\\b` },
       // DecimalIntegerLiteral
       { begin: "\\b(0|[1-9](_*[0-9])*)[lL]?\\b" },
       // HexIntegerLiteral
-      { begin: `\\b0[xX](${n})[lL]?\\b` },
+      { begin: `\\b0[xX](${t})[lL]?\\b` },
       // OctalIntegerLiteral
       { begin: "\\b0(_*[0-7])*[lL]?\\b" },
       // BinaryIntegerLiteral
@@ -8602,10 +8620,10 @@ function kc() {
     relevance: 0
   };
   function i(l, o, _) {
-    return _ === -1 ? "" : l.replace(o, (h) => i(l, o, _ - 1));
+    return _ === -1 ? "" : l.replace(o, (p) => i(l, o, _ - 1));
   }
   function a(l) {
-    const o = l.regex, _ = "[À-ʸa-zA-Z_$][À-ʸa-zA-Z_$0-9]*", h = _ + i("(?:<" + _ + "~~~(?:\\s*,\\s*" + _ + "~~~)*>)?", /~~~/g, 2), x = {
+    const o = l.regex, _ = "[À-ʸa-zA-Z_$][À-ʸa-zA-Z_$0-9]*", p = _ + i("(?:<" + _ + "~~~(?:\\s*,\\s*" + _ + "~~~)*>)?", /~~~/g, 2), N = {
       keyword: [
         "synchronized",
         "abstract",
@@ -8671,7 +8689,7 @@ function kc() {
         "super",
         "this"
       ]
-    }, O = {
+    }, x = {
       className: "meta",
       begin: "@" + _,
       contains: [
@@ -8686,7 +8704,7 @@ function kc() {
       className: "params",
       begin: /\(/,
       end: /\)/,
-      keywords: x,
+      keywords: N,
       relevance: 0,
       contains: [l.C_BLOCK_COMMENT_MODE],
       endsParent: !0
@@ -8694,7 +8712,7 @@ function kc() {
     return {
       name: "Java",
       aliases: ["jsp"],
-      keywords: x,
+      keywords: N,
       illegal: /<\/|#/,
       contains: [
         l.COMMENT(
@@ -8785,21 +8803,21 @@ function kc() {
         },
         {
           begin: [
-            "(?:" + h + "\\s+)",
+            "(?:" + p + "\\s+)",
             l.UNDERSCORE_IDENT_RE,
             /\s*(?=\()/
           ],
           className: { 2: "title.function" },
-          keywords: x,
+          keywords: N,
           contains: [
             {
               className: "params",
               begin: /\(/,
               end: /\)/,
-              keywords: x,
+              keywords: N,
               relevance: 0,
               contains: [
-                O,
+                x,
                 l.APOS_STRING_MODE,
                 l.QUOTE_STRING_MODE,
                 e,
@@ -8811,7 +8829,7 @@ function kc() {
           ]
         },
         e,
-        O
+        x
       ]
     };
   }
@@ -8821,7 +8839,7 @@ var Mn, ws;
 function Rc() {
   if (ws) return Mn;
   ws = 1;
-  const s = "[A-Za-z$_][0-9A-Za-z$_]*", t = [
+  const s = "[A-Za-z$_][0-9A-Za-z$_]*", n = [
     "as",
     // for exports
     "in",
@@ -8866,7 +8884,7 @@ function Rc() {
     "extends",
     // It's reached stage 3, which is "recommended for implementation":
     "using"
-  ], n = [
+  ], t = [
     "true",
     "false",
     "null",
@@ -8967,14 +8985,14 @@ function Rc() {
     e,
     i
   );
-  function _(h) {
-    const u = h.regex, p = (pe, { after: ue }) => {
+  function _(p) {
+    const u = p.regex, g = (pe, { after: ue }) => {
       const Se = "</" + pe[0].slice(1);
       return pe.input.indexOf(Se, ue) !== -1;
     }, m = s, w = {
       begin: "<>",
       end: "</>"
-    }, x = /<[A-Za-z0-9\\._:-]+\s*\/>/, O = {
+    }, N = /<[A-Za-z0-9\\._:-]+\s*\/>/, x = {
       begin: /<[A-Za-z0-9\\._:-]+/,
       end: /\/[A-Za-z0-9\\._:-]+>|\/>/,
       /**
@@ -8994,7 +9012,7 @@ function Rc() {
           ue.ignoreMatch();
           return;
         }
-        ye === ">" && (p(pe, { after: Se }) || ue.ignoreMatch());
+        ye === ">" && (g(pe, { after: Se }) || ue.ignoreMatch());
         let Te;
         const Ae = pe.input.substring(Se);
         if (Te = Ae.match(/^\s*=/)) {
@@ -9008,16 +9026,16 @@ function Rc() {
       }
     }, d = {
       $pattern: s,
-      keyword: t,
-      literal: n,
+      keyword: n,
+      literal: t,
       built_in: o,
       "variable.language": l
-    }, c = "[0-9](_?[0-9])*", f = `\\.(${c})`, R = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", A = {
+    }, c = "[0-9](_?[0-9])*", f = `\\.(${c})`, A = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", R = {
       className: "number",
       variants: [
         // DecimalLiteral
-        { begin: `(\\b(${R})((${f})|\\.)?|(${f}))[eE][+-]?(${c})\\b` },
-        { begin: `\\b(${R})\\b((${f})\\b|\\.)?|(${f})\\b` },
+        { begin: `(\\b(${A})((${f})|\\.)?|(${f}))[eE][+-]?(${c})\\b` },
+        { begin: `\\b(${A})\\b((${f})\\b|\\.)?|(${f})\\b` },
         // DecimalBigIntegerLiteral
         { begin: "\\b(0|[1-9](_?[0-9])*)n\\b" },
         // NonDecimalIntegerLiteral
@@ -9043,7 +9061,7 @@ function Rc() {
         end: "`",
         returnEnd: !1,
         contains: [
-          h.BACKSLASH_ESCAPE,
+          p.BACKSLASH_ESCAPE,
           D
         ],
         subLanguage: "xml"
@@ -9055,19 +9073,19 @@ function Rc() {
         end: "`",
         returnEnd: !1,
         contains: [
-          h.BACKSLASH_ESCAPE,
+          p.BACKSLASH_ESCAPE,
           D
         ],
         subLanguage: "css"
       }
-    }, g = {
+    }, h = {
       begin: ".?gql`",
       end: "",
       starts: {
         end: "`",
         returnEnd: !1,
         contains: [
-          h.BACKSLASH_ESCAPE,
+          p.BACKSLASH_ESCAPE,
           D
         ],
         subLanguage: "graphql"
@@ -9077,13 +9095,13 @@ function Rc() {
       begin: "`",
       end: "`",
       contains: [
-        h.BACKSLASH_ESCAPE,
+        p.BACKSLASH_ESCAPE,
         D
       ]
     }, y = {
       className: "comment",
       variants: [
-        h.COMMENT(
+        p.COMMENT(
           /\/\*\*(?!\/)/,
           "\\*/",
           {
@@ -9122,24 +9140,24 @@ function Rc() {
             ]
           }
         ),
-        h.C_BLOCK_COMMENT_MODE,
-        h.C_LINE_COMMENT_MODE
+        p.C_BLOCK_COMMENT_MODE,
+        p.C_LINE_COMMENT_MODE
       ]
-    }, N = [
-      h.APOS_STRING_MODE,
-      h.QUOTE_STRING_MODE,
+    }, O = [
+      p.APOS_STRING_MODE,
+      p.QUOTE_STRING_MODE,
       v,
       E,
-      g,
+      h,
       S,
       // Skip numbers when they are part of a variable name
       { match: /\$\d+/ },
-      A
+      R
       // This is intentional:
       // See https://github.com/highlightjs/highlight.js/issues/3288
       // hljs.REGEXP_MODE
     ];
-    D.contains = N.concat({
+    D.contains = O.concat({
       // we need to pair up {} inside our subst to prevent
       // it from ending too early by matching another }
       begin: /\{/,
@@ -9147,7 +9165,7 @@ function Rc() {
       keywords: d,
       contains: [
         "self"
-      ].concat(N)
+      ].concat(O)
     });
     const F = [].concat(y, D.contains), G = F.concat([
       // eat recursive parens in sub expressions
@@ -9302,7 +9320,7 @@ function Rc() {
         },
         X
       ]
-    }, Me = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + h.UNDERSCORE_IDENT_RE + ")\\s*=>", Fe = {
+    }, Me = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + p.UNDERSCORE_IDENT_RE + ")\\s*=>", Fe = {
       match: [
         /const|var|let/,
         /\s+/,
@@ -9330,22 +9348,22 @@ function Rc() {
       exports: { PARAMS_CONTAINS: G, CLASS_REFERENCE: T },
       illegal: /#(?![$_A-z])/,
       contains: [
-        h.SHEBANG({
+        p.SHEBANG({
           label: "shebang",
           binary: "node",
           relevance: 5
         }),
         I,
-        h.APOS_STRING_MODE,
-        h.QUOTE_STRING_MODE,
+        p.APOS_STRING_MODE,
+        p.QUOTE_STRING_MODE,
         v,
         E,
-        g,
+        h,
         S,
         y,
         // Skip numbers when they are part of a variable name
         { match: /\$\d+/ },
-        A,
+        R,
         T,
         {
           scope: "attr",
@@ -9355,12 +9373,12 @@ function Rc() {
         Fe,
         {
           // "value" container
-          begin: "(" + h.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
+          begin: "(" + p.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
           keywords: "return throw case",
           relevance: 0,
           contains: [
             y,
-            h.REGEXP_MODE,
+            p.REGEXP_MODE,
             {
               className: "function",
               // we have to count the parens to make sure we actually have the
@@ -9374,7 +9392,7 @@ function Rc() {
                   className: "params",
                   variants: [
                     {
-                      begin: h.UNDERSCORE_IDENT_RE,
+                      begin: p.UNDERSCORE_IDENT_RE,
                       relevance: 0
                     },
                     {
@@ -9407,20 +9425,20 @@ function Rc() {
               // JSX
               variants: [
                 { begin: w.begin, end: w.end },
-                { match: x },
+                { match: N },
                 {
-                  begin: O.begin,
+                  begin: x.begin,
                   // we carefully check the opening tag to see if it truly
                   // is a tag and not a false positive
-                  "on:begin": O.isTrulyOpeningTag,
-                  end: O.end
+                  "on:begin": x.isTrulyOpeningTag,
+                  end: x.end
                 }
               ],
               subLanguage: "xml",
               contains: [
                 {
-                  begin: O.begin,
-                  end: O.end,
+                  begin: x.begin,
+                  end: x.end,
                   skip: !0,
                   contains: ["self"]
                 }
@@ -9438,13 +9456,13 @@ function Rc() {
           // we have to count the parens to make sure we actually have the correct
           // bounding ( ).  There could be any number of sub-expressions inside
           // also surrounded by parens.
-          begin: "\\b(?!function)" + h.UNDERSCORE_IDENT_RE + "\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)\\s*\\{",
+          begin: "\\b(?!function)" + p.UNDERSCORE_IDENT_RE + "\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)\\s*\\{",
           // end parens
           returnBegin: !0,
           label: "func.def",
           contains: [
             X,
-            h.inherit(h.TITLE_MODE, { begin: m, className: "title.function" })
+            p.inherit(p.TITLE_MODE, { begin: m, className: "title.function" })
           ]
         },
         // catch ... so it won't trigger the property rule below
@@ -9482,8 +9500,8 @@ var Ln, xs;
 function Ac() {
   if (xs) return Ln;
   xs = 1;
-  function s(t) {
-    const n = {
+  function s(n) {
+    const t = {
       className: "attr",
       begin: /"(\\.|[^\\"\r\n])*"(?=\s*:)/,
       relevance: 1.01
@@ -9506,13 +9524,13 @@ function Ac() {
         literal: i
       },
       contains: [
-        n,
+        t,
         e,
-        t.QUOTE_STRING_MODE,
+        n.QUOTE_STRING_MODE,
         a,
-        t.C_NUMBER_MODE,
-        t.C_LINE_COMMENT_MODE,
-        t.C_BLOCK_COMMENT_MODE
+        n.C_NUMBER_MODE,
+        n.C_LINE_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE
       ],
       illegal: "\\S"
     };
@@ -9523,22 +9541,22 @@ var Dn, Ns;
 function Cc() {
   if (Ns) return Dn;
   Ns = 1;
-  var s = "[0-9](_*[0-9])*", t = `\\.(${s})`, n = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
+  var s = "[0-9](_*[0-9])*", n = `\\.(${s})`, t = "[0-9a-fA-F](_*[0-9a-fA-F])*", e = {
     className: "number",
     variants: [
       // DecimalFloatingPointLiteral
       // including ExponentPart
-      { begin: `(\\b(${s})((${t})|\\.)?|(${t}))[eE][+-]?(${s})[fFdD]?\\b` },
+      { begin: `(\\b(${s})((${n})|\\.)?|(${n}))[eE][+-]?(${s})[fFdD]?\\b` },
       // excluding ExponentPart
-      { begin: `\\b(${s})((${t})[fFdD]?\\b|\\.([fFdD]\\b)?)` },
-      { begin: `(${t})[fFdD]?\\b` },
+      { begin: `\\b(${s})((${n})[fFdD]?\\b|\\.([fFdD]\\b)?)` },
+      { begin: `(${n})[fFdD]?\\b` },
       { begin: `\\b(${s})[fFdD]\\b` },
       // HexadecimalFloatingPointLiteral
-      { begin: `\\b0[xX]((${n})\\.?|(${n})?\\.(${n}))[pP][+-]?(${s})[fFdD]?\\b` },
+      { begin: `\\b0[xX]((${t})\\.?|(${t})?\\.(${t}))[pP][+-]?(${s})[fFdD]?\\b` },
       // DecimalIntegerLiteral
       { begin: "\\b(0|[1-9](_*[0-9])*)[lL]?\\b" },
       // HexIntegerLiteral
-      { begin: `\\b0[xX](${n})[lL]?\\b` },
+      { begin: `\\b0[xX](${t})[lL]?\\b` },
       // OctalIntegerLiteral
       { begin: "\\b0(_*[0-7])*[lL]?\\b" },
       // BinaryIntegerLiteral
@@ -9563,7 +9581,7 @@ function Cc() {
     }, _ = {
       className: "symbol",
       begin: a.UNDERSCORE_IDENT_RE + "@"
-    }, h = {
+    }, p = {
       className: "subst",
       begin: /\$\{/,
       end: /\}/,
@@ -9571,7 +9589,7 @@ function Cc() {
     }, u = {
       className: "variable",
       begin: "\\$" + a.UNDERSCORE_IDENT_RE
-    }, p = {
+    }, g = {
       className: "string",
       variants: [
         {
@@ -9579,7 +9597,7 @@ function Cc() {
           end: '"""(?=[^"])',
           contains: [
             u,
-            h
+            p
           ]
         },
         // Can't use built-in modes easily, as we want to use STRING in the meta
@@ -9598,12 +9616,12 @@ function Cc() {
           contains: [
             a.BACKSLASH_ESCAPE,
             u,
-            h
+            p
           ]
         }
       ]
     };
-    h.contains.push(p);
+    p.contains.push(g);
     const m = {
       className: "meta",
       begin: "@(?:file|property|field|get|set|receiver|param|setparam|delegate)\\s*:(?:\\s*" + a.UNDERSCORE_IDENT_RE + ")?"
@@ -9615,12 +9633,12 @@ function Cc() {
           begin: /\(/,
           end: /\)/,
           contains: [
-            a.inherit(p, { className: "string" }),
+            a.inherit(g, { className: "string" }),
             "self"
           ]
         }
       ]
-    }, x = e, O = a.COMMENT(
+    }, N = e, x = a.COMMENT(
       "/\\*",
       "\\*/",
       { contains: [a.C_BLOCK_COMMENT_MODE] }
@@ -9658,7 +9676,7 @@ function Cc() {
           }
         ),
         a.C_LINE_COMMENT_MODE,
-        O,
+        x,
         o,
         _,
         m,
@@ -9700,19 +9718,19 @@ function Cc() {
                   contains: [
                     d,
                     a.C_LINE_COMMENT_MODE,
-                    O
+                    x
                   ],
                   relevance: 0
                 },
                 a.C_LINE_COMMENT_MODE,
-                O,
+                x,
                 m,
                 w,
-                p,
+                g,
                 a.C_NUMBER_MODE
               ]
             },
-            O
+            x
           ]
         },
         {
@@ -9750,7 +9768,7 @@ function Cc() {
             w
           ]
         },
-        p,
+        g,
         {
           className: "meta",
           begin: "^#!/usr/bin/env",
@@ -9758,7 +9776,7 @@ function Cc() {
           illegal: `
 `
         },
-        x
+        N
       ]
     };
   }
@@ -9801,7 +9819,7 @@ function Ic() {
       className: "attr",
       begin: /--[A-Za-z_][A-Za-z0-9_-]*/
     }
-  }), t = [
+  }), n = [
     "a",
     "abbr",
     "address",
@@ -9879,7 +9897,7 @@ function Ic() {
     "ul",
     "var",
     "video"
-  ], n = [
+  ], t = [
     "defs",
     "g",
     "marker",
@@ -9922,8 +9940,8 @@ function Ic() {
     "foreignObject",
     "clipPath"
   ], e = [
-    ...t,
-    ...n
+    ...n,
+    ...t
   ], i = [
     "any-hover",
     "any-pointer",
@@ -10565,20 +10583,20 @@ function Ic() {
     "z-index",
     "zoom"
   ].sort().reverse(), _ = a.concat(l).sort().reverse();
-  function h(u) {
-    const p = s(u), m = _, w = "and or not only", x = "[\\w-]+", O = "(" + x + "|@\\{" + x + "\\})", d = [], c = [], f = function(F) {
+  function p(u) {
+    const g = s(u), m = _, w = "and or not only", N = "[\\w-]+", x = "(" + N + "|@\\{" + N + "\\})", d = [], c = [], f = function(F) {
       return {
         // Less strings are not multiline (also include '~' for more consistent coloring of "escaped" strings)
         className: "string",
         begin: "~?" + F + ".*?" + F
       };
-    }, R = function(F, G, X) {
+    }, A = function(F, G, X) {
       return {
         className: F,
         begin: G,
         relevance: X
       };
-    }, A = {
+    }, R = {
       $pattern: /[a-z-]+/,
       keyword: w,
       attribute: i.join(" ")
@@ -10587,7 +10605,7 @@ function Ic() {
       begin: "\\(",
       end: "\\)",
       contains: c,
-      keywords: A,
+      keywords: R,
       relevance: 0
     };
     c.push(
@@ -10595,7 +10613,7 @@ function Ic() {
       u.C_BLOCK_COMMENT_MODE,
       f("'"),
       f('"'),
-      p.CSS_NUMBER_MODE,
+      g.CSS_NUMBER_MODE,
       // fixme: it does not include dot for numbers like .5em :(
       {
         begin: "(url|data-uri)\\(",
@@ -10605,23 +10623,23 @@ function Ic() {
           excludeEnd: !0
         }
       },
-      p.HEXCOLOR,
+      g.HEXCOLOR,
       D,
-      R("variable", "@@?" + x, 10),
-      R("variable", "@\\{" + x + "\\}"),
-      R("built_in", "~?`[^`]*?`"),
+      A("variable", "@@?" + N, 10),
+      A("variable", "@\\{" + N + "\\}"),
+      A("built_in", "~?`[^`]*?`"),
       // inline javascript (or whatever host language) *multiline* string
       {
         // @media features (it’s here to not duplicate things in AT_RULE_MODE with extra PARENS_MODE overriding):
         className: "attribute",
-        begin: x + "\\s*:",
+        begin: N + "\\s*:",
         end: ":",
         returnBegin: !0,
         excludeEnd: !0
       },
-      p.IMPORTANT,
+      g.IMPORTANT,
       { beginKeywords: "and not" },
-      p.FUNCTION_DISPATCH
+      g.FUNCTION_DISPATCH
     );
     const v = c.concat({
       begin: /\{/,
@@ -10632,14 +10650,14 @@ function Ic() {
       endsWithParent: !0,
       contains: [{ beginKeywords: "and not" }].concat(c)
       // using this form to override VALUE’s 'function' match
-    }, g = {
-      begin: O + "\\s*:",
+    }, h = {
+      begin: x + "\\s*:",
       returnBegin: !0,
       end: /[;}]/,
       relevance: 0,
       contains: [
         { begin: /-(webkit|moz|ms|o)-/ },
-        p.CSS_VARIABLE,
+        g.CSS_VARIABLE,
         {
           className: "attribute",
           begin: "\\b(" + o.join("|") + ")\\b",
@@ -10657,7 +10675,7 @@ function Ic() {
       begin: "@(import|media|charset|font-face|(-[a-z]+-)?keyframes|supports|document|namespace|page|viewport|host)\\b",
       starts: {
         end: "[;{}]",
-        keywords: A,
+        keywords: R,
         returnEnd: !0,
         contains: c,
         relevance: 0
@@ -10670,10 +10688,10 @@ function Ic() {
         // (we’ll still often loose to the css-parser unless there's '//' comment,
         // simply because 1 variable just can't beat 99 properties :)
         {
-          begin: "@" + x + "\\s*:",
+          begin: "@" + N + "\\s*:",
           relevance: 15
         },
-        { begin: "@" + x }
+        { begin: "@" + N }
       ],
       starts: {
         end: "[;}]",
@@ -10691,7 +10709,7 @@ function Ic() {
           // mixin calls end with ';'
         },
         {
-          begin: O,
+          begin: x,
           end: /\{/
         }
       ],
@@ -10703,19 +10721,19 @@ function Ic() {
         u.C_LINE_COMMENT_MODE,
         u.C_BLOCK_COMMENT_MODE,
         E,
-        R("keyword", "all\\b"),
-        R("variable", "@\\{" + x + "\\}"),
+        A("keyword", "all\\b"),
+        A("variable", "@\\{" + N + "\\}"),
         // otherwise it’s identified as tag
         {
           begin: "\\b(" + e.join("|") + ")\\b",
           className: "selector-tag"
         },
-        p.CSS_NUMBER_MODE,
-        R("selector-tag", O, 0),
-        R("selector-id", "#" + O),
-        R("selector-class", "\\." + O, 0),
-        R("selector-tag", "&", 0),
-        p.ATTRIBUTE_SELECTOR_MODE,
+        g.CSS_NUMBER_MODE,
+        A("selector-tag", x, 0),
+        A("selector-id", "#" + x),
+        A("selector-class", "\\." + x, 0),
+        A("selector-tag", "&", 0),
+        g.ATTRIBUTE_SELECTOR_MODE,
         {
           className: "selector-pseudo",
           begin: ":(" + a.join("|") + ")"
@@ -10733,10 +10751,10 @@ function Ic() {
         // argument list of parametric mixins
         { begin: "!important" },
         // eat !important after mixin call or it will be colored as tag
-        p.FUNCTION_DISPATCH
+        g.FUNCTION_DISPATCH
       ]
-    }, N = {
-      begin: x + `:(:)?(${m.join("|")})`,
+    }, O = {
+      begin: N + `:(:)?(${m.join("|")})`,
       returnBegin: !0,
       contains: [y]
     };
@@ -10745,11 +10763,11 @@ function Ic() {
       u.C_BLOCK_COMMENT_MODE,
       S,
       r,
-      N,
-      g,
+      O,
+      h,
       y,
       E,
-      p.FUNCTION_DISPATCH
+      g.FUNCTION_DISPATCH
     ), {
       name: "Less",
       case_insensitive: !0,
@@ -10757,21 +10775,21 @@ function Ic() {
       contains: d
     };
   }
-  return Bn = h, Bn;
+  return Bn = p, Bn;
 }
 var Pn, Ss;
 function Mc() {
   if (Ss) return Pn;
   Ss = 1;
-  function s(t) {
-    const n = "\\[=*\\[", e = "\\]=*\\]", i = {
-      begin: n,
+  function s(n) {
+    const t = "\\[=*\\[", e = "\\]=*\\]", i = {
+      begin: t,
       end: e,
       contains: ["self"]
     }, a = [
-      t.COMMENT("--(?!" + n + ")", "$"),
-      t.COMMENT(
-        "--" + n,
+      n.COMMENT("--(?!" + t + ")", "$"),
+      n.COMMENT(
+        "--" + t,
         e,
         {
           contains: [i],
@@ -10783,7 +10801,7 @@ function Mc() {
       name: "Lua",
       aliases: ["pluto"],
       keywords: {
-        $pattern: t.UNDERSCORE_IDENT_RE,
+        $pattern: n.UNDERSCORE_IDENT_RE,
         literal: "true false nil",
         keyword: "and break do else elseif end for goto if in local not or repeat return then until while",
         built_in: (
@@ -10797,7 +10815,7 @@ function Mc() {
           beginKeywords: "function",
           end: "\\)",
           contains: [
-            t.inherit(t.TITLE_MODE, { begin: "([_a-zA-Z]\\w*\\.)*([_a-zA-Z]\\w*:)?[_a-zA-Z]\\w*" }),
+            n.inherit(n.TITLE_MODE, { begin: "([_a-zA-Z]\\w*\\.)*([_a-zA-Z]\\w*:)?[_a-zA-Z]\\w*" }),
             {
               className: "params",
               begin: "\\(",
@@ -10806,12 +10824,12 @@ function Mc() {
             }
           ].concat(a)
         },
-        t.C_NUMBER_MODE,
-        t.APOS_STRING_MODE,
-        t.QUOTE_STRING_MODE,
+        n.C_NUMBER_MODE,
+        n.APOS_STRING_MODE,
+        n.QUOTE_STRING_MODE,
         {
           className: "string",
-          begin: n,
+          begin: t,
           end: e,
           contains: [i],
           relevance: 5
@@ -10825,13 +10843,13 @@ var Un, Ts;
 function Lc() {
   if (Ts) return Un;
   Ts = 1;
-  function s(t) {
-    const n = {
+  function s(n) {
+    const t = {
       className: "variable",
       variants: [
         {
-          begin: "\\$\\(" + t.UNDERSCORE_IDENT_RE + "\\)",
-          contains: [t.BACKSLASH_ESCAPE]
+          begin: "\\$\\(" + n.UNDERSCORE_IDENT_RE + "\\)",
+          contains: [n.BACKSLASH_ESCAPE]
         },
         { begin: /\$[@%<?\^\+\*]/ }
       ]
@@ -10840,8 +10858,8 @@ function Lc() {
       begin: /"/,
       end: /"/,
       contains: [
-        t.BACKSLASH_ESCAPE,
-        n
+        n.BACKSLASH_ESCAPE,
+        t
       ]
     }, i = {
       className: "variable",
@@ -10849,11 +10867,11 @@ function Lc() {
       end: /\)/,
       keywords: { built_in: "subst patsubst strip findstring filter filter-out sort word wordlist firstword lastword dir notdir suffix basename addsuffix addprefix join wildcard realpath abspath error warning shell origin flavor foreach if or and call eval file value" },
       contains: [
-        n,
+        t,
         e
         // Added QUOTE_STRING as they can be a part of functions
       ]
-    }, a = { begin: "^" + t.UNDERSCORE_IDENT_RE + "\\s*(?=[:+?]?=)" }, l = {
+    }, a = { begin: "^" + n.UNDERSCORE_IDENT_RE + "\\s*(?=[:+?]?=)" }, l = {
       className: "meta",
       begin: /^\.PHONY:/,
       end: /$/,
@@ -10865,7 +10883,7 @@ function Lc() {
       className: "section",
       begin: /^[^\s]+:/,
       end: /$/,
-      contains: [n]
+      contains: [t]
     };
     return {
       name: "Makefile",
@@ -10879,8 +10897,8 @@ function Lc() {
         keyword: "define endef undefine ifdef ifndef ifeq ifneq else endif include -include sinclude override export unexport private vpath"
       },
       contains: [
-        t.HASH_COMMENT_MODE,
-        n,
+        n.HASH_COMMENT_MODE,
+        t,
         e,
         i,
         a,
@@ -10895,8 +10913,8 @@ var $n, ks;
 function Dc() {
   if (ks) return $n;
   ks = 1;
-  function s(t) {
-    const n = t.regex, e = [
+  function s(n) {
+    const t = n.regex, e = [
       "abs",
       "accept",
       "alarm",
@@ -11145,12 +11163,12 @@ function Dc() {
     }, _ = {
       scope: "attr",
       match: /\s+:\s*\w+(\s*\(.*?\))?/
-    }, h = {
+    }, p = {
       scope: "variable",
       variants: [
         { begin: /\$\d/ },
         {
-          begin: n.concat(
+          begin: t.concat(
             /[$%@](?!")(\^\w\b|#\w+(::\w+)*|\{\w+\}|\w+(::\w*)*)/,
             // negative look-ahead tries to avoid matching patterns that are not
             // Perl at all like $ident$, @ident@, etc.
@@ -11179,10 +11197,10 @@ function Dc() {
         { match: /\b0b[0-1][0-1_]*\b/ }
       ],
       relevance: 0
-    }, p = [
-      t.BACKSLASH_ESCAPE,
+    }, g = [
+      n.BACKSLASH_ESCAPE,
       l,
-      h
+      p
     ], m = [
       /!/,
       /\//,
@@ -11194,26 +11212,26 @@ function Dc() {
       /#/
       // valid but infrequent and weird
     ], w = (d, c, f = "\\1") => {
-      const R = f === "\\1" ? f : n.concat(f, c);
-      return n.concat(
-        n.concat("(?:", d, ")"),
+      const A = f === "\\1" ? f : t.concat(f, c);
+      return t.concat(
+        t.concat("(?:", d, ")"),
         c,
         /(?:\\.|[^\\\/])*?/,
-        R,
+        A,
         /(?:\\.|[^\\\/])*?/,
         f,
         i
       );
-    }, x = (d, c, f) => n.concat(
-      n.concat("(?:", d, ")"),
+    }, N = (d, c, f) => t.concat(
+      t.concat("(?:", d, ")"),
       c,
       /(?:\\.|[^\\\/])*?/,
       f,
       i
-    ), O = [
-      h,
-      t.HASH_COMMENT_MODE,
-      t.COMMENT(
+    ), x = [
+      p,
+      n.HASH_COMMENT_MODE,
+      n.COMMENT(
         /^=\w/,
         /=cut/,
         { endsWithParent: !0 }
@@ -11221,7 +11239,7 @@ function Dc() {
       o,
       {
         className: "string",
-        contains: p,
+        contains: g,
         variants: [
           {
             begin: "q[qwxr]?\\s*\\(",
@@ -11256,7 +11274,7 @@ function Dc() {
           {
             begin: "'",
             end: "'",
-            contains: [t.BACKSLASH_ESCAPE]
+            contains: [n.BACKSLASH_ESCAPE]
           },
           {
             begin: '"',
@@ -11265,7 +11283,7 @@ function Dc() {
           {
             begin: "`",
             end: "`",
-            contains: [t.BACKSLASH_ESCAPE]
+            contains: [n.BACKSLASH_ESCAPE]
           },
           {
             begin: /\{\w+\}/,
@@ -11280,16 +11298,16 @@ function Dc() {
       u,
       {
         // regexp container
-        begin: "(\\/\\/|" + t.RE_STARTERS_RE + "|\\b(split|return|print|reverse|grep)\\b)\\s*",
+        begin: "(\\/\\/|" + n.RE_STARTERS_RE + "|\\b(split|return|print|reverse|grep)\\b)\\s*",
         keywords: "split return print reverse grep",
         relevance: 0,
         contains: [
-          t.HASH_COMMENT_MODE,
+          n.HASH_COMMENT_MODE,
           {
             className: "regexp",
             variants: [
               // allow matching common delimiters
-              { begin: w("s|tr|y", n.either(...m, { capture: !0 })) },
+              { begin: w("s|tr|y", t.either(...m, { capture: !0 })) },
               // and then paired delmis
               { begin: w("s|tr|y", "\\(", "\\)") },
               { begin: w("s|tr|y", "\\[", "\\]") },
@@ -11307,13 +11325,13 @@ function Dc() {
                 relevance: 0
               },
               // prefix is optional with /regex/
-              { begin: x("(?:m|qr)?", /\//, /\//) },
+              { begin: N("(?:m|qr)?", /\//, /\//) },
               // allow matching common delimiters
-              { begin: x("m|qr", n.either(...m, { capture: !0 }), /\1/) },
+              { begin: N("m|qr", t.either(...m, { capture: !0 }), /\1/) },
               // allow common paired delmins
-              { begin: x("m|qr", /\(/, /\)/) },
-              { begin: x("m|qr", /\[/, /\]/) },
-              { begin: x("m|qr", /\{/, /\}/) }
+              { begin: N("m|qr", /\(/, /\)/) },
+              { begin: N("m|qr", /\[/, /\]/) },
+              { begin: N("m|qr", /\{/, /\}/) }
             ]
           }
         ]
@@ -11324,7 +11342,7 @@ function Dc() {
         end: "(\\s*\\(.*?\\))?[;{]",
         excludeEnd: !0,
         relevance: 5,
-        contains: [t.TITLE_MODE, _]
+        contains: [n.TITLE_MODE, _]
       },
       {
         className: "class",
@@ -11332,7 +11350,7 @@ function Dc() {
         end: "[;{]",
         excludeEnd: !0,
         relevance: 5,
-        contains: [t.TITLE_MODE, _, u]
+        contains: [n.TITLE_MODE, _, u]
       },
       {
         begin: "-\\w\\b",
@@ -11351,14 +11369,14 @@ function Dc() {
         ]
       }
     ];
-    return l.contains = O, o.contains = O, {
+    return l.contains = x, o.contains = x, {
       name: "Perl",
       aliases: [
         "pl",
         "pm"
       ],
       keywords: a,
-      contains: O
+      contains: x
     };
   }
   return $n = s, $n;
@@ -11367,8 +11385,8 @@ var zn, Rs;
 function Bc() {
   if (Rs) return zn;
   Rs = 1;
-  function s(t) {
-    const n = {
+  function s(n) {
+    const t = {
       className: "built_in",
       begin: "\\b(AV|CA|CF|CG|CI|CL|CM|CN|CT|MK|MP|MTK|MTL|NS|SCN|SK|UI|WK|XC)\\w+"
     }, e = /[a-zA-Z@][a-zA-Z0-9_]*/, _ = {
@@ -11527,7 +11545,7 @@ function Bc() {
         "id|0",
         "_Bool"
       ]
-    }, h = {
+    }, p = {
       $pattern: e,
       keyword: [
         "@interface",
@@ -11548,12 +11566,12 @@ function Bc() {
       keywords: _,
       illegal: "</",
       contains: [
-        n,
-        t.C_LINE_COMMENT_MODE,
-        t.C_BLOCK_COMMENT_MODE,
-        t.C_NUMBER_MODE,
-        t.QUOTE_STRING_MODE,
-        t.APOS_STRING_MODE,
+        t,
+        n.C_LINE_COMMENT_MODE,
+        n.C_BLOCK_COMMENT_MODE,
+        n.C_NUMBER_MODE,
+        n.QUOTE_STRING_MODE,
+        n.APOS_STRING_MODE,
         {
           className: "string",
           variants: [
@@ -11561,7 +11579,7 @@ function Bc() {
               begin: '@"',
               end: '"',
               illegal: "\\n",
-              contains: [t.BACKSLASH_ESCAPE]
+              contains: [n.BACKSLASH_ESCAPE]
             }
           ]
         },
@@ -11575,27 +11593,27 @@ function Bc() {
               begin: /\\\n/,
               relevance: 0
             },
-            t.inherit(t.QUOTE_STRING_MODE, { className: "string" }),
+            n.inherit(n.QUOTE_STRING_MODE, { className: "string" }),
             {
               className: "string",
               begin: /<.*?>/,
               end: /$/,
               illegal: "\\n"
             },
-            t.C_LINE_COMMENT_MODE,
-            t.C_BLOCK_COMMENT_MODE
+            n.C_LINE_COMMENT_MODE,
+            n.C_BLOCK_COMMENT_MODE
           ]
         },
         {
           className: "class",
-          begin: "(" + h.keyword.join("|") + ")\\b",
+          begin: "(" + p.keyword.join("|") + ")\\b",
           end: /(\{|$)/,
           excludeEnd: !0,
-          keywords: h,
-          contains: [t.UNDERSCORE_TITLE_MODE]
+          keywords: p,
+          contains: [n.UNDERSCORE_TITLE_MODE]
         },
         {
-          begin: "\\." + t.UNDERSCORE_IDENT_RE,
+          begin: "\\." + n.UNDERSCORE_IDENT_RE,
           relevance: 0
         }
       ]
@@ -11607,14 +11625,14 @@ var Fn, As;
 function Pc() {
   if (As) return Fn;
   As = 1;
-  function s(t) {
-    const n = t.regex, e = /(?![A-Za-z0-9])(?![$])/, i = n.concat(
+  function s(n) {
+    const t = n.regex, e = /(?![A-Za-z0-9])(?![$])/, i = t.concat(
       /[a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*/,
       e
-    ), a = n.concat(
+    ), a = t.concat(
       /(\\?[A-Z][a-z0-9_\x7f-\xff]+|\\?[A-Z]+(?=[A-Z][a-z0-9_\x7f-\xff])){1,}/,
       e
-    ), l = n.concat(
+    ), l = t.concat(
       /[A-Z]+/,
       e
     ), o = {
@@ -11631,7 +11649,7 @@ function Pc() {
         { begin: /\?>/ }
         // end php tag
       ]
-    }, h = {
+    }, p = {
       scope: "subst",
       variants: [
         { begin: /\$\w+/ },
@@ -11640,27 +11658,27 @@ function Pc() {
           end: /\}/
         }
       ]
-    }, u = t.inherit(t.APOS_STRING_MODE, { illegal: null }), p = t.inherit(t.QUOTE_STRING_MODE, {
+    }, u = n.inherit(n.APOS_STRING_MODE, { illegal: null }), g = n.inherit(n.QUOTE_STRING_MODE, {
       illegal: null,
-      contains: t.QUOTE_STRING_MODE.contains.concat(h)
+      contains: n.QUOTE_STRING_MODE.contains.concat(p)
     }), m = {
       begin: /<<<[ \t]*(?:(\w+)|"(\w+)")\n/,
       end: /[ \t]*(\w+)\b/,
-      contains: t.QUOTE_STRING_MODE.contains.concat(h),
+      contains: n.QUOTE_STRING_MODE.contains.concat(p),
       "on:begin": (X, M) => {
         M.data._beginMatch = X[1] || X[2];
       },
       "on:end": (X, M) => {
         M.data._beginMatch !== X[1] && M.ignoreMatch();
       }
-    }, w = t.END_SAME_AS_BEGIN({
+    }, w = n.END_SAME_AS_BEGIN({
       begin: /<<<[ \t]*'(\w+)'\n/,
       end: /[ \t]*(\w+)\b/
-    }), x = `[ 	
-]`, O = {
+    }), N = `[ 	
+]`, x = {
       scope: "string",
       variants: [
-        p,
+        g,
         u,
         m,
         w
@@ -11782,7 +11800,7 @@ function Pc() {
       "while",
       "xor",
       "yield"
-    ], R = [
+    ], A = [
       // Standard PHP library:
       // <https://www.php.net/manual/en/book.spl.php>
       "Error|0",
@@ -11885,14 +11903,14 @@ function Pc() {
           M.push(T), T.toLowerCase() === T ? M.push(T.toUpperCase()) : M.push(T.toLowerCase());
         }), M;
       })(c),
-      built_in: R
+      built_in: A
     }, v = (X) => X.map((M) => M.replace(/\|\d+$/, "")), E = { variants: [
       {
         match: [
           /new/,
-          n.concat(x, "+"),
+          t.concat(N, "+"),
           // to prevent built ins from being confused as the class constructor call
-          n.concat("(?!", v(R).join("\\b|"), "\\b)"),
+          t.concat("(?!", v(A).join("\\b|"), "\\b)"),
           a
         ],
         scope: {
@@ -11900,14 +11918,14 @@ function Pc() {
           4: "title.class"
         }
       }
-    ] }, g = n.concat(i, "\\b(?!\\()"), S = { variants: [
+    ] }, h = t.concat(i, "\\b(?!\\()"), S = { variants: [
       {
         match: [
-          n.concat(
+          t.concat(
             /::/,
-            n.lookahead(/(?!class\b)/)
+            t.lookahead(/(?!class\b)/)
           ),
-          g
+          h
         ],
         scope: { 2: "variable.constant" }
       },
@@ -11921,11 +11939,11 @@ function Pc() {
       {
         match: [
           a,
-          n.concat(
+          t.concat(
             /::/,
-            n.lookahead(/(?!class\b)/)
+            t.lookahead(/(?!class\b)/)
           ),
-          g
+          h
         ],
         scope: {
           1: "title.class",
@@ -11935,9 +11953,9 @@ function Pc() {
       {
         match: [
           a,
-          n.concat(
+          t.concat(
             "::",
-            n.lookahead(/(?!class\b)/)
+            t.lookahead(/(?!class\b)/)
           )
         ],
         scope: { 1: "title.class" }
@@ -11955,7 +11973,7 @@ function Pc() {
       }
     ] }, r = {
       scope: "attr",
-      match: n.concat(i, n.lookahead(":"), n.lookahead(/(?!::)/))
+      match: t.concat(i, t.lookahead(":"), t.lookahead(/(?!::)/))
     }, y = {
       relevance: 0,
       begin: /\(/,
@@ -11965,36 +11983,36 @@ function Pc() {
         r,
         o,
         S,
-        t.C_BLOCK_COMMENT_MODE,
-        O,
+        n.C_BLOCK_COMMENT_MODE,
+        x,
         d,
         E
       ]
-    }, N = {
+    }, O = {
       relevance: 0,
       match: [
         /\b/,
         // to prevent keywords from being confused as the function title
-        n.concat("(?!fn\\b|function\\b|", v(f).join("\\b|"), "|", v(R).join("\\b|"), "\\b)"),
+        t.concat("(?!fn\\b|function\\b|", v(f).join("\\b|"), "|", v(A).join("\\b|"), "\\b)"),
         i,
-        n.concat(x, "*"),
-        n.lookahead(/(?=\()/)
+        t.concat(N, "*"),
+        t.lookahead(/(?=\()/)
       ],
       scope: { 3: "title.function.invoke" },
       contains: [y]
     };
-    y.contains.push(N);
+    y.contains.push(O);
     const F = [
       r,
       S,
-      t.C_BLOCK_COMMENT_MODE,
-      O,
+      n.C_BLOCK_COMMENT_MODE,
+      x,
       d,
       E
     ], G = {
-      begin: n.concat(
+      begin: t.concat(
         /#\[\s*\\?/,
-        n.either(
+        t.either(
           a,
           l
         )
@@ -12040,9 +12058,9 @@ function Pc() {
       keywords: D,
       contains: [
         G,
-        t.HASH_COMMENT_MODE,
-        t.COMMENT("//", "$"),
-        t.COMMENT(
+        n.HASH_COMMENT_MODE,
+        n.COMMENT("//", "$"),
+        n.COMMENT(
           "/\\*",
           "\\*/",
           { contains: [
@@ -12057,7 +12075,7 @@ function Pc() {
           keywords: "__halt_compiler",
           starts: {
             scope: "comment",
-            end: t.MATCH_NOTHING_RE,
+            end: n.MATCH_NOTHING_RE,
             contains: [
               {
                 match: /\?>/,
@@ -12073,7 +12091,7 @@ function Pc() {
           match: /\$this\b/
         },
         o,
-        N,
+        O,
         S,
         {
           match: [
@@ -12096,7 +12114,7 @@ function Pc() {
           illegal: "[$%\\[]",
           contains: [
             { beginKeywords: "use" },
-            t.UNDERSCORE_TITLE_MODE,
+            n.UNDERSCORE_TITLE_MODE,
             {
               begin: "=>",
               // No markup, just a relevance booster
@@ -12114,8 +12132,8 @@ function Pc() {
                 G,
                 o,
                 S,
-                t.C_BLOCK_COMMENT_MODE,
-                O,
+                n.C_BLOCK_COMMENT_MODE,
+                x,
                 d
               ]
             }
@@ -12138,7 +12156,7 @@ function Pc() {
           excludeEnd: !0,
           contains: [
             { beginKeywords: "extends implements" },
-            t.UNDERSCORE_TITLE_MODE
+            n.UNDERSCORE_TITLE_MODE
           ]
         },
         // both use and namespace still use "old style" rules (vs multi-match)
@@ -12149,7 +12167,7 @@ function Pc() {
           relevance: 0,
           end: ";",
           illegal: /[.']/,
-          contains: [t.inherit(t.UNDERSCORE_TITLE_MODE, { scope: "title.class" })]
+          contains: [n.inherit(n.UNDERSCORE_TITLE_MODE, { scope: "title.class" })]
         },
         {
           beginKeywords: "use",
@@ -12162,10 +12180,10 @@ function Pc() {
               scope: "keyword"
             },
             // TODO: could be title.class or title.function
-            t.UNDERSCORE_TITLE_MODE
+            n.UNDERSCORE_TITLE_MODE
           ]
         },
-        O,
+        x,
         d
       ]
     };
@@ -12176,7 +12194,7 @@ var Kn, Cs;
 function Uc() {
   if (Cs) return Kn;
   Cs = 1;
-  function s(t) {
+  function s(n) {
     return {
       name: "PHP template",
       subLanguage: "xml",
@@ -12203,13 +12221,13 @@ function Uc() {
               end: "'",
               skip: !0
             },
-            t.inherit(t.APOS_STRING_MODE, {
+            n.inherit(n.APOS_STRING_MODE, {
               illegal: null,
               className: null,
               contains: null,
               skip: !0
             }),
-            t.inherit(t.QUOTE_STRING_MODE, {
+            n.inherit(n.QUOTE_STRING_MODE, {
               illegal: null,
               className: null,
               contains: null,
@@ -12226,7 +12244,7 @@ var Gn, Is;
 function $c() {
   if (Is) return Gn;
   Is = 1;
-  function s(t) {
+  function s(n) {
     return {
       name: "Plain text",
       aliases: [
@@ -12242,8 +12260,8 @@ var qn, Ms;
 function zc() {
   if (Ms) return qn;
   Ms = 1;
-  function s(t) {
-    const n = t.regex, e = new RegExp("[\\p{XID_Start}_]\\p{XID_Continue}*", "u"), i = [
+  function s(n) {
+    const t = n.regex, e = new RegExp("[\\p{XID_Start}_]\\p{XID_Continue}*", "u"), i = [
       "and",
       "as",
       "assert",
@@ -12375,7 +12393,7 @@ function zc() {
         "Type",
         "Union"
       ]
-    }, h = {
+    }, p = {
       className: "meta",
       begin: /^(>>>|\.\.\.) /
     }, u = {
@@ -12384,19 +12402,19 @@ function zc() {
       end: /\}/,
       keywords: _,
       illegal: /#/
-    }, p = {
+    }, g = {
       begin: /\{\{/,
       relevance: 0
     }, m = {
       className: "string",
-      contains: [t.BACKSLASH_ESCAPE],
+      contains: [n.BACKSLASH_ESCAPE],
       variants: [
         {
           begin: /([uU]|[bB]|[rR]|[bB][rR]|[rR][bB])?'''/,
           end: /'''/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            h
+            n.BACKSLASH_ESCAPE,
+            p
           ],
           relevance: 10
         },
@@ -12404,8 +12422,8 @@ function zc() {
           begin: /([uU]|[bB]|[rR]|[bB][rR]|[rR][bB])?"""/,
           end: /"""/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            h
+            n.BACKSLASH_ESCAPE,
+            p
           ],
           relevance: 10
         },
@@ -12413,9 +12431,9 @@ function zc() {
           begin: /([fF][rR]|[rR][fF]|[fF])'''/,
           end: /'''/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            h,
+            n.BACKSLASH_ESCAPE,
             p,
+            g,
             u
           ]
         },
@@ -12423,9 +12441,9 @@ function zc() {
           begin: /([fF][rR]|[rR][fF]|[fF])"""/,
           end: /"""/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            h,
+            n.BACKSLASH_ESCAPE,
             p,
+            g,
             u
           ]
         },
@@ -12451,8 +12469,8 @@ function zc() {
           begin: /([fF][rR]|[rR][fF]|[fF])'/,
           end: /'/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            p,
+            n.BACKSLASH_ESCAPE,
+            g,
             u
           ]
         },
@@ -12460,15 +12478,15 @@ function zc() {
           begin: /([fF][rR]|[rR][fF]|[fF])"/,
           end: /"/,
           contains: [
-            t.BACKSLASH_ESCAPE,
-            p,
+            n.BACKSLASH_ESCAPE,
+            g,
             u
           ]
         },
-        t.APOS_STRING_MODE,
-        t.QUOTE_STRING_MODE
+        n.APOS_STRING_MODE,
+        n.QUOTE_STRING_MODE
       ]
-    }, w = "[0-9](_?[0-9])*", x = `(\\b(${w}))?\\.(${w})|\\b(${w})\\.`, O = `\\b|${i.join("|")}`, d = {
+    }, w = "[0-9](_?[0-9])*", N = `(\\b(${w}))?\\.(${w})|\\b(${w})\\.`, x = `\\b|${i.join("|")}`, d = {
       className: "number",
       relevance: 0,
       variants: [
@@ -12483,10 +12501,10 @@ function zc() {
         // because both MUST contain a decimal point and so cannot be confused with
         // the interior part of an identifier
         {
-          begin: `(\\b(${w})|(${x}))[eE][+-]?(${w})[jJ]?(?=${O})`
+          begin: `(\\b(${w})|(${N}))[eE][+-]?(${w})[jJ]?(?=${x})`
         },
         {
-          begin: `(${x})[jJ]?`
+          begin: `(${N})[jJ]?`
         },
         // decinteger, bininteger, octinteger, hexinteger
         // https://docs.python.org/3.9/reference/lexical_analysis.html#integer-literals
@@ -12495,26 +12513,26 @@ function zc() {
         // decinteger is optionally imaginary
         // https://docs.python.org/3.9/reference/lexical_analysis.html#imaginary-literals
         {
-          begin: `\\b([1-9](_?[0-9])*|0+(_?0)*)[lLjJ]?(?=${O})`
+          begin: `\\b([1-9](_?[0-9])*|0+(_?0)*)[lLjJ]?(?=${x})`
         },
         {
-          begin: `\\b0[bB](_?[01])+[lL]?(?=${O})`
+          begin: `\\b0[bB](_?[01])+[lL]?(?=${x})`
         },
         {
-          begin: `\\b0[oO](_?[0-7])+[lL]?(?=${O})`
+          begin: `\\b0[oO](_?[0-7])+[lL]?(?=${x})`
         },
         {
-          begin: `\\b0[xX](_?[0-9a-fA-F])+[lL]?(?=${O})`
+          begin: `\\b0[xX](_?[0-9a-fA-F])+[lL]?(?=${x})`
         },
         // imagnumber (digitpart-based)
         // https://docs.python.org/3.9/reference/lexical_analysis.html#imaginary-literals
         {
-          begin: `\\b(${w})[jJ](?=${O})`
+          begin: `\\b(${w})[jJ](?=${x})`
         }
       ]
     }, c = {
       className: "comment",
-      begin: n.lookahead(/# type:/),
+      begin: t.lookahead(/# type:/),
       end: /$/,
       keywords: _,
       contains: [
@@ -12546,10 +12564,10 @@ function zc() {
           keywords: _,
           contains: [
             "self",
-            h,
+            p,
             d,
             m,
-            t.HASH_COMMENT_MODE
+            n.HASH_COMMENT_MODE
           ]
         }
       ]
@@ -12557,7 +12575,7 @@ function zc() {
     return u.contains = [
       m,
       d,
-      h
+      p
     ], {
       name: "Python",
       aliases: [
@@ -12569,7 +12587,7 @@ function zc() {
       keywords: _,
       illegal: /(<\/|\?)|=>/,
       contains: [
-        h,
+        p,
         d,
         {
           // very common convention
@@ -12585,7 +12603,7 @@ function zc() {
         { match: /\bor\b/, scope: "keyword" },
         m,
         c,
-        t.HASH_COMMENT_MODE,
+        n.HASH_COMMENT_MODE,
         {
           match: [
             /\bdef/,
@@ -12644,7 +12662,7 @@ var Wn, Ls;
 function Fc() {
   if (Ls) return Wn;
   Ls = 1;
-  function s(t) {
+  function s(n) {
     return {
       aliases: ["pycon"],
       contains: [
@@ -12673,15 +12691,15 @@ var Hn, Ds;
 function Kc() {
   if (Ds) return Hn;
   Ds = 1;
-  function s(t) {
-    const n = t.regex, e = /(?:(?:[a-zA-Z]|\.[._a-zA-Z])[._a-zA-Z0-9]*)|\.(?!\d)/, i = n.either(
+  function s(n) {
+    const t = n.regex, e = /(?:(?:[a-zA-Z]|\.[._a-zA-Z])[._a-zA-Z0-9]*)|\.(?!\d)/, i = t.either(
       // Special case: only hexadecimal binary powers can contain fractions
       /0[xX][0-9a-fA-F]+\.[0-9a-fA-F]*[pP][+-]?\d+i?/,
       // Hexadecimal numbers without fraction and optional binary power
       /0[xX][0-9a-fA-F]+(?:[pP][+-]?\d+)?[Li]?/,
       // Decimal numbers
       /(?:\d+(?:\.\d*)?|\.\d+)(?:[eE][+-]?\d+)?[Li]?/
-    ), a = /[=!<>:]=|\|\||&&|:::?|<-|<<-|->>|->|\|>|[-+*\/?!$&|:<=>@^~]|\*\*/, l = n.either(
+    ), a = /[=!<>:]=|\|\||&&|:::?|<-|<<-|->>|->|\|>|[-+*\/?!$&|:<=>@^~]|\*\*/, l = t.either(
       /[()]/,
       /[{}]/,
       /\[\[/,
@@ -12702,7 +12720,7 @@ function Kc() {
       },
       contains: [
         // Roxygen comments
-        t.COMMENT(
+        n.COMMENT(
           /#'/,
           /$/,
           { contains: [
@@ -12715,7 +12733,7 @@ function Kc() {
               scope: "doctag",
               match: /@examples/,
               starts: {
-                end: n.lookahead(n.either(
+                end: t.lookahead(t.either(
                   // end if another doc comment
                   /\n^#'\s*(?=@[a-zA-Z]+)/,
                   // or a line with no comment
@@ -12751,32 +12769,32 @@ function Kc() {
             }
           ] }
         ),
-        t.HASH_COMMENT_MODE,
+        n.HASH_COMMENT_MODE,
         {
           scope: "string",
-          contains: [t.BACKSLASH_ESCAPE],
+          contains: [n.BACKSLASH_ESCAPE],
           variants: [
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]"(-*)\(/,
               end: /\)(-*)"/
             }),
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]"(-*)\{/,
               end: /\}(-*)"/
             }),
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]"(-*)\[/,
               end: /\](-*)"/
             }),
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]'(-*)\(/,
               end: /\)(-*)'/
             }),
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]'(-*)\{/,
               end: /\}(-*)'/
             }),
-            t.END_SAME_AS_BEGIN({
+            n.END_SAME_AS_BEGIN({
               begin: /[rR]'(-*)\[/,
               end: /\](-*)'/
             }),
@@ -12883,15 +12901,15 @@ var jn, Bs;
 function Gc() {
   if (Bs) return jn;
   Bs = 1;
-  function s(t) {
-    const n = t.regex, e = /(r#)?/, i = n.concat(e, t.UNDERSCORE_IDENT_RE), a = n.concat(e, t.IDENT_RE), l = {
+  function s(n) {
+    const t = n.regex, e = /(r#)?/, i = t.concat(e, n.UNDERSCORE_IDENT_RE), a = t.concat(e, n.IDENT_RE), l = {
       className: "title.function.invoke",
       relevance: 0,
-      begin: n.concat(
+      begin: t.concat(
         /\b/,
         /(?!let|for|while|if|else|match\b)/,
         a,
-        n.lookahead(/\s*\(/)
+        t.lookahead(/\s*\(/)
       )
     }, o = "([ui](8|16|32|64|128|size)|f(32|64))?", _ = [
       "abstract",
@@ -12946,7 +12964,7 @@ function Gc() {
       "where",
       "while",
       "yield"
-    ], h = [
+    ], p = [
       "true",
       "false",
       "Some",
@@ -13020,7 +13038,7 @@ function Gc() {
       "macro_rules!",
       "assert_ne!",
       "debug_assert_ne!"
-    ], p = [
+    ], g = [
       "i8",
       "i16",
       "i32",
@@ -13048,17 +13066,17 @@ function Gc() {
       name: "Rust",
       aliases: ["rs"],
       keywords: {
-        $pattern: t.IDENT_RE + "!?",
-        type: p,
+        $pattern: n.IDENT_RE + "!?",
+        type: g,
         keyword: _,
-        literal: h,
+        literal: p,
         built_in: u
       },
       illegal: "</",
       contains: [
-        t.C_LINE_COMMENT_MODE,
-        t.COMMENT("/\\*", "\\*/", { contains: ["self"] }),
-        t.inherit(t.QUOTE_STRING_MODE, {
+        n.C_LINE_COMMENT_MODE,
+        n.COMMENT("/\\*", "\\*/", { contains: ["self"] }),
+        n.inherit(n.QUOTE_STRING_MODE, {
           begin: /b?"/,
           illegal: null
         }),
@@ -13114,7 +13132,7 @@ function Gc() {
               begin: /"/,
               end: /"/,
               contains: [
-                t.BACKSLASH_ESCAPE
+                n.BACKSLASH_ESCAPE
               ]
             }
           ]
@@ -13170,11 +13188,11 @@ function Gc() {
           }
         },
         {
-          begin: t.IDENT_RE + "::",
+          begin: n.IDENT_RE + "::",
           keywords: {
             keyword: "Self",
             built_in: u,
-            type: p
+            type: g
           }
         },
         {
@@ -13191,12 +13209,12 @@ var Vn, Ps;
 function qc() {
   if (Ps) return Vn;
   Ps = 1;
-  const s = (h) => ({
+  const s = (p) => ({
     IMPORTANT: {
       scope: "meta",
       begin: "!important"
     },
-    BLOCK_COMMENT: h.C_BLOCK_COMMENT_MODE,
+    BLOCK_COMMENT: p.C_BLOCK_COMMENT_MODE,
     HEXCOLOR: {
       scope: "number",
       begin: /#(([0-9a-fA-F]{3,4})|(([0-9a-fA-F]{2}){3,4}))\b/
@@ -13211,20 +13229,20 @@ function qc() {
       end: /\]/,
       illegal: "$",
       contains: [
-        h.APOS_STRING_MODE,
-        h.QUOTE_STRING_MODE
+        p.APOS_STRING_MODE,
+        p.QUOTE_STRING_MODE
       ]
     },
     CSS_NUMBER_MODE: {
       scope: "number",
-      begin: h.NUMBER_RE + "(%|em|ex|ch|rem|vw|vh|vmin|vmax|cm|mm|in|pt|pc|px|deg|grad|rad|turn|s|ms|Hz|kHz|dpi|dpcm|dppx)?",
+      begin: p.NUMBER_RE + "(%|em|ex|ch|rem|vw|vh|vmin|vmax|cm|mm|in|pt|pc|px|deg|grad|rad|turn|s|ms|Hz|kHz|dpi|dpcm|dppx)?",
       relevance: 0
     },
     CSS_VARIABLE: {
       className: "attr",
       begin: /--[A-Za-z_][A-Za-z0-9_-]*/
     }
-  }), t = [
+  }), n = [
     "a",
     "abbr",
     "address",
@@ -13302,7 +13320,7 @@ function qc() {
     "ul",
     "var",
     "video"
-  ], n = [
+  ], t = [
     "defs",
     "g",
     "marker",
@@ -13345,8 +13363,8 @@ function qc() {
     "foreignObject",
     "clipPath"
   ], e = [
-    ...t,
-    ...n
+    ...n,
+    ...t
   ], i = [
     "any-hover",
     "any-pointer",
@@ -13988,8 +14006,8 @@ function qc() {
     "z-index",
     "zoom"
   ].sort().reverse();
-  function _(h) {
-    const u = s(h), p = l, m = a, w = "@[a-z-]+", x = "and or not only", d = {
+  function _(p) {
+    const u = s(p), g = l, m = a, w = "@[a-z-]+", N = "and or not only", d = {
       className: "variable",
       begin: "(\\$" + "[a-zA-Z-][a-zA-Z0-9_-]*" + ")\\b",
       relevance: 0
@@ -13999,8 +14017,8 @@ function qc() {
       case_insensitive: !0,
       illegal: "[=/|']",
       contains: [
-        h.C_LINE_COMMENT_MODE,
-        h.C_BLOCK_COMMENT_MODE,
+        p.C_LINE_COMMENT_MODE,
+        p.C_BLOCK_COMMENT_MODE,
         // to recognize keyframe 40% etc which are outside the scope of our
         // attribute value mode
         u.CSS_NUMBER_MODE,
@@ -14027,7 +14045,7 @@ function qc() {
         },
         {
           className: "selector-pseudo",
-          begin: ":(:)?(" + p.join("|") + ")"
+          begin: ":(:)?(" + g.join("|") + ")"
         },
         d,
         {
@@ -14051,8 +14069,8 @@ function qc() {
             d,
             u.HEXCOLOR,
             u.CSS_NUMBER_MODE,
-            h.QUOTE_STRING_MODE,
-            h.APOS_STRING_MODE,
+            p.QUOTE_STRING_MODE,
+            p.APOS_STRING_MODE,
             u.IMPORTANT,
             u.FUNCTION_DISPATCH
           ]
@@ -14073,7 +14091,7 @@ function qc() {
           returnBegin: !0,
           keywords: {
             $pattern: /[a-z-]+/,
-            keyword: x,
+            keyword: N,
             attribute: i.join(" ")
           },
           contains: [
@@ -14086,8 +14104,8 @@ function qc() {
               className: "attribute"
             },
             d,
-            h.QUOTE_STRING_MODE,
-            h.APOS_STRING_MODE,
+            p.QUOTE_STRING_MODE,
+            p.APOS_STRING_MODE,
             u.HEXCOLOR,
             u.CSS_NUMBER_MODE
           ]
@@ -14102,7 +14120,7 @@ var Zn, Us;
 function Wc() {
   if (Us) return Zn;
   Us = 1;
-  function s(t) {
+  function s(n) {
     return {
       name: "Shell Session",
       aliases: [
@@ -14130,8 +14148,8 @@ var Xn, $s;
 function Hc() {
   if ($s) return Xn;
   $s = 1;
-  function s(t) {
-    const n = t.regex, e = t.COMMENT("--", "$"), i = {
+  function s(n) {
+    const t = n.regex, e = n.COMMENT("--", "$"), i = {
       scope: "string",
       variants: [
         {
@@ -14184,7 +14202,7 @@ function Hc() {
       "varying",
       // modifier (character varying)
       "varbinary"
-    ], h = [
+    ], p = [
       "add",
       "asc",
       "collation",
@@ -14560,7 +14578,7 @@ function Hc() {
       "within",
       "without",
       "year"
-    ], p = [
+    ], g = [
       "abs",
       "acos",
       "array_agg",
@@ -14679,10 +14697,10 @@ function Hc() {
       "nulls last",
       "depth first",
       "breadth first"
-    ], x = p, O = [
+    ], N = g, x = [
       ...u,
-      ...h
-    ].filter((v) => !p.includes(v)), d = {
+      ...p
+    ].filter((v) => !g.includes(v)), d = {
       scope: "variable",
       match: /@[a-z0-9][a-z0-9_]*/
     }, c = {
@@ -14690,27 +14708,27 @@ function Hc() {
       match: /[-+*/=%^~]|&&?|\|\|?|!=?|<(?:=>?|<|>)?|>[>=]?/,
       relevance: 0
     }, f = {
-      match: n.concat(/\b/, n.either(...x), /\s*\(/),
+      match: t.concat(/\b/, t.either(...N), /\s*\(/),
       relevance: 0,
-      keywords: { built_in: x }
+      keywords: { built_in: N }
     };
-    function R(v) {
-      return n.concat(
+    function A(v) {
+      return t.concat(
         /\b/,
-        n.either(...v.map((E) => E.replace(/\s+/, "\\s+"))),
+        t.either(...v.map((E) => E.replace(/\s+/, "\\s+"))),
         /\b/
       );
     }
-    const A = {
+    const R = {
       scope: "keyword",
-      match: R(w),
+      match: A(w),
       relevance: 0
     };
     function D(v, {
       exceptions: E,
-      when: g
+      when: h
     } = {}) {
-      const S = g;
+      const S = h;
       return E = E || [], v.map((r) => r.match(/\|\d+$/) || E.includes(r) ? r : S(r) ? `${r}|0` : r);
     }
     return {
@@ -14720,7 +14738,7 @@ function Hc() {
       illegal: /[{}]|<\//,
       keywords: {
         $pattern: /\b[\w\.]+/,
-        keyword: D(O, { when: (v) => v.length < 3 }),
+        keyword: D(x, { when: (v) => v.length < 3 }),
         literal: l,
         type: _,
         built_in: m
@@ -14728,15 +14746,15 @@ function Hc() {
       contains: [
         {
           scope: "type",
-          match: R(o)
+          match: A(o)
         },
-        A,
+        R,
         f,
         d,
         i,
         a,
-        t.C_NUMBER_MODE,
-        t.C_BLOCK_COMMENT_MODE,
+        n.C_NUMBER_MODE,
+        n.C_BLOCK_COMMENT_MODE,
         e,
         c
       ]
@@ -14748,26 +14766,26 @@ var Yn, zs;
 function jc() {
   if (zs) return Yn;
   zs = 1;
-  function s(g) {
-    return g ? typeof g == "string" ? g : g.source : null;
+  function s(h) {
+    return h ? typeof h == "string" ? h : h.source : null;
   }
-  function t(g) {
-    return n("(?=", g, ")");
+  function n(h) {
+    return t("(?=", h, ")");
   }
-  function n(...g) {
-    return g.map((r) => s(r)).join("");
+  function t(...h) {
+    return h.map((r) => s(r)).join("");
   }
-  function e(g) {
-    const S = g[g.length - 1];
-    return typeof S == "object" && S.constructor === Object ? (g.splice(g.length - 1, 1), S) : {};
+  function e(h) {
+    const S = h[h.length - 1];
+    return typeof S == "object" && S.constructor === Object ? (h.splice(h.length - 1, 1), S) : {};
   }
-  function i(...g) {
-    return "(" + (e(g).capture ? "" : "?:") + g.map((y) => s(y)).join("|") + ")";
+  function i(...h) {
+    return "(" + (e(h).capture ? "" : "?:") + h.map((y) => s(y)).join("|") + ")";
   }
-  const a = (g) => n(
+  const a = (h) => t(
     /\b/,
-    g,
-    /\w$/.test(g) ? /\b/ : /\B/
+    h,
+    /\w$/.test(h) ? /\b/ : /\B/
   ), l = [
     "Protocol",
     // contextual
@@ -14779,7 +14797,7 @@ function jc() {
   ].map(a), _ = [
     "Any",
     "Self"
-  ], h = [
+  ], p = [
     // strings below will be fed into the regular `keywords` engine while regex
     // will result in additional modes being created to scan for those keywords to
     // avoid conflicts with other rules
@@ -14919,7 +14937,7 @@ function jc() {
     "false",
     "nil",
     "true"
-  ], p = [
+  ], g = [
     "assignment",
     "associativity",
     "higherThan",
@@ -14982,7 +15000,7 @@ function jc() {
     "withVaList",
     "withoutActuallyEscaping",
     "zip"
-  ], x = i(
+  ], N = i(
     /[/=\-+!*%<>&|^~?]/,
     /[\u00A1-\u00A7]/,
     /[\u00A9\u00AB]/,
@@ -15001,8 +15019,8 @@ function jc() {
     /[\u3001-\u3003]/,
     /[\u3008-\u3020]/,
     /[\u3030]/
-  ), O = i(
-    x,
+  ), x = i(
+    N,
     /[\u0300-\u036F]/,
     /[\u1DC0-\u1DFF]/,
     /[\u20D0-\u20FF]/,
@@ -15010,7 +15028,7 @@ function jc() {
     /[\uFE20-\uFE2F]/
     // TODO: The following characters are also allowed, but the regex isn't supported yet.
     // /[\u{E0100}-\u{E01EF}]/u
-  ), d = n(x, O, "*"), c = i(
+  ), d = t(N, x, "*"), c = i(
     /[a-zA-Z_]/,
     /[\u00A8\u00AA\u00AD\u00AF\u00B2-\u00B5\u00B7-\u00BA]/,
     /[\u00BC-\u00BE\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u00FF]/,
@@ -15032,10 +15050,10 @@ function jc() {
     c,
     /\d/,
     /[\u0300-\u036F\u1DC0-\u1DFF\u20D0-\u20FF\uFE20-\uFE2F]/
-  ), R = n(c, f, "*"), A = n(/[A-Z]/, f, "*"), D = [
+  ), A = t(c, f, "*"), R = t(/[A-Z]/, f, "*"), D = [
     "attached",
     "autoclosure",
-    n(/convention\(/, i("swift", "block", "c"), /\)/),
+    t(/convention\(/, i("swift", "block", "c"), /\)/),
     "discardableResult",
     "dynamicCallable",
     "dynamicMemberLookup",
@@ -15054,7 +15072,7 @@ function jc() {
     "NSApplicationMain",
     "NSCopying",
     "NSManaged",
-    n(/objc\(/, R, /\)/),
+    t(/objc\(/, A, /\)/),
     "objc",
     "objcMembers",
     "propertyWrapper",
@@ -15080,18 +15098,18 @@ function jc() {
     "tvOSApplicationExtension",
     "swift"
   ];
-  function E(g) {
+  function E(h) {
     const S = {
       match: /\s+/,
       relevance: 0
-    }, r = g.COMMENT(
+    }, r = h.COMMENT(
       "/\\*",
       "\\*/",
       { contains: ["self"] }
     ), y = [
-      g.C_LINE_COMMENT_MODE,
+      h.C_LINE_COMMENT_MODE,
       r
-    ], N = {
+    ], O = {
       match: [
         /\./,
         i(...l, ...o)
@@ -15099,9 +15117,9 @@ function jc() {
       className: { 2: "keyword" }
     }, F = {
       // Consume .keyword to prevent highlighting properties and methods as keywords.
-      match: n(/\./, i(...h)),
+      match: t(/\./, i(...p)),
       relevance: 0
-    }, G = h.filter((oe) => typeof oe == "string").concat(["_|0"]), X = h.filter((oe) => typeof oe != "string").concat(_).map(a), M = { variants: [
+    }, G = p.filter((oe) => typeof oe == "string").concat(["_|0"]), X = p.filter((oe) => typeof oe != "string").concat(_).map(a), M = { variants: [
       {
         className: "keyword",
         match: i(...X, ...o)
@@ -15116,16 +15134,16 @@ function jc() {
       keyword: G.concat(m),
       literal: u
     }, I = [
-      N,
+      O,
       F,
       M
     ], W = {
       // Consume .built_in to prevent highlighting properties and methods.
-      match: n(/\./, i(...w)),
+      match: t(/\./, i(...w)),
       relevance: 0
     }, ae = {
       className: "built_in",
-      match: n(/\b/, i(...w), /(?=\()/)
+      match: t(/\b/, i(...w), /(?=\()/)
     }, Z = [
       W,
       ae
@@ -15142,7 +15160,7 @@ function jc() {
           // dot-operator: only operators that start with a dot are allowed to use dots as
           // characters (..., ...<, .*, etc). So there rule here is: a dot followed by one or more
           // characters that may also include dots.
-          match: `\\.(\\.|${O})+`
+          match: `\\.(\\.|${x})+`
         }
       ]
     }, Re = [
@@ -15164,28 +15182,28 @@ function jc() {
     }, ue = (oe = "") => ({
       className: "subst",
       variants: [
-        { match: n(/\\/, oe, /[0\\tnr"']/) },
-        { match: n(/\\/, oe, /u\{[0-9a-fA-F]{1,8}\}/) }
+        { match: t(/\\/, oe, /[0\\tnr"']/) },
+        { match: t(/\\/, oe, /u\{[0-9a-fA-F]{1,8}\}/) }
       ]
     }), Se = (oe = "") => ({
       className: "subst",
-      match: n(/\\/, oe, /[\t ]*(?:[\r\n]|\r\n)/)
+      match: t(/\\/, oe, /[\t ]*(?:[\r\n]|\r\n)/)
     }), ye = (oe = "") => ({
       className: "subst",
       label: "interpol",
-      begin: n(/\\/, oe, /\(/),
+      begin: t(/\\/, oe, /\(/),
       end: /\)/
     }), Te = (oe = "") => ({
-      begin: n(oe, /"""/),
-      end: n(/"""/, oe),
+      begin: t(oe, /"""/),
+      end: t(/"""/, oe),
       contains: [
         ue(oe),
         Se(oe),
         ye(oe)
       ]
     }), Ae = (oe = "") => ({
-      begin: n(oe, /"/),
-      end: n(/"/, oe),
+      begin: t(oe, /"/),
+      end: t(/"/, oe),
       contains: [
         ue(oe),
         ye(oe)
@@ -15203,19 +15221,19 @@ function jc() {
         Ae("###")
       ]
     }, ht = [
-      g.BACKSLASH_ESCAPE,
+      h.BACKSLASH_ESCAPE,
       {
         begin: /\[/,
         end: /\]/,
         relevance: 0,
-        contains: [g.BACKSLASH_ESCAPE]
+        contains: [h.BACKSLASH_ESCAPE]
       }
     ], Ft = {
       begin: /\/[^\s](?=[^/\n]*\/)/,
       end: /\//,
       contains: ht
-    }, ot = (oe) => {
-      const nt = n(oe, /\//), qe = n(/\//, oe);
+    }, lt = (oe) => {
+      const nt = t(oe, /\//), qe = t(/\//, oe);
       return {
         begin: nt,
         end: qe,
@@ -15231,18 +15249,18 @@ function jc() {
     }, gt = {
       scope: "regexp",
       variants: [
-        ot("###"),
-        ot("##"),
-        ot("#"),
+        lt("###"),
+        lt("##"),
+        lt("#"),
         Ft
       ]
-    }, bt = { match: n(/`/, R, /`/) }, Kt = {
+    }, bt = { match: t(/`/, A, /`/) }, Kt = {
       className: "variable",
       match: /\$\d+/
     }, mt = {
       className: "variable",
       match: `\\$${f}+`
-    }, lt = [
+    }, ct = [
       bt,
       Kt,
       mt
@@ -15263,27 +15281,27 @@ function jc() {
       ] }
     }, vt = {
       scope: "keyword",
-      match: n(/@/, i(...D), t(i(/\(/, /\s+/)))
+      match: t(/@/, i(...D), n(i(/\(/, /\s+/)))
     }, Ke = {
       scope: "meta",
-      match: n(/@/, R)
+      match: t(/@/, A)
     }, Qe = [
       Gt,
       vt,
       Ke
     ], ke = {
-      match: t(/\b[A-Z]/),
+      match: n(/\b[A-Z]/),
       relevance: 0,
       contains: [
         {
           // Common Apple frameworks, for relevance boost
           className: "type",
-          match: n(/(AV|CA|CF|CG|CI|CL|CM|CN|CT|MK|MP|MTK|MTL|NS|SCN|SK|UI|WK|XC)/, f, "+")
+          match: t(/(AV|CA|CF|CG|CI|CL|CM|CN|CT|MK|MP|MTK|MTL|NS|SCN|SK|UI|WK|XC)/, f, "+")
         },
         {
           // Type identifier
           className: "type",
-          match: A,
+          match: R,
           relevance: 0
         },
         {
@@ -15298,7 +15316,7 @@ function jc() {
         },
         {
           // Protocol composition
-          match: n(/\s+&\s+/, t(A)),
+          match: t(/\s+&\s+/, n(R)),
           relevance: 0
         }
       ]
@@ -15316,7 +15334,7 @@ function jc() {
     };
     ke.contains.push(tt);
     const Et = {
-      match: n(R, /\s*:/),
+      match: t(A, /\s*:/),
       keywords: "_|0",
       relevance: 0
     }, yt = {
@@ -15334,11 +15352,11 @@ function jc() {
         ...Re,
         pe,
         Le,
-        ...lt,
+        ...ct,
         ...Qe,
         ke
       ]
-    }, ct = {
+    }, _t = {
       begin: /</,
       end: />/,
       keywords: "repeat each",
@@ -15348,8 +15366,8 @@ function jc() {
       ]
     }, qt = {
       begin: i(
-        t(n(R, /\s*:/)),
-        t(n(R, /\s+/, R, /\s*:/))
+        n(t(A, /\s*:/)),
+        n(t(A, /\s+/, A, /\s*:/))
       ),
       end: /:/,
       relevance: 0,
@@ -15360,7 +15378,7 @@ function jc() {
         },
         {
           className: "params",
-          match: R
+          match: A
         }
       ]
     }, wt = {
@@ -15384,14 +15402,14 @@ function jc() {
       match: [
         /(func|macro)/,
         /\s+/,
-        i(bt.match, R, d)
+        i(bt.match, A, d)
       ],
       className: {
         1: "keyword",
         3: "title.function"
       },
       contains: [
-        ct,
+        _t,
         wt,
         S
       ],
@@ -15406,7 +15424,7 @@ function jc() {
       ],
       className: { 1: "keyword" },
       contains: [
-        ct,
+        _t,
         wt,
         S
       ],
@@ -15425,7 +15443,7 @@ function jc() {
       begin: [
         /precedencegroup/,
         /\s+/,
-        A
+        R
       ],
       className: {
         1: "keyword",
@@ -15433,7 +15451,7 @@ function jc() {
       },
       contains: [ke],
       keywords: [
-        ...p,
+        ...g,
         ...u
       ],
       end: /}/
@@ -15450,7 +15468,7 @@ function jc() {
         3: "keyword",
         5: "title.function"
       }
-    }, _t = {
+    }, ut = {
       match: [
         /class\b/,
         /\s+/,
@@ -15464,7 +15482,7 @@ function jc() {
       begin: [
         /(struct|protocol|class|extension|enum|actor)/,
         /\s+/,
-        R,
+        A,
         /\s*/
       ],
       beginScope: {
@@ -15473,7 +15491,7 @@ function jc() {
       },
       keywords: T,
       contains: [
-        ct,
+        _t,
         ...I,
         {
           begin: /:/,
@@ -15482,7 +15500,7 @@ function jc() {
           contains: [
             {
               scope: "title.class.inherited",
-              match: A
+              match: R
             },
             ...I
           ],
@@ -15499,7 +15517,7 @@ function jc() {
         ...Re,
         pe,
         Le,
-        ...lt
+        ...ct
       ];
       nt.contains = [
         ...qe,
@@ -15521,7 +15539,7 @@ function jc() {
         Wt,
         xt,
         Vt,
-        _t,
+        ut,
         Nt,
         Ht,
         jt,
@@ -15537,7 +15555,7 @@ function jc() {
         ...Re,
         pe,
         Le,
-        ...lt,
+        ...ct,
         ...Qe,
         ke,
         yt
@@ -15550,8 +15568,8 @@ var Qn, Fs;
 function Vc() {
   if (Fs) return Qn;
   Fs = 1;
-  function s(t) {
-    const n = "true false yes no null", e = "[\\w#;/?:@&=+$,.~*'()[\\]]+", i = {
+  function s(n) {
+    const t = "true false yes no null", e = "[\\w#;/?:@&=+$,.~*'()[\\]]+", i = {
       className: "attr",
       variants: [
         // added brackets support and special char support
@@ -15602,10 +15620,10 @@ function Vc() {
         { begin: /\S+/ }
       ],
       contains: [
-        t.BACKSLASH_ESCAPE,
+        n.BACKSLASH_ESCAPE,
         a
       ]
-    }, _ = t.inherit(o, { variants: [
+    }, _ = n.inherit(o, { variants: [
       {
         begin: /'/,
         end: /'/,
@@ -15624,22 +15642,22 @@ function Vc() {
     ] }), w = {
       className: "number",
       begin: "\\b" + "[0-9]{4}(-[0-9][0-9]){0,2}" + "([Tt \\t][0-9][0-9]?(:[0-9][0-9]){2})?" + "(\\.[0-9]*)?" + "([ \\t])*(Z|[-+][0-9][0-9]?(:[0-9][0-9])?)?" + "\\b"
-    }, x = {
+    }, N = {
       end: ",",
       endsWithParent: !0,
       excludeEnd: !0,
-      keywords: n,
+      keywords: t,
       relevance: 0
-    }, O = {
+    }, x = {
       begin: /\{/,
       end: /\}/,
-      contains: [x],
+      contains: [N],
       illegal: "\\n",
       relevance: 0
     }, d = {
       begin: "\\[",
       end: "\\]",
-      contains: [x],
+      contains: [N],
       illegal: "\\n",
       relevance: 0
     }, c = [
@@ -15691,12 +15709,12 @@ function Vc() {
       {
         // fragment id &ref
         className: "meta",
-        begin: "&" + t.UNDERSCORE_IDENT_RE + "$"
+        begin: "&" + n.UNDERSCORE_IDENT_RE + "$"
       },
       {
         // fragment reference *ref
         className: "meta",
-        begin: "\\*" + t.UNDERSCORE_IDENT_RE + "$"
+        begin: "\\*" + n.UNDERSCORE_IDENT_RE + "$"
       },
       {
         // array listing
@@ -15705,25 +15723,25 @@ function Vc() {
         begin: "-(?=[ ]|$)",
         relevance: 0
       },
-      t.HASH_COMMENT_MODE,
+      n.HASH_COMMENT_MODE,
       {
-        beginKeywords: n,
-        keywords: { literal: n }
+        beginKeywords: t,
+        keywords: { literal: t }
       },
       w,
       // numbers are any valid C-style number that
       // sit isolated from other words
       {
         className: "number",
-        begin: t.C_NUMBER_RE + "\\b",
+        begin: n.C_NUMBER_RE + "\\b",
         relevance: 0
       },
-      O,
+      x,
       d,
       l,
       o
     ], f = [...c];
-    return f.pop(), f.push(_), x.contains = f, {
+    return f.pop(), f.push(_), N.contains = f, {
       name: "YAML",
       case_insensitive: !0,
       aliases: ["yml"],
@@ -15736,7 +15754,7 @@ var Jn, Ks;
 function Zc() {
   if (Ks) return Jn;
   Ks = 1;
-  const s = "[A-Za-z$_][0-9A-Za-z$_]*", t = [
+  const s = "[A-Za-z$_][0-9A-Za-z$_]*", n = [
     "as",
     // for exports
     "in",
@@ -15781,7 +15799,7 @@ function Zc() {
     "extends",
     // It's reached stage 3, which is "recommended for implementation":
     "using"
-  ], n = [
+  ], t = [
     "true",
     "false",
     "null",
@@ -15883,13 +15901,13 @@ function Zc() {
     i
   );
   function _(u) {
-    const p = u.regex, m = (ue, { after: Se }) => {
+    const g = u.regex, m = (ue, { after: Se }) => {
       const ye = "</" + ue[0].slice(1);
       return ue.input.indexOf(ye, Se) !== -1;
-    }, w = s, x = {
+    }, w = s, N = {
       begin: "<>",
       end: "</>"
-    }, O = /<[A-Za-z0-9\\._:-]+\s*\/>/, d = {
+    }, x = /<[A-Za-z0-9\\._:-]+\s*\/>/, d = {
       begin: /<[A-Za-z0-9\\._:-]+/,
       end: /\/[A-Za-z0-9\\._:-]+>|\/>/,
       /**
@@ -15923,16 +15941,16 @@ function Zc() {
       }
     }, c = {
       $pattern: s,
-      keyword: t,
-      literal: n,
+      keyword: n,
+      literal: t,
       built_in: o,
       "variable.language": l
-    }, f = "[0-9](_?[0-9])*", R = `\\.(${f})`, A = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", D = {
+    }, f = "[0-9](_?[0-9])*", A = `\\.(${f})`, R = "0|[1-9](_?[0-9])*|0[0-7]*[89][0-9]*", D = {
       className: "number",
       variants: [
         // DecimalLiteral
-        { begin: `(\\b(${A})((${R})|\\.)?|(${R}))[eE][+-]?(${f})\\b` },
-        { begin: `\\b(${A})\\b((${R})\\b|\\.)?|(${R})\\b` },
+        { begin: `(\\b(${R})((${A})|\\.)?|(${A}))[eE][+-]?(${f})\\b` },
+        { begin: `\\b(${R})\\b((${A})\\b|\\.)?|(${A})\\b` },
         // DecimalBigIntegerLiteral
         { begin: "\\b(0|[1-9](_?[0-9])*)n\\b" },
         // NonDecimalIntegerLiteral
@@ -15963,7 +15981,7 @@ function Zc() {
         ],
         subLanguage: "xml"
       }
-    }, g = {
+    }, h = {
       begin: ".?css`",
       end: "",
       starts: {
@@ -15995,7 +16013,7 @@ function Zc() {
         u.BACKSLASH_ESCAPE,
         v
       ]
-    }, N = {
+    }, O = {
       className: "comment",
       variants: [
         u.COMMENT(
@@ -16044,7 +16062,7 @@ function Zc() {
       u.APOS_STRING_MODE,
       u.QUOTE_STRING_MODE,
       E,
-      g,
+      h,
       S,
       r,
       // Skip numbers when they are part of a variable name
@@ -16064,7 +16082,7 @@ function Zc() {
         "self"
       ].concat(F)
     });
-    const G = [].concat(N, v.contains), X = G.concat([
+    const G = [].concat(O, v.contains), X = G.concat([
       // eat recursive parens in sub expressions
       {
         begin: /(\s*)\(/,
@@ -16093,7 +16111,7 @@ function Zc() {
             /\s+/,
             /extends/,
             /\s+/,
-            p.concat(w, "(", p.concat(/\./, w), ")*")
+            g.concat(w, "(", g.concat(/\./, w), ")*")
           ],
           scope: {
             1: "keyword",
@@ -16117,7 +16135,7 @@ function Zc() {
       ]
     }, I = {
       relevance: 0,
-      match: p.either(
+      match: g.either(
         // Hard coded exceptions
         /\bJSON/,
         // Float32Array, OutT
@@ -16175,10 +16193,10 @@ function Zc() {
       className: "variable.constant"
     };
     function de(ue) {
-      return p.concat("(?!", ue.join("|"), ")");
+      return g.concat("(?!", ue.join("|"), ")");
     }
     const ze = {
-      match: p.concat(
+      match: g.concat(
         /\b/,
         de([
           ...a,
@@ -16186,13 +16204,13 @@ function Zc() {
           "import"
         ].map((ue) => `${ue}\\s*\\(`)),
         w,
-        p.lookahead(/\s*\(/)
+        g.lookahead(/\s*\(/)
       ),
       className: "title.function",
       relevance: 0
     }, Re = {
-      begin: p.concat(/\./, p.lookahead(
-        p.concat(w, /(?![0-9A-Za-z$_(])/)
+      begin: g.concat(/\./, g.lookahead(
+        g.concat(w, /(?![0-9A-Za-z$_(])/)
       )),
       end: w,
       excludeBegin: !0,
@@ -16226,7 +16244,7 @@ function Zc() {
         /=\s*/,
         /(async\s*)?/,
         // async is optional
-        p.lookahead(Fe)
+        g.lookahead(Fe)
       ],
       keywords: "async",
       className: {
@@ -16254,17 +16272,17 @@ function Zc() {
         u.APOS_STRING_MODE,
         u.QUOTE_STRING_MODE,
         E,
-        g,
+        h,
         S,
         r,
-        N,
+        O,
         // Skip numbers when they are part of a variable name
         { match: /\$\d+/ },
         D,
         I,
         {
           scope: "attr",
-          match: w + p.lookahead(":"),
+          match: w + g.lookahead(":"),
           relevance: 0
         },
         pe,
@@ -16274,7 +16292,7 @@ function Zc() {
           keywords: "return throw case",
           relevance: 0,
           contains: [
-            N,
+            O,
             u.REGEXP_MODE,
             {
               className: "function",
@@ -16321,8 +16339,8 @@ function Zc() {
             {
               // JSX
               variants: [
-                { begin: x.begin, end: x.end },
-                { match: O },
+                { begin: N.begin, end: N.end },
+                { match: x },
                 {
                   begin: d.begin,
                   // we carefully check the opening tag to see if it truly
@@ -16391,8 +16409,8 @@ function Zc() {
       ]
     };
   }
-  function h(u) {
-    const p = u.regex, m = _(u), w = s, x = [
+  function p(u) {
+    const g = u.regex, m = _(u), w = s, N = [
       "any",
       "void",
       "number",
@@ -16403,7 +16421,7 @@ function Zc() {
       "symbol",
       "bigint",
       "unknown"
-    ], O = {
+    ], x = {
       begin: [
         /namespace/,
         /\s+/,
@@ -16419,7 +16437,7 @@ function Zc() {
       excludeEnd: !0,
       keywords: {
         keyword: "interface extends",
-        built_in: x
+        built_in: N
       },
       contains: [m.exports.CLASS_REFERENCE]
     }, c = {
@@ -16440,26 +16458,26 @@ function Zc() {
       "enum",
       "override",
       "satisfies"
-    ], R = {
+    ], A = {
       $pattern: s,
-      keyword: t.concat(f),
-      literal: n,
-      built_in: o.concat(x),
+      keyword: n.concat(f),
+      literal: t,
+      built_in: o.concat(N),
       "variable.language": l
-    }, A = {
+    }, R = {
       className: "meta",
       begin: "@" + w
     }, D = (S, r, y) => {
-      const N = S.contains.findIndex((F) => F.label === r);
-      if (N === -1)
+      const O = S.contains.findIndex((F) => F.label === r);
+      if (O === -1)
         throw new Error("can not find mode to replace");
-      S.contains.splice(N, 1, y);
+      S.contains.splice(O, 1, y);
     };
-    Object.assign(m.keywords, R), m.exports.PARAMS_CONTAINS.push(A);
+    Object.assign(m.keywords, A), m.exports.PARAMS_CONTAINS.push(R);
     const v = m.contains.find((S) => S.scope === "attr"), E = Object.assign(
       {},
       v,
-      { match: p.concat(w, p.lookahead(/\s*\?:/)) }
+      { match: g.concat(w, g.lookahead(/\s*\?:/)) }
     );
     m.exports.PARAMS_CONTAINS.push([
       m.exports.CLASS_REFERENCE,
@@ -16469,14 +16487,14 @@ function Zc() {
       E
       // Added for optional property assignment highlighting
     ]), m.contains = m.contains.concat([
-      A,
-      O,
+      R,
+      x,
       d,
       E
       // Added for optional property assignment highlighting
     ]), D(m, "shebang", u.SHEBANG()), D(m, "use_strict", c);
-    const g = m.contains.find((S) => S.label === "func.def");
-    return g.relevance = 0, Object.assign(m, {
+    const h = m.contains.find((S) => S.label === "func.def");
+    return h.relevance = 0, Object.assign(m, {
       name: "TypeScript",
       aliases: [
         "ts",
@@ -16486,14 +16504,14 @@ function Zc() {
       ]
     }), m;
   }
-  return Jn = h, Jn;
+  return Jn = p, Jn;
 }
 var ei, Gs;
 function Xc() {
   if (Gs) return ei;
   Gs = 1;
-  function s(t) {
-    const n = t.regex, e = {
+  function s(n) {
+    const t = n.regex, e = {
       className: "string",
       begin: /"(""|[^/n])"C\b/
     }, i = {
@@ -16507,28 +16525,28 @@ function Xc() {
           begin: /""/
         }
       ]
-    }, a = /\d{1,2}\/\d{1,2}\/\d{4}/, l = /\d{4}-\d{1,2}-\d{1,2}/, o = /(\d|1[012])(:\d+){0,2} *(AM|PM)/, _ = /\d{1,2}(:\d{1,2}){1,2}/, h = {
+    }, a = /\d{1,2}\/\d{1,2}\/\d{4}/, l = /\d{4}-\d{1,2}-\d{1,2}/, o = /(\d|1[012])(:\d+){0,2} *(AM|PM)/, _ = /\d{1,2}(:\d{1,2}){1,2}/, p = {
       className: "literal",
       variants: [
         {
           // #YYYY-MM-DD# (ISO-Date) or #M/D/YYYY# (US-Date)
-          begin: n.concat(/# */, n.either(l, a), / *#/)
+          begin: t.concat(/# */, t.either(l, a), / *#/)
         },
         {
           // #H:mm[:ss]# (24h Time)
-          begin: n.concat(/# */, _, / *#/)
+          begin: t.concat(/# */, _, / *#/)
         },
         {
           // #h[:mm[:ss]] A# (12h Time)
-          begin: n.concat(/# */, o, / *#/)
+          begin: t.concat(/# */, o, / *#/)
         },
         {
           // date plus time
-          begin: n.concat(
+          begin: t.concat(
             /# */,
-            n.either(l, a),
+            t.either(l, a),
             / +/,
-            n.either(o, _),
+            t.either(o, _),
             / *#/
           )
         }
@@ -16558,16 +16576,16 @@ function Xc() {
           begin: /&B[01_]+((U?[SIL])|[%&])?/
         }
       ]
-    }, p = {
+    }, g = {
       className: "label",
       begin: /^\w+:/
-    }, m = t.COMMENT(/'''/, /$/, { contains: [
+    }, m = n.COMMENT(/'''/, /$/, { contains: [
       {
         className: "doctag",
         begin: /<\/?/,
         end: />/
       }
-    ] }), w = t.COMMENT(null, /$/, { variants: [
+    ] }), w = n.COMMENT(null, /$/, { variants: [
       { begin: /'/ },
       {
         // TODO: Use multi-class for leading spaces
@@ -16595,9 +16613,9 @@ function Xc() {
       contains: [
         e,
         i,
-        h,
-        u,
         p,
+        u,
+        g,
         m,
         w,
         {
@@ -16617,11 +16635,11 @@ var ti, qs;
 function Yc() {
   if (qs) return ti;
   qs = 1;
-  function s(t) {
-    t.regex;
-    const n = t.COMMENT(/\(;/, /;\)/);
-    n.contains.push("self");
-    const e = t.COMMENT(/;;/, /$/), i = [
+  function s(n) {
+    n.regex;
+    const t = n.COMMENT(/\(;/, /;\)/);
+    t.contains.push("self");
+    const e = n.COMMENT(/;;/, /$/), i = [
       "anyfunc",
       "block",
       "br",
@@ -16689,7 +16707,7 @@ function Yc() {
       relevance: 0,
       // borrowed from Prism, TODO: split out into variants
       match: /[+-]?\b(?:\d(?:_?\d)*(?:\.\d(?:_?\d)*)?(?:[eE][+-]?\d(?:_?\d)*)?|0x[\da-fA-F](?:_?[\da-fA-F])*(?:\.[\da-fA-F](?:_?[\da-fA-D])*)?(?:[pP][+-]?\d(?:_?\d)*)?)\b|\binf\b|\bnan(?::0x[\da-fA-F](?:_?[\da-fA-D])*)?\b/
-    }, h = {
+    }, p = {
       // look-ahead prevents us from gobbling up opcodes
       match: /(i32|i64|f32|f64)(?!\.)/,
       className: "type"
@@ -16706,7 +16724,7 @@ function Yc() {
       },
       contains: [
         e,
-        n,
+        t,
         {
           match: [
             /(?:offset|align)/,
@@ -16721,8 +16739,8 @@ function Yc() {
         l,
         o,
         a,
-        t.QUOTE_STRING_MODE,
-        h,
+        n.QUOTE_STRING_MODE,
+        p,
         u,
         _
       ]
@@ -16741,27 +16759,27 @@ Qc();
 var Jc = /* @__PURE__ */ la();
 const ii = /* @__PURE__ */ ac(Jc);
 var Hs = Aa({ props: { code: { type: String, required: !0 }, language: { type: String, default: "" }, autodetect: { type: Boolean, default: !0 }, ignoreIllegals: { type: Boolean, default: !0 } }, setup: function(s) {
-  var t = Q(s.language);
+  var n = Q(s.language);
   Xe((function() {
     return s.language;
   }), (function(i) {
-    t.value = i;
+    n.value = i;
   }));
-  var n = P((function() {
-    return s.autodetect || !t.value;
+  var t = P((function() {
+    return s.autodetect || !n.value;
   })), e = P((function() {
-    return !n.value && !ii.getLanguage(t.value);
+    return !t.value && !ii.getLanguage(n.value);
   }));
   return { className: P((function() {
-    return e.value ? "" : "hljs " + t.value;
+    return e.value ? "" : "hljs " + n.value;
   })), highlightedCode: P((function() {
     var i;
-    if (e.value) return console.warn('The language "' + t.value + '" you specified could not be found.'), s.code.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
-    if (n.value) {
+    if (e.value) return console.warn('The language "' + n.value + '" you specified could not be found.'), s.code.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
+    if (t.value) {
       var a = ii.highlightAuto(s.code);
-      return t.value = (i = a.language) !== null && i !== void 0 ? i : "", a.value;
+      return n.value = (i = a.language) !== null && i !== void 0 ? i : "", a.value;
     }
-    return (a = ii.highlight(s.code, { language: t.value, ignoreIllegals: s.ignoreIllegals })).value;
+    return (a = ii.highlight(s.code, { language: n.value, ignoreIllegals: s.ignoreIllegals })).value;
   })) };
 }, render: function() {
   return Ti("pre", {}, [Ti("code", { class: this.className, innerHTML: this.highlightedCode })]);
@@ -16776,15 +16794,15 @@ const e_ = {
       required: !0
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = js.component, e = s, i = P(() => os.html(e.code, {
+  setup(s, { expose: n }) {
+    n();
+    const t = js.component, e = s, i = P(() => os.html(e.code, {
       indent_size: 2,
       indent_inner_html: !0,
       wrap_attributes: "force-expand-multiline",
       wrap_attributes_indent_size: 2,
       inline_custom_elements: !0
-    })), l = { hlVue: n, props: e, formattedCode: i, copyToClipboard: async () => {
+    })), l = { hlVue: t, props: e, formattedCode: i, copyToClipboard: async () => {
       try {
         await navigator.clipboard.writeText(i.value);
       } catch (o) {
@@ -16800,9 +16818,9 @@ const e_ = {
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, t_ = { class: "vue-lab__code-preview" }, n_ = { class: "vue-lab__code-preview__content" };
-function i_(s, t, n, e, i, a) {
+function i_(s, n, t, e, i, a) {
   return k(), $("div", t_, [
-    t[0] || (t[0] = L(
+    n[0] || (n[0] = L(
       "div",
       { class: "vue-lab__code-preview__title" },
       "Usage",
@@ -16836,21 +16854,21 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
       default: () => ({})
     }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = P(() => n.components[n.name]);
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = P(() => t.components[t.name]);
     let i = Q({});
-    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), h = Q(null), u = Q(null), p = Q(null), m = Q(!0), w = Q({
+    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), p = Q(null), u = Q(null), g = Q(null), m = Q(!0), w = Q({
       vueLabloading: !0
-    }), x = Q({});
-    let O = Bt([]);
+    }), N = Q({});
+    let x = Bt([]);
     $e(async () => {
       await d();
     });
     const d = async () => {
       m.value = !1, i.value = { vueLabloading: !1 };
-      const M = n.configuration?.[n.name?.toLocaleLowerCase()], T = Object.keys(M.propsConfig);
-      O = T.map((ae) => ({
+      const M = t.configuration?.[t.name?.toLocaleLowerCase()], T = Object.keys(M.propsConfig);
+      x = T.map((ae) => ({
         ctrl: M.propsConfig[ae].type,
         value: M.propsConfig[ae].value,
         title: M.propsConfig[ae].ctrlTitle,
@@ -16859,10 +16877,10 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
         field: ae
       })).filter((ae) => ae.isCtrl);
       const W = c(T, M.propsConfig);
-      x.value = T.reduce((ae, Z) => ({
+      N.value = T.reduce((ae, Z) => ({
         ...ae,
         [Z]: M.propsConfig[Z].type
-      }), {}), i.value = { ...i.value, ...W }, w.value = { ...i.value }, a.value = M?.description, l.value = f(T, M.propsConfig), o.value = R(T, M.propsConfig), _.value = A(M.events), h.value = M.slots || [], u.value = D(M.slots, !0), p.value = D(M.slots, !1), m.value = !0;
+      }), {}), i.value = { ...i.value, ...W }, w.value = { ...i.value }, a.value = M?.description, l.value = f(T, M.propsConfig), o.value = A(T, M.propsConfig), _.value = R(M.events), p.value = M.slots || [], u.value = D(M.slots, !0), g.value = D(M.slots, !1), m.value = !0;
     }, c = (M, T) => M.reduce((I, W) => ({
       ...I,
       [W]: y(W, T)
@@ -16873,7 +16891,7 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
       optional: T[I].optional || !1,
       default: T[I].default,
       description: T[I].description
-    })), R = (M, T) => new Map(M.map((I) => [I, T[I]])), A = (M) => M ? Object.keys(M).map((T) => ({
+    })), A = (M, T) => new Map(M.map((I) => [I, T[I]])), R = (M) => M ? Object.keys(M).map((T) => ({
       name: T,
       func: M[T]?.func || (() => {
         alert(`Event ${T} triggered!`);
@@ -16882,19 +16900,19 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
     })) : null, D = (M, T) => M ? M.filter((I) => T ? I.name : !I.name).map((I) => ({
       ...I,
       value: I.type === "component" ? ki(I.value) : I.value
-    })) : null, v = P(() => !!h.value?.length), E = P(() => {
+    })) : null, v = P(() => !!p.value?.length), E = P(() => {
       const M = _.value ? _.value.map((I) => `@${I.name}="${I.name}Handler"`).join(" ") : "", T = Object.entries(i.value).filter((I) => I[0] != "vueLabloading").map(([I, W]) => {
         const ae = o.value.get(I);
         if (W == null && ae?.optional)
           return null;
-        if (x.value[I] === "variable") {
+        if (N.value[I] === "variable") {
           const Z = `${I}Val`;
           return `:${I}="${Z}"`;
         } else
           return typeof W == "boolean" ? `:${I}="${!!W}"` : typeof W == "object" || typeof W == "number" ? `:${I}="${W}"` : `${I}="${W}"`;
       }).sort().filter(Boolean).join(" ");
       if (v.value) {
-        const I = h.value.map((W) => {
+        const I = p.value.map((W) => {
           if (W.type === "text" || W.type === "html")
             return W.value;
           if (W.type === "component") {
@@ -16906,13 +16924,13 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
         }).join(`
 `);
         return `
-      <${n.name} ${T} ${M}>
+      <${t.name} ${T} ${M}>
         ${I}
-      </${n.name}>
+      </${t.name}>
     `;
       }
-      return `<${n.name} ${T} ${M} />`;
-    }), g = P(() => _.value?.length ? _.value.reduce((M, T) => ({
+      return `<${t.name} ${T} ${M} />`;
+    }), h = P(() => _.value?.length ? _.value.reduce((M, T) => ({
       ...M,
       [T.name]: T.func
     }), {}) : {}), S = (M) => M ? Array.isArray(M) ? M.map((T) => T.type === "number" || T.type === "boolean" || T.type === "variable" ? `:${T.name}="${T.value}"` : T.type === "text" ? `${T.name}="${T.value}"` : null).filter(Boolean).sort().join(" ") : Object.entries(M).map(([T, I]) => {
@@ -16925,23 +16943,23 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
         return `:${T}="${W}"`;
       } else
         return null;
-    }).filter(Boolean).sort().join(" ") : "", r = (M) => Array.isArray(M) ? M?.filter((T) => T != null && T !== void 0 && T !== "").join(" | ") : typeof M == "boolean" ? M : null, y = (M, T) => T[M].value, N = ({ ctrl: M, value: T }) => {
+    }).filter(Boolean).sort().join(" ") : "", r = (M) => Array.isArray(M) ? M?.filter((T) => T != null && T !== void 0 && T !== "").join(" | ") : typeof M == "boolean" ? M : null, y = (M, T) => T[M].value, O = ({ ctrl: M, value: T }) => {
       i.value[M] = T;
     }, F = () => {
       i.value = { ...w.value };
     }, G = P(() => e.value && i.value.vueLabloading);
-    Xe(() => n.name, async () => {
+    Xe(() => t.name, async () => {
       await d();
     });
-    const X = { props: n, comp: e, get config() {
+    const X = { props: t, comp: e, get config() {
       return i;
     }, set config(M) {
       i = M;
-    }, description: a, propsData: l, propsMap: o, eventsData: _, slotsData: h, namedSlotsData: u, unnamedSlotsData: p, isLoading: m, defaultConfig: w, types: x, get controls() {
-      return O;
+    }, description: a, propsData: l, propsMap: o, eventsData: _, slotsData: p, namedSlotsData: u, unnamedSlotsData: g, isLoading: m, defaultConfig: w, types: N, get controls() {
+      return x;
     }, set controls(M) {
-      O = M;
-    }, loadData: d, getBinds: c, getPropsData: f, getPropsMap: R, getEventsData: A, getSlotsData: D, isSlots: v, exampleCode: E, eventHandlers: g, getSlotAttributes: S, getValues: r, getBindValue: y, handleCTRLInput: N, resetConfig: F, isComponent: G, computed: P, onMounted: $e, reactive: Bt, ref: Q, watch: Xe, markRaw: ki, get loadConfig() {
+      x = M;
+    }, loadData: d, getBinds: c, getPropsData: f, getPropsMap: A, getEventsData: R, getSlotsData: D, isSlots: v, exampleCode: E, eventHandlers: h, getSlotAttributes: S, getValues: r, getBindValue: y, handleCTRLInput: O, resetConfig: F, isComponent: G, computed: P, onMounted: $e, reactive: Bt, ref: Q, watch: Xe, markRaw: ki, get loadConfig() {
       return sc;
     }, get ControlBlock() {
       return ta;
@@ -16969,7 +16987,7 @@ const ca = /* @__PURE__ */ ne(e_, [["render", i_], ["__scopeId", "data-v-ba1811d
   key: 0,
   class: "vue-lab__controls"
 };
-function u_(s, t, n, e, i, a) {
+function u_(s, n, t, e, i, a) {
   return e.isLoading ? (k(), V(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
@@ -16981,7 +16999,7 @@ function u_(s, t, n, e, i, a) {
           L(
             "div",
             o_,
-            re(n.name),
+            re(t.name),
             1
             /* TEXT */
           )
@@ -16994,7 +17012,7 @@ function u_(s, t, n, e, i, a) {
           e.isComponent ? (k(), V(e.Divider, { key: 1 })) : te("v-if", !0),
           e.isComponent ? (k(), $("div", c_, [
             (k(), V(
-              at(e.comp),
+              rt(e.comp),
               oi(e.config, Ca(e.eventHandlers)),
               Ia({
                 default: be(() => [
@@ -17074,15 +17092,15 @@ const d_ = /* @__PURE__ */ ne(s_, [["render", u_], ["__scopeId", "data-v-432c94c
     description: { type: String, default: null },
     name: { type: String, default: "Colors" }
   },
-  setup(s, { expose: t }) {
-    t();
-    const n = s, e = P(() => {
-      const a = [...new Set(n.options.map((o) => o.group))], l = n.options.map(((o, _) => ({ ...o, index: o.index || _ })));
+  setup(s, { expose: n }) {
+    n();
+    const t = s, e = P(() => {
+      const a = [...new Set(t.options.map((o) => o.group))], l = t.options.map(((o, _) => ({ ...o, index: o.index || _ })));
       return a.map((o) => ({
         title: o,
         options: l.filter((_) => _.group == o)
       }));
-    }), i = { props: n, colorGroup: e, get Page() {
+    }), i = { props: t, colorGroup: e, get Page() {
       return ui;
     }, get Description() {
       return li;
@@ -17094,7 +17112,7 @@ const d_ = /* @__PURE__ */ ne(s_, [["render", u_], ["__scopeId", "data-v-432c94c
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
 }, f_ = { class: "vue-lab-colors__component" }, h_ = { class: "vue-lab-colors__component__header" }, g_ = { class: "vue-lab-colors__component__header-title" }, b_ = { class: "vue-lab-colors__component__content custom-scroll--simple" };
-function m_(s, t, n, e, i, a) {
+function m_(s, n, t, e, i, a) {
   return k(), V(e.Page, {
     "is-controls": !1,
     class: "vue-lab-colors"
@@ -17105,15 +17123,15 @@ function m_(s, t, n, e, i, a) {
           L(
             "div",
             g_,
-            re(n.name),
+            re(t.name),
             1
             /* TEXT */
           )
         ]),
         L("div", b_, [
-          n.description ? (k(), V(e.Description, {
+          t.description ? (k(), V(e.Description, {
             key: 0,
-            description: n.description
+            description: t.description
           }, null, 8, ["description"])) : te("v-if", !0),
           xe(e.Divider),
           (k(!0), $(
@@ -17157,20 +17175,20 @@ const v_ = /* @__PURE__ */ ne(p_, [["render", m_], ["__scopeId", "data-v-bf59dc6
     }
   },
   emits: ["input"],
-  setup(s, { expose: t, emit: n }) {
-    t();
-    const e = s, i = n, l = { props: e, emit: i, handleIconSelect: (o) => {
+  setup(s, { expose: n, emit: t }) {
+    n();
+    const e = s, i = t, l = { props: e, emit: i, handleIconSelect: (o) => {
       i("input", o.name);
     } };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 }, y_ = { class: "vue-lab-icons__group" }, w_ = { class: "vue-lab-icons__group-title" }, x_ = { class: "vue-lab-icons__group-body" }, N_ = ["onClick"], O_ = { class: "vue-lab-icons__group-item-name" };
-function S_(s, t, n, e, i, a) {
+function S_(s, n, t, e, i, a) {
   return k(), $("div", y_, [
     L(
       "div",
       w_,
-      re(n.group.name || "Group"),
+      re(t.group.name || "Group"),
       1
       /* TEXT */
     ),
@@ -17178,14 +17196,14 @@ function S_(s, t, n, e, i, a) {
       (k(!0), $(
         fe,
         null,
-        Ee(n.group.components, (l, o) => (k(), $("div", {
-          key: `${n.group.name}-${l.name}-${o}`,
+        Ee(t.group.components, (l, o) => (k(), $("div", {
+          key: `${t.group.name}-${l.name}-${o}`,
           class: "vue-lab-icons__group-item",
           onClick: (_) => e.handleIconSelect(l)
         }, [
           (k(), V(
-            at(l.component),
-            oi({ ref_for: !0 }, { ...n.config, name: l.name }),
+            rt(l.component),
+            oi({ ref_for: !0 }, { ...t.config, name: l.name }),
             null,
             16
             /* FULL_PROPS */
@@ -17217,26 +17235,26 @@ const T_ = /* @__PURE__ */ ne(E_, [["render", S_], ["__scopeId", "data-v-89316d1
     }
   },
   emits: [],
-  setup(s, { expose: t, emit: n }) {
-    t();
+  setup(s, { expose: n, emit: t }) {
+    n();
     const e = s;
     let i = Q({});
-    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), h = Q(!0), u = Q({
+    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), p = Q(!0), u = Q({
       vueLabloading: !0
-    }), p = Q({});
+    }), g = Q({});
     let m = Bt([]);
     $e(async () => {
-      await R();
+      await A();
     });
-    const w = n, x = Q(""), O = P(() => x.value ? e.options.filter(
-      (T) => T.name?.toLowerCase().includes(x?.value.toLowerCase())
+    const w = t, N = Q(""), x = P(() => N.value ? e.options.filter(
+      (T) => T.name?.toLowerCase().includes(N?.value.toLowerCase())
     ) : e.options), d = P(() => {
-      const T = [...new Set(O.value.map((I) => I.group))];
-      return new Map(T.map((I) => [I, O.value.filter((W) => W.group == I)]));
-    }), c = P(() => [...new Set(O.value.map((I) => I.group))].map((I) => ({ name: I, components: d.value.get(I) }))), f = (T) => {
-      x.value = T;
-    }, R = async () => {
-      h.value = !1, i.value = { vueLabloading: !1 };
+      const T = [...new Set(x.value.map((I) => I.group))];
+      return new Map(T.map((I) => [I, x.value.filter((W) => W.group == I)]));
+    }), c = P(() => [...new Set(x.value.map((I) => I.group))].map((I) => ({ name: I, components: d.value.get(I) }))), f = (T) => {
+      N.value = T;
+    }, A = async () => {
+      p.value = !1, i.value = { vueLabloading: !1 };
       const T = e.configuration, I = Object.keys(T.propsConfig);
       m = [
         ...I.map((Z) => ({
@@ -17257,15 +17275,15 @@ const T_ = /* @__PURE__ */ ne(E_, [["render", S_], ["__scopeId", "data-v-89316d1
           field: "icon"
         }
       ];
-      const ae = A(I, T.propsConfig);
-      p.value = I.reduce((Z, de) => ({
+      const ae = R(I, T.propsConfig);
+      g.value = I.reduce((Z, de) => ({
         ...Z,
         [de]: T.propsConfig[de].type
-      }), {}), i.value = { ...i.value, ...ae }, u.value = { ...i.value }, a.value = T?.description, l.value = g(I, T.propsConfig), o.value = S(I, T.propsConfig), _.value = r(T.events), h.value = !0;
-    }, A = (T, I) => T.reduce((W, ae) => ({
+      }), {}), i.value = { ...i.value, ...ae }, u.value = { ...i.value }, a.value = T?.description, l.value = h(I, T.propsConfig), o.value = S(I, T.propsConfig), _.value = r(T.events), p.value = !0;
+    }, R = (T, I) => T.reduce((W, ae) => ({
       ...W,
       [ae]: D(ae, I)
-    }), { vueLabloading: !0 }), D = (T, I) => I[T].value, v = P(() => i.value.vueLabloading), E = (T) => Array.isArray(T) ? T?.filter((I) => I != null && I !== void 0 && I !== "").join(" | ") : typeof T == "boolean" ? T : null, g = (T, I) => T.map((W) => ({
+    }), { vueLabloading: !0 }), D = (T, I) => I[T].value, v = P(() => i.value.vueLabloading), E = (T) => Array.isArray(T) ? T?.filter((I) => I != null && I !== void 0 && I !== "").join(" | ") : typeof T == "boolean" ? T : null, h = (T, I) => T.map((W) => ({
       name: W,
       type: I[W].type,
       values: E(I[W].variants),
@@ -17282,22 +17300,22 @@ const T_ = /* @__PURE__ */ ne(E_, [["render", S_], ["__scopeId", "data-v-89316d1
         const ze = o.value.get(Z);
         if (de == null && ze?.optional)
           return null;
-        if (p.value[Z] === "variable") {
+        if (g.value[Z] === "variable") {
           const Re = `${Z}Val`;
           return `:${Z}="${Re}"`;
         } else
           return typeof de == "boolean" ? `:${Z}="${!!de}"` : typeof de == "object" || typeof de == "number" ? `:${Z}="${de}"` : `${Z}="${de}"`;
       }).sort().filter(Boolean).join(" ");
-      return `<${N.value ? Ri(N.value.name) : "Component"} ${W} ${T} />`;
-    }), N = P(() => i.value?.icon ? e.options?.find((T) => T.name === i.value.icon) : e.options?.[0]), M = { props: e, get config() {
+      return `<${O.value ? Ri(O.value.name) : "Component"} ${W} ${T} />`;
+    }), O = P(() => i.value?.icon ? e.options?.find((T) => T.name === i.value.icon) : e.options?.[0]), M = { props: e, get config() {
       return i;
     }, set config(T) {
       i = T;
-    }, description: a, propsData: l, propsMap: o, eventsData: _, isLoading: h, defaultConfig: u, types: p, get controls() {
+    }, description: a, propsData: l, propsMap: o, eventsData: _, isLoading: p, defaultConfig: u, types: g, get controls() {
       return m;
     }, set controls(T) {
       m = T;
-    }, emit: w, searchTerm: x, filteredOptions: O, optionMap: d, groups: c, handleSearch: f, loadData: R, getBinds: A, getBindValue: D, isComponent: v, getValues: E, getPropsData: g, getPropsMap: S, getEventsData: r, exampleCode: y, selectedIcon: N, handleCTRLInput: ({ ctrl: T, value: I }) => {
+    }, emit: w, searchTerm: N, filteredOptions: x, optionMap: d, groups: c, handleSearch: f, loadData: A, getBinds: R, getBindValue: D, isComponent: v, getValues: E, getPropsData: h, getPropsMap: S, getEventsData: r, exampleCode: y, selectedIcon: O, handleCTRLInput: ({ ctrl: T, value: I }) => {
       i.value[T] = I;
     }, resetConfig: () => {
       i.value = { ...u.value };
@@ -17328,7 +17346,7 @@ const T_ = /* @__PURE__ */ ne(E_, [["render", S_], ["__scopeId", "data-v-89316d1
   key: 0,
   class: "vue-lab-icons__controls"
 };
-function L_(s, t, n, e, i, a) {
+function L_(s, n, t, e, i, a) {
   return e.isLoading ? (k(), V(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
@@ -17336,7 +17354,7 @@ function L_(s, t, n, e, i, a) {
   }, {
     default: be(() => [
       L("div", R_, [
-        t[1] || (t[1] = L(
+        n[1] || (n[1] = L(
           "div",
           { class: "vue-lab-icons__header" },
           [
@@ -17370,7 +17388,7 @@ function L_(s, t, n, e, i, a) {
               key: 0,
               size: "lg"
             }, {
-              default: be(() => [...t[0] || (t[0] = [
+              default: be(() => [...n[0] || (n[0] = [
                 Ue(
                   " No icons found ",
                   -1
@@ -17413,9 +17431,9 @@ function L_(s, t, n, e, i, a) {
   }, 8, ["is-controls"])) : te("v-if", !0);
 }
 const D_ = /* @__PURE__ */ ne(k_, [["render", L_], ["__scopeId", "data-v-ffc66622"], ["__file", "./index.vue"]]), B_ = {
-  beforeMount(s, { value: t }) {
-    t && (s._handler = (n) => {
-      s.contains(n.target) || setTimeout(() => t(n), 1);
+  beforeMount(s, { value: n }) {
+    n && (s._handler = (t) => {
+      s.contains(t.target) || setTimeout(() => n(t), 1);
     }, document.addEventListener("click", s._handler, { capture: !0 }));
   },
   beforeUnmount(s) {
@@ -17434,33 +17452,33 @@ const D_ = /* @__PURE__ */ ne(k_, [["render", L_], ["__scopeId", "data-v-ffc6662
   }
 }, F_ = ({
   components: s = {},
-  menu: t,
-  menuGroupsDescription: n,
+  menu: n,
+  menuGroupsDescription: t,
   mountSelector: e,
   configuration: i,
   homePageDescription: a,
   additionalPages: l,
   kitTitle: o
 }) => {
-  const h = Object.keys(i || {}).reduce((f, R) => ({ ...f, [R.toLocaleLowerCase()]: i[R] }), {}), u = s ? Object.keys(s).map((f) => ({
+  const p = Object.keys(i || {}).reduce((f, A) => ({ ...f, [A.toLocaleLowerCase()]: i[A] }), {}), u = s ? Object.keys(s).map((f) => ({
     name: f,
     path: `/${f}`
   })) : [];
-  let p = l ? [...t || u, ...l] : t || u;
-  const m = p.reduce((f, R) => R.index > f ? R.index : f, 0);
-  p = p.map((f, R) => ({ ...f, index: f.index || m + R + 1 })), p.sort((f, R) => f.index - R.index);
+  let g = l ? [...n || u, ...l] : n || u;
+  const m = g.reduce((f, A) => A.index > f ? A.index : f, 0);
+  g = g.map((f, A) => ({ ...f, index: f.index || m + A + 1 })), g.sort((f, A) => f.index - A.index);
   const w = /* @__PURE__ */ new Map([
     ["colors", v_],
     ["icons", D_]
-  ]), x = (l || []).map((f) => {
-    const R = w.get(f.type);
-    return R ? {
+  ]), N = (l || []).map((f) => {
+    const A = w.get(f.type);
+    return A ? {
       path: f.path,
       name: f.name,
-      component: R,
+      component: A,
       props: f.props
     } : f;
-  }).filter(Boolean), O = [
+  }).filter(Boolean), x = [
     {
       path: "/",
       name: "home",
@@ -17468,22 +17486,22 @@ const D_ = /* @__PURE__ */ ne(k_, [["render", L_], ["__scopeId", "data-v-ffc6662
       props: {
         components: s,
         description: a || "",
-        menu: p,
-        menuGroupsDescription: n
+        menu: g,
+        menuGroupsDescription: t
       }
     },
-    ...x,
+    ...N,
     {
       path: "/:name",
       name: "component",
       component: d_,
-      props: (f) => ({ name: f.params.name, components: s, configuration: h })
+      props: (f) => ({ name: f.params.name, components: s, configuration: p })
     }
   ], d = La({
     history: Da(),
-    routes: O
+    routes: x
   }), c = Ma($o);
-  return c.use(d), c.use(U_), c.provide("menu", p), c.provide("kit-title", o), e && c.mount(e), c;
+  return c.use(d), c.use(U_), c.provide("menu", g), c.provide("kit-title", o), e && c.mount(e), c;
 };
 export {
   F_ as createLab

@@ -37,7 +37,6 @@ const props = defineProps({
   },
 })
 
-const emit = defineEmits(['close'])
 const style = ref({})
 
 function getReferenceElement() {
@@ -80,6 +79,23 @@ function setStyle() {
     right = window.innerWidth - rect.right + 'px'
   }
 
+  if (window.innerHeight - rect.bottom < 300) {
+    switch (position) {
+      case 'top': position = 'bottom'
+        break
+      case 'top:bottom': position = 'bottom:top'
+        break
+      case 'bottom:top': position = 'top:bottom'
+        break
+      case 'bottom': position = 'top'
+        break
+      case 'left': position = 'left'
+        break
+      case 'right': position = 'right'
+        break
+    }
+  }
+
   switch (position) {
     case 'top':
       top = rect.top + +props.margin + 'px'
@@ -91,7 +107,7 @@ function setStyle() {
       bottom = window.innerHeight - rect.bottom - +props.margin + 'px'
       break
     case 'bottom:top':
-      bottom = window.innerHeight - rect.bottom - +props.margin + 'px'
+      bottom = window.innerHeight - rect.bottom + +props.margin + rect.height + 'px'
       break
     case 'left':
       left = rect.left - (width || 0) + 'px'
@@ -114,14 +130,11 @@ function setStyle() {
   }
 }
 
-function close(e) {
-  emit('close', e)
-}
-
 onMounted(() => {
   nextTick(setStyle)
   window.addEventListener('resize', setStyle)
   window.addEventListener('scroll', setStyle, true)
+  nextTick(setStyle)
 })
 
 watch(
