@@ -44,7 +44,7 @@
             }]"
             @click="handleItem(option.id)"
           >
-            <p>{{ option.name }}</p>
+            <p :title="option.name" class="vue-lab__dropdown-list-item-text">{{ option.name }}</p>
           </li>
         </ul>
       </div>
@@ -197,6 +197,12 @@
 
         &:hover {
           transition: all .3s ease-in-out;
+        }
+
+        &-text {
+          text-overflow: ellipsis;
+          position: relative;
+          overflow: hidden;
         }
 
         &_active {

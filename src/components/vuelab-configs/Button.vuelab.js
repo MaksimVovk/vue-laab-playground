@@ -1,5 +1,6 @@
 import EditIcon from '../icons/FormIcon/EditIcon.vue'
 import { iconComponents } from '../icons/index'
+import list from '../../vuelab/lists'
 
 export const propsConfig = {
   palette: {
@@ -48,6 +49,15 @@ export const propsConfig = {
     description: 'Controls the button size',
     ctrl: true,
   },
+  countries: {
+    type: 'list',
+    ctrlTitle: 'Countries',
+    value: null,
+    variants: list.countries,
+    default: null,
+    description: 'Select a country from the list',
+    ctrl: true,
+  }
 }
 
 export const slots = [
