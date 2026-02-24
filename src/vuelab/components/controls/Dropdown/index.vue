@@ -19,6 +19,7 @@
       v-click-outside="close"
       :reference="dropdownActivator"
       position="top:bottom"
+      margin="4"
       alignment="left"
     >
       <div class="vue-lab__dropdown-modal">

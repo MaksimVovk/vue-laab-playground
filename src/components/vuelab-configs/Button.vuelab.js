@@ -54,8 +54,7 @@ export const slots = [
   {
     type: 'text',
     value: 'Test button',
-    slotName: null,
-    description: 'Slot for custom button content'
+    name: null,
   },
   {
     type: 'component',
@@ -70,13 +69,11 @@ export const slots = [
     //   { name: 'palette', value: 'success', type: 'text' },
     //   { name: 'disabled', value: true, type: 'boolean' },
     // ],
-    description: 'Slot for custom button content',
   },
   {
     type: 'html',
     name: null,
     value: '<span style="color: red">Raw HTML Slot</span>',
-    description: 'Slot for raw HTML content',
   }
 ]
 
