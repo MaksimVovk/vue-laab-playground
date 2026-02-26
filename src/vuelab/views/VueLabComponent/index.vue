@@ -210,7 +210,8 @@ const exampleCode = computed(() => {
         if (typeof value === 'boolean') {
           return `:${key}="${Boolean(value)}"`
         } else if (typeof value === 'object' || typeof value == 'number') {
-          return `:${key}="${value}"`
+          const val = value?.__name || value?.__name || value
+          return `:${key}="${val}"`
         }
         return `${key}="${value}"`
       }
@@ -225,8 +226,40 @@ const exampleCode = computed(() => {
         return slot.value
       } else if (slot.type === 'component') {
         const vSlot = slot.name ? `v-slot:${slot.name}` : ''
-        const slotComponentName = slot?.value?.__name || slot?.value?.name
+        let vNodes = typeof slot.value === 'function' ? slot.value() : null
 
+        if (vNodes) {
+          vNodes = typeof vNodes == 'function' ? [vNodes()] : (Array.isArray(vNodes) ? vNodes : [vNodes])
+
+          const renderedNodes = vNodes?.map(vnode => {
+            const name = vnode.type.__name || vnode.type.name || vnode.type
+            const vNodeProps = getSlotAttributes(vnode.props) || ''
+            const children = vnode?.children
+
+            if (children) {
+              if (typeof children === 'string') {
+                return `<${name} ${vNodeProps}>${children}</${name}>`
+              } else if (typeof children === 'object') {
+                const childNodes = children.default ? [children.default()] : []
+
+                const renderedChildNodes = childNodes.map(child => {
+                  const childSlotComponentAttrs = getSlotAttributes(child?.props) || ''
+                  const childName = child.type.__name || child.type.name || child.type
+                  if (typeof child.children === 'string') {
+                    return `<${childName} ${childSlotComponentAttrs}>${child.children}</${childName}>`
+                  } else {
+                    return `<${childName} ${childSlotComponentAttrs}/>`
+                  }
+                }).join('\n    ')
+                return `<${name} ${vNodeProps}>\n    ${renderedChildNodes}\n  </${name}>`
+              }
+            }
+
+            return `<${name} ${vNodeProps}/>`
+          }).join('\n    ')
+          return `<template ${vSlot}>\n    ${renderedNodes}\n  </template>`
+        }
+        const slotComponentName = slot?.value?.__name || slot?.value?.name
         if (!slotComponentName) return null
         const slotComponentAttrs = getSlotAttributes(slot.props) || ''
         return `<template ${vSlot}><${slotComponentName} ${slotComponentAttrs}/></template>`
