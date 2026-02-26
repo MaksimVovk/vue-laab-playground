@@ -1,5 +1,5 @@
 (function(){"use strict";try{if(typeof document<"u"){var a=document.createElement("style");a.appendChild(document.createTextNode('@import"https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap";html[data-v-5643684a],body[data-v-5643684a],div[data-v-5643684a],span[data-v-5643684a],applet[data-v-5643684a],object[data-v-5643684a],iframe[data-v-5643684a],h1[data-v-5643684a],h2[data-v-5643684a],h3[data-v-5643684a],h4[data-v-5643684a],h5[data-v-5643684a],h6[data-v-5643684a],p[data-v-5643684a],blockquote[data-v-5643684a],pre[data-v-5643684a],a[data-v-5643684a],abbr[data-v-5643684a],acronym[data-v-5643684a],address[data-v-5643684a],big[data-v-5643684a],cite[data-v-5643684a],code[data-v-5643684a],del[data-v-5643684a],dfn[data-v-5643684a],em[data-v-5643684a],img[data-v-5643684a],ins[data-v-5643684a],kbd[data-v-5643684a],q[data-v-5643684a],s[data-v-5643684a],samp[data-v-5643684a],small[data-v-5643684a],strike[data-v-5643684a],strong[data-v-5643684a],sub[data-v-5643684a],sup[data-v-5643684a],tt[data-v-5643684a],var[data-v-5643684a],b[data-v-5643684a],u[data-v-5643684a],i[data-v-5643684a],center[data-v-5643684a],dl[data-v-5643684a],dt[data-v-5643684a],dd[data-v-5643684a],ol[data-v-5643684a],ul[data-v-5643684a],li[data-v-5643684a],fieldset[data-v-5643684a],form[data-v-5643684a],label[data-v-5643684a],legend[data-v-5643684a],table[data-v-5643684a],caption[data-v-5643684a],tbody[data-v-5643684a],tfoot[data-v-5643684a],thead[data-v-5643684a],tr[data-v-5643684a],th[data-v-5643684a],td[data-v-5643684a],article[data-v-5643684a],aside[data-v-5643684a],canvas[data-v-5643684a],details[data-v-5643684a],embed[data-v-5643684a],figure[data-v-5643684a],figcaption[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],output[data-v-5643684a],ruby[data-v-5643684a],section[data-v-5643684a],summary[data-v-5643684a],time[data-v-5643684a],mark[data-v-5643684a],audio[data-v-5643684a],video[data-v-5643684a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-5643684a],aside[data-v-5643684a],details[data-v-5643684a],figcaption[data-v-5643684a],figure[data-v-5643684a],footer[data-v-5643684a],header[data-v-5643684a],hgroup[data-v-5643684a],menu[data-v-5643684a],nav[data-v-5643684a],section[data-v-5643684a]{display:block}body[data-v-5643684a]{line-height:1}ol[data-v-5643684a],ul[data-v-5643684a]{list-style:none}blockquote[data-v-5643684a],q[data-v-5643684a]{quotes:none}blockquote[data-v-5643684a]:before,blockquote[data-v-5643684a]:after,q[data-v-5643684a]:before,q[data-v-5643684a]:after{content:"";content:none}table[data-v-5643684a]{border-collapse:collapse;border-spacing:0}[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-5643684a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-5643684a],body[data-v-5643684a],#app[data-v-5643684a]{height:100%;width:100%;overflow:hidden}body[data-v-5643684a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-5643684a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-5643684a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__lab-button[data-v-5643684a]{font-family:var(--vue-lab-font-family)}.vue-lab__lab-button_palette-success[data-v-5643684a]{background-color:#48bb78}.vue-lab__lab-button_palette-success[data-v-5643684a]:hover{background-color:#6dc993}.vue-lab__lab-button_palette-success[data-v-5643684a]:active{background-color:#389860}.vue-lab__lab-button_palette-error[data-v-5643684a]{background-color:#f56565}.vue-lab__lab-button_palette-error[data-v-5643684a]:hover{background-color:#f89595}.vue-lab__lab-button_palette-error[data-v-5643684a]:active{background-color:#f23535}.vue-lab__lab-button_palette-warning[data-v-5643684a]{background-color:#ed8936}.vue-lab__lab-button_palette-warning[data-v-5643684a]:hover{background-color:#f1a465}.vue-lab__lab-button_palette-warning[data-v-5643684a]:active{background-color:#dc6f14}.vue-lab__lab-button_palette-info[data-v-5643684a]{background-color:#4299e1}.vue-lab__lab-button_palette-info[data-v-5643684a]:hover{background-color:#6eb1e8}.vue-lab__lab-button_palette-info[data-v-5643684a]:active{background-color:#2180cf}.vue-lab__lab-button_palette-primary[data-v-5643684a]{background-color:#1e90ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:hover{background-color:#51a9ff}.vue-lab__lab-button_palette-primary[data-v-5643684a]:active{background-color:#0077ea}.vue-lab__lab-button_size-sm[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:24px;padding:6px 12px;border-radius:4px}.vue-lab__lab-button_size-md[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:32px;padding:8px 12px;border-radius:6px}.vue-lab__lab-button_size-lg[data-v-5643684a]{width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;color:#fff;transition:.3s;height:40px;padding:10px 14px;border-radius:8px}html[data-v-553567f5],body[data-v-553567f5],div[data-v-553567f5],span[data-v-553567f5],applet[data-v-553567f5],object[data-v-553567f5],iframe[data-v-553567f5],h1[data-v-553567f5],h2[data-v-553567f5],h3[data-v-553567f5],h4[data-v-553567f5],h5[data-v-553567f5],h6[data-v-553567f5],p[data-v-553567f5],blockquote[data-v-553567f5],pre[data-v-553567f5],a[data-v-553567f5],abbr[data-v-553567f5],acronym[data-v-553567f5],address[data-v-553567f5],big[data-v-553567f5],cite[data-v-553567f5],code[data-v-553567f5],del[data-v-553567f5],dfn[data-v-553567f5],em[data-v-553567f5],img[data-v-553567f5],ins[data-v-553567f5],kbd[data-v-553567f5],q[data-v-553567f5],s[data-v-553567f5],samp[data-v-553567f5],small[data-v-553567f5],strike[data-v-553567f5],strong[data-v-553567f5],sub[data-v-553567f5],sup[data-v-553567f5],tt[data-v-553567f5],var[data-v-553567f5],b[data-v-553567f5],u[data-v-553567f5],i[data-v-553567f5],center[data-v-553567f5],dl[data-v-553567f5],dt[data-v-553567f5],dd[data-v-553567f5],ol[data-v-553567f5],ul[data-v-553567f5],li[data-v-553567f5],fieldset[data-v-553567f5],form[data-v-553567f5],label[data-v-553567f5],legend[data-v-553567f5],table[data-v-553567f5],caption[data-v-553567f5],tbody[data-v-553567f5],tfoot[data-v-553567f5],thead[data-v-553567f5],tr[data-v-553567f5],th[data-v-553567f5],td[data-v-553567f5],article[data-v-553567f5],aside[data-v-553567f5],canvas[data-v-553567f5],details[data-v-553567f5],embed[data-v-553567f5],figure[data-v-553567f5],figcaption[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],output[data-v-553567f5],ruby[data-v-553567f5],section[data-v-553567f5],summary[data-v-553567f5],time[data-v-553567f5],mark[data-v-553567f5],audio[data-v-553567f5],video[data-v-553567f5]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-553567f5],aside[data-v-553567f5],details[data-v-553567f5],figcaption[data-v-553567f5],figure[data-v-553567f5],footer[data-v-553567f5],header[data-v-553567f5],hgroup[data-v-553567f5],menu[data-v-553567f5],nav[data-v-553567f5],section[data-v-553567f5]{display:block}body[data-v-553567f5]{line-height:1}ol[data-v-553567f5],ul[data-v-553567f5]{list-style:none}blockquote[data-v-553567f5],q[data-v-553567f5]{quotes:none}blockquote[data-v-553567f5]:before,blockquote[data-v-553567f5]:after,q[data-v-553567f5]:before,q[data-v-553567f5]:after{content:"";content:none}table[data-v-553567f5]{border-collapse:collapse;border-spacing:0}[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-553567f5]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-553567f5],body[data-v-553567f5],#app[data-v-553567f5]{height:100%;width:100%;overflow:hidden}body[data-v-553567f5]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-553567f5]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-553567f5]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-tag[data-v-553567f5]{font-family:var(--vue-lab-font-family)}.vue-lab-tag__title[data-v-553567f5]{color:#fff}.vue-lab-tag_palette-success[data-v-553567f5]{background-color:#48bb78}.vue-lab-tag_palette-success[data-v-553567f5]:hover{background-color:#6dc993}.vue-lab-tag_palette-success[data-v-553567f5]:active{background-color:#389860}.vue-lab-tag_palette-success.vue-lab-tag_active[data-v-553567f5]{background-color:#92d7af}.vue-lab-tag_palette-error[data-v-553567f5]{background-color:#f56565}.vue-lab-tag_palette-error[data-v-553567f5]:hover{background-color:#f89595}.vue-lab-tag_palette-error[data-v-553567f5]:active{background-color:#f23535}.vue-lab-tag_palette-error.vue-lab-tag_active[data-v-553567f5]{background-color:#fbc5c5}.vue-lab-tag_palette-warning[data-v-553567f5]{background-color:#ed8936}.vue-lab-tag_palette-warning[data-v-553567f5]:hover{background-color:#f1a465}.vue-lab-tag_palette-warning[data-v-553567f5]:active{background-color:#dc6f14}.vue-lab-tag_palette-warning.vue-lab-tag_active[data-v-553567f5]{background-color:#f5c094}.vue-lab-tag_palette-info[data-v-553567f5]{background-color:#4299e1}.vue-lab-tag_palette-info[data-v-553567f5]:hover{background-color:#6eb1e8}.vue-lab-tag_palette-info[data-v-553567f5]:active{background-color:#2180cf}.vue-lab-tag_palette-info.vue-lab-tag_active[data-v-553567f5]{background-color:#9ac9ef}.vue-lab-tag_palette-primary[data-v-553567f5]{background-color:#1e90ff}.vue-lab-tag_palette-primary[data-v-553567f5]:hover{background-color:#51a9ff}.vue-lab-tag_palette-primary[data-v-553567f5]:active{background-color:#0077ea}.vue-lab-tag_palette-primary.vue-lab-tag_active[data-v-553567f5]{background-color:#84c2ff}.vue-lab-tag_size-sm[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:20px;padding:4px 10px;border-radius:4px}.vue-lab-tag_size-md[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:28px;padding:6px 10px;border-radius:6px}.vue-lab-tag_size-lg[data-v-553567f5]{align-items:center;display:flex;width:fit-content;box-sizing:border-box;cursor:pointer;-webkit-user-select:none;user-select:none;transition:.3s;font-size:12px;height:34px;padding:8px 12px;border-radius:8px}html[data-v-f2d48cdd],body[data-v-f2d48cdd],div[data-v-f2d48cdd],span[data-v-f2d48cdd],applet[data-v-f2d48cdd],object[data-v-f2d48cdd],iframe[data-v-f2d48cdd],h1[data-v-f2d48cdd],h2[data-v-f2d48cdd],h3[data-v-f2d48cdd],h4[data-v-f2d48cdd],h5[data-v-f2d48cdd],h6[data-v-f2d48cdd],p[data-v-f2d48cdd],blockquote[data-v-f2d48cdd],pre[data-v-f2d48cdd],a[data-v-f2d48cdd],abbr[data-v-f2d48cdd],acronym[data-v-f2d48cdd],address[data-v-f2d48cdd],big[data-v-f2d48cdd],cite[data-v-f2d48cdd],code[data-v-f2d48cdd],del[data-v-f2d48cdd],dfn[data-v-f2d48cdd],em[data-v-f2d48cdd],img[data-v-f2d48cdd],ins[data-v-f2d48cdd],kbd[data-v-f2d48cdd],q[data-v-f2d48cdd],s[data-v-f2d48cdd],samp[data-v-f2d48cdd],small[data-v-f2d48cdd],strike[data-v-f2d48cdd],strong[data-v-f2d48cdd],sub[data-v-f2d48cdd],sup[data-v-f2d48cdd],tt[data-v-f2d48cdd],var[data-v-f2d48cdd],b[data-v-f2d48cdd],u[data-v-f2d48cdd],i[data-v-f2d48cdd],center[data-v-f2d48cdd],dl[data-v-f2d48cdd],dt[data-v-f2d48cdd],dd[data-v-f2d48cdd],ol[data-v-f2d48cdd],ul[data-v-f2d48cdd],li[data-v-f2d48cdd],fieldset[data-v-f2d48cdd],form[data-v-f2d48cdd],label[data-v-f2d48cdd],legend[data-v-f2d48cdd],table[data-v-f2d48cdd],caption[data-v-f2d48cdd],tbody[data-v-f2d48cdd],tfoot[data-v-f2d48cdd],thead[data-v-f2d48cdd],tr[data-v-f2d48cdd],th[data-v-f2d48cdd],td[data-v-f2d48cdd],article[data-v-f2d48cdd],aside[data-v-f2d48cdd],canvas[data-v-f2d48cdd],details[data-v-f2d48cdd],embed[data-v-f2d48cdd],figure[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],output[data-v-f2d48cdd],ruby[data-v-f2d48cdd],section[data-v-f2d48cdd],summary[data-v-f2d48cdd],time[data-v-f2d48cdd],mark[data-v-f2d48cdd],audio[data-v-f2d48cdd],video[data-v-f2d48cdd]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-f2d48cdd],aside[data-v-f2d48cdd],details[data-v-f2d48cdd],figcaption[data-v-f2d48cdd],figure[data-v-f2d48cdd],footer[data-v-f2d48cdd],header[data-v-f2d48cdd],hgroup[data-v-f2d48cdd],menu[data-v-f2d48cdd],nav[data-v-f2d48cdd],section[data-v-f2d48cdd]{display:block}body[data-v-f2d48cdd]{line-height:1}ol[data-v-f2d48cdd],ul[data-v-f2d48cdd]{list-style:none}blockquote[data-v-f2d48cdd],q[data-v-f2d48cdd]{quotes:none}blockquote[data-v-f2d48cdd]:before,blockquote[data-v-f2d48cdd]:after,q[data-v-f2d48cdd]:before,q[data-v-f2d48cdd]:after{content:"";content:none}table[data-v-f2d48cdd]{border-collapse:collapse;border-spacing:0}[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-f2d48cdd]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-f2d48cdd],body[data-v-f2d48cdd],#app[data-v-f2d48cdd]{height:100%;width:100%;overflow:hidden}body[data-v-f2d48cdd]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-f2d48cdd]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-f2d48cdd]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__description[data-v-f2d48cdd]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-845d1c40],body[data-v-845d1c40],div[data-v-845d1c40],span[data-v-845d1c40],applet[data-v-845d1c40],object[data-v-845d1c40],iframe[data-v-845d1c40],h1[data-v-845d1c40],h2[data-v-845d1c40],h3[data-v-845d1c40],h4[data-v-845d1c40],h5[data-v-845d1c40],h6[data-v-845d1c40],p[data-v-845d1c40],blockquote[data-v-845d1c40],pre[data-v-845d1c40],a[data-v-845d1c40],abbr[data-v-845d1c40],acronym[data-v-845d1c40],address[data-v-845d1c40],big[data-v-845d1c40],cite[data-v-845d1c40],code[data-v-845d1c40],del[data-v-845d1c40],dfn[data-v-845d1c40],em[data-v-845d1c40],img[data-v-845d1c40],ins[data-v-845d1c40],kbd[data-v-845d1c40],q[data-v-845d1c40],s[data-v-845d1c40],samp[data-v-845d1c40],small[data-v-845d1c40],strike[data-v-845d1c40],strong[data-v-845d1c40],sub[data-v-845d1c40],sup[data-v-845d1c40],tt[data-v-845d1c40],var[data-v-845d1c40],b[data-v-845d1c40],u[data-v-845d1c40],i[data-v-845d1c40],center[data-v-845d1c40],dl[data-v-845d1c40],dt[data-v-845d1c40],dd[data-v-845d1c40],ol[data-v-845d1c40],ul[data-v-845d1c40],li[data-v-845d1c40],fieldset[data-v-845d1c40],form[data-v-845d1c40],label[data-v-845d1c40],legend[data-v-845d1c40],table[data-v-845d1c40],caption[data-v-845d1c40],tbody[data-v-845d1c40],tfoot[data-v-845d1c40],thead[data-v-845d1c40],tr[data-v-845d1c40],th[data-v-845d1c40],td[data-v-845d1c40],article[data-v-845d1c40],aside[data-v-845d1c40],canvas[data-v-845d1c40],details[data-v-845d1c40],embed[data-v-845d1c40],figure[data-v-845d1c40],figcaption[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],output[data-v-845d1c40],ruby[data-v-845d1c40],section[data-v-845d1c40],summary[data-v-845d1c40],time[data-v-845d1c40],mark[data-v-845d1c40],audio[data-v-845d1c40],video[data-v-845d1c40]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-845d1c40],aside[data-v-845d1c40],details[data-v-845d1c40],figcaption[data-v-845d1c40],figure[data-v-845d1c40],footer[data-v-845d1c40],header[data-v-845d1c40],hgroup[data-v-845d1c40],menu[data-v-845d1c40],nav[data-v-845d1c40],section[data-v-845d1c40]{display:block}body[data-v-845d1c40]{line-height:1}ol[data-v-845d1c40],ul[data-v-845d1c40]{list-style:none}blockquote[data-v-845d1c40],q[data-v-845d1c40]{quotes:none}blockquote[data-v-845d1c40]:before,blockquote[data-v-845d1c40]:after,q[data-v-845d1c40]:before,q[data-v-845d1c40]:after{content:"";content:none}table[data-v-845d1c40]{border-collapse:collapse;border-spacing:0}[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-845d1c40]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-845d1c40],body[data-v-845d1c40],#app[data-v-845d1c40]{height:100%;width:100%;overflow:hidden}body[data-v-845d1c40]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-845d1c40]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-845d1c40]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description__item[data-v-845d1c40]{font-family:var(--vue-lab-font-family)}.vue-lab__props-description__item[data-v-845d1c40]:not(:last-child){padding-bottom:8px;border-bottom:1px solid #E5E7EB}.vue-lab__props-description__item[data-v-845d1c40]:not(:first-child){padding-top:8px}.vue-lab__props-description__item__header[data-v-845d1c40]{display:flex;justify-content:space-between;align-items:center;font-size:14px;margin-bottom:4px}.vue-lab__props-description__item__header_name[data-v-845d1c40]{font-weight:600;text-transform:capitalize}.vue-lab__props-description__item__header_type[data-v-845d1c40]{font-weight:600;text-transform:capitalize;font-size:14px;color:#374151}.vue-lab__props-description__item__body[data-v-845d1c40]{font-size:13px;border-left:#D1D5DB 2px solid;padding-left:8px}.vue-lab__props-description__item__body__row[data-v-845d1c40]{gap:4px;display:flex;line-height:1.4}.vue-lab__props-description__item__body__row-key[data-v-845d1c40]{text-transform:capitalize;font-weight:600}.vue-lab__props-description__item__body__row-value[data-v-845d1c40]{color:#6b7280}html[data-v-db8d12a1],body[data-v-db8d12a1],div[data-v-db8d12a1],span[data-v-db8d12a1],applet[data-v-db8d12a1],object[data-v-db8d12a1],iframe[data-v-db8d12a1],h1[data-v-db8d12a1],h2[data-v-db8d12a1],h3[data-v-db8d12a1],h4[data-v-db8d12a1],h5[data-v-db8d12a1],h6[data-v-db8d12a1],p[data-v-db8d12a1],blockquote[data-v-db8d12a1],pre[data-v-db8d12a1],a[data-v-db8d12a1],abbr[data-v-db8d12a1],acronym[data-v-db8d12a1],address[data-v-db8d12a1],big[data-v-db8d12a1],cite[data-v-db8d12a1],code[data-v-db8d12a1],del[data-v-db8d12a1],dfn[data-v-db8d12a1],em[data-v-db8d12a1],img[data-v-db8d12a1],ins[data-v-db8d12a1],kbd[data-v-db8d12a1],q[data-v-db8d12a1],s[data-v-db8d12a1],samp[data-v-db8d12a1],small[data-v-db8d12a1],strike[data-v-db8d12a1],strong[data-v-db8d12a1],sub[data-v-db8d12a1],sup[data-v-db8d12a1],tt[data-v-db8d12a1],var[data-v-db8d12a1],b[data-v-db8d12a1],u[data-v-db8d12a1],i[data-v-db8d12a1],center[data-v-db8d12a1],dl[data-v-db8d12a1],dt[data-v-db8d12a1],dd[data-v-db8d12a1],ol[data-v-db8d12a1],ul[data-v-db8d12a1],li[data-v-db8d12a1],fieldset[data-v-db8d12a1],form[data-v-db8d12a1],label[data-v-db8d12a1],legend[data-v-db8d12a1],table[data-v-db8d12a1],caption[data-v-db8d12a1],tbody[data-v-db8d12a1],tfoot[data-v-db8d12a1],thead[data-v-db8d12a1],tr[data-v-db8d12a1],th[data-v-db8d12a1],td[data-v-db8d12a1],article[data-v-db8d12a1],aside[data-v-db8d12a1],canvas[data-v-db8d12a1],details[data-v-db8d12a1],embed[data-v-db8d12a1],figure[data-v-db8d12a1],figcaption[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],output[data-v-db8d12a1],ruby[data-v-db8d12a1],section[data-v-db8d12a1],summary[data-v-db8d12a1],time[data-v-db8d12a1],mark[data-v-db8d12a1],audio[data-v-db8d12a1],video[data-v-db8d12a1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-db8d12a1],aside[data-v-db8d12a1],details[data-v-db8d12a1],figcaption[data-v-db8d12a1],figure[data-v-db8d12a1],footer[data-v-db8d12a1],header[data-v-db8d12a1],hgroup[data-v-db8d12a1],menu[data-v-db8d12a1],nav[data-v-db8d12a1],section[data-v-db8d12a1]{display:block}body[data-v-db8d12a1]{line-height:1}ol[data-v-db8d12a1],ul[data-v-db8d12a1]{list-style:none}blockquote[data-v-db8d12a1],q[data-v-db8d12a1]{quotes:none}blockquote[data-v-db8d12a1]:before,blockquote[data-v-db8d12a1]:after,q[data-v-db8d12a1]:before,q[data-v-db8d12a1]:after{content:"";content:none}table[data-v-db8d12a1]{border-collapse:collapse;border-spacing:0}[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-db8d12a1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-db8d12a1],body[data-v-db8d12a1],#app[data-v-db8d12a1]{height:100%;width:100%;overflow:hidden}body[data-v-db8d12a1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-db8d12a1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-db8d12a1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__props-description[data-v-db8d12a1]{font-family:var(--vue-lab-font-family)}html[data-v-7b2edc41],body[data-v-7b2edc41],div[data-v-7b2edc41],span[data-v-7b2edc41],applet[data-v-7b2edc41],object[data-v-7b2edc41],iframe[data-v-7b2edc41],h1[data-v-7b2edc41],h2[data-v-7b2edc41],h3[data-v-7b2edc41],h4[data-v-7b2edc41],h5[data-v-7b2edc41],h6[data-v-7b2edc41],p[data-v-7b2edc41],blockquote[data-v-7b2edc41],pre[data-v-7b2edc41],a[data-v-7b2edc41],abbr[data-v-7b2edc41],acronym[data-v-7b2edc41],address[data-v-7b2edc41],big[data-v-7b2edc41],cite[data-v-7b2edc41],code[data-v-7b2edc41],del[data-v-7b2edc41],dfn[data-v-7b2edc41],em[data-v-7b2edc41],img[data-v-7b2edc41],ins[data-v-7b2edc41],kbd[data-v-7b2edc41],q[data-v-7b2edc41],s[data-v-7b2edc41],samp[data-v-7b2edc41],small[data-v-7b2edc41],strike[data-v-7b2edc41],strong[data-v-7b2edc41],sub[data-v-7b2edc41],sup[data-v-7b2edc41],tt[data-v-7b2edc41],var[data-v-7b2edc41],b[data-v-7b2edc41],u[data-v-7b2edc41],i[data-v-7b2edc41],center[data-v-7b2edc41],dl[data-v-7b2edc41],dt[data-v-7b2edc41],dd[data-v-7b2edc41],ol[data-v-7b2edc41],ul[data-v-7b2edc41],li[data-v-7b2edc41],fieldset[data-v-7b2edc41],form[data-v-7b2edc41],label[data-v-7b2edc41],legend[data-v-7b2edc41],table[data-v-7b2edc41],caption[data-v-7b2edc41],tbody[data-v-7b2edc41],tfoot[data-v-7b2edc41],thead[data-v-7b2edc41],tr[data-v-7b2edc41],th[data-v-7b2edc41],td[data-v-7b2edc41],article[data-v-7b2edc41],aside[data-v-7b2edc41],canvas[data-v-7b2edc41],details[data-v-7b2edc41],embed[data-v-7b2edc41],figure[data-v-7b2edc41],figcaption[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],output[data-v-7b2edc41],ruby[data-v-7b2edc41],section[data-v-7b2edc41],summary[data-v-7b2edc41],time[data-v-7b2edc41],mark[data-v-7b2edc41],audio[data-v-7b2edc41],video[data-v-7b2edc41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-7b2edc41],aside[data-v-7b2edc41],details[data-v-7b2edc41],figcaption[data-v-7b2edc41],figure[data-v-7b2edc41],footer[data-v-7b2edc41],header[data-v-7b2edc41],hgroup[data-v-7b2edc41],menu[data-v-7b2edc41],nav[data-v-7b2edc41],section[data-v-7b2edc41]{display:block}body[data-v-7b2edc41]{line-height:1}ol[data-v-7b2edc41],ul[data-v-7b2edc41]{list-style:none}blockquote[data-v-7b2edc41],q[data-v-7b2edc41]{quotes:none}blockquote[data-v-7b2edc41]:before,blockquote[data-v-7b2edc41]:after,q[data-v-7b2edc41]:before,q[data-v-7b2edc41]:after{content:"";content:none}table[data-v-7b2edc41]{border-collapse:collapse;border-spacing:0}[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-7b2edc41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-7b2edc41],body[data-v-7b2edc41],#app[data-v-7b2edc41]{height:100%;width:100%;overflow:hidden}body[data-v-7b2edc41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-7b2edc41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-7b2edc41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__events[data-v-7b2edc41]{font-family:var(--vue-lab-font-family)}.vue-lab__events__body-row[data-v-7b2edc41]{display:grid;grid-template-columns:minmax(100px,150px) 1fr}.vue-lab__events__body-column--th[data-v-7b2edc41]{font-weight:600;font-size:13px;height:24px;display:flex;align-items:center;border-bottom:#D1D5DB 1px solid;padding:5px 0}.vue-lab__events__body-column--th-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body-column--td[data-v-7b2edc41]{font-size:14px;color:#6b7280;padding:5px 0;border-bottom:#D1D5DB 1px solid;align-items:center;display:flex;line-height:1.4}.vue-lab__events__body-column--td-regular[data-v-7b2edc41]{padding:5px 10px;border-left:#D1D5DB 1px solid}.vue-lab__events__body .bold[data-v-7b2edc41]{font-weight:600;color:#2c3239}html[data-v-11d57440],body[data-v-11d57440],div[data-v-11d57440],span[data-v-11d57440],applet[data-v-11d57440],object[data-v-11d57440],iframe[data-v-11d57440],h1[data-v-11d57440],h2[data-v-11d57440],h3[data-v-11d57440],h4[data-v-11d57440],h5[data-v-11d57440],h6[data-v-11d57440],p[data-v-11d57440],blockquote[data-v-11d57440],pre[data-v-11d57440],a[data-v-11d57440],abbr[data-v-11d57440],acronym[data-v-11d57440],address[data-v-11d57440],big[data-v-11d57440],cite[data-v-11d57440],code[data-v-11d57440],del[data-v-11d57440],dfn[data-v-11d57440],em[data-v-11d57440],img[data-v-11d57440],ins[data-v-11d57440],kbd[data-v-11d57440],q[data-v-11d57440],s[data-v-11d57440],samp[data-v-11d57440],small[data-v-11d57440],strike[data-v-11d57440],strong[data-v-11d57440],sub[data-v-11d57440],sup[data-v-11d57440],tt[data-v-11d57440],var[data-v-11d57440],b[data-v-11d57440],u[data-v-11d57440],i[data-v-11d57440],center[data-v-11d57440],dl[data-v-11d57440],dt[data-v-11d57440],dd[data-v-11d57440],ol[data-v-11d57440],ul[data-v-11d57440],li[data-v-11d57440],fieldset[data-v-11d57440],form[data-v-11d57440],label[data-v-11d57440],legend[data-v-11d57440],table[data-v-11d57440],caption[data-v-11d57440],tbody[data-v-11d57440],tfoot[data-v-11d57440],thead[data-v-11d57440],tr[data-v-11d57440],th[data-v-11d57440],td[data-v-11d57440],article[data-v-11d57440],aside[data-v-11d57440],canvas[data-v-11d57440],details[data-v-11d57440],embed[data-v-11d57440],figure[data-v-11d57440],figcaption[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],output[data-v-11d57440],ruby[data-v-11d57440],section[data-v-11d57440],summary[data-v-11d57440],time[data-v-11d57440],mark[data-v-11d57440],audio[data-v-11d57440],video[data-v-11d57440]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-11d57440],aside[data-v-11d57440],details[data-v-11d57440],figcaption[data-v-11d57440],figure[data-v-11d57440],footer[data-v-11d57440],header[data-v-11d57440],hgroup[data-v-11d57440],menu[data-v-11d57440],nav[data-v-11d57440],section[data-v-11d57440]{display:block}body[data-v-11d57440]{line-height:1}ol[data-v-11d57440],ul[data-v-11d57440]{list-style:none}blockquote[data-v-11d57440],q[data-v-11d57440]{quotes:none}blockquote[data-v-11d57440]:before,blockquote[data-v-11d57440]:after,q[data-v-11d57440]:before,q[data-v-11d57440]:after{content:"";content:none}table[data-v-11d57440]{border-collapse:collapse;border-spacing:0}[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-11d57440]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-11d57440],body[data-v-11d57440],#app[data-v-11d57440]{height:100%;width:100%;overflow:hidden}body[data-v-11d57440]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-11d57440]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-11d57440]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.icon__geometry[data-v-11d57440]{fill:#6b7280}html[data-v-163aedb2],body[data-v-163aedb2],div[data-v-163aedb2],span[data-v-163aedb2],applet[data-v-163aedb2],object[data-v-163aedb2],iframe[data-v-163aedb2],h1[data-v-163aedb2],h2[data-v-163aedb2],h3[data-v-163aedb2],h4[data-v-163aedb2],h5[data-v-163aedb2],h6[data-v-163aedb2],p[data-v-163aedb2],blockquote[data-v-163aedb2],pre[data-v-163aedb2],a[data-v-163aedb2],abbr[data-v-163aedb2],acronym[data-v-163aedb2],address[data-v-163aedb2],big[data-v-163aedb2],cite[data-v-163aedb2],code[data-v-163aedb2],del[data-v-163aedb2],dfn[data-v-163aedb2],em[data-v-163aedb2],img[data-v-163aedb2],ins[data-v-163aedb2],kbd[data-v-163aedb2],q[data-v-163aedb2],s[data-v-163aedb2],samp[data-v-163aedb2],small[data-v-163aedb2],strike[data-v-163aedb2],strong[data-v-163aedb2],sub[data-v-163aedb2],sup[data-v-163aedb2],tt[data-v-163aedb2],var[data-v-163aedb2],b[data-v-163aedb2],u[data-v-163aedb2],i[data-v-163aedb2],center[data-v-163aedb2],dl[data-v-163aedb2],dt[data-v-163aedb2],dd[data-v-163aedb2],ol[data-v-163aedb2],ul[data-v-163aedb2],li[data-v-163aedb2],fieldset[data-v-163aedb2],form[data-v-163aedb2],label[data-v-163aedb2],legend[data-v-163aedb2],table[data-v-163aedb2],caption[data-v-163aedb2],tbody[data-v-163aedb2],tfoot[data-v-163aedb2],thead[data-v-163aedb2],tr[data-v-163aedb2],th[data-v-163aedb2],td[data-v-163aedb2],article[data-v-163aedb2],aside[data-v-163aedb2],canvas[data-v-163aedb2],details[data-v-163aedb2],embed[data-v-163aedb2],figure[data-v-163aedb2],figcaption[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],output[data-v-163aedb2],ruby[data-v-163aedb2],section[data-v-163aedb2],summary[data-v-163aedb2],time[data-v-163aedb2],mark[data-v-163aedb2],audio[data-v-163aedb2],video[data-v-163aedb2]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-163aedb2],aside[data-v-163aedb2],details[data-v-163aedb2],figcaption[data-v-163aedb2],figure[data-v-163aedb2],footer[data-v-163aedb2],header[data-v-163aedb2],hgroup[data-v-163aedb2],menu[data-v-163aedb2],nav[data-v-163aedb2],section[data-v-163aedb2]{display:block}body[data-v-163aedb2]{line-height:1}ol[data-v-163aedb2],ul[data-v-163aedb2]{list-style:none}blockquote[data-v-163aedb2],q[data-v-163aedb2]{quotes:none}blockquote[data-v-163aedb2]:before,blockquote[data-v-163aedb2]:after,q[data-v-163aedb2]:before,q[data-v-163aedb2]:after{content:"";content:none}table[data-v-163aedb2]{border-collapse:collapse;border-spacing:0}[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-163aedb2]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-163aedb2],body[data-v-163aedb2],#app[data-v-163aedb2]{height:100%;width:100%;overflow:hidden}body[data-v-163aedb2]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-163aedb2]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-163aedb2]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-163aedb2]{position:relative;box-sizing:border-box}.vue-lab__search-input[data-v-163aedb2]{margin:0;border:0;font-size:14px;min-width:100%;border:1px solid #D1D5DB;background-color:#f3f4f6;padding:4px 10px;box-sizing:border-box;border-radius:6px}.vue-lab__search-input[data-v-163aedb2]:focus{border-color:none;outline:none;background-color:#fff}.vue-lab__search-list[data-v-163aedb2]{margin-top:4px;background-color:#fff;padding:5px 0;min-width:150px;border-radius:4px;border:#D1D5DB 1px solid;display:grid;gap:2px;z-index:2}.vue-lab__search-list--empty[data-v-163aedb2]{height:50px;display:flex;align-items:center;justify-content:center;font-size:13px}.vue-lab__search-list-item[data-v-163aedb2]{padding:5px 10px;box-sizing:border-box;font-size:13px;height:25px;display:flex;align-items:center;cursor:pointer;text-decoration:none;gap:5px}.vue-lab__search-list-item[data-v-163aedb2]:hover:not(.vue-lab__search-list-item--active){background-color:#dcedff;transition:all .3s ease-in-out}.vue-lab__search-list-item[data-v-163aedb2]:hover{transition:all .3s ease-in-out}.vue-lab__search-list-item--active[data-v-163aedb2]{background-color:#dcedff}html[data-v-875f6eef],body[data-v-875f6eef],div[data-v-875f6eef],span[data-v-875f6eef],applet[data-v-875f6eef],object[data-v-875f6eef],iframe[data-v-875f6eef],h1[data-v-875f6eef],h2[data-v-875f6eef],h3[data-v-875f6eef],h4[data-v-875f6eef],h5[data-v-875f6eef],h6[data-v-875f6eef],p[data-v-875f6eef],blockquote[data-v-875f6eef],pre[data-v-875f6eef],a[data-v-875f6eef],abbr[data-v-875f6eef],acronym[data-v-875f6eef],address[data-v-875f6eef],big[data-v-875f6eef],cite[data-v-875f6eef],code[data-v-875f6eef],del[data-v-875f6eef],dfn[data-v-875f6eef],em[data-v-875f6eef],img[data-v-875f6eef],ins[data-v-875f6eef],kbd[data-v-875f6eef],q[data-v-875f6eef],s[data-v-875f6eef],samp[data-v-875f6eef],small[data-v-875f6eef],strike[data-v-875f6eef],strong[data-v-875f6eef],sub[data-v-875f6eef],sup[data-v-875f6eef],tt[data-v-875f6eef],var[data-v-875f6eef],b[data-v-875f6eef],u[data-v-875f6eef],i[data-v-875f6eef],center[data-v-875f6eef],dl[data-v-875f6eef],dt[data-v-875f6eef],dd[data-v-875f6eef],ol[data-v-875f6eef],ul[data-v-875f6eef],li[data-v-875f6eef],fieldset[data-v-875f6eef],form[data-v-875f6eef],label[data-v-875f6eef],legend[data-v-875f6eef],table[data-v-875f6eef],caption[data-v-875f6eef],tbody[data-v-875f6eef],tfoot[data-v-875f6eef],thead[data-v-875f6eef],tr[data-v-875f6eef],th[data-v-875f6eef],td[data-v-875f6eef],article[data-v-875f6eef],aside[data-v-875f6eef],canvas[data-v-875f6eef],details[data-v-875f6eef],embed[data-v-875f6eef],figure[data-v-875f6eef],figcaption[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],output[data-v-875f6eef],ruby[data-v-875f6eef],section[data-v-875f6eef],summary[data-v-875f6eef],time[data-v-875f6eef],mark[data-v-875f6eef],audio[data-v-875f6eef],video[data-v-875f6eef]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-875f6eef],aside[data-v-875f6eef],details[data-v-875f6eef],figcaption[data-v-875f6eef],figure[data-v-875f6eef],footer[data-v-875f6eef],header[data-v-875f6eef],hgroup[data-v-875f6eef],menu[data-v-875f6eef],nav[data-v-875f6eef],section[data-v-875f6eef]{display:block}body[data-v-875f6eef]{line-height:1}ol[data-v-875f6eef],ul[data-v-875f6eef]{list-style:none}blockquote[data-v-875f6eef],q[data-v-875f6eef]{quotes:none}blockquote[data-v-875f6eef]:before,blockquote[data-v-875f6eef]:after,q[data-v-875f6eef]:before,q[data-v-875f6eef]:after{content:"";content:none}table[data-v-875f6eef]{border-collapse:collapse;border-spacing:0}[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-875f6eef]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-875f6eef],body[data-v-875f6eef],#app[data-v-875f6eef]{height:100%;width:100%;overflow:hidden}body[data-v-875f6eef]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-875f6eef]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-875f6eef]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-item[data-v-875f6eef],.vue-lab__nav-item[data-v-875f6eef] *{cursor:pointer!important}.vue-lab__nav-item a[data-v-875f6eef],.vue-lab__nav-item * a[data-v-875f6eef]{cursor:pointer}.vue-lab__nav-item[data-v-875f6eef]{display:grid;grid-template-columns:16px 1fr;padding:10px;align-items:center;gap:5px;font-size:15px;box-sizing:border-box;-webkit-user-select:none;user-select:none;transition:all .3s ease-in-out;text-decoration:none;z-index:1;color:#2c3239}.vue-lab__nav-item-icon[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item-icon-menu[data-v-875f6eef]{width:14px;height:14px}.vue-lab__nav-item-label[data-v-875f6eef]{display:flex;align-items:center}.vue-lab__nav-item[data-v-875f6eef]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__nav-item[data-v-875f6eef]:hover{transition:all .3s ease-in-out}.vue-lab__nav-item--active[data-v-875f6eef]{background-color:#dcedff}html[data-v-4061da29],body[data-v-4061da29],div[data-v-4061da29],span[data-v-4061da29],applet[data-v-4061da29],object[data-v-4061da29],iframe[data-v-4061da29],h1[data-v-4061da29],h2[data-v-4061da29],h3[data-v-4061da29],h4[data-v-4061da29],h5[data-v-4061da29],h6[data-v-4061da29],p[data-v-4061da29],blockquote[data-v-4061da29],pre[data-v-4061da29],a[data-v-4061da29],abbr[data-v-4061da29],acronym[data-v-4061da29],address[data-v-4061da29],big[data-v-4061da29],cite[data-v-4061da29],code[data-v-4061da29],del[data-v-4061da29],dfn[data-v-4061da29],em[data-v-4061da29],img[data-v-4061da29],ins[data-v-4061da29],kbd[data-v-4061da29],q[data-v-4061da29],s[data-v-4061da29],samp[data-v-4061da29],small[data-v-4061da29],strike[data-v-4061da29],strong[data-v-4061da29],sub[data-v-4061da29],sup[data-v-4061da29],tt[data-v-4061da29],var[data-v-4061da29],b[data-v-4061da29],u[data-v-4061da29],i[data-v-4061da29],center[data-v-4061da29],dl[data-v-4061da29],dt[data-v-4061da29],dd[data-v-4061da29],ol[data-v-4061da29],ul[data-v-4061da29],li[data-v-4061da29],fieldset[data-v-4061da29],form[data-v-4061da29],label[data-v-4061da29],legend[data-v-4061da29],table[data-v-4061da29],caption[data-v-4061da29],tbody[data-v-4061da29],tfoot[data-v-4061da29],thead[data-v-4061da29],tr[data-v-4061da29],th[data-v-4061da29],td[data-v-4061da29],article[data-v-4061da29],aside[data-v-4061da29],canvas[data-v-4061da29],details[data-v-4061da29],embed[data-v-4061da29],figure[data-v-4061da29],figcaption[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],output[data-v-4061da29],ruby[data-v-4061da29],section[data-v-4061da29],summary[data-v-4061da29],time[data-v-4061da29],mark[data-v-4061da29],audio[data-v-4061da29],video[data-v-4061da29]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-4061da29],aside[data-v-4061da29],details[data-v-4061da29],figcaption[data-v-4061da29],figure[data-v-4061da29],footer[data-v-4061da29],header[data-v-4061da29],hgroup[data-v-4061da29],menu[data-v-4061da29],nav[data-v-4061da29],section[data-v-4061da29]{display:block}body[data-v-4061da29]{line-height:1}ol[data-v-4061da29],ul[data-v-4061da29]{list-style:none}blockquote[data-v-4061da29],q[data-v-4061da29]{quotes:none}blockquote[data-v-4061da29]:before,blockquote[data-v-4061da29]:after,q[data-v-4061da29]:before,q[data-v-4061da29]:after{content:"";content:none}table[data-v-4061da29]{border-collapse:collapse;border-spacing:0}[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-4061da29]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-4061da29],body[data-v-4061da29],#app[data-v-4061da29]{height:100%;width:100%;overflow:hidden}body[data-v-4061da29]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-4061da29]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav-group[data-v-4061da29]{padding:0 10px}.vue-lab__nav-group-name[data-v-4061da29]{display:flex;align-items:center;justify-content:space-between;font-size:13px;font-weight:600;color:#6b7280;margin-bottom:10px;cursor:pointer}.vue-lab__nav-group-arrow[data-v-4061da29]{transition:.3s}.vue-lab__nav-group-arrow--closed[data-v-4061da29]{transform:rotate(180deg)}.vue-lab__nav-group-items[data-v-4061da29]{overflow:hidden;transition:max-height var(--4061da29-maxHeightDuration) ease;max-height:0}.vue-lab__nav-group-items--opened[data-v-4061da29]{max-height:var(--4061da29-maxHeight)}html[data-v-3672c48c],body[data-v-3672c48c],div[data-v-3672c48c],span[data-v-3672c48c],applet[data-v-3672c48c],object[data-v-3672c48c],iframe[data-v-3672c48c],h1[data-v-3672c48c],h2[data-v-3672c48c],h3[data-v-3672c48c],h4[data-v-3672c48c],h5[data-v-3672c48c],h6[data-v-3672c48c],p[data-v-3672c48c],blockquote[data-v-3672c48c],pre[data-v-3672c48c],a[data-v-3672c48c],abbr[data-v-3672c48c],acronym[data-v-3672c48c],address[data-v-3672c48c],big[data-v-3672c48c],cite[data-v-3672c48c],code[data-v-3672c48c],del[data-v-3672c48c],dfn[data-v-3672c48c],em[data-v-3672c48c],img[data-v-3672c48c],ins[data-v-3672c48c],kbd[data-v-3672c48c],q[data-v-3672c48c],s[data-v-3672c48c],samp[data-v-3672c48c],small[data-v-3672c48c],strike[data-v-3672c48c],strong[data-v-3672c48c],sub[data-v-3672c48c],sup[data-v-3672c48c],tt[data-v-3672c48c],var[data-v-3672c48c],b[data-v-3672c48c],u[data-v-3672c48c],i[data-v-3672c48c],center[data-v-3672c48c],dl[data-v-3672c48c],dt[data-v-3672c48c],dd[data-v-3672c48c],ol[data-v-3672c48c],ul[data-v-3672c48c],li[data-v-3672c48c],fieldset[data-v-3672c48c],form[data-v-3672c48c],label[data-v-3672c48c],legend[data-v-3672c48c],table[data-v-3672c48c],caption[data-v-3672c48c],tbody[data-v-3672c48c],tfoot[data-v-3672c48c],thead[data-v-3672c48c],tr[data-v-3672c48c],th[data-v-3672c48c],td[data-v-3672c48c],article[data-v-3672c48c],aside[data-v-3672c48c],canvas[data-v-3672c48c],details[data-v-3672c48c],embed[data-v-3672c48c],figure[data-v-3672c48c],figcaption[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],output[data-v-3672c48c],ruby[data-v-3672c48c],section[data-v-3672c48c],summary[data-v-3672c48c],time[data-v-3672c48c],mark[data-v-3672c48c],audio[data-v-3672c48c],video[data-v-3672c48c]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3672c48c],aside[data-v-3672c48c],details[data-v-3672c48c],figcaption[data-v-3672c48c],figure[data-v-3672c48c],footer[data-v-3672c48c],header[data-v-3672c48c],hgroup[data-v-3672c48c],menu[data-v-3672c48c],nav[data-v-3672c48c],section[data-v-3672c48c]{display:block}body[data-v-3672c48c]{line-height:1}ol[data-v-3672c48c],ul[data-v-3672c48c]{list-style:none}blockquote[data-v-3672c48c],q[data-v-3672c48c]{quotes:none}blockquote[data-v-3672c48c]:before,blockquote[data-v-3672c48c]:after,q[data-v-3672c48c]:before,q[data-v-3672c48c]:after{content:"";content:none}table[data-v-3672c48c]{border-collapse:collapse;border-spacing:0}[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3672c48c]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3672c48c],body[data-v-3672c48c],#app[data-v-3672c48c]{height:100%;width:100%;overflow:hidden}body[data-v-3672c48c]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3672c48c]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3672c48c]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__nav[data-v-3672c48c]{background-color:#fff;height:100%;border-right:1px solid #D1D5DB;-webkit-user-select:none;user-select:none;overflow:hidden;display:flex;flex-direction:column;font-family:var(--vue-lab-font-family);color:#2c3239}.vue-lab__nav-header[data-v-3672c48c]{display:grid;grid-template-columns:32px 1fr;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:10px;cursor:pointer;color:#2c3239}.vue-lab__nav-header-title[data-v-3672c48c]{font-family:Ubuntu,sans-serif;color:#0f664e}.vue-lab__nav-body[data-v-3672c48c]{height:100%;display:grid;grid-template-rows:1fr;overflow:auto;padding-bottom:10px}.vue-lab__nav-body-title[data-v-3672c48c]{padding:8px 10px 20px;font-size:15px;font-weight:600;color:#6b7280}.vue-lab__nav-body-items[data-v-3672c48c]{overflow:auto;height:100%;display:grid;align-items:start;grid-auto-rows:min-content;gap:10px}.vue-lab__nav-search[data-v-3672c48c]{padding:5px 10px;margin-bottom:12px}.vue-lab__popover[data-v-22f54b08]{position:absolute;overflow:hidden;z-index:999;font-family:var(--vue-lab-font-family)}html[data-v-06e447f6],body[data-v-06e447f6],div[data-v-06e447f6],span[data-v-06e447f6],applet[data-v-06e447f6],object[data-v-06e447f6],iframe[data-v-06e447f6],h1[data-v-06e447f6],h2[data-v-06e447f6],h3[data-v-06e447f6],h4[data-v-06e447f6],h5[data-v-06e447f6],h6[data-v-06e447f6],p[data-v-06e447f6],blockquote[data-v-06e447f6],pre[data-v-06e447f6],a[data-v-06e447f6],abbr[data-v-06e447f6],acronym[data-v-06e447f6],address[data-v-06e447f6],big[data-v-06e447f6],cite[data-v-06e447f6],code[data-v-06e447f6],del[data-v-06e447f6],dfn[data-v-06e447f6],em[data-v-06e447f6],img[data-v-06e447f6],ins[data-v-06e447f6],kbd[data-v-06e447f6],q[data-v-06e447f6],s[data-v-06e447f6],samp[data-v-06e447f6],small[data-v-06e447f6],strike[data-v-06e447f6],strong[data-v-06e447f6],sub[data-v-06e447f6],sup[data-v-06e447f6],tt[data-v-06e447f6],var[data-v-06e447f6],b[data-v-06e447f6],u[data-v-06e447f6],i[data-v-06e447f6],center[data-v-06e447f6],dl[data-v-06e447f6],dt[data-v-06e447f6],dd[data-v-06e447f6],ol[data-v-06e447f6],ul[data-v-06e447f6],li[data-v-06e447f6],fieldset[data-v-06e447f6],form[data-v-06e447f6],label[data-v-06e447f6],legend[data-v-06e447f6],table[data-v-06e447f6],caption[data-v-06e447f6],tbody[data-v-06e447f6],tfoot[data-v-06e447f6],thead[data-v-06e447f6],tr[data-v-06e447f6],th[data-v-06e447f6],td[data-v-06e447f6],article[data-v-06e447f6],aside[data-v-06e447f6],canvas[data-v-06e447f6],details[data-v-06e447f6],embed[data-v-06e447f6],figure[data-v-06e447f6],figcaption[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],output[data-v-06e447f6],ruby[data-v-06e447f6],section[data-v-06e447f6],summary[data-v-06e447f6],time[data-v-06e447f6],mark[data-v-06e447f6],audio[data-v-06e447f6],video[data-v-06e447f6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-06e447f6],aside[data-v-06e447f6],details[data-v-06e447f6],figcaption[data-v-06e447f6],figure[data-v-06e447f6],footer[data-v-06e447f6],header[data-v-06e447f6],hgroup[data-v-06e447f6],menu[data-v-06e447f6],nav[data-v-06e447f6],section[data-v-06e447f6]{display:block}body[data-v-06e447f6]{line-height:1}ol[data-v-06e447f6],ul[data-v-06e447f6]{list-style:none}blockquote[data-v-06e447f6],q[data-v-06e447f6]{quotes:none}blockquote[data-v-06e447f6]:before,blockquote[data-v-06e447f6]:after,q[data-v-06e447f6]:before,q[data-v-06e447f6]:after{content:"";content:none}table[data-v-06e447f6]{border-collapse:collapse;border-spacing:0}[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-06e447f6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-06e447f6],body[data-v-06e447f6],#app[data-v-06e447f6]{height:100%;width:100%;overflow:hidden}body[data-v-06e447f6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-06e447f6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-06e447f6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__search[data-v-06e447f6]{font-family:var(--vue-lab-font-family)}.vue-lab__search[data-v-06e447f6] *{font:inherit}.vue-lab__search__field[data-v-06e447f6]{position:relative;margin-top:12px}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:5px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:7px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-sm .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:10px;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:13px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-md .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input[data-v-06e447f6]{width:100%;padding:15px 10px;font-size:14px;border:none;border-bottom:1px solid #E5E7EB;outline:none;background:transparent;transition:border-color .2s;box-sizing:border-box}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-label[data-v-06e447f6]{position:absolute;top:17px;left:10px;font-size:14px;color:#999;pointer-events:none;transition:all .2s ease}.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:focus+.vue-lab__search-label[data-v-06e447f6],.vue-lab__search .vue-lab__search_size-lg .vue-lab__search-input:not(:placeholder-shown)+.vue-lab__search-label[data-v-06e447f6]{top:-12px;left:0;color:#6b7280;font-size:13px}html[data-v-1586512e],body[data-v-1586512e],div[data-v-1586512e],span[data-v-1586512e],applet[data-v-1586512e],object[data-v-1586512e],iframe[data-v-1586512e],h1[data-v-1586512e],h2[data-v-1586512e],h3[data-v-1586512e],h4[data-v-1586512e],h5[data-v-1586512e],h6[data-v-1586512e],p[data-v-1586512e],blockquote[data-v-1586512e],pre[data-v-1586512e],a[data-v-1586512e],abbr[data-v-1586512e],acronym[data-v-1586512e],address[data-v-1586512e],big[data-v-1586512e],cite[data-v-1586512e],code[data-v-1586512e],del[data-v-1586512e],dfn[data-v-1586512e],em[data-v-1586512e],img[data-v-1586512e],ins[data-v-1586512e],kbd[data-v-1586512e],q[data-v-1586512e],s[data-v-1586512e],samp[data-v-1586512e],small[data-v-1586512e],strike[data-v-1586512e],strong[data-v-1586512e],sub[data-v-1586512e],sup[data-v-1586512e],tt[data-v-1586512e],var[data-v-1586512e],b[data-v-1586512e],u[data-v-1586512e],i[data-v-1586512e],center[data-v-1586512e],dl[data-v-1586512e],dt[data-v-1586512e],dd[data-v-1586512e],ol[data-v-1586512e],ul[data-v-1586512e],li[data-v-1586512e],fieldset[data-v-1586512e],form[data-v-1586512e],label[data-v-1586512e],legend[data-v-1586512e],table[data-v-1586512e],caption[data-v-1586512e],tbody[data-v-1586512e],tfoot[data-v-1586512e],thead[data-v-1586512e],tr[data-v-1586512e],th[data-v-1586512e],td[data-v-1586512e],article[data-v-1586512e],aside[data-v-1586512e],canvas[data-v-1586512e],details[data-v-1586512e],embed[data-v-1586512e],figure[data-v-1586512e],figcaption[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],output[data-v-1586512e],ruby[data-v-1586512e],section[data-v-1586512e],summary[data-v-1586512e],time[data-v-1586512e],mark[data-v-1586512e],audio[data-v-1586512e],video[data-v-1586512e]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-1586512e],aside[data-v-1586512e],details[data-v-1586512e],figcaption[data-v-1586512e],figure[data-v-1586512e],footer[data-v-1586512e],header[data-v-1586512e],hgroup[data-v-1586512e],menu[data-v-1586512e],nav[data-v-1586512e],section[data-v-1586512e]{display:block}body[data-v-1586512e]{line-height:1}ol[data-v-1586512e],ul[data-v-1586512e]{list-style:none}blockquote[data-v-1586512e],q[data-v-1586512e]{quotes:none}blockquote[data-v-1586512e]:before,blockquote[data-v-1586512e]:after,q[data-v-1586512e]:before,q[data-v-1586512e]:after{content:"";content:none}table[data-v-1586512e]{border-collapse:collapse;border-spacing:0}[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-1586512e]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-1586512e],body[data-v-1586512e],#app[data-v-1586512e]{height:100%;width:100%;overflow:hidden}body[data-v-1586512e]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-1586512e]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-1586512e]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__icon-base-template[data-v-1586512e]{width:fit-content}.icon[data-v-1586512e]{display:inline-flex;align-items:center;justify-content:center;width:var(--icon-size);height:var(--icon-size);transition:.5s}.icon_clickable[data-v-1586512e]{cursor:pointer}.icon_disabled[data-v-1586512e]{cursor:not-allowed!important}.icon_disabled .icon__geometry[data-v-1586512e]{fill:var(--custom-color, #C7CED4)!important}.icon_disabled .icon__geometry_stroke[data-v-1586512e]{stroke:#c7ced4!important}.icon_disabled .icon__geometry_fill-empty[data-v-1586512e]{fill:transparent!important}.icon.icon_palette-default[data-v-1586512e]{transition:.5s}.icon.icon_palette-default[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3A424A)}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3a424a}.icon.icon_palette-default[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-default.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]{transition:.5s}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #C7CED4)}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#c7ced4}.icon.icon_palette-disabled[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-disabled.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]{transition:.5s}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #003A5D)}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#003a5d}.icon.icon_palette-primary[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-primary.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]{transition:.5s}.icon.icon_palette-success[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #0BB060)}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#0bb060}.icon.icon_palette-success[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-success.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]{transition:.5s}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #FAAD14)}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#faad14}.icon.icon_palette-warning[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-warning.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]{transition:.5s}.icon.icon_palette-error[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #D64B4C)}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#d64b4c}.icon.icon_palette-error[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-error.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]{transition:.5s}.icon.icon_palette-info[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #1C4EBF)}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#1c4ebf}.icon.icon_palette-info[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-info.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]{transition:.5s}.icon.icon_palette-light[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #fff)}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#fff}.icon.icon_palette-light[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-light.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]{transition:.5s}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #cacaca)}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#cacaca}.icon.icon_palette-neutral[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-neutral.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]{transition:.5s}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #3781F0)}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#3781f0}.icon.icon_palette-accent[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-accent.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]{transition:.5s}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #292D32)}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#292d32}.icon.icon_palette-deep[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-deep.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]{transition:.5s}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry{transition:.3s;fill:var(--custom-color, #6B7280)}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e] .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry{transition:.3s;fill:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_stroke,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_stroke{transition:.3s;stroke:#6b7280}.icon.icon_palette-muted[data-v-1586512e]:hover:not(.icon_disabled) .icon__geometry_fill-empty,.icon.icon_palette-muted.icon_focused[data-v-1586512e]:not(.icon_disabled) .icon__geometry_fill-empty{transition:.3s;fill:transparent}.icon[data-v-1586512e] svg{width:100%;height:100%}html[data-v-c7a78350],body[data-v-c7a78350],div[data-v-c7a78350],span[data-v-c7a78350],applet[data-v-c7a78350],object[data-v-c7a78350],iframe[data-v-c7a78350],h1[data-v-c7a78350],h2[data-v-c7a78350],h3[data-v-c7a78350],h4[data-v-c7a78350],h5[data-v-c7a78350],h6[data-v-c7a78350],p[data-v-c7a78350],blockquote[data-v-c7a78350],pre[data-v-c7a78350],a[data-v-c7a78350],abbr[data-v-c7a78350],acronym[data-v-c7a78350],address[data-v-c7a78350],big[data-v-c7a78350],cite[data-v-c7a78350],code[data-v-c7a78350],del[data-v-c7a78350],dfn[data-v-c7a78350],em[data-v-c7a78350],img[data-v-c7a78350],ins[data-v-c7a78350],kbd[data-v-c7a78350],q[data-v-c7a78350],s[data-v-c7a78350],samp[data-v-c7a78350],small[data-v-c7a78350],strike[data-v-c7a78350],strong[data-v-c7a78350],sub[data-v-c7a78350],sup[data-v-c7a78350],tt[data-v-c7a78350],var[data-v-c7a78350],b[data-v-c7a78350],u[data-v-c7a78350],i[data-v-c7a78350],center[data-v-c7a78350],dl[data-v-c7a78350],dt[data-v-c7a78350],dd[data-v-c7a78350],ol[data-v-c7a78350],ul[data-v-c7a78350],li[data-v-c7a78350],fieldset[data-v-c7a78350],form[data-v-c7a78350],label[data-v-c7a78350],legend[data-v-c7a78350],table[data-v-c7a78350],caption[data-v-c7a78350],tbody[data-v-c7a78350],tfoot[data-v-c7a78350],thead[data-v-c7a78350],tr[data-v-c7a78350],th[data-v-c7a78350],td[data-v-c7a78350],article[data-v-c7a78350],aside[data-v-c7a78350],canvas[data-v-c7a78350],details[data-v-c7a78350],embed[data-v-c7a78350],figure[data-v-c7a78350],figcaption[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],output[data-v-c7a78350],ruby[data-v-c7a78350],section[data-v-c7a78350],summary[data-v-c7a78350],time[data-v-c7a78350],mark[data-v-c7a78350],audio[data-v-c7a78350],video[data-v-c7a78350]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c7a78350],aside[data-v-c7a78350],details[data-v-c7a78350],figcaption[data-v-c7a78350],figure[data-v-c7a78350],footer[data-v-c7a78350],header[data-v-c7a78350],hgroup[data-v-c7a78350],menu[data-v-c7a78350],nav[data-v-c7a78350],section[data-v-c7a78350]{display:block}body[data-v-c7a78350]{line-height:1}ol[data-v-c7a78350],ul[data-v-c7a78350]{list-style:none}blockquote[data-v-c7a78350],q[data-v-c7a78350]{quotes:none}blockquote[data-v-c7a78350]:before,blockquote[data-v-c7a78350]:after,q[data-v-c7a78350]:before,q[data-v-c7a78350]:after{content:"";content:none}table[data-v-c7a78350]{border-collapse:collapse;border-spacing:0}[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c7a78350]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c7a78350],body[data-v-c7a78350],#app[data-v-c7a78350]{height:100%;width:100%;overflow:hidden}body[data-v-c7a78350]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c7a78350]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c7a78350]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__empty-screen[data-v-c7a78350]{display:grid;justify-items:center;font-family:var(--vue-lab-font-family);box-sizing:border-box}.vue-lab__empty-screen[data-size=sm][data-v-c7a78350]{padding:10px}.vue-lab__empty-screen[data-size=sm] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:14px}.vue-lab__empty-screen[data-size=md][data-v-c7a78350]{padding:15px}.vue-lab__empty-screen[data-size=md] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:16px}.vue-lab__empty-screen[data-size=lg][data-v-c7a78350]{padding:20px}.vue-lab__empty-screen[data-size=lg] .vue-lab__empty-screen__text[data-v-c7a78350]{margin-top:12px;text-align:center;line-height:1.5;color:#6b7280;font-size:18px}.vue-lab-application{height:100%;width:100%;background-color:#eceff2}.vue-lab-application__content{height:100%;overflow:hidden}.vue-lab-application__body{height:100%;width:100%;display:grid;grid-template-columns:200px 1fr}html[data-v-9214d2d0],body[data-v-9214d2d0],div[data-v-9214d2d0],span[data-v-9214d2d0],applet[data-v-9214d2d0],object[data-v-9214d2d0],iframe[data-v-9214d2d0],h1[data-v-9214d2d0],h2[data-v-9214d2d0],h3[data-v-9214d2d0],h4[data-v-9214d2d0],h5[data-v-9214d2d0],h6[data-v-9214d2d0],p[data-v-9214d2d0],blockquote[data-v-9214d2d0],pre[data-v-9214d2d0],a[data-v-9214d2d0],abbr[data-v-9214d2d0],acronym[data-v-9214d2d0],address[data-v-9214d2d0],big[data-v-9214d2d0],cite[data-v-9214d2d0],code[data-v-9214d2d0],del[data-v-9214d2d0],dfn[data-v-9214d2d0],em[data-v-9214d2d0],img[data-v-9214d2d0],ins[data-v-9214d2d0],kbd[data-v-9214d2d0],q[data-v-9214d2d0],s[data-v-9214d2d0],samp[data-v-9214d2d0],small[data-v-9214d2d0],strike[data-v-9214d2d0],strong[data-v-9214d2d0],sub[data-v-9214d2d0],sup[data-v-9214d2d0],tt[data-v-9214d2d0],var[data-v-9214d2d0],b[data-v-9214d2d0],u[data-v-9214d2d0],i[data-v-9214d2d0],center[data-v-9214d2d0],dl[data-v-9214d2d0],dt[data-v-9214d2d0],dd[data-v-9214d2d0],ol[data-v-9214d2d0],ul[data-v-9214d2d0],li[data-v-9214d2d0],fieldset[data-v-9214d2d0],form[data-v-9214d2d0],label[data-v-9214d2d0],legend[data-v-9214d2d0],table[data-v-9214d2d0],caption[data-v-9214d2d0],tbody[data-v-9214d2d0],tfoot[data-v-9214d2d0],thead[data-v-9214d2d0],tr[data-v-9214d2d0],th[data-v-9214d2d0],td[data-v-9214d2d0],article[data-v-9214d2d0],aside[data-v-9214d2d0],canvas[data-v-9214d2d0],details[data-v-9214d2d0],embed[data-v-9214d2d0],figure[data-v-9214d2d0],figcaption[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],output[data-v-9214d2d0],ruby[data-v-9214d2d0],section[data-v-9214d2d0],summary[data-v-9214d2d0],time[data-v-9214d2d0],mark[data-v-9214d2d0],audio[data-v-9214d2d0],video[data-v-9214d2d0]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9214d2d0],aside[data-v-9214d2d0],details[data-v-9214d2d0],figcaption[data-v-9214d2d0],figure[data-v-9214d2d0],footer[data-v-9214d2d0],header[data-v-9214d2d0],hgroup[data-v-9214d2d0],menu[data-v-9214d2d0],nav[data-v-9214d2d0],section[data-v-9214d2d0]{display:block}body[data-v-9214d2d0]{line-height:1}ol[data-v-9214d2d0],ul[data-v-9214d2d0]{list-style:none}blockquote[data-v-9214d2d0],q[data-v-9214d2d0]{quotes:none}blockquote[data-v-9214d2d0]:before,blockquote[data-v-9214d2d0]:after,q[data-v-9214d2d0]:before,q[data-v-9214d2d0]:after{content:"";content:none}table[data-v-9214d2d0]{border-collapse:collapse;border-spacing:0}[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9214d2d0]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9214d2d0],body[data-v-9214d2d0],#app[data-v-9214d2d0]{height:100%;width:100%;overflow:hidden}body[data-v-9214d2d0]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9214d2d0]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9214d2d0]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__ctrl-layout[data-v-9214d2d0]{font-family:var(--vue-lab-font-family)}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:first-child){padding-top:20px}.vue-lab__ctrl-layout[data-v-9214d2d0]:not(:last-child){border-bottom:1px solid #E5E7EB;padding-bottom:12px}.vue-lab__ctrl-layout__title[data-v-9214d2d0]{color:#6b7280;font-size:13px;margin-bottom:8px}html[data-v-6c569ff9],body[data-v-6c569ff9],div[data-v-6c569ff9],span[data-v-6c569ff9],applet[data-v-6c569ff9],object[data-v-6c569ff9],iframe[data-v-6c569ff9],h1[data-v-6c569ff9],h2[data-v-6c569ff9],h3[data-v-6c569ff9],h4[data-v-6c569ff9],h5[data-v-6c569ff9],h6[data-v-6c569ff9],p[data-v-6c569ff9],blockquote[data-v-6c569ff9],pre[data-v-6c569ff9],a[data-v-6c569ff9],abbr[data-v-6c569ff9],acronym[data-v-6c569ff9],address[data-v-6c569ff9],big[data-v-6c569ff9],cite[data-v-6c569ff9],code[data-v-6c569ff9],del[data-v-6c569ff9],dfn[data-v-6c569ff9],em[data-v-6c569ff9],img[data-v-6c569ff9],ins[data-v-6c569ff9],kbd[data-v-6c569ff9],q[data-v-6c569ff9],s[data-v-6c569ff9],samp[data-v-6c569ff9],small[data-v-6c569ff9],strike[data-v-6c569ff9],strong[data-v-6c569ff9],sub[data-v-6c569ff9],sup[data-v-6c569ff9],tt[data-v-6c569ff9],var[data-v-6c569ff9],b[data-v-6c569ff9],u[data-v-6c569ff9],i[data-v-6c569ff9],center[data-v-6c569ff9],dl[data-v-6c569ff9],dt[data-v-6c569ff9],dd[data-v-6c569ff9],ol[data-v-6c569ff9],ul[data-v-6c569ff9],li[data-v-6c569ff9],fieldset[data-v-6c569ff9],form[data-v-6c569ff9],label[data-v-6c569ff9],legend[data-v-6c569ff9],table[data-v-6c569ff9],caption[data-v-6c569ff9],tbody[data-v-6c569ff9],tfoot[data-v-6c569ff9],thead[data-v-6c569ff9],tr[data-v-6c569ff9],th[data-v-6c569ff9],td[data-v-6c569ff9],article[data-v-6c569ff9],aside[data-v-6c569ff9],canvas[data-v-6c569ff9],details[data-v-6c569ff9],embed[data-v-6c569ff9],figure[data-v-6c569ff9],figcaption[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],output[data-v-6c569ff9],ruby[data-v-6c569ff9],section[data-v-6c569ff9],summary[data-v-6c569ff9],time[data-v-6c569ff9],mark[data-v-6c569ff9],audio[data-v-6c569ff9],video[data-v-6c569ff9]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-6c569ff9],aside[data-v-6c569ff9],details[data-v-6c569ff9],figcaption[data-v-6c569ff9],figure[data-v-6c569ff9],footer[data-v-6c569ff9],header[data-v-6c569ff9],hgroup[data-v-6c569ff9],menu[data-v-6c569ff9],nav[data-v-6c569ff9],section[data-v-6c569ff9]{display:block}body[data-v-6c569ff9]{line-height:1}ol[data-v-6c569ff9],ul[data-v-6c569ff9]{list-style:none}blockquote[data-v-6c569ff9],q[data-v-6c569ff9]{quotes:none}blockquote[data-v-6c569ff9]:before,blockquote[data-v-6c569ff9]:after,q[data-v-6c569ff9]:before,q[data-v-6c569ff9]:after{content:"";content:none}table[data-v-6c569ff9]{border-collapse:collapse;border-spacing:0}[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-6c569ff9]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-6c569ff9],body[data-v-6c569ff9],#app[data-v-6c569ff9]{height:100%;width:100%;overflow:hidden}body[data-v-6c569ff9]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-6c569ff9]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-6c569ff9]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__tags[data-v-6c569ff9]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family)}html[data-v-96bfa191],body[data-v-96bfa191],div[data-v-96bfa191],span[data-v-96bfa191],applet[data-v-96bfa191],object[data-v-96bfa191],iframe[data-v-96bfa191],h1[data-v-96bfa191],h2[data-v-96bfa191],h3[data-v-96bfa191],h4[data-v-96bfa191],h5[data-v-96bfa191],h6[data-v-96bfa191],p[data-v-96bfa191],blockquote[data-v-96bfa191],pre[data-v-96bfa191],a[data-v-96bfa191],abbr[data-v-96bfa191],acronym[data-v-96bfa191],address[data-v-96bfa191],big[data-v-96bfa191],cite[data-v-96bfa191],code[data-v-96bfa191],del[data-v-96bfa191],dfn[data-v-96bfa191],em[data-v-96bfa191],img[data-v-96bfa191],ins[data-v-96bfa191],kbd[data-v-96bfa191],q[data-v-96bfa191],s[data-v-96bfa191],samp[data-v-96bfa191],small[data-v-96bfa191],strike[data-v-96bfa191],strong[data-v-96bfa191],sub[data-v-96bfa191],sup[data-v-96bfa191],tt[data-v-96bfa191],var[data-v-96bfa191],b[data-v-96bfa191],u[data-v-96bfa191],i[data-v-96bfa191],center[data-v-96bfa191],dl[data-v-96bfa191],dt[data-v-96bfa191],dd[data-v-96bfa191],ol[data-v-96bfa191],ul[data-v-96bfa191],li[data-v-96bfa191],fieldset[data-v-96bfa191],form[data-v-96bfa191],label[data-v-96bfa191],legend[data-v-96bfa191],table[data-v-96bfa191],caption[data-v-96bfa191],tbody[data-v-96bfa191],tfoot[data-v-96bfa191],thead[data-v-96bfa191],tr[data-v-96bfa191],th[data-v-96bfa191],td[data-v-96bfa191],article[data-v-96bfa191],aside[data-v-96bfa191],canvas[data-v-96bfa191],details[data-v-96bfa191],embed[data-v-96bfa191],figure[data-v-96bfa191],figcaption[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],output[data-v-96bfa191],ruby[data-v-96bfa191],section[data-v-96bfa191],summary[data-v-96bfa191],time[data-v-96bfa191],mark[data-v-96bfa191],audio[data-v-96bfa191],video[data-v-96bfa191]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-96bfa191],aside[data-v-96bfa191],details[data-v-96bfa191],figcaption[data-v-96bfa191],figure[data-v-96bfa191],footer[data-v-96bfa191],header[data-v-96bfa191],hgroup[data-v-96bfa191],menu[data-v-96bfa191],nav[data-v-96bfa191],section[data-v-96bfa191]{display:block}body[data-v-96bfa191]{line-height:1}ol[data-v-96bfa191],ul[data-v-96bfa191]{list-style:none}blockquote[data-v-96bfa191],q[data-v-96bfa191]{quotes:none}blockquote[data-v-96bfa191]:before,blockquote[data-v-96bfa191]:after,q[data-v-96bfa191]:before,q[data-v-96bfa191]:after{content:"";content:none}table[data-v-96bfa191]{border-collapse:collapse;border-spacing:0}[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-96bfa191]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-96bfa191],body[data-v-96bfa191],#app[data-v-96bfa191]{height:100%;width:100%;overflow:hidden}body[data-v-96bfa191]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-96bfa191]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-96bfa191]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__size[data-v-96bfa191]{width:100%;-webkit-user-select:none;user-select:none;font-family:var(--vue-lab-font-family)}.vue-lab__size-track[data-v-96bfa191]{position:relative;height:20px;margin:18px 0 6px;background:transparent;transition:.2s all ease-in-out}.vue-lab__size-track[data-v-96bfa191]:before{content:"";position:absolute;transition:.2s all ease-in-out;left:0;right:0;top:50%;height:4px;transform:translateY(-50%);background:#e5e7eb;border-radius:4px}.vue-lab__size-tick[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:12px;height:12px;transform:translate(-50%,-50%);background:#fff;border:2px solid #bbb;border-radius:50%;box-sizing:border-box;cursor:pointer;z-index:1}.vue-lab__size-tick_active[data-v-96bfa191]{border-color:#48bb78}.vue-lab__size-range-fill[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;left:0;top:50%;height:4px;transform:translateY(-50%);background:#d1d5db;border-radius:4px}.vue-lab__size-handle[data-v-96bfa191]{position:absolute;transition:.2s all ease-in-out;top:50%;width:20px;height:20px;transform:translate(-50%,-50%);background:#2b8aef;border-radius:50%;box-shadow:0 2px 6px #0000001f;cursor:grab;touch-action:none;z-index:2}.vue-lab__size-handle[data-v-96bfa191]:active{cursor:grabbing}.vue-lab__size-value[data-v-96bfa191]{font-size:13px;color:#111827}.vue-lab__boolean{height:20px;width:36px;border:1px solid #E5E7EB;border-radius:20px;display:flex;align-items:center;background-color:#fff;cursor:pointer;position:relative;font-family:var(--vue-lab-font-family)}.vue-lab__boolean-tumbler{height:16px;width:16px;border-radius:50%;background-color:#6b7280;position:absolute;top:2px;left:2px;transition:.3s}.vue-lab__boolean-tumbler--right{left:18px;background-color:#48bb78;animation:moveLeft .3s ease-in-out}html[data-v-3d8e17f8],body[data-v-3d8e17f8],div[data-v-3d8e17f8],span[data-v-3d8e17f8],applet[data-v-3d8e17f8],object[data-v-3d8e17f8],iframe[data-v-3d8e17f8],h1[data-v-3d8e17f8],h2[data-v-3d8e17f8],h3[data-v-3d8e17f8],h4[data-v-3d8e17f8],h5[data-v-3d8e17f8],h6[data-v-3d8e17f8],p[data-v-3d8e17f8],blockquote[data-v-3d8e17f8],pre[data-v-3d8e17f8],a[data-v-3d8e17f8],abbr[data-v-3d8e17f8],acronym[data-v-3d8e17f8],address[data-v-3d8e17f8],big[data-v-3d8e17f8],cite[data-v-3d8e17f8],code[data-v-3d8e17f8],del[data-v-3d8e17f8],dfn[data-v-3d8e17f8],em[data-v-3d8e17f8],img[data-v-3d8e17f8],ins[data-v-3d8e17f8],kbd[data-v-3d8e17f8],q[data-v-3d8e17f8],s[data-v-3d8e17f8],samp[data-v-3d8e17f8],small[data-v-3d8e17f8],strike[data-v-3d8e17f8],strong[data-v-3d8e17f8],sub[data-v-3d8e17f8],sup[data-v-3d8e17f8],tt[data-v-3d8e17f8],var[data-v-3d8e17f8],b[data-v-3d8e17f8],u[data-v-3d8e17f8],i[data-v-3d8e17f8],center[data-v-3d8e17f8],dl[data-v-3d8e17f8],dt[data-v-3d8e17f8],dd[data-v-3d8e17f8],ol[data-v-3d8e17f8],ul[data-v-3d8e17f8],li[data-v-3d8e17f8],fieldset[data-v-3d8e17f8],form[data-v-3d8e17f8],label[data-v-3d8e17f8],legend[data-v-3d8e17f8],table[data-v-3d8e17f8],caption[data-v-3d8e17f8],tbody[data-v-3d8e17f8],tfoot[data-v-3d8e17f8],thead[data-v-3d8e17f8],tr[data-v-3d8e17f8],th[data-v-3d8e17f8],td[data-v-3d8e17f8],article[data-v-3d8e17f8],aside[data-v-3d8e17f8],canvas[data-v-3d8e17f8],details[data-v-3d8e17f8],embed[data-v-3d8e17f8],figure[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],output[data-v-3d8e17f8],ruby[data-v-3d8e17f8],section[data-v-3d8e17f8],summary[data-v-3d8e17f8],time[data-v-3d8e17f8],mark[data-v-3d8e17f8],audio[data-v-3d8e17f8],video[data-v-3d8e17f8]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-3d8e17f8],aside[data-v-3d8e17f8],details[data-v-3d8e17f8],figcaption[data-v-3d8e17f8],figure[data-v-3d8e17f8],footer[data-v-3d8e17f8],header[data-v-3d8e17f8],hgroup[data-v-3d8e17f8],menu[data-v-3d8e17f8],nav[data-v-3d8e17f8],section[data-v-3d8e17f8]{display:block}body[data-v-3d8e17f8]{line-height:1}ol[data-v-3d8e17f8],ul[data-v-3d8e17f8]{list-style:none}blockquote[data-v-3d8e17f8],q[data-v-3d8e17f8]{quotes:none}blockquote[data-v-3d8e17f8]:before,blockquote[data-v-3d8e17f8]:after,q[data-v-3d8e17f8]:before,q[data-v-3d8e17f8]:after{content:"";content:none}table[data-v-3d8e17f8]{border-collapse:collapse;border-spacing:0}[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-3d8e17f8]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-3d8e17f8],body[data-v-3d8e17f8],#app[data-v-3d8e17f8]{height:100%;width:100%;overflow:hidden}body[data-v-3d8e17f8]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-3d8e17f8]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-3d8e17f8]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__text-ctrl[data-v-3d8e17f8]{font-family:var(--vue-lab-font-family)}.vue-lab__text-ctrl__field[data-v-3d8e17f8]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__text-ctrl__field--active[data-v-3d8e17f8]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field--focused[data-v-3d8e17f8],.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__text-ctrl__field[data-v-3d8e17f8]:hover{cursor:text}.vue-lab__text-ctrl__input[data-v-3d8e17f8]{border:none;outline:none;width:100%;background-color:transparent;font-size:14px}html[data-v-8e33fe98],body[data-v-8e33fe98],div[data-v-8e33fe98],span[data-v-8e33fe98],applet[data-v-8e33fe98],object[data-v-8e33fe98],iframe[data-v-8e33fe98],h1[data-v-8e33fe98],h2[data-v-8e33fe98],h3[data-v-8e33fe98],h4[data-v-8e33fe98],h5[data-v-8e33fe98],h6[data-v-8e33fe98],p[data-v-8e33fe98],blockquote[data-v-8e33fe98],pre[data-v-8e33fe98],a[data-v-8e33fe98],abbr[data-v-8e33fe98],acronym[data-v-8e33fe98],address[data-v-8e33fe98],big[data-v-8e33fe98],cite[data-v-8e33fe98],code[data-v-8e33fe98],del[data-v-8e33fe98],dfn[data-v-8e33fe98],em[data-v-8e33fe98],img[data-v-8e33fe98],ins[data-v-8e33fe98],kbd[data-v-8e33fe98],q[data-v-8e33fe98],s[data-v-8e33fe98],samp[data-v-8e33fe98],small[data-v-8e33fe98],strike[data-v-8e33fe98],strong[data-v-8e33fe98],sub[data-v-8e33fe98],sup[data-v-8e33fe98],tt[data-v-8e33fe98],var[data-v-8e33fe98],b[data-v-8e33fe98],u[data-v-8e33fe98],i[data-v-8e33fe98],center[data-v-8e33fe98],dl[data-v-8e33fe98],dt[data-v-8e33fe98],dd[data-v-8e33fe98],ol[data-v-8e33fe98],ul[data-v-8e33fe98],li[data-v-8e33fe98],fieldset[data-v-8e33fe98],form[data-v-8e33fe98],label[data-v-8e33fe98],legend[data-v-8e33fe98],table[data-v-8e33fe98],caption[data-v-8e33fe98],tbody[data-v-8e33fe98],tfoot[data-v-8e33fe98],thead[data-v-8e33fe98],tr[data-v-8e33fe98],th[data-v-8e33fe98],td[data-v-8e33fe98],article[data-v-8e33fe98],aside[data-v-8e33fe98],canvas[data-v-8e33fe98],details[data-v-8e33fe98],embed[data-v-8e33fe98],figure[data-v-8e33fe98],figcaption[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],output[data-v-8e33fe98],ruby[data-v-8e33fe98],section[data-v-8e33fe98],summary[data-v-8e33fe98],time[data-v-8e33fe98],mark[data-v-8e33fe98],audio[data-v-8e33fe98],video[data-v-8e33fe98]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-8e33fe98],aside[data-v-8e33fe98],details[data-v-8e33fe98],figcaption[data-v-8e33fe98],figure[data-v-8e33fe98],footer[data-v-8e33fe98],header[data-v-8e33fe98],hgroup[data-v-8e33fe98],menu[data-v-8e33fe98],nav[data-v-8e33fe98],section[data-v-8e33fe98]{display:block}body[data-v-8e33fe98]{line-height:1}ol[data-v-8e33fe98],ul[data-v-8e33fe98]{list-style:none}blockquote[data-v-8e33fe98],q[data-v-8e33fe98]{quotes:none}blockquote[data-v-8e33fe98]:before,blockquote[data-v-8e33fe98]:after,q[data-v-8e33fe98]:before,q[data-v-8e33fe98]:after{content:"";content:none}table[data-v-8e33fe98]{border-collapse:collapse;border-spacing:0}[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-8e33fe98]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-8e33fe98],body[data-v-8e33fe98],#app[data-v-8e33fe98]{height:100%;width:100%;overflow:hidden}body[data-v-8e33fe98]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-8e33fe98]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-8e33fe98]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-color-picker[data-v-8e33fe98]{display:flex;flex-wrap:wrap;gap:5px;align-items:flex-start;font-family:var(--vue-lab-font-family);position:relative}.vue-lab-color-picker__color-preview[data-v-8e33fe98]{display:flex;align-items:center;gap:10px;padding:5px 15px;box-sizing:border-box;border-radius:6px;cursor:pointer;transition:transform .2s;width:100%;height:28px;border:#D1D5DB 1px solid}.vue-lab-color-picker__color-preview[data-v-8e33fe98]:hover{opacity:.8;transition:.2s all ease-in-out}.vue-lab-color-picker__hidden-input[data-v-8e33fe98]{position:absolute;opacity:0;width:0;height:0;bottom:0;left:0}html[data-v-b886953d],body[data-v-b886953d],div[data-v-b886953d],span[data-v-b886953d],applet[data-v-b886953d],object[data-v-b886953d],iframe[data-v-b886953d],h1[data-v-b886953d],h2[data-v-b886953d],h3[data-v-b886953d],h4[data-v-b886953d],h5[data-v-b886953d],h6[data-v-b886953d],p[data-v-b886953d],blockquote[data-v-b886953d],pre[data-v-b886953d],a[data-v-b886953d],abbr[data-v-b886953d],acronym[data-v-b886953d],address[data-v-b886953d],big[data-v-b886953d],cite[data-v-b886953d],code[data-v-b886953d],del[data-v-b886953d],dfn[data-v-b886953d],em[data-v-b886953d],img[data-v-b886953d],ins[data-v-b886953d],kbd[data-v-b886953d],q[data-v-b886953d],s[data-v-b886953d],samp[data-v-b886953d],small[data-v-b886953d],strike[data-v-b886953d],strong[data-v-b886953d],sub[data-v-b886953d],sup[data-v-b886953d],tt[data-v-b886953d],var[data-v-b886953d],b[data-v-b886953d],u[data-v-b886953d],i[data-v-b886953d],center[data-v-b886953d],dl[data-v-b886953d],dt[data-v-b886953d],dd[data-v-b886953d],ol[data-v-b886953d],ul[data-v-b886953d],li[data-v-b886953d],fieldset[data-v-b886953d],form[data-v-b886953d],label[data-v-b886953d],legend[data-v-b886953d],table[data-v-b886953d],caption[data-v-b886953d],tbody[data-v-b886953d],tfoot[data-v-b886953d],thead[data-v-b886953d],tr[data-v-b886953d],th[data-v-b886953d],td[data-v-b886953d],article[data-v-b886953d],aside[data-v-b886953d],canvas[data-v-b886953d],details[data-v-b886953d],embed[data-v-b886953d],figure[data-v-b886953d],figcaption[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],output[data-v-b886953d],ruby[data-v-b886953d],section[data-v-b886953d],summary[data-v-b886953d],time[data-v-b886953d],mark[data-v-b886953d],audio[data-v-b886953d],video[data-v-b886953d]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-b886953d],aside[data-v-b886953d],details[data-v-b886953d],figcaption[data-v-b886953d],figure[data-v-b886953d],footer[data-v-b886953d],header[data-v-b886953d],hgroup[data-v-b886953d],menu[data-v-b886953d],nav[data-v-b886953d],section[data-v-b886953d]{display:block}body[data-v-b886953d]{line-height:1}ol[data-v-b886953d],ul[data-v-b886953d]{list-style:none}blockquote[data-v-b886953d],q[data-v-b886953d]{quotes:none}blockquote[data-v-b886953d]:before,blockquote[data-v-b886953d]:after,q[data-v-b886953d]:before,q[data-v-b886953d]:after{content:"";content:none}table[data-v-b886953d]{border-collapse:collapse;border-spacing:0}[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-b886953d]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-b886953d],body[data-v-b886953d],#app[data-v-b886953d]{height:100%;width:100%;overflow:hidden}body[data-v-b886953d]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-b886953d]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-b886953d]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__dropdown[data-v-b886953d]{font-family:var(--vue-lab-font-family)}.vue-lab__dropdown-field[data-v-b886953d]{width:100%;height:30px;display:flex;align-items:center;border:#D1D5DB 1px solid;font-size:14px;min-width:100%;padding:4px 10px;box-sizing:border-box;border-radius:6px;transition:.3s all ease-in-out;background-color:#f3f4f6}.vue-lab__dropdown-field_active[data-v-b886953d]{background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field_focused[data-v-b886953d],.vue-lab__dropdown-field[data-v-b886953d]:hover{border-color:#1e90ff;background-color:#fff;transition:.3s all ease-in-out}.vue-lab__dropdown-field[data-v-b886953d]:hover{cursor:text}.vue-lab__dropdown-modal[data-v-b886953d]{background-color:#fff;width:200px;padding:5px 0;border-radius:6px;border:#D1D5DB 1px solid;margin-top:4px;max-height:300px;display:flex;flex-direction:column}.vue-lab__dropdown-list[data-v-b886953d]{height:auto;max-height:250px;overflow-y:auto}.vue-lab__dropdown-list-item[data-v-b886953d]{height:32px;min-height:32px;padding:10px;box-sizing:border-box;display:flex;align-items:center;transition:.3s;cursor:pointer;font-size:13px;font-weight:400;line-height:22px;text-overflow:ellipsis;position:relative;overflow:hidden;white-space:nowrap}.vue-lab__dropdown-list-item[data-v-b886953d]:hover:not(.vue-lab__nav-item--active){background-color:#f0f7ff;transition:all .3s ease-in-out}.vue-lab__dropdown-list-item[data-v-b886953d]:hover{transition:all .3s ease-in-out}.vue-lab__dropdown-list-item-text[data-v-b886953d]{text-overflow:ellipsis;position:relative;overflow:hidden}.vue-lab__dropdown-list-item_active[data-v-b886953d]{background-color:#dcedff}html[data-v-25497d41],body[data-v-25497d41],div[data-v-25497d41],span[data-v-25497d41],applet[data-v-25497d41],object[data-v-25497d41],iframe[data-v-25497d41],h1[data-v-25497d41],h2[data-v-25497d41],h3[data-v-25497d41],h4[data-v-25497d41],h5[data-v-25497d41],h6[data-v-25497d41],p[data-v-25497d41],blockquote[data-v-25497d41],pre[data-v-25497d41],a[data-v-25497d41],abbr[data-v-25497d41],acronym[data-v-25497d41],address[data-v-25497d41],big[data-v-25497d41],cite[data-v-25497d41],code[data-v-25497d41],del[data-v-25497d41],dfn[data-v-25497d41],em[data-v-25497d41],img[data-v-25497d41],ins[data-v-25497d41],kbd[data-v-25497d41],q[data-v-25497d41],s[data-v-25497d41],samp[data-v-25497d41],small[data-v-25497d41],strike[data-v-25497d41],strong[data-v-25497d41],sub[data-v-25497d41],sup[data-v-25497d41],tt[data-v-25497d41],var[data-v-25497d41],b[data-v-25497d41],u[data-v-25497d41],i[data-v-25497d41],center[data-v-25497d41],dl[data-v-25497d41],dt[data-v-25497d41],dd[data-v-25497d41],ol[data-v-25497d41],ul[data-v-25497d41],li[data-v-25497d41],fieldset[data-v-25497d41],form[data-v-25497d41],label[data-v-25497d41],legend[data-v-25497d41],table[data-v-25497d41],caption[data-v-25497d41],tbody[data-v-25497d41],tfoot[data-v-25497d41],thead[data-v-25497d41],tr[data-v-25497d41],th[data-v-25497d41],td[data-v-25497d41],article[data-v-25497d41],aside[data-v-25497d41],canvas[data-v-25497d41],details[data-v-25497d41],embed[data-v-25497d41],figure[data-v-25497d41],figcaption[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],output[data-v-25497d41],ruby[data-v-25497d41],section[data-v-25497d41],summary[data-v-25497d41],time[data-v-25497d41],mark[data-v-25497d41],audio[data-v-25497d41],video[data-v-25497d41]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-25497d41],aside[data-v-25497d41],details[data-v-25497d41],figcaption[data-v-25497d41],figure[data-v-25497d41],footer[data-v-25497d41],header[data-v-25497d41],hgroup[data-v-25497d41],menu[data-v-25497d41],nav[data-v-25497d41],section[data-v-25497d41]{display:block}body[data-v-25497d41]{line-height:1}ol[data-v-25497d41],ul[data-v-25497d41]{list-style:none}blockquote[data-v-25497d41],q[data-v-25497d41]{quotes:none}blockquote[data-v-25497d41]:before,blockquote[data-v-25497d41]:after,q[data-v-25497d41]:before,q[data-v-25497d41]:after{content:"";content:none}table[data-v-25497d41]{border-collapse:collapse;border-spacing:0}[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-25497d41]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-25497d41],body[data-v-25497d41],#app[data-v-25497d41]{height:100%;width:100%;overflow:hidden}body[data-v-25497d41]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-25497d41]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__control-block[data-v-25497d41]{height:100%;overflow:hidden;display:grid;grid-template-rows:40px 1fr}.vue-lab__control-block__header[data-v-25497d41]{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;font-family:var(--vue-lab-font-family)}.vue-lab__control-block__header-title[data-v-25497d41]{font-size:16px;font-weight:600}.vue-lab__control-block__body[data-v-25497d41]{overflow:auto;height:100%;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab[data-v-036062d8]{display:grid;grid-template-columns:var(--036062d8-gridTemplate);overflow:hidden}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],div[data-v-a2d7e9c1],span[data-v-a2d7e9c1],applet[data-v-a2d7e9c1],object[data-v-a2d7e9c1],iframe[data-v-a2d7e9c1],h1[data-v-a2d7e9c1],h2[data-v-a2d7e9c1],h3[data-v-a2d7e9c1],h4[data-v-a2d7e9c1],h5[data-v-a2d7e9c1],h6[data-v-a2d7e9c1],p[data-v-a2d7e9c1],blockquote[data-v-a2d7e9c1],pre[data-v-a2d7e9c1],a[data-v-a2d7e9c1],abbr[data-v-a2d7e9c1],acronym[data-v-a2d7e9c1],address[data-v-a2d7e9c1],big[data-v-a2d7e9c1],cite[data-v-a2d7e9c1],code[data-v-a2d7e9c1],del[data-v-a2d7e9c1],dfn[data-v-a2d7e9c1],em[data-v-a2d7e9c1],img[data-v-a2d7e9c1],ins[data-v-a2d7e9c1],kbd[data-v-a2d7e9c1],q[data-v-a2d7e9c1],s[data-v-a2d7e9c1],samp[data-v-a2d7e9c1],small[data-v-a2d7e9c1],strike[data-v-a2d7e9c1],strong[data-v-a2d7e9c1],sub[data-v-a2d7e9c1],sup[data-v-a2d7e9c1],tt[data-v-a2d7e9c1],var[data-v-a2d7e9c1],b[data-v-a2d7e9c1],u[data-v-a2d7e9c1],i[data-v-a2d7e9c1],center[data-v-a2d7e9c1],dl[data-v-a2d7e9c1],dt[data-v-a2d7e9c1],dd[data-v-a2d7e9c1],ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1],li[data-v-a2d7e9c1],fieldset[data-v-a2d7e9c1],form[data-v-a2d7e9c1],label[data-v-a2d7e9c1],legend[data-v-a2d7e9c1],table[data-v-a2d7e9c1],caption[data-v-a2d7e9c1],tbody[data-v-a2d7e9c1],tfoot[data-v-a2d7e9c1],thead[data-v-a2d7e9c1],tr[data-v-a2d7e9c1],th[data-v-a2d7e9c1],td[data-v-a2d7e9c1],article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],canvas[data-v-a2d7e9c1],details[data-v-a2d7e9c1],embed[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],output[data-v-a2d7e9c1],ruby[data-v-a2d7e9c1],section[data-v-a2d7e9c1],summary[data-v-a2d7e9c1],time[data-v-a2d7e9c1],mark[data-v-a2d7e9c1],audio[data-v-a2d7e9c1],video[data-v-a2d7e9c1]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-a2d7e9c1],aside[data-v-a2d7e9c1],details[data-v-a2d7e9c1],figcaption[data-v-a2d7e9c1],figure[data-v-a2d7e9c1],footer[data-v-a2d7e9c1],header[data-v-a2d7e9c1],hgroup[data-v-a2d7e9c1],menu[data-v-a2d7e9c1],nav[data-v-a2d7e9c1],section[data-v-a2d7e9c1]{display:block}body[data-v-a2d7e9c1]{line-height:1}ol[data-v-a2d7e9c1],ul[data-v-a2d7e9c1]{list-style:none}blockquote[data-v-a2d7e9c1],q[data-v-a2d7e9c1]{quotes:none}blockquote[data-v-a2d7e9c1]:before,blockquote[data-v-a2d7e9c1]:after,q[data-v-a2d7e9c1]:before,q[data-v-a2d7e9c1]:after{content:"";content:none}table[data-v-a2d7e9c1]{border-collapse:collapse;border-spacing:0}[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-a2d7e9c1]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-a2d7e9c1],body[data-v-a2d7e9c1],#app[data-v-a2d7e9c1]{height:100%;width:100%;overflow:hidden}body[data-v-a2d7e9c1]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-a2d7e9c1]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-a2d7e9c1]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__divider[data-v-a2d7e9c1]{height:4px;display:flex;padding:20px 0;align-items:center;justify-content:center}.vue-lab__divider-dot[data-v-a2d7e9c1]{width:4px;height:4px;background-color:#d1d5db;border-radius:50%;display:inline-block}.vue-lab__divider-dot+.vue-lab__divider-dot[data-v-a2d7e9c1]{margin-left:6px}html[data-v-17706230],body[data-v-17706230],div[data-v-17706230],span[data-v-17706230],applet[data-v-17706230],object[data-v-17706230],iframe[data-v-17706230],h1[data-v-17706230],h2[data-v-17706230],h3[data-v-17706230],h4[data-v-17706230],h5[data-v-17706230],h6[data-v-17706230],p[data-v-17706230],blockquote[data-v-17706230],pre[data-v-17706230],a[data-v-17706230],abbr[data-v-17706230],acronym[data-v-17706230],address[data-v-17706230],big[data-v-17706230],cite[data-v-17706230],code[data-v-17706230],del[data-v-17706230],dfn[data-v-17706230],em[data-v-17706230],img[data-v-17706230],ins[data-v-17706230],kbd[data-v-17706230],q[data-v-17706230],s[data-v-17706230],samp[data-v-17706230],small[data-v-17706230],strike[data-v-17706230],strong[data-v-17706230],sub[data-v-17706230],sup[data-v-17706230],tt[data-v-17706230],var[data-v-17706230],b[data-v-17706230],u[data-v-17706230],i[data-v-17706230],center[data-v-17706230],dl[data-v-17706230],dt[data-v-17706230],dd[data-v-17706230],ol[data-v-17706230],ul[data-v-17706230],li[data-v-17706230],fieldset[data-v-17706230],form[data-v-17706230],label[data-v-17706230],legend[data-v-17706230],table[data-v-17706230],caption[data-v-17706230],tbody[data-v-17706230],tfoot[data-v-17706230],thead[data-v-17706230],tr[data-v-17706230],th[data-v-17706230],td[data-v-17706230],article[data-v-17706230],aside[data-v-17706230],canvas[data-v-17706230],details[data-v-17706230],embed[data-v-17706230],figure[data-v-17706230],figcaption[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],output[data-v-17706230],ruby[data-v-17706230],section[data-v-17706230],summary[data-v-17706230],time[data-v-17706230],mark[data-v-17706230],audio[data-v-17706230],video[data-v-17706230]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-17706230],aside[data-v-17706230],details[data-v-17706230],figcaption[data-v-17706230],figure[data-v-17706230],footer[data-v-17706230],header[data-v-17706230],hgroup[data-v-17706230],menu[data-v-17706230],nav[data-v-17706230],section[data-v-17706230]{display:block}body[data-v-17706230]{line-height:1}ol[data-v-17706230],ul[data-v-17706230]{list-style:none}blockquote[data-v-17706230],q[data-v-17706230]{quotes:none}blockquote[data-v-17706230]:before,blockquote[data-v-17706230]:after,q[data-v-17706230]:before,q[data-v-17706230]:after{content:"";content:none}table[data-v-17706230]{border-collapse:collapse;border-spacing:0}[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-17706230]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-17706230],body[data-v-17706230],#app[data-v-17706230]{height:100%;width:100%;overflow:hidden}body[data-v-17706230]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-17706230]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-17706230]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__palette[data-v-17706230]{display:grid;grid-template-columns:100px 1fr}.vue-lab__palette-title[data-v-17706230]{text-transform:capitalize;font-weight:600;font-size:14px;align-items:center;display:flex;width:100%;height:50px;font-family:var(--vue-lab-font-family)}.vue-lab__palette-colors[data-v-17706230]{display:grid;grid-template-columns:var(--17706230-columns);gap:5px}.vue-lab__palette-colors:hover .vue-lab__palette-color-item__bg[data-v-17706230]{filter:brightness(.6)}.vue-lab__palette-color-item[data-v-17706230]{display:grid;grid-template-rows:1fr 20px;cursor:pointer}.vue-lab__palette-color-item__bg[data-v-17706230]{height:50px;border-radius:12px;transition:transform .25s ease,filter .25s ease,opacity .25s ease}.vue-lab__palette-color-item__bg[data-v-17706230]:hover{filter:brightness(1)!important;transform:scale(1.1);z-index:1}.vue-lab__palette-color-item__bg[data-v-17706230]:active{transform:scale(1)}.vue-lab__palette-color-item__title[data-v-17706230]{color:#6b7280;font-size:12px;line-height:1.4;font-family:var(--vue-lab-font-family)}html[data-v-9831151a],body[data-v-9831151a],div[data-v-9831151a],span[data-v-9831151a],applet[data-v-9831151a],object[data-v-9831151a],iframe[data-v-9831151a],h1[data-v-9831151a],h2[data-v-9831151a],h3[data-v-9831151a],h4[data-v-9831151a],h5[data-v-9831151a],h6[data-v-9831151a],p[data-v-9831151a],blockquote[data-v-9831151a],pre[data-v-9831151a],a[data-v-9831151a],abbr[data-v-9831151a],acronym[data-v-9831151a],address[data-v-9831151a],big[data-v-9831151a],cite[data-v-9831151a],code[data-v-9831151a],del[data-v-9831151a],dfn[data-v-9831151a],em[data-v-9831151a],img[data-v-9831151a],ins[data-v-9831151a],kbd[data-v-9831151a],q[data-v-9831151a],s[data-v-9831151a],samp[data-v-9831151a],small[data-v-9831151a],strike[data-v-9831151a],strong[data-v-9831151a],sub[data-v-9831151a],sup[data-v-9831151a],tt[data-v-9831151a],var[data-v-9831151a],b[data-v-9831151a],u[data-v-9831151a],i[data-v-9831151a],center[data-v-9831151a],dl[data-v-9831151a],dt[data-v-9831151a],dd[data-v-9831151a],ol[data-v-9831151a],ul[data-v-9831151a],li[data-v-9831151a],fieldset[data-v-9831151a],form[data-v-9831151a],label[data-v-9831151a],legend[data-v-9831151a],table[data-v-9831151a],caption[data-v-9831151a],tbody[data-v-9831151a],tfoot[data-v-9831151a],thead[data-v-9831151a],tr[data-v-9831151a],th[data-v-9831151a],td[data-v-9831151a],article[data-v-9831151a],aside[data-v-9831151a],canvas[data-v-9831151a],details[data-v-9831151a],embed[data-v-9831151a],figure[data-v-9831151a],figcaption[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],output[data-v-9831151a],ruby[data-v-9831151a],section[data-v-9831151a],summary[data-v-9831151a],time[data-v-9831151a],mark[data-v-9831151a],audio[data-v-9831151a],video[data-v-9831151a]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-9831151a],aside[data-v-9831151a],details[data-v-9831151a],figcaption[data-v-9831151a],figure[data-v-9831151a],footer[data-v-9831151a],header[data-v-9831151a],hgroup[data-v-9831151a],menu[data-v-9831151a],nav[data-v-9831151a],section[data-v-9831151a]{display:block}body[data-v-9831151a]{line-height:1}ol[data-v-9831151a],ul[data-v-9831151a]{list-style:none}blockquote[data-v-9831151a],q[data-v-9831151a]{quotes:none}blockquote[data-v-9831151a]:before,blockquote[data-v-9831151a]:after,q[data-v-9831151a]:before,q[data-v-9831151a]:after{content:"";content:none}table[data-v-9831151a]{border-collapse:collapse;border-spacing:0}[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-9831151a]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-9831151a],body[data-v-9831151a],#app[data-v-9831151a]{height:100%;width:100%;overflow:hidden}body[data-v-9831151a]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-9831151a]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-9831151a],.vue-lab__color-block__title[data-v-9831151a]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],div[data-v-d6fe0ccb],span[data-v-d6fe0ccb],applet[data-v-d6fe0ccb],object[data-v-d6fe0ccb],iframe[data-v-d6fe0ccb],h1[data-v-d6fe0ccb],h2[data-v-d6fe0ccb],h3[data-v-d6fe0ccb],h4[data-v-d6fe0ccb],h5[data-v-d6fe0ccb],h6[data-v-d6fe0ccb],p[data-v-d6fe0ccb],blockquote[data-v-d6fe0ccb],pre[data-v-d6fe0ccb],a[data-v-d6fe0ccb],abbr[data-v-d6fe0ccb],acronym[data-v-d6fe0ccb],address[data-v-d6fe0ccb],big[data-v-d6fe0ccb],cite[data-v-d6fe0ccb],code[data-v-d6fe0ccb],del[data-v-d6fe0ccb],dfn[data-v-d6fe0ccb],em[data-v-d6fe0ccb],img[data-v-d6fe0ccb],ins[data-v-d6fe0ccb],kbd[data-v-d6fe0ccb],q[data-v-d6fe0ccb],s[data-v-d6fe0ccb],samp[data-v-d6fe0ccb],small[data-v-d6fe0ccb],strike[data-v-d6fe0ccb],strong[data-v-d6fe0ccb],sub[data-v-d6fe0ccb],sup[data-v-d6fe0ccb],tt[data-v-d6fe0ccb],var[data-v-d6fe0ccb],b[data-v-d6fe0ccb],u[data-v-d6fe0ccb],i[data-v-d6fe0ccb],center[data-v-d6fe0ccb],dl[data-v-d6fe0ccb],dt[data-v-d6fe0ccb],dd[data-v-d6fe0ccb],ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb],li[data-v-d6fe0ccb],fieldset[data-v-d6fe0ccb],form[data-v-d6fe0ccb],label[data-v-d6fe0ccb],legend[data-v-d6fe0ccb],table[data-v-d6fe0ccb],caption[data-v-d6fe0ccb],tbody[data-v-d6fe0ccb],tfoot[data-v-d6fe0ccb],thead[data-v-d6fe0ccb],tr[data-v-d6fe0ccb],th[data-v-d6fe0ccb],td[data-v-d6fe0ccb],article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],canvas[data-v-d6fe0ccb],details[data-v-d6fe0ccb],embed[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],output[data-v-d6fe0ccb],ruby[data-v-d6fe0ccb],section[data-v-d6fe0ccb],summary[data-v-d6fe0ccb],time[data-v-d6fe0ccb],mark[data-v-d6fe0ccb],audio[data-v-d6fe0ccb],video[data-v-d6fe0ccb]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-d6fe0ccb],aside[data-v-d6fe0ccb],details[data-v-d6fe0ccb],figcaption[data-v-d6fe0ccb],figure[data-v-d6fe0ccb],footer[data-v-d6fe0ccb],header[data-v-d6fe0ccb],hgroup[data-v-d6fe0ccb],menu[data-v-d6fe0ccb],nav[data-v-d6fe0ccb],section[data-v-d6fe0ccb]{display:block}body[data-v-d6fe0ccb]{line-height:1}ol[data-v-d6fe0ccb],ul[data-v-d6fe0ccb]{list-style:none}blockquote[data-v-d6fe0ccb],q[data-v-d6fe0ccb]{quotes:none}blockquote[data-v-d6fe0ccb]:before,blockquote[data-v-d6fe0ccb]:after,q[data-v-d6fe0ccb]:before,q[data-v-d6fe0ccb]:after{content:"";content:none}table[data-v-d6fe0ccb]{border-collapse:collapse;border-spacing:0}[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-d6fe0ccb]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-d6fe0ccb],body[data-v-d6fe0ccb],#app[data-v-d6fe0ccb]{height:100%;width:100%;overflow:hidden}body[data-v-d6fe0ccb]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-d6fe0ccb]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-d6fe0ccb]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page__group-name[data-v-d6fe0ccb]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-home-page__group-description[data-v-d6fe0ccb]{color:#6b7280;font-size:13px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;margin-bottom:20px}.vue-lab-home-page__group-body[data-v-d6fe0ccb]{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]{text-decoration:none;color:#2c3239;transition:.3s}.vue-lab-home-page__group-body-link[data-v-d6fe0ccb]:hover{color:#63b3ff;transition:.3s}html[data-v-c75a0f45],body[data-v-c75a0f45],div[data-v-c75a0f45],span[data-v-c75a0f45],applet[data-v-c75a0f45],object[data-v-c75a0f45],iframe[data-v-c75a0f45],h1[data-v-c75a0f45],h2[data-v-c75a0f45],h3[data-v-c75a0f45],h4[data-v-c75a0f45],h5[data-v-c75a0f45],h6[data-v-c75a0f45],p[data-v-c75a0f45],blockquote[data-v-c75a0f45],pre[data-v-c75a0f45],a[data-v-c75a0f45],abbr[data-v-c75a0f45],acronym[data-v-c75a0f45],address[data-v-c75a0f45],big[data-v-c75a0f45],cite[data-v-c75a0f45],code[data-v-c75a0f45],del[data-v-c75a0f45],dfn[data-v-c75a0f45],em[data-v-c75a0f45],img[data-v-c75a0f45],ins[data-v-c75a0f45],kbd[data-v-c75a0f45],q[data-v-c75a0f45],s[data-v-c75a0f45],samp[data-v-c75a0f45],small[data-v-c75a0f45],strike[data-v-c75a0f45],strong[data-v-c75a0f45],sub[data-v-c75a0f45],sup[data-v-c75a0f45],tt[data-v-c75a0f45],var[data-v-c75a0f45],b[data-v-c75a0f45],u[data-v-c75a0f45],i[data-v-c75a0f45],center[data-v-c75a0f45],dl[data-v-c75a0f45],dt[data-v-c75a0f45],dd[data-v-c75a0f45],ol[data-v-c75a0f45],ul[data-v-c75a0f45],li[data-v-c75a0f45],fieldset[data-v-c75a0f45],form[data-v-c75a0f45],label[data-v-c75a0f45],legend[data-v-c75a0f45],table[data-v-c75a0f45],caption[data-v-c75a0f45],tbody[data-v-c75a0f45],tfoot[data-v-c75a0f45],thead[data-v-c75a0f45],tr[data-v-c75a0f45],th[data-v-c75a0f45],td[data-v-c75a0f45],article[data-v-c75a0f45],aside[data-v-c75a0f45],canvas[data-v-c75a0f45],details[data-v-c75a0f45],embed[data-v-c75a0f45],figure[data-v-c75a0f45],figcaption[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],output[data-v-c75a0f45],ruby[data-v-c75a0f45],section[data-v-c75a0f45],summary[data-v-c75a0f45],time[data-v-c75a0f45],mark[data-v-c75a0f45],audio[data-v-c75a0f45],video[data-v-c75a0f45]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-c75a0f45],aside[data-v-c75a0f45],details[data-v-c75a0f45],figcaption[data-v-c75a0f45],figure[data-v-c75a0f45],footer[data-v-c75a0f45],header[data-v-c75a0f45],hgroup[data-v-c75a0f45],menu[data-v-c75a0f45],nav[data-v-c75a0f45],section[data-v-c75a0f45]{display:block}body[data-v-c75a0f45]{line-height:1}ol[data-v-c75a0f45],ul[data-v-c75a0f45]{list-style:none}blockquote[data-v-c75a0f45],q[data-v-c75a0f45]{quotes:none}blockquote[data-v-c75a0f45]:before,blockquote[data-v-c75a0f45]:after,q[data-v-c75a0f45]:before,q[data-v-c75a0f45]:after{content:"";content:none}table[data-v-c75a0f45]{border-collapse:collapse;border-spacing:0}[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-c75a0f45]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-c75a0f45],body[data-v-c75a0f45],#app[data-v-c75a0f45]{height:100%;width:100%;overflow:hidden}body[data-v-c75a0f45]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-c75a0f45]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-home-page[data-v-c75a0f45]{padding:20px;box-sizing:border-box;height:100%;width:100%;overflow-y:auto;background-color:#fff;display:flex;flex-direction:column;gap:40px}.vue-lab-home-page__menu[data-v-c75a0f45]{display:flex;flex-direction:column;height:100%;max-height:100%;overflow:auto;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title[data-v-c75a0f45]{display:flex;align-items:center;justify-content:center;gap:5px;font-size:26px;padding:10px;box-sizing:border-box;margin-bottom:40px;cursor:pointer;font-family:var(--vue-lab-font-family)}.vue-lab-home-page__title-text[data-v-c75a0f45]{font-family:Ubuntu,sans-serif;color:#0f664e;font-size:32px}.vue-lab-home-page__title-icon[data-v-c75a0f45]{height:64px;display:flex;align-items:center}.vue-lab-home-page__title-icon svg[data-v-c75a0f45]{scale:1.5}.vue-lab-home-page__description[data-v-c75a0f45]{color:#6b7280;font-size:16px;border-left:#D1D5DB 4px solid;padding-left:16px;line-height:1.4;font-family:var(--vue-lab-font-family)}pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{background:#23241f;color:#f8f8f2}.hljs-tag,.hljs-subst{color:#f8f8f2}.hljs-strong,.hljs-emphasis{color:#a8a8a2}.hljs-bullet,.hljs-quote,.hljs-number,.hljs-regexp,.hljs-literal,.hljs-link{color:#ae81ff}.hljs-code,.hljs-title,.hljs-section,.hljs-selector-class{color:#a6e22e}.hljs-strong{font-weight:700}.hljs-emphasis{font-style:italic}.hljs-keyword,.hljs-selector-tag,.hljs-name,.hljs-attr{color:#f92672}.hljs-symbol,.hljs-attribute{color:#66d9ef}.hljs-params,.hljs-title.class_,.hljs-class .hljs-title{color:#f8f8f2}.hljs-string,.hljs-type,.hljs-built_in,.hljs-selector-id,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-addition,.hljs-variable,.hljs-template-variable{color:#e6db74}.hljs-comment,.hljs-deletion,.hljs-meta{color:#75715e}html[data-v-ba1811dc],body[data-v-ba1811dc],div[data-v-ba1811dc],span[data-v-ba1811dc],applet[data-v-ba1811dc],object[data-v-ba1811dc],iframe[data-v-ba1811dc],h1[data-v-ba1811dc],h2[data-v-ba1811dc],h3[data-v-ba1811dc],h4[data-v-ba1811dc],h5[data-v-ba1811dc],h6[data-v-ba1811dc],p[data-v-ba1811dc],blockquote[data-v-ba1811dc],pre[data-v-ba1811dc],a[data-v-ba1811dc],abbr[data-v-ba1811dc],acronym[data-v-ba1811dc],address[data-v-ba1811dc],big[data-v-ba1811dc],cite[data-v-ba1811dc],code[data-v-ba1811dc],del[data-v-ba1811dc],dfn[data-v-ba1811dc],em[data-v-ba1811dc],img[data-v-ba1811dc],ins[data-v-ba1811dc],kbd[data-v-ba1811dc],q[data-v-ba1811dc],s[data-v-ba1811dc],samp[data-v-ba1811dc],small[data-v-ba1811dc],strike[data-v-ba1811dc],strong[data-v-ba1811dc],sub[data-v-ba1811dc],sup[data-v-ba1811dc],tt[data-v-ba1811dc],var[data-v-ba1811dc],b[data-v-ba1811dc],u[data-v-ba1811dc],i[data-v-ba1811dc],center[data-v-ba1811dc],dl[data-v-ba1811dc],dt[data-v-ba1811dc],dd[data-v-ba1811dc],ol[data-v-ba1811dc],ul[data-v-ba1811dc],li[data-v-ba1811dc],fieldset[data-v-ba1811dc],form[data-v-ba1811dc],label[data-v-ba1811dc],legend[data-v-ba1811dc],table[data-v-ba1811dc],caption[data-v-ba1811dc],tbody[data-v-ba1811dc],tfoot[data-v-ba1811dc],thead[data-v-ba1811dc],tr[data-v-ba1811dc],th[data-v-ba1811dc],td[data-v-ba1811dc],article[data-v-ba1811dc],aside[data-v-ba1811dc],canvas[data-v-ba1811dc],details[data-v-ba1811dc],embed[data-v-ba1811dc],figure[data-v-ba1811dc],figcaption[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],output[data-v-ba1811dc],ruby[data-v-ba1811dc],section[data-v-ba1811dc],summary[data-v-ba1811dc],time[data-v-ba1811dc],mark[data-v-ba1811dc],audio[data-v-ba1811dc],video[data-v-ba1811dc]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ba1811dc],aside[data-v-ba1811dc],details[data-v-ba1811dc],figcaption[data-v-ba1811dc],figure[data-v-ba1811dc],footer[data-v-ba1811dc],header[data-v-ba1811dc],hgroup[data-v-ba1811dc],menu[data-v-ba1811dc],nav[data-v-ba1811dc],section[data-v-ba1811dc]{display:block}body[data-v-ba1811dc]{line-height:1}ol[data-v-ba1811dc],ul[data-v-ba1811dc]{list-style:none}blockquote[data-v-ba1811dc],q[data-v-ba1811dc]{quotes:none}blockquote[data-v-ba1811dc]:before,blockquote[data-v-ba1811dc]:after,q[data-v-ba1811dc]:before,q[data-v-ba1811dc]:after{content:"";content:none}table[data-v-ba1811dc]{border-collapse:collapse;border-spacing:0}[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ba1811dc]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ba1811dc],body[data-v-ba1811dc],#app[data-v-ba1811dc]{height:100%;width:100%;overflow:hidden}body[data-v-ba1811dc]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ba1811dc]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab__code-preview[data-v-ba1811dc]{font-family:var(--vue-lab-font-family)}.vue-lab__code-preview__pre[data-v-ba1811dc]{font-family:monospace;font-size:14px;line-height:1.5}.vue-lab__code-preview__content[data-v-ba1811dc]{position:relative;border-radius:12px;overflow:hidden}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]{position:absolute;top:8px;right:8px;width:20px;height:20px;cursor:pointer;fill:#eceff2;transition:fill .2s}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:hover{fill:#9ca3af}.vue-lab__code-preview__content__copy-ctrl[data-v-ba1811dc]:active{fill:#4b5563}.vue-lab__code-preview__title[data-v-ba1811dc]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}html[data-v-432c94c6],body[data-v-432c94c6],div[data-v-432c94c6],span[data-v-432c94c6],applet[data-v-432c94c6],object[data-v-432c94c6],iframe[data-v-432c94c6],h1[data-v-432c94c6],h2[data-v-432c94c6],h3[data-v-432c94c6],h4[data-v-432c94c6],h5[data-v-432c94c6],h6[data-v-432c94c6],p[data-v-432c94c6],blockquote[data-v-432c94c6],pre[data-v-432c94c6],a[data-v-432c94c6],abbr[data-v-432c94c6],acronym[data-v-432c94c6],address[data-v-432c94c6],big[data-v-432c94c6],cite[data-v-432c94c6],code[data-v-432c94c6],del[data-v-432c94c6],dfn[data-v-432c94c6],em[data-v-432c94c6],img[data-v-432c94c6],ins[data-v-432c94c6],kbd[data-v-432c94c6],q[data-v-432c94c6],s[data-v-432c94c6],samp[data-v-432c94c6],small[data-v-432c94c6],strike[data-v-432c94c6],strong[data-v-432c94c6],sub[data-v-432c94c6],sup[data-v-432c94c6],tt[data-v-432c94c6],var[data-v-432c94c6],b[data-v-432c94c6],u[data-v-432c94c6],i[data-v-432c94c6],center[data-v-432c94c6],dl[data-v-432c94c6],dt[data-v-432c94c6],dd[data-v-432c94c6],ol[data-v-432c94c6],ul[data-v-432c94c6],li[data-v-432c94c6],fieldset[data-v-432c94c6],form[data-v-432c94c6],label[data-v-432c94c6],legend[data-v-432c94c6],table[data-v-432c94c6],caption[data-v-432c94c6],tbody[data-v-432c94c6],tfoot[data-v-432c94c6],thead[data-v-432c94c6],tr[data-v-432c94c6],th[data-v-432c94c6],td[data-v-432c94c6],article[data-v-432c94c6],aside[data-v-432c94c6],canvas[data-v-432c94c6],details[data-v-432c94c6],embed[data-v-432c94c6],figure[data-v-432c94c6],figcaption[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],output[data-v-432c94c6],ruby[data-v-432c94c6],section[data-v-432c94c6],summary[data-v-432c94c6],time[data-v-432c94c6],mark[data-v-432c94c6],audio[data-v-432c94c6],video[data-v-432c94c6]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-432c94c6],aside[data-v-432c94c6],details[data-v-432c94c6],figcaption[data-v-432c94c6],figure[data-v-432c94c6],footer[data-v-432c94c6],header[data-v-432c94c6],hgroup[data-v-432c94c6],menu[data-v-432c94c6],nav[data-v-432c94c6],section[data-v-432c94c6]{display:block}body[data-v-432c94c6]{line-height:1}ol[data-v-432c94c6],ul[data-v-432c94c6]{list-style:none}blockquote[data-v-432c94c6],q[data-v-432c94c6]{quotes:none}blockquote[data-v-432c94c6]:before,blockquote[data-v-432c94c6]:after,q[data-v-432c94c6]:before,q[data-v-432c94c6]:after{content:"";content:none}table[data-v-432c94c6]{border-collapse:collapse;border-spacing:0}[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-432c94c6]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-432c94c6],body[data-v-432c94c6],#app[data-v-432c94c6]{height:100%;width:100%;overflow:hidden}body[data-v-432c94c6]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-432c94c6]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-432c94c6]{height:100%;width:100%}.vue-lab__component[data-v-432c94c6]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab__component__header[data-v-432c94c6]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box;font-family:var(--vue-lab-font-family)}.vue-lab__component__header-title[data-v-432c94c6]{font-size:18px;font-weight:600;font-family:var(--vue-lab-font-family)}.vue-lab__component__content[data-v-432c94c6]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab__component__body[data-v-432c94c6]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}.vue-lab__controls[data-v-432c94c6]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html[data-v-bf59dc62],body[data-v-bf59dc62],div[data-v-bf59dc62],span[data-v-bf59dc62],applet[data-v-bf59dc62],object[data-v-bf59dc62],iframe[data-v-bf59dc62],h1[data-v-bf59dc62],h2[data-v-bf59dc62],h3[data-v-bf59dc62],h4[data-v-bf59dc62],h5[data-v-bf59dc62],h6[data-v-bf59dc62],p[data-v-bf59dc62],blockquote[data-v-bf59dc62],pre[data-v-bf59dc62],a[data-v-bf59dc62],abbr[data-v-bf59dc62],acronym[data-v-bf59dc62],address[data-v-bf59dc62],big[data-v-bf59dc62],cite[data-v-bf59dc62],code[data-v-bf59dc62],del[data-v-bf59dc62],dfn[data-v-bf59dc62],em[data-v-bf59dc62],img[data-v-bf59dc62],ins[data-v-bf59dc62],kbd[data-v-bf59dc62],q[data-v-bf59dc62],s[data-v-bf59dc62],samp[data-v-bf59dc62],small[data-v-bf59dc62],strike[data-v-bf59dc62],strong[data-v-bf59dc62],sub[data-v-bf59dc62],sup[data-v-bf59dc62],tt[data-v-bf59dc62],var[data-v-bf59dc62],b[data-v-bf59dc62],u[data-v-bf59dc62],i[data-v-bf59dc62],center[data-v-bf59dc62],dl[data-v-bf59dc62],dt[data-v-bf59dc62],dd[data-v-bf59dc62],ol[data-v-bf59dc62],ul[data-v-bf59dc62],li[data-v-bf59dc62],fieldset[data-v-bf59dc62],form[data-v-bf59dc62],label[data-v-bf59dc62],legend[data-v-bf59dc62],table[data-v-bf59dc62],caption[data-v-bf59dc62],tbody[data-v-bf59dc62],tfoot[data-v-bf59dc62],thead[data-v-bf59dc62],tr[data-v-bf59dc62],th[data-v-bf59dc62],td[data-v-bf59dc62],article[data-v-bf59dc62],aside[data-v-bf59dc62],canvas[data-v-bf59dc62],details[data-v-bf59dc62],embed[data-v-bf59dc62],figure[data-v-bf59dc62],figcaption[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],output[data-v-bf59dc62],ruby[data-v-bf59dc62],section[data-v-bf59dc62],summary[data-v-bf59dc62],time[data-v-bf59dc62],mark[data-v-bf59dc62],audio[data-v-bf59dc62],video[data-v-bf59dc62]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-bf59dc62],aside[data-v-bf59dc62],details[data-v-bf59dc62],figcaption[data-v-bf59dc62],figure[data-v-bf59dc62],footer[data-v-bf59dc62],header[data-v-bf59dc62],hgroup[data-v-bf59dc62],menu[data-v-bf59dc62],nav[data-v-bf59dc62],section[data-v-bf59dc62]{display:block}body[data-v-bf59dc62]{line-height:1}ol[data-v-bf59dc62],ul[data-v-bf59dc62]{list-style:none}blockquote[data-v-bf59dc62],q[data-v-bf59dc62]{quotes:none}blockquote[data-v-bf59dc62]:before,blockquote[data-v-bf59dc62]:after,q[data-v-bf59dc62]:before,q[data-v-bf59dc62]:after{content:"";content:none}table[data-v-bf59dc62]{border-collapse:collapse;border-spacing:0}[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-bf59dc62]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-bf59dc62],body[data-v-bf59dc62],#app[data-v-bf59dc62]{height:100%;width:100%;overflow:hidden}body[data-v-bf59dc62]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-bf59dc62]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab[data-v-bf59dc62]{-webkit-user-select:none;user-select:none}.vue-lab-colors[data-v-bf59dc62]{height:100%;width:100%;font-family:var(--vue-lab-font-family)}.vue-lab-colors__component[data-v-bf59dc62]{height:100%;background-color:#fff;padding:16px 8px 24px;box-sizing:border-box;overflow:hidden;display:flex;flex-direction:column}.vue-lab-colors__component__header[data-v-bf59dc62]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__header-title[data-v-bf59dc62]{font-size:18px;font-weight:600}.vue-lab-colors__component__content[data-v-bf59dc62]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-colors__component__body[data-v-bf59dc62]{min-height:300px;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box;background-color:#f5faff;border-radius:12px;border:1px solid #E5E7EB}html[data-v-89316d17],body[data-v-89316d17],div[data-v-89316d17],span[data-v-89316d17],applet[data-v-89316d17],object[data-v-89316d17],iframe[data-v-89316d17],h1[data-v-89316d17],h2[data-v-89316d17],h3[data-v-89316d17],h4[data-v-89316d17],h5[data-v-89316d17],h6[data-v-89316d17],p[data-v-89316d17],blockquote[data-v-89316d17],pre[data-v-89316d17],a[data-v-89316d17],abbr[data-v-89316d17],acronym[data-v-89316d17],address[data-v-89316d17],big[data-v-89316d17],cite[data-v-89316d17],code[data-v-89316d17],del[data-v-89316d17],dfn[data-v-89316d17],em[data-v-89316d17],img[data-v-89316d17],ins[data-v-89316d17],kbd[data-v-89316d17],q[data-v-89316d17],s[data-v-89316d17],samp[data-v-89316d17],small[data-v-89316d17],strike[data-v-89316d17],strong[data-v-89316d17],sub[data-v-89316d17],sup[data-v-89316d17],tt[data-v-89316d17],var[data-v-89316d17],b[data-v-89316d17],u[data-v-89316d17],i[data-v-89316d17],center[data-v-89316d17],dl[data-v-89316d17],dt[data-v-89316d17],dd[data-v-89316d17],ol[data-v-89316d17],ul[data-v-89316d17],li[data-v-89316d17],fieldset[data-v-89316d17],form[data-v-89316d17],label[data-v-89316d17],legend[data-v-89316d17],table[data-v-89316d17],caption[data-v-89316d17],tbody[data-v-89316d17],tfoot[data-v-89316d17],thead[data-v-89316d17],tr[data-v-89316d17],th[data-v-89316d17],td[data-v-89316d17],article[data-v-89316d17],aside[data-v-89316d17],canvas[data-v-89316d17],details[data-v-89316d17],embed[data-v-89316d17],figure[data-v-89316d17],figcaption[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],output[data-v-89316d17],ruby[data-v-89316d17],section[data-v-89316d17],summary[data-v-89316d17],time[data-v-89316d17],mark[data-v-89316d17],audio[data-v-89316d17],video[data-v-89316d17]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-89316d17],aside[data-v-89316d17],details[data-v-89316d17],figcaption[data-v-89316d17],figure[data-v-89316d17],footer[data-v-89316d17],header[data-v-89316d17],hgroup[data-v-89316d17],menu[data-v-89316d17],nav[data-v-89316d17],section[data-v-89316d17]{display:block}body[data-v-89316d17]{line-height:1}ol[data-v-89316d17],ul[data-v-89316d17]{list-style:none}blockquote[data-v-89316d17],q[data-v-89316d17]{quotes:none}blockquote[data-v-89316d17]:before,blockquote[data-v-89316d17]:after,q[data-v-89316d17]:before,q[data-v-89316d17]:after{content:"";content:none}table[data-v-89316d17]{border-collapse:collapse;border-spacing:0}[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-89316d17]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-89316d17],body[data-v-89316d17],#app[data-v-89316d17]{height:100%;width:100%;overflow:hidden}body[data-v-89316d17]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-89316d17]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-89316d17]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons__group-title[data-v-89316d17]{font-weight:600;font-size:18px;margin-bottom:20px}.vue-lab-icons__group-body[data-v-89316d17]{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px}.vue-lab-icons__group-item[data-v-89316d17]{display:flex;align-items:center;gap:10px;transition:all .3s;padding:5px;cursor:pointer}.vue-lab-icons__group-item[data-v-89316d17]:hover{background-color:#f0f7ff}.vue-lab-icons__group-item[data-v-89316d17]:active{background-color:#ebf5ff}.vue-lab-icons__group-item-name[data-v-89316d17]{text-decoration:none;color:#2c3239;transition:.3s;font-size:14px}html[data-v-ffc66622],body[data-v-ffc66622],div[data-v-ffc66622],span[data-v-ffc66622],applet[data-v-ffc66622],object[data-v-ffc66622],iframe[data-v-ffc66622],h1[data-v-ffc66622],h2[data-v-ffc66622],h3[data-v-ffc66622],h4[data-v-ffc66622],h5[data-v-ffc66622],h6[data-v-ffc66622],p[data-v-ffc66622],blockquote[data-v-ffc66622],pre[data-v-ffc66622],a[data-v-ffc66622],abbr[data-v-ffc66622],acronym[data-v-ffc66622],address[data-v-ffc66622],big[data-v-ffc66622],cite[data-v-ffc66622],code[data-v-ffc66622],del[data-v-ffc66622],dfn[data-v-ffc66622],em[data-v-ffc66622],img[data-v-ffc66622],ins[data-v-ffc66622],kbd[data-v-ffc66622],q[data-v-ffc66622],s[data-v-ffc66622],samp[data-v-ffc66622],small[data-v-ffc66622],strike[data-v-ffc66622],strong[data-v-ffc66622],sub[data-v-ffc66622],sup[data-v-ffc66622],tt[data-v-ffc66622],var[data-v-ffc66622],b[data-v-ffc66622],u[data-v-ffc66622],i[data-v-ffc66622],center[data-v-ffc66622],dl[data-v-ffc66622],dt[data-v-ffc66622],dd[data-v-ffc66622],ol[data-v-ffc66622],ul[data-v-ffc66622],li[data-v-ffc66622],fieldset[data-v-ffc66622],form[data-v-ffc66622],label[data-v-ffc66622],legend[data-v-ffc66622],table[data-v-ffc66622],caption[data-v-ffc66622],tbody[data-v-ffc66622],tfoot[data-v-ffc66622],thead[data-v-ffc66622],tr[data-v-ffc66622],th[data-v-ffc66622],td[data-v-ffc66622],article[data-v-ffc66622],aside[data-v-ffc66622],canvas[data-v-ffc66622],details[data-v-ffc66622],embed[data-v-ffc66622],figure[data-v-ffc66622],figcaption[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],output[data-v-ffc66622],ruby[data-v-ffc66622],section[data-v-ffc66622],summary[data-v-ffc66622],time[data-v-ffc66622],mark[data-v-ffc66622],audio[data-v-ffc66622],video[data-v-ffc66622]{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article[data-v-ffc66622],aside[data-v-ffc66622],details[data-v-ffc66622],figcaption[data-v-ffc66622],figure[data-v-ffc66622],footer[data-v-ffc66622],header[data-v-ffc66622],hgroup[data-v-ffc66622],menu[data-v-ffc66622],nav[data-v-ffc66622],section[data-v-ffc66622]{display:block}body[data-v-ffc66622]{line-height:1}ol[data-v-ffc66622],ul[data-v-ffc66622]{list-style:none}blockquote[data-v-ffc66622],q[data-v-ffc66622]{quotes:none}blockquote[data-v-ffc66622]:before,blockquote[data-v-ffc66622]:after,q[data-v-ffc66622]:before,q[data-v-ffc66622]:after{content:"";content:none}table[data-v-ffc66622]{border-collapse:collapse;border-spacing:0}[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}[data-v-ffc66622]:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html[data-v-ffc66622],body[data-v-ffc66622],#app[data-v-ffc66622]{height:100%;width:100%;overflow:hidden}body[data-v-ffc66622]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple[data-v-ffc66622]::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}.vue-lab-icons[data-v-ffc66622]{font-family:var(--vue-lab-font-family);width:100%;height:100%;overflow:hidden;background-color:#fff}.vue-lab-icons__header[data-v-ffc66622]{display:flex;align-items:center;justify-content:space-between;height:32px;margin-bottom:8px;padding:0 16px;box-sizing:border-box}.vue-lab-icons__header-title[data-v-ffc66622]{font-size:18px;font-weight:600}.vue-lab-icons__body[data-v-ffc66622]{height:100%;overflow:hidden;display:flex;flex-direction:column;padding:16px 8px 24px;box-sizing:border-box}.vue-lab-icons__body-description[data-v-ffc66622]{margin-bottom:20px}.vue-lab-icons__body-search[data-v-ffc66622]{width:100%;margin-bottom:25px}.vue-lab-icons__body-components[data-v-ffc66622]{height:100%;overflow:auto;padding:0 16px;box-sizing:border-box}.vue-lab-icons__body-components-list[data-v-ffc66622]{display:flex;flex-direction:column;gap:30px}.vue-lab-icons__controls[data-v-ffc66622]{height:100%;overflow:hidden;background-color:#fff;padding:16px 16px 24px;box-sizing:border-box;border-left:1px solid #D1D5DB}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:"";content:none}table{border-collapse:collapse;border-spacing:0}*{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}:root{--vue-lab-font-family: "Source Sans 3", sans-serif}html,body,#app{height:100%;width:100%;overflow:hidden}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;margin:0}.custom-scroll::-webkit-scrollbar{width:8px;height:8px}.custom-scroll::-webkit-scrollbar-track{background:transparent}.custom-scroll::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:6px solid transparent;border-bottom:6px solid transparent;background-clip:content-box}.custom-scroll--simple::-webkit-scrollbar{width:8px;height:8px}.custom-scroll--simple::-webkit-scrollbar-track{background:transparent}.custom-scroll--simple::-webkit-scrollbar-thumb{background-color:#d1d5dbcc;border-radius:15px;border:2px solid transparent;border-top:2px solid transparent;border-bottom:2px solid transparent;background-clip:content-box}.vue-lab__block-title{display:flex;align-items:center;justify-content:space-between;height:32px;font-size:16px;font-weight:600;margin-bottom:8px}')),document.head.appendChild(a)}}catch(t){console.error("vite-plugin-css-injected-by-js",t)}})();
-import { openBlock as k, createElementBlock as $, normalizeClass as Ie, renderSlot as at, computed as P, createElementVNode as L, toDisplayString as re, createCommentVNode as te, Fragment as fe, renderList as Ee, createBlock as V, createStaticVNode as ka, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as be, resolveDynamicComponent as rt, createTextVNode as Ue, ref as Q, createVNode as xe, useCssVars as ri, normalizeStyle as Ze, onMounted as $e, nextTick as st, watch as Xe, withKeys as et, normalizeProps as Vs, guardReactiveProps as Ra, useAttrs as Ni, mergeProps as oi, getCurrentInstance as Oi, inject as tn, withModifiers as Ve, onBeforeUnmount as Si, defineComponent as Aa, h as Ti, toHandlers as Ca, createSlots as Ia, reactive as Bt, markRaw as ki, createApp as Ma } from "vue";
+import { openBlock as k, createElementBlock as $, normalizeClass as De, renderSlot as at, computed as P, createElementVNode as L, toDisplayString as oe, createCommentVNode as te, Fragment as he, renderList as we, createBlock as Z, createStaticVNode as ka, resolveComponent as Ut, resolveDirective as si, withDirectives as ai, withCtx as be, resolveDynamicComponent as rt, createTextVNode as ze, ref as Q, createVNode as Ne, useCssVars as ri, normalizeStyle as Ze, onMounted as Fe, nextTick as st, watch as Xe, withKeys as et, normalizeProps as Vs, guardReactiveProps as Ra, useAttrs as Ni, mergeProps as oi, getCurrentInstance as Oi, inject as tn, withModifiers as Ve, onBeforeUnmount as Si, defineComponent as Aa, h as Ti, toHandlers as Ca, createSlots as Ia, reactive as Bt, markRaw as ki, createApp as Ma } from "vue";
 import { createRouter as La, createWebHistory as Da } from "vue-router";
 const ne = (s, n) => {
   const t = s.__vccOpts || s;
@@ -31,7 +31,7 @@ function Pa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     {
-      class: Ie(["vue-lab__lab-button", ...e.classes]),
+      class: De(["vue-lab__lab-button", ...e.classes]),
       onClick: e.handleClick
     },
     [
@@ -73,7 +73,7 @@ function Fa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     {
-      class: Ie(["vue-lab-tag", ...e.classes, {
+      class: De(["vue-lab-tag", ...e.classes, {
         "vue-lab-tag_active": t.isActive
       }]),
       onClick: e.handleClick
@@ -82,7 +82,7 @@ function Fa(s, n, t, e, i, a) {
       L(
         "div",
         $a,
-        re(e.label),
+        oe(e.label),
         1
         /* TEXT */
       ),
@@ -107,7 +107,7 @@ function Wa(s, n, t, e, i, a) {
   return k(), $(
     "div",
     qa,
-    re(t.description),
+    oe(t.description),
     1
     /* TEXT */
   );
@@ -144,14 +144,14 @@ function sr(s, n, t, e, i, a) {
       L(
         "div",
         Za,
-        re(t.data.name),
+        oe(t.data.name),
         1
         /* TEXT */
       ),
       L(
         "div",
         Xa,
-        re(t.data.type),
+        oe(t.data.type),
         1
         /* TEXT */
       )
@@ -168,7 +168,7 @@ function sr(s, n, t, e, i, a) {
         L(
           "div",
           Ja,
-          re(t.data.default),
+          oe(t.data.default),
           1
           /* TEXT */
         )
@@ -184,7 +184,7 @@ function sr(s, n, t, e, i, a) {
         L(
           "div",
           tr,
-          re(e.itemValues),
+          oe(e.itemValues),
           1
           /* TEXT */
         )
@@ -200,7 +200,7 @@ function sr(s, n, t, e, i, a) {
         L(
           "div",
           ir,
-          re(t.data.description),
+          oe(t.data.description),
           1
           /* TEXT */
         )
@@ -236,8 +236,8 @@ const ar = /* @__PURE__ */ ne(Ha, [["render", sr], ["__scopeId", "data-v-845d1c4
     } };
     return Object.defineProperty(e, "__isScriptSetup", { enumerable: !1, value: !0 }), e;
   }
-}, gr = { class: "vue-lab__props-description" }, br = { class: "vue-lab__block-body" };
-function mr(s, n, t, e, i, a) {
+}, gr = { class: "vue-lab__props-description" }, mr = { class: "vue-lab__block-body" };
+function br(s, n, t, e, i, a) {
   return k(), $("div", gr, [
     n[0] || (n[0] = L(
       "div",
@@ -246,11 +246,11 @@ function mr(s, n, t, e, i, a) {
       -1
       /* CACHED */
     )),
-    L("div", br, [
+    L("div", mr, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(t.data, (l) => (k(), V(e.PropsDescriptionItem, {
+        we(t.data, (l) => (k(), Z(e.PropsDescriptionItem, {
           key: e.generateKey(l.name),
           data: l
         }, null, 8, ["data"]))),
@@ -260,7 +260,7 @@ function mr(s, n, t, e, i, a) {
     ])
   ]);
 }
-const Xs = /* @__PURE__ */ ne(hr, [["render", mr], ["__scopeId", "data-v-db8d12a1"], ["__file", "./index.vue"]]), vr = {
+const Xs = /* @__PURE__ */ ne(hr, [["render", br], ["__scopeId", "data-v-db8d12a1"], ["__file", "./index.vue"]]), vr = {
   __name: "index",
   props: {
     data: {
@@ -300,23 +300,23 @@ function Or(s, n, t, e, i, a) {
       )),
       L("div", wr, [
         (k(!0), $(
-          fe,
+          he,
           null,
-          Ee(t.data, (l) => (k(), $("div", {
+          we(t.data, (l) => (k(), $("div", {
             key: e.generateKey(l.name),
             class: "vue-lab__events__body-row"
           }, [
             L(
               "div",
               xr,
-              "@" + re(l.name),
+              "@" + oe(l.name),
               1
               /* TEXT */
             ),
             L(
               "div",
               Nr,
-              re(l.description),
+              oe(l.description),
               1
               /* TEXT */
             )
@@ -417,7 +417,7 @@ const $r = /* @__PURE__ */ ne(Br, [["render", Ur], ["__scopeId", "data-v-11d5744
     n();
     const t = Q(""), e = Q(!1), i = s, a = Q(null), l = P(() => t.value ? i.options.filter(
       (w) => w.name.toLowerCase().includes(t.value.toLowerCase())
-    ) : i.options), o = P(() => t.value.length >= 3), _ = P(() => l.value.length === 0), m = { searchTerm: t, isOpened: e, props: i, activator: a, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (w) => {
+    ) : i.options), o = P(() => t.value.length >= 3), _ = P(() => l.value.length === 0), b = { searchTerm: t, isOpened: e, props: i, activator: a, filteredOptions: l, isShowList: o, isSearchEmpty: _, handleSearch: (w) => {
       t.value = w;
     }, toogleOpened: () => {
       t.value = "", e.value = !e.value;
@@ -428,7 +428,7 @@ const $r = /* @__PURE__ */ ne(Br, [["render", Ur], ["__scopeId", "data-v-11d5744
     }, get Popover() {
       return ea;
     } };
-    return Object.defineProperty(m, "__isScriptSetup", { enumerable: !1, value: !0 }), m;
+    return Object.defineProperty(b, "__isScriptSetup", { enumerable: !1, value: !0 }), b;
   }
 }, Fr = { class: "vue-lab__search" }, Kr = ["value"], Gr = {
   key: 0,
@@ -455,7 +455,7 @@ function Wr(s, n, t, e, i, a) {
     ])), [
       [o, e.close]
     ]),
-    e.isShowList && e.isOpened ? (k(), V(e.Popover, {
+    e.isShowList && e.isOpened ? (k(), Z(e.Popover, {
       key: 0,
       reference: e.activator,
       position: "top:bottom",
@@ -464,25 +464,25 @@ function Wr(s, n, t, e, i, a) {
       default: be(() => [
         e.isShowList && e.isOpened ? (k(), $("div", Gr, [
           e.isSearchEmpty ? (k(), $("div", qr, " No results found ")) : (k(!0), $(
-            fe,
+            he,
             { key: 1 },
-            Ee(e.filteredOptions, (_) => (k(), $("div", {
+            we(e.filteredOptions, (_) => (k(), $("div", {
               key: _.name,
               onClick: e.toogleOpened
             }, [
-              _ ? (k(), V(l, {
+              _ ? (k(), Z(l, {
                 key: 0,
                 to: _.path,
                 title: _.name,
                 class: "vue-lab__search-list-item"
               }, {
                 default: be(() => [
-                  _.icon ? (k(), V(rt(_.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
+                  _.icon ? (k(), Z(rt(_.icon), { key: 0 })) : (k(), Z(e.DefaultMenuIcon, {
                     key: 1,
                     class: "vue-lab__search-list-item-icon"
                   })),
-                  Ue(
-                    " " + re(_.name),
+                  ze(
+                    " " + oe(_.name),
                     1
                     /* TEXT */
                   )
@@ -523,17 +523,17 @@ const Hr = /* @__PURE__ */ ne(zr, [["render", Wr], ["__scopeId", "data-v-163aedb
 }, Vr = { class: "vue-lab__nav-item-icon" }, Zr = { class: "vue-lab__nav-item-label" };
 function Xr(s, n, t, e, i, a) {
   const l = Ut("router-link");
-  return t.item ? (k(), V(l, {
+  return t.item ? (k(), Z(l, {
     key: 0,
     to: t.item.path,
     title: t.item.name,
-    class: Ie(["vue-lab__nav-item", {
+    class: De(["vue-lab__nav-item", {
       "vue-lab__nav-item--active": e.isActive
     }])
   }, {
     default: be(() => [
       L("div", Vr, [
-        t.item.icon ? (k(), V(rt(t.item.icon), { key: 0 })) : (k(), V(e.DefaultMenuIcon, {
+        t.item.icon ? (k(), Z(rt(t.item.icon), { key: 0 })) : (k(), Z(e.DefaultMenuIcon, {
           key: 1,
           class: "vue-lab__nav-item-icon-menu"
         }))
@@ -541,7 +541,7 @@ function Xr(s, n, t, e, i, a) {
       L(
         "div",
         Zr,
-        re(t.item.name),
+        oe(t.item.name),
         1
         /* TEXT */
       )
@@ -600,25 +600,25 @@ function eo(s, n, t, e, i, a) {
       class: "vue-lab__nav-group-name",
       onClick: e.toggleOpened
     }, [
-      Ue(
-        re(t.isGroup ? t.option.name || "Other components" : "") + " ",
+      ze(
+        oe(t.isGroup ? t.option.name || "Other components" : "") + " ",
         1
         /* TEXT */
       ),
-      xe(e.ArrowIcon, {
-        class: Ie(e.arrowClasses)
+      Ne(e.ArrowIcon, {
+        class: De(e.arrowClasses)
       }, null, 8, ["class"])
     ])) : te("v-if", !0),
     L(
       "div",
       {
-        class: Ie(e.listClasses)
+        class: De(e.listClasses)
       },
       [
         (k(!0), $(
-          fe,
+          he,
           null,
-          Ee(t.option.items, (l) => (k(), V(e.NavItem, {
+          we(t.option.items, (l) => (k(), Z(e.NavItem, {
             key: e.generateKey(l),
             item: l,
             path: t.path
@@ -652,11 +652,11 @@ const to = /* @__PURE__ */ ne(Qr, [["render", eo], ["__scopeId", "data-v-4061da2
       const p = e.options.map((w) => w.group), g = [...new Set(p)].filter((w) => w && w.length).map((w) => ({
         name: w,
         items: e.options.filter((N) => N.group === w)
-      })), m = {
+      })), b = {
         name: null,
         items: e.options.filter((w) => !w.group || !w.group.length)
       };
-      return [...g, m];
+      return [...g, b];
     }), l = P(() => e.options.some((p) => p.group && p.group.length)), _ = { props: e, emit: i, menuItems: a, isGroup: l, goToHome: () => {
       i("navigate", "/");
     }, computed: P, get generateKey() {
@@ -674,18 +674,18 @@ function co(s, n, t, e, i, a) {
       onClick: e.goToHome
     }, [
       L("div", so, [
-        xe(e.LabIcon)
+        Ne(e.LabIcon)
       ]),
       L(
         "div",
         ao,
-        re(t.name),
+        oe(t.name),
         1
         /* TEXT */
       )
     ]),
     L("div", ro, [
-      xe(e.Search, { options: t.options }, null, 8, ["options"])
+      Ne(e.Search, { options: t.options }, null, 8, ["options"])
     ]),
     L("div", oo, [
       te(` <div class="vue-lab__nav-body-title">
@@ -693,9 +693,9 @@ function co(s, n, t, e, i, a) {
       </div> `),
       L("div", lo, [
         (k(!0), $(
-          fe,
+          he,
           null,
-          Ee(e.menuItems, (l) => (k(), V(e.NavGroup, {
+          we(e.menuItems, (l) => (k(), Z(e.NavGroup, {
             key: e.generateKey(l),
             option: l,
             path: t.path,
@@ -745,7 +745,7 @@ const _o = /* @__PURE__ */ ne(no, [["render", co], ["__scopeId", "data-v-3672c48
       if (!o)
         return;
       const _ = o.getBoundingClientRect();
-      let { width: p, height: u, left: g, top: m, right: w, bottom: N, position: x, alignment: d } = t;
+      let { width: p, height: u, left: g, top: b, right: w, bottom: N, position: x, alignment: d } = t;
       if (d || (d = e.value.width > window.innerWidth - _.left && _.right > e.value.width ? "right" : "left", p = Math.max(e.value.width, _.width)), d === "left" ? g = _.left + "px" : w = window.innerWidth - _.right + "px", window.innerHeight - _.bottom < 300)
         switch (x) {
           case "top":
@@ -769,10 +769,10 @@ const _o = /* @__PURE__ */ ne(no, [["render", co], ["__scopeId", "data-v-3672c48
         }
       switch (x) {
         case "top":
-          m = _.top + +t.margin + "px";
+          b = _.top + +t.margin + "px";
           break;
         case "top:bottom":
-          m = _.bottom + +t.margin + "px";
+          b = _.bottom + +t.margin + "px";
           break;
         case "bottom":
           N = window.innerHeight - _.bottom - +t.margin + "px";
@@ -791,7 +791,7 @@ const _o = /* @__PURE__ */ ne(no, [["render", co], ["__scopeId", "data-v-3672c48
         width: p ? p + "px" : void 0,
         height: u ? u + "px" : void 0,
         left: t.centered ? "50%" : g,
-        top: t.centered ? "50%" : m,
+        top: t.centered ? "50%" : b,
         transform: t.centered ? "translate(-50%, -50%)" : void 0,
         right: w,
         bottom: N,
@@ -799,13 +799,13 @@ const _o = /* @__PURE__ */ ne(no, [["render", co], ["__scopeId", "data-v-3672c48
         zIndex: 999
       };
     }
-    $e(() => {
+    Fe(() => {
       st(a), window.addEventListener("resize", a), window.addEventListener("scroll", a, !0), st(a);
     }), Xe(
       () => [t.reference, t.width, t.height, t.position, t.alignment],
       () => st(a)
     );
-    const l = { props: t, style: e, getReferenceElement: i, setStyle: a, ref: Q, onMounted: $e, watch: Xe, nextTick: st };
+    const l = { props: t, style: e, getReferenceElement: i, setStyle: a, ref: Q, onMounted: Fe, watch: Xe, nextTick: st };
     return Object.defineProperty(l, "__isScriptSetup", { enumerable: !1, value: !0 }), l;
   }
 };
@@ -837,7 +837,7 @@ const ea = /* @__PURE__ */ ne(uo, [["render", po], ["__scopeId", "data-v-22f54b0
   setup(s, { expose: n, emit: t }) {
     n();
     const e = s, i = Math.random().toString(36).slice(2, 9);
-    $e(() => {
+    Fe(() => {
       e.focus && st(() => {
         l.value.focus();
       });
@@ -846,16 +846,16 @@ const ea = /* @__PURE__ */ ne(uo, [["render", po], ["__scopeId", "data-v-22f54b0
       a("input", g.target.value);
     }, unFocus: () => {
       l.value.blur();
-    }, computed: P, nextTick: st, onMounted: $e, ref: Q };
+    }, computed: P, nextTick: st, onMounted: Fe, ref: Q };
     return Object.defineProperty(u, "__isScriptSetup", { enumerable: !1, value: !0 }), u;
   }
-}, ho = { class: "vue-lab__search" }, go = ["id"], bo = ["for"];
-function mo(s, n, t, e, i, a) {
+}, ho = { class: "vue-lab__search" }, go = ["id"], mo = ["for"];
+function bo(s, n, t, e, i, a) {
   return k(), $("div", ho, [
     L(
       "div",
       {
-        class: Ie(["vue-lab__search__field", ...e.classes])
+        class: De(["vue-lab__search__field", ...e.classes])
       },
       [
         L("input", {
@@ -870,14 +870,14 @@ function mo(s, n, t, e, i, a) {
         L("label", {
           for: e.uuid,
           class: "vue-lab__search-label"
-        }, re(t.label), 9, bo)
+        }, oe(t.label), 9, mo)
       ],
       2
       /* CLASS */
     )
   ]);
 }
-const ci = /* @__PURE__ */ ne(fo, [["render", mo], ["__scopeId", "data-v-06e447f6"], ["__file", "./index.vue"]]), vo = {
+const ci = /* @__PURE__ */ ne(fo, [["render", bo], ["__scopeId", "data-v-06e447f6"], ["__file", "./index.vue"]]), vo = {
   __name: "BaseTemplate",
   props: {
     viewBox: {
@@ -928,7 +928,7 @@ function yo(s, n, t, e, i, a) {
       (k(), $("svg", {
         viewBox: t.viewBox,
         "stroke-width": 2,
-        class: Ie([
+        class: De([
           "icon-svg",
           s.$attrs?.class,
           ...e.classes
@@ -959,7 +959,7 @@ const wo = /* @__PURE__ */ ne(vo, [["render", yo], ["__scopeId", "data-v-1586512
   }
 };
 function No(s, n, t, e, i, a) {
-  return k(), V(
+  return k(), Z(
     e.BaseIcon,
     Vs(Ra(e.iconAttrs)),
     {
@@ -1015,13 +1015,13 @@ function Ro(s, n, t, e, i, a) {
     "data-size": t.size,
     class: "vue-lab__empty-screen"
   }, [
-    xe(e.SadIcon, {
+    Ne(e.SadIcon, {
       size: e.iconSize,
       palette: "muted"
     }, null, 8, ["size"]),
     L("div", ko, [
       at(s.$slots, "default", {}, () => [
-        n[0] || (n[0] = Ue(
+        n[0] || (n[0] = ze(
           "Nothing to display",
           -1
           /* CACHED */
@@ -1056,18 +1056,18 @@ const _i = /* @__PURE__ */ ne(So, [["render", Ro], ["__scopeId", "data-v-c7a7835
 }, Co = ["innerHTML"];
 function Io(s, n, t, e, i, a) {
   return t.slotConfig.type == "text" ? (k(), $(
-    fe,
+    he,
     { key: 0 },
     [
-      Ue(
-        re(t.slotConfig.value),
+      ze(
+        oe(t.slotConfig.value),
         1
         /* TEXT */
       )
     ],
     64
     /* STABLE_FRAGMENT */
-  )) : t.slotConfig.type == "component" ? (k(), V(
+  )) : t.slotConfig.type == "component" ? (k(), Z(
     rt(t.slotConfig.value),
     Vs(oi({ key: 1 }, e.attrs)),
     null,
@@ -1094,14 +1094,14 @@ function Uo(s, n, t, e, i, a) {
   const l = Ut("router-view");
   return k(), $("div", Do, [
     L("div", Bo, [
-      xe(e.Nav, {
+      Ne(e.Nav, {
         path: s.$route.path,
         name: e.title,
         options: e.menu,
         onNavigate: e.navigate
       }, null, 8, ["path", "name", "options"]),
       L("div", Po, [
-        xe(l)
+        Ne(l)
       ])
     ])
   ]);
@@ -1122,7 +1122,7 @@ function qo(s, n, t, e, i, a) {
     L(
       "div",
       Ko,
-      re(t.name),
+      oe(t.name),
       1
       /* TEXT */
     ),
@@ -1161,13 +1161,13 @@ const ot = /* @__PURE__ */ ne(zo, [["render", qo], ["__scopeId", "data-v-9214d2d
   }
 }, Ho = { class: "vue-lab__tags" };
 function jo(s, n, t, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: t.title }, {
+  return k(), Z(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", Ho, [
         (k(!0), $(
-          fe,
+          he,
           null,
-          Ee(t.options, (l) => (k(), V(e.Tag, {
+          we(t.options, (l) => (k(), Z(e.Tag, {
             key: e.generateKey(l),
             value: l,
             isActive: l == t.value,
@@ -1207,7 +1207,7 @@ const Ai = /* @__PURE__ */ ne(Wo, [["render", jo], ["__scopeId", "data-v-6c569ff
     const g = P(() => {
       const h = p.value;
       return h === 1 ? [0] : Array.from({ length: h }, (S, r) => r / (h - 1) * 100);
-    }), m = P(() => e.options[a.value]);
+    }), b = P(() => e.options[a.value]);
     let w = !1, N = null;
     const x = (h, S, r) => Math.max(S, Math.min(r, h)), d = (h) => {
       const S = o.value.getBoundingClientRect(), y = x(h - S.left, 0, S.width) / S.width, O = Math.round(y * (p.value - 1));
@@ -1240,10 +1240,10 @@ const Ai = /* @__PURE__ */ ne(Wo, [["render", jo], ["__scopeId", "data-v-6c569ff
     };
     Si(() => {
       window.removeEventListener("pointermove", R), window.removeEventListener("pointerup", D);
-    }), $e(() => {
+    }), Fe(() => {
       a.value = u(e.value);
     });
-    const E = { props: e, emit: i, currentIndex: a, root: l, track: o, handle: _, optionsCount: p, valueToIndex: u, positions: g, displayValue: m, get dragging() {
+    const E = { props: e, emit: i, currentIndex: a, root: l, track: o, handle: _, optionsCount: p, valueToIndex: u, positions: g, displayValue: b, get dragging() {
       return w;
     }, set dragging(h) {
       w = h;
@@ -1251,7 +1251,7 @@ const Ai = /* @__PURE__ */ ne(Wo, [["render", jo], ["__scopeId", "data-v-6c569ff
       return N;
     }, set pointerId(h) {
       N = h;
-    }, clamp: x, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: A, onPointerMove: R, stopDrag: D, onArrow: v, ref: Q, computed: P, watch: Xe, onMounted: $e, onBeforeUnmount: Si, CtrlLayout: ot };
+    }, clamp: x, clientXToIndex: d, selectIndex: c, onTrackClick: f, startDrag: A, onPointerMove: R, stopDrag: D, onArrow: v, ref: Q, computed: P, watch: Xe, onMounted: Fe, onBeforeUnmount: Si, CtrlLayout: ot };
     return Object.defineProperty(E, "__isScriptSetup", { enumerable: !1, value: !0 }), E;
   }
 }, Zo = {
@@ -1259,7 +1259,7 @@ const Ai = /* @__PURE__ */ ne(Wo, [["render", jo], ["__scopeId", "data-v-6c569ff
   ref: "root"
 }, Xo = ["onClick", "aria-label", "onKeydown"], Yo = ["aria-valuemax", "aria-valuenow", "aria-valuetext"], Qo = { class: "vue-lab__size-value" };
 function Jo(s, n, t, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: "Size" }, {
+  return k(), Z(e.CtrlLayout, { name: "Size" }, {
     default: be(() => [
       L(
         "div",
@@ -1274,11 +1274,11 @@ function Jo(s, n, t, e, i, a) {
             },
             [
               (k(!0), $(
-                fe,
+                he,
                 null,
-                Ee(t.options, (l, o) => (k(), $("div", {
+                we(t.options, (l, o) => (k(), $("div", {
                   key: o,
-                  class: Ie(["vue-lab__size-tick", {
+                  class: De(["vue-lab__size-tick", {
                     "vue-lab__size-tick_active": o === e.currentIndex
                   }]),
                   style: Ze({ left: e.positions[o] + "%" }),
@@ -1330,7 +1330,7 @@ function Jo(s, n, t, e, i, a) {
           L(
             "div",
             Qo,
-            re(t.value),
+            oe(t.value),
             1
             /* TEXT */
           )
@@ -1366,7 +1366,7 @@ const Ci = /* @__PURE__ */ ne(Vo, [["render", Jo], ["__scopeId", "data-v-96bfa19
   }
 };
 function tl(s, n, t, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: t.title }, {
+  return k(), Z(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", {
         class: "vue-lab__boolean",
@@ -1375,7 +1375,7 @@ function tl(s, n, t, e, i, a) {
         L(
           "div",
           {
-            class: Ie(e.classList)
+            class: De(e.classList)
           },
           null,
           2
@@ -1405,13 +1405,13 @@ const Ii = /* @__PURE__ */ ne(el, [["render", tl], ["__file", "./index.vue"]]), 
   }
 }, il = { class: "vue-lab__text-ctrl" }, sl = ["value"];
 function al(s, n, t, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: t.title }, {
+  return k(), Z(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", il, [
         L(
           "div",
           {
-            class: Ie([
+            class: De([
               "vue-lab__text-ctrl__field",
               {
                 "vue-lab__text-ctrl__field--active": e.isValue,
@@ -1460,7 +1460,7 @@ const Mi = /* @__PURE__ */ ne(nl, [["render", al], ["__scopeId", "data-v-3d8e17f
   }
 }, ol = { class: "vue-lab-color-picker" }, ll = ["value"];
 function cl(s, n, t, e, i, a) {
-  return k(), V(e.CtrlLayout, { name: t.title }, {
+  return k(), Z(e.CtrlLayout, { name: t.title }, {
     default: be(() => [
       L("div", ol, [
         L(
@@ -1528,7 +1528,7 @@ const Li = /* @__PURE__ */ ne(rl, [["render", cl], ["__scopeId", "data-v-8e33fe9
 }, pl = ["onClick"], fl = ["title"];
 function hl(s, n, t, e, i, a) {
   const l = si("click-outside");
-  return k(), V(e.CtrlLayout, {
+  return k(), Z(e.CtrlLayout, {
     name: t.title,
     class: "vue-lab__dropdown"
   }, {
@@ -1537,17 +1537,17 @@ function hl(s, n, t, e, i, a) {
         "div",
         {
           ref: "dropdownActivator",
-          class: Ie(["vue-lab__dropdown-field", {
+          class: De(["vue-lab__dropdown-field", {
             "vue-lab__dropdown-field_active": e.props.value,
             "vue-lab__dropdown-field_focused": e.isOpened
           }]),
           onClick: e.toggleOpened
         },
-        re(e.selectedValue),
+        oe(e.selectedValue),
         3
         /* TEXT, CLASS */
       ),
-      e.isOpened ? ai((k(), V(e.Popover, {
+      e.isOpened ? ai((k(), Z(e.Popover, {
         key: 0,
         reference: e.dropdownActivator,
         position: "top:bottom",
@@ -1556,18 +1556,18 @@ function hl(s, n, t, e, i, a) {
       }, {
         default: be(() => [
           L("div", ul, [
-            xe(e.Search, {
+            Ne(e.Search, {
               size: "sm",
               focus: "",
               onInput: e.handleSearch
             }),
             e.filteredOptions.length ? (k(), $("ul", dl, [
               (k(!0), $(
-                fe,
+                he,
                 null,
-                Ee(e.filteredOptions, (o) => (k(), $("li", {
+                we(e.filteredOptions, (o) => (k(), $("li", {
                   key: o.id,
-                  class: Ie(["vue-lab__dropdown-list-item", {
+                  class: De(["vue-lab__dropdown-list-item", {
                     "vue-lab__dropdown-list-item_active": o.id === e.props.value
                   }]),
                   onClick: (_) => e.handleItem(o.id)
@@ -1575,17 +1575,17 @@ function hl(s, n, t, e, i, a) {
                   L("p", {
                     title: o.name,
                     class: "vue-lab__dropdown-list-item-text"
-                  }, re(o.name), 9, fl)
+                  }, oe(o.name), 9, fl)
                 ], 10, pl))),
                 128
                 /* KEYED_FRAGMENT */
               ))
-            ])) : (k(), V(e.EmptyScreen, {
+            ])) : (k(), Z(e.EmptyScreen, {
               key: 0,
               size: "sm"
             }, {
               default: be(() => [...n[0] || (n[0] = [
-                Ue(
+                ze(
                   "No options found",
                   -1
                   /* CACHED */
@@ -1639,10 +1639,10 @@ const Di = /* @__PURE__ */ ne(_l, [["render", hl], ["__scopeId", "data-v-b886953
     } };
     return Object.defineProperty(p, "__isScriptSetup", { enumerable: !1, value: !0 }), p;
   }
-}, bl = { class: "vue-lab__control-block" }, ml = { class: "vue-lab__control-block__header" }, vl = { class: "vue-lab__control-block__header-ctrl" }, El = { class: "vue-lab__control-block__body custom-scroll" };
+}, ml = { class: "vue-lab__control-block" }, bl = { class: "vue-lab__control-block__header" }, vl = { class: "vue-lab__control-block__header-ctrl" }, El = { class: "vue-lab__control-block__body custom-scroll" };
 function yl(s, n, t, e, i, a) {
-  return k(), $("div", bl, [
-    L("div", ml, [
+  return k(), $("div", ml, [
+    L("div", bl, [
       n[1] || (n[1] = L(
         "div",
         { class: "vue-lab__control-block__header-title" },
@@ -1651,9 +1651,9 @@ function yl(s, n, t, e, i, a) {
         /* CACHED */
       )),
       L("div", vl, [
-        xe(e.Button, { onClick: e.resetSettings }, {
+        Ne(e.Button, { onClick: e.resetSettings }, {
           default: be(() => [...n[0] || (n[0] = [
-            Ue(
+            ze(
               "Reset",
               -1
               /* CACHED */
@@ -1666,9 +1666,9 @@ function yl(s, n, t, e, i, a) {
     ]),
     L("div", El, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(t.options, (l, o) => (k(), V(rt(e.componentsMap[l.ctrl]), {
+        we(t.options, (l, o) => (k(), Z(rt(e.componentsMap[l.ctrl]), {
           key: `ctrl-${l.ctrl}-${o}`,
           options: l.variants,
           title: l.title,
@@ -1718,9 +1718,9 @@ const ui = /* @__PURE__ */ ne(wl, [["render", Nl], ["__scopeId", "data-v-036062d
 function Tl(s, n, t, e, i, a) {
   return k(), $("div", Sl, [
     (k(!0), $(
-      fe,
+      he,
       null,
-      Ee(e.dotsArray, (l) => (k(), $("div", {
+      we(e.dotsArray, (l) => (k(), $("div", {
         key: e.generateKey(l),
         class: "vue-lab__divider-dot"
       }))),
@@ -1754,15 +1754,15 @@ function Ll(s, n, t, e, i, a) {
     L(
       "div",
       Al,
-      re(t.title),
+      oe(t.title),
       1
       /* TEXT */
     ),
     L("div", Cl, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(e.sortedList, (l, o) => (k(), $(
+        we(e.sortedList, (l, o) => (k(), $(
           "div",
           {
             style: Ze(`--i:${o}`),
@@ -1778,7 +1778,7 @@ function Ll(s, n, t, e, i, a) {
             L(
               "div",
               Ml,
-              re(`${l.name}${l.isBase ? " (Base)" : ""}`),
+              oe(`${l.name}${l.isBase ? " (Base)" : ""}`),
               1
               /* TEXT */
             )
@@ -1812,15 +1812,15 @@ function zl(s, n, t, e, i, a) {
     L(
       "div",
       Ul,
-      re(t.title),
+      oe(t.title),
       1
       /* TEXT */
     ),
     L("div", $l, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(e.pallets, (l, o) => (k(), V(e.Palette, {
+        we(e.pallets, (l, o) => (k(), Z(e.Palette, {
           key: `palette-${l.title}-${o}`,
           title: l.title,
           colors: l.colors
@@ -1860,32 +1860,32 @@ function jl(s, n, t, e, i, a) {
     t.option?.name || t.isGroup ? (k(), $(
       "div",
       ql,
-      re(t.isGroup ? t.option.name || "Other components" : ""),
+      oe(t.isGroup ? t.option.name || "Other components" : ""),
       1
       /* TEXT */
     )) : te("v-if", !0),
     t.option?.description ? (k(), $(
       "div",
       Wl,
-      re(t.option.description || ""),
+      oe(t.option.description || ""),
       1
       /* TEXT */
     )) : te("v-if", !0),
     L("div", Hl, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(t.option.items, (o) => (k(), $("div", {
+        we(t.option.items, (o) => (k(), $("div", {
           key: e.generateKey(o),
           class: "vue-lab-home-page__group-body-item"
         }, [
-          xe(l, {
+          Ne(l, {
             to: `/${o.name}`,
             class: "vue-lab-home-page__group-body-link"
           }, {
             default: be(() => [
-              Ue(
-                re(o.name),
+              ze(
+                oe(o.name),
                 1
                 /* TEXT */
               )
@@ -1898,7 +1898,7 @@ function jl(s, n, t, e, i, a) {
         /* KEYED_FRAGMENT */
       ))
     ]),
-    t.isLast ? te("v-if", !0) : (k(), V(e.Divider, { key: 2 }))
+    t.isLast ? te("v-if", !0) : (k(), Z(e.Divider, { key: 2 }))
   ]);
 }
 const Vl = /* @__PURE__ */ ne(Kl, [["render", jl], ["__scopeId", "data-v-d6fe0ccb"], ["__file", "./group.vue"]]), Zl = {
@@ -1915,17 +1915,17 @@ const Vl = /* @__PURE__ */ ne(Kl, [["render", jl], ["__scopeId", "data-v-d6fe0cc
     const t = s, e = Q(""), i = (u) => {
       e.value = u;
     }, a = P(() => t.description || "A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects."), l = P(() => !o.value.some((u) => u.items.length)), o = P(() => {
-      const u = t.menu.map((x) => x.group), g = [...new Set(u)].filter((x) => x && x.length), m = (x) => !e.value || !e.value.length ? !0 : x.name.toLowerCase().includes(e.value.toLowerCase()), w = g.map((x) => {
+      const u = t.menu.map((x) => x.group), g = [...new Set(u)].filter((x) => x && x.length), b = (x) => !e.value || !e.value.length ? !0 : x.name.toLowerCase().includes(e.value.toLowerCase()), w = g.map((x) => {
         const d = t.menuGroupsDescription ? t.menuGroupsDescription[x] : null;
         return {
           name: x,
           description: d,
-          items: t.menu.filter((c) => c.group === x).filter(m)
+          items: t.menu.filter((c) => c.group === x).filter(b)
         };
       }), N = {
         name: null,
         description: null,
-        items: t.menu.filter((x) => !x.group || !x.group.length).filter(m)
+        items: t.menu.filter((x) => !x.group || !x.group.length).filter(b)
       };
       return [...w, N];
     }), _ = P(() => t.menu.some((u) => u.group && u.group.length)), p = { props: t, searchQuery: e, handleTextInput: i, pageDiscription: a, isEmptySearch: l, menuItems: o, isGroup: _, computed: P, ref: Q, Group: Vl, get generateKey() {
@@ -1945,7 +1945,7 @@ function ic(s, n, t, e, i, a) {
     L("div", Yl, [
       L("div", Ql, [
         L("div", Jl, [
-          xe(e.LabIcon)
+          Ne(e.LabIcon)
         ]),
         n[0] || (n[0] = L(
           "div",
@@ -1958,21 +1958,21 @@ function ic(s, n, t, e, i, a) {
       L(
         "div",
         ec,
-        re(e.pageDiscription),
+        oe(e.pageDiscription),
         1
         /* TEXT */
       )
     ]),
     L("div", tc, [
-      xe(e.Search, { onInput: e.handleTextInput })
+      Ne(e.Search, { onInput: e.handleTextInput })
     ]),
     L("div", nc, [
-      e.isEmptySearch ? (k(), V(e.EmptyScreen, {
+      e.isEmptySearch ? (k(), Z(e.EmptyScreen, {
         key: 0,
         size: "lg"
       }, {
         default: be(() => [...n[1] || (n[1] = [
-          Ue(
+          ze(
             " Components not found. ",
             -1
             /* CACHED */
@@ -1984,7 +1984,7 @@ function ic(s, n, t, e, i, a) {
             -1
             /* CACHED */
           ),
-          Ue(
+          ze(
             "Try to change the search query. ",
             -1
             /* CACHED */
@@ -1993,13 +1993,13 @@ function ic(s, n, t, e, i, a) {
         _: 1
         /* STABLE */
       })) : (k(!0), $(
-        fe,
+        he,
         { key: 1 },
-        Ee(e.menuItems, (l, o) => (k(), $(
-          fe,
+        we(e.menuItems, (l, o) => (k(), $(
+          he,
           null,
           [
-            l.items?.length ? (k(), V(e.Group, {
+            l.items?.length ? (k(), Z(e.Group, {
               key: e.generateKey(l),
               option: l,
               isGroup: e.isGroup,
@@ -2561,7 +2561,7 @@ function It() {
     START: t.START,
     RAW: t.RAW,
     EOF: t.EOF
-  }, p = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, g = /[0-9]/, m = /[^\d\.]/, w = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), N = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
+  }, p = new e(/\/\*/, /\*\//), u = /0[xX][0123456789abcdefABCDEF_]*n?|0[oO][01234567_]*n?|0[bB][01_]*n?|\d[\d_]*n|(?:\.\d[\d_]*|\d[\d_]*\.?[\d_]*)(?:[eE][+-]?[\d_]+)?/, g = /[0-9]/, b = /[^\d\.]/, w = ">>> === !== &&= ??= ||= << && >= ** != == <= >> || ?? |> < / - + > : & % ? ^ | *".split(" "), N = ">>>= ... >>= <<= === >>> !== **= &&= ??= ||= => ^= :: /= << <= == && -= >= >> != -- += ** || ?? ++ %= &= *= |= |> = ! ? > < : / ^ - + * & % ~ |";
   N = N.replace(/[-[\]{}()*+?.,\\^$|#]/g, "\\$&"), N = "\\?\\.(?!\\d) " + N, N = N.replace(/ /g, "|");
   var x = new RegExp(N), d = "continue,try,throw,return,var,let,const,if,switch,case,default,for,while,break,function,import,export".split(","), c = d.concat(["do", "in", "of", "else", "get", "set", "new", "catch", "finally", "typeof", "yield", "async", "await", "from", "as", "class", "extends"]), f = new RegExp("^(?:" + c.join("|") + ")$"), A, R = function(v, E) {
     n.call(this, v, E), this._patterns.whitespace = this._patterns.whitespace.matching(
@@ -2611,7 +2611,7 @@ function It() {
       return this._create_token(_.WORD, E);
   }, R.prototype._read_singles = function(v) {
     var E = null;
-    return v === "(" || v === "[" ? E = this._create_token(_.START_EXPR, v) : v === ")" || v === "]" ? E = this._create_token(_.END_EXPR, v) : v === "{" ? E = this._create_token(_.START_BLOCK, v) : v === "}" ? E = this._create_token(_.END_BLOCK, v) : v === ";" ? E = this._create_token(_.SEMICOLON, v) : v === "." && m.test(this._input.peek(1)) ? E = this._create_token(_.DOT, v) : v === "," && (E = this._create_token(_.COMMA, v)), E && this._input.next(), E;
+    return v === "(" || v === "[" ? E = this._create_token(_.START_EXPR, v) : v === ")" || v === "]" ? E = this._create_token(_.END_EXPR, v) : v === "{" ? E = this._create_token(_.START_BLOCK, v) : v === "}" ? E = this._create_token(_.END_BLOCK, v) : v === ";" ? E = this._create_token(_.SEMICOLON, v) : v === "." && b.test(this._input.peek(1)) ? E = this._create_token(_.DOT, v) : v === "," && (E = this._create_token(_.COMMA, v)), E && this._input.next(), E;
   }, R.prototype._read_pair = function(v, E) {
     var h = null;
     return v === "#" && E === "{" && (h = this._create_token(_.START_BLOCK, v + E)), h && (this._input.next(), this._input.next()), h;
@@ -2690,8 +2690,8 @@ function It() {
       var h = "", S = this.__patterns.xml.read_match();
       if (S) {
         for (var r = S[2].replace(/^{\s+/, "{").replace(/\s+}$/, "}"), y = r.indexOf("{") === 0, O = 0; S; ) {
-          var F = !!S[1], G = S[2], X = !!S[S.length - 1] || G.slice(0, 8) === "![CDATA[";
-          if (!X && (G === r || y && G.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (F ? --O : ++O), h += S[0], O <= 0)
+          var F = !!S[1], q = S[2], X = !!S[S.length - 1] || q.slice(0, 8) === "![CDATA[";
+          if (!X && (q === r || y && q.replace(/^{\s+/, "{").replace(/\s+}$/, "}")) && (F ? --O : ++O), h += S[0], O <= 0)
             break;
           S = this.__patterns.xml.read_match();
         }
@@ -2751,7 +2751,7 @@ function cc() {
   function g(r, y) {
     return r && r.type === o.RESERVED && r.text === y;
   }
-  function m(r, y) {
+  function b(r, y) {
     return r && r.type === o.RESERVED && _(r.text, y);
   }
   var w = ["case", "return", "do", "if", "throw", "else", "await", "break", "continue", "async"], N = ["before-newline", "after-newline", "preserve-newline"], x = u(N), d = [x.before_newline, x.preserve_newline], c = {
@@ -2797,8 +2797,8 @@ function cc() {
     return !0;
   }
   function E(r, y) {
-    for (var O = 0, F = r.length, G; O < F; O++)
-      if (G = r[O], G && G.indexOf(y) !== 0)
+    for (var O = 0, F = r.length, q; O < F; O++)
+      if (q = r[O], q && q.indexOf(y) !== 0)
         return !1;
     return !0;
   }
@@ -2860,8 +2860,8 @@ function cc() {
   }, h.prototype.handle_whitespace_and_comments = function(r, y) {
     var O = r.newlines, F = this._options.keep_array_indentation && R(this._flags.mode);
     if (r.comments_before)
-      for (var G = r.comments_before.next(); G; )
-        this.handle_whitespace_and_comments(G, y), this.handle_token(G, y), G = r.comments_before.next();
+      for (var q = r.comments_before.next(); q; )
+        this.handle_whitespace_and_comments(q, y), this.handle_token(q, y), q = r.comments_before.next();
     if (F)
       for (var X = 0; X < O; X += 1)
         this.print_newline(X > 0, y);
@@ -2876,13 +2876,13 @@ function cc() {
     if (y = y === void 0 ? !1 : y, !this._output.just_added_newline()) {
       var O = this._options.preserve_newlines && r.newlines || y, F = _(this._flags.last_token.text, l) || _(r.text, l);
       if (F) {
-        var G = _(this._flags.last_token.text, l) && _(this._options.operator_position, d) || _(r.text, l);
-        O = O && G;
+        var q = _(this._flags.last_token.text, l) && _(this._options.operator_position, d) || _(r.text, l);
+        O = O && q;
       }
       if (O)
         this.print_newline(!1, !0);
       else if (this._options.wrap_line_length) {
-        if (m(this._flags.last_token, S))
+        if (b(this._flags.last_token, S))
           return;
         this._output.set_wrap_point();
       }
@@ -2913,19 +2913,19 @@ function cc() {
   }, h.prototype.restore_mode = function() {
     this._flag_store.length > 0 && (this._previous_flags = this._flags, this._flags = this._flag_store.pop(), this._previous_flags.mode === c.Statement && f(this._output, this._previous_flags), this._output.set_indent(this._flags.indentation_level, this._flags.alignment));
   }, h.prototype.start_of_object_property = function() {
-    return this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"]));
+    return this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || b(this._flags.last_token, ["get", "set"]));
   }, h.prototype.start_of_statement = function(r) {
     var y = !1;
-    return y = y || m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD, y = y || g(this._flags.last_token, "do"), y = y || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && m(this._flags.last_token, S) && !r.newlines, y = y || g(this._flags.last_token, "else") && !(g(r, "if") && !r.comments_before), y = y || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), y = y || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(r.text === "--" || r.text === "++") && this._last_last_text !== "function" && r.type !== o.WORD && r.type !== o.RESERVED, y = y || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || m(this._flags.last_token, ["get", "set"])), y ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(r, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
+    return y = y || b(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD, y = y || g(this._flags.last_token, "do"), y = y || !(this._flags.parent.mode === c.ObjectLiteral && this._flags.mode === c.Statement) && b(this._flags.last_token, S) && !r.newlines, y = y || g(this._flags.last_token, "else") && !(g(r, "if") && !r.comments_before), y = y || this._flags.last_token.type === o.END_EXPR && (this._previous_flags.mode === c.ForInitializer || this._previous_flags.mode === c.Conditional), y = y || this._flags.last_token.type === o.WORD && this._flags.mode === c.BlockStatement && !this._flags.in_case && !(r.text === "--" || r.text === "++") && this._last_last_text !== "function" && r.type !== o.WORD && r.type !== o.RESERVED, y = y || this._flags.mode === c.ObjectLiteral && (this._flags.last_token.text === ":" && this._flags.ternary_depth === 0 || b(this._flags.last_token, ["get", "set"])), y ? (this.set_mode(c.Statement), this.indent(), this.handle_whitespace_and_comments(r, !0), this.start_of_object_property() || this.allow_wrap_or_preserved_newline(
       r,
-      m(r, ["do", "for", "if", "while"])
+      b(r, ["do", "for", "if", "while"])
     ), !0) : !1;
   }, h.prototype.handle_start_expr = function(r) {
     this.start_of_statement(r) || this.handle_whitespace_and_comments(r);
     var y = c.Expression;
     if (r.text === "[") {
       if (this._flags.last_token.type === o.WORD || this._flags.last_token.text === ")") {
-        m(this._flags.last_token, a) && (this._output.space_before_token = !0), this.print_token(r), this.set_mode(y), this.indent(), this._options.space_in_paren && (this._output.space_before_token = !0);
+        b(this._flags.last_token, a) && (this._output.space_before_token = !0), this.print_token(r), this.set_mode(y), this.indent(), this._options.space_in_paren && (this._output.space_before_token = !0);
         return;
       }
       y = c.ArrayLiteral, R(this._flags.mode) && (this._flags.last_token.text === "[" || this._flags.last_token.text === "," && (this._last_last_text === "]" || this._last_last_text === "}")) && (this._options.keep_array_indentation || this.print_newline()), _(this._flags.last_token.type, [o.START_EXPR, o.END_EXPR, o.WORD, o.OPERATOR, o.DOT]) || (this._output.space_before_token = !0);
@@ -2939,7 +2939,7 @@ function cc() {
         var O = this._tokens.peek(-3);
         if (this._options.space_after_named_function && O) {
           var F = this._tokens.peek(-4);
-          m(O, ["async", "function"]) || O.text === "*" && m(F, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (O.text === "{" || O.text === "," || O.text === "*" && (F.text === "{" || F.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
+          b(O, ["async", "function"]) || O.text === "*" && b(F, ["async", "function"]) ? this._output.space_before_token = !0 : this._flags.mode === c.ObjectLiteral ? (O.text === "{" || O.text === "," || O.text === "*" && (F.text === "{" || F.text === ",")) && (this._output.space_before_token = !0) : this._flags.parent && this._flags.parent.class_start_block && (this._output.space_before_token = !0);
         }
       } else
         this.allow_wrap_or_preserved_newline(r);
@@ -2956,8 +2956,8 @@ function cc() {
   }, h.prototype.handle_start_block = function(r) {
     this.handle_whitespace_and_comments(r);
     var y = this._tokens.peek(), O = this._tokens.peek(1);
-    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : O && (_(O.text, [":", ","]) && _(y.type, [o.STRING, o.WORD, o.RESERVED]) || _(y.text, ["get", "set", "..."]) && _(O.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(O.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || m(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && m(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
-    var F = !y.comments_before && y.text === "}", G = F && this._flags.last_word === "function" && this._flags.last_token.type === o.END_EXPR;
+    this._flags.last_word === "switch" && this._flags.last_token.type === o.END_EXPR ? (this.set_mode(c.BlockStatement), this._flags.in_case_statement = !0) : this._flags.case_body ? this.set_mode(c.BlockStatement) : O && (_(O.text, [":", ","]) && _(y.type, [o.STRING, o.WORD, o.RESERVED]) || _(y.text, ["get", "set", "..."]) && _(O.type, [o.WORD, o.RESERVED])) ? _(this._last_last_text, ["class", "interface"]) && !_(O.text, [":", ","]) ? this.set_mode(c.BlockStatement) : this.set_mode(c.ObjectLiteral) : this._flags.last_token.type === o.OPERATOR && this._flags.last_token.text === "=>" ? this.set_mode(c.BlockStatement) : _(this._flags.last_token.type, [o.EQUALS, o.START_EXPR, o.COMMA, o.OPERATOR]) || b(this._flags.last_token, ["return", "throw", "import", "default"]) ? this.set_mode(c.ObjectLiteral) : this.set_mode(c.BlockStatement), this._flags.last_token && b(this._flags.last_token.previous, ["class", "extends"]) && (this._flags.class_start_block = !0);
+    var F = !y.comments_before && y.text === "}", q = F && this._flags.last_word === "function" && this._flags.last_token.type === o.END_EXPR;
     if (this._options.brace_preserve_inline) {
       var X = 0, M = null;
       this._flags.inline_frame = !0;
@@ -2968,7 +2968,7 @@ function cc() {
         }
       while (M.type !== o.EOF && !(M.type === o.END_BLOCK && M.opened === r));
     }
-    (this._options.brace_style === "expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (G || this._flags.last_token.type === o.EQUALS || m(this._flags.last_token, w) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (R(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(r), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(r), this.indent(), !F && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
+    (this._options.brace_style === "expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame ? this._flags.last_token.type !== o.OPERATOR && (q || this._flags.last_token.type === o.EQUALS || b(this._flags.last_token, w) && this._flags.last_token.text !== "else") ? this._output.space_before_token = !0 : this.print_newline(!1, !0) : (R(this._previous_flags.mode) && (this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.COMMA) && ((this._flags.last_token.type === o.COMMA || this._options.space_in_paren) && (this._output.space_before_token = !0), (this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR && this._flags.inline_frame) && (this.allow_wrap_or_preserved_newline(r), this._previous_flags.multiline_frame = this._previous_flags.multiline_frame || this._flags.multiline_frame, this._flags.multiline_frame = !1)), this._flags.last_token.type !== o.OPERATOR && this._flags.last_token.type !== o.START_EXPR && (_(this._flags.last_token.type, [o.START_BLOCK, o.SEMICOLON]) && !this._flags.inline_frame ? this.print_newline() : this._output.space_before_token = !0)), this.print_token(r), this.indent(), !F && !(this._options.brace_preserve_inline && this._flags.inline_frame) && this.print_newline();
   }, h.prototype.handle_end_block = function(r) {
     for (this.handle_whitespace_and_comments(r); this._flags.mode === c.Statement; )
       this.restore_mode();
@@ -2987,7 +2987,7 @@ function cc() {
         y.text === ":" && (r.type = o.WORD);
       }
     }
-    if (this.start_of_statement(r) ? m(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD && (this._flags.declaration_statement = !0) : r.newlines && !D(this._flags.mode) && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++") && this._flags.last_token.type !== o.EQUALS && (this._options.preserve_newlines || !m(this._flags.last_token, ["var", "let", "const", "set", "get"])) ? (this.handle_whitespace_and_comments(r), this.print_newline()) : this.handle_whitespace_and_comments(r), this._flags.do_block && !this._flags.do_while)
+    if (this.start_of_statement(r) ? b(this._flags.last_token, ["var", "let", "const"]) && r.type === o.WORD && (this._flags.declaration_statement = !0) : r.newlines && !D(this._flags.mode) && (this._flags.last_token.type !== o.OPERATOR || this._flags.last_token.text === "--" || this._flags.last_token.text === "++") && this._flags.last_token.type !== o.EQUALS && (this._options.preserve_newlines || !b(this._flags.last_token, ["var", "let", "const", "set", "get"])) ? (this.handle_whitespace_and_comments(r), this.print_newline()) : this.handle_whitespace_and_comments(r), this._flags.do_block && !this._flags.do_while)
       if (g(r, "while")) {
         this._output.space_before_token = !0, this.print_token(r), this._output.space_before_token = !0, this._flags.do_while = !0;
         return;
@@ -3001,17 +3001,17 @@ function cc() {
           this.restore_mode();
         this._flags.if_block = !1, this._flags.else_block = !1;
       }
-    if (this._flags.in_case_statement && m(r, ["case", "default"])) {
+    if (this._flags.in_case_statement && b(r, ["case", "default"])) {
       this.print_newline(), !this._flags.case_block && (this._flags.case_body || this._options.jslint_happy) && this.deindent(), this._flags.case_body = !1, this.print_token(r), this._flags.in_case = !0;
       return;
     }
     if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR || this._flags.last_token.type === o.EQUALS || this._flags.last_token.type === o.OPERATOR) && !this.start_of_object_property() && !// start of object property is different for numeric values with +/- prefix operators
     (_(this._flags.last_token.text, ["+", "-"]) && this._last_last_text === ":" && this._flags.parent.mode === c.ObjectLiteral) && this.allow_wrap_or_preserved_newline(r), g(r, "function")) {
-      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !r.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? m(this._flags.last_token, ["get", "set", "new", "export"]) || m(this._flags.last_token, S) ? this._output.space_before_token = !0 : g(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (D(this._flags.mode) || R(this._flags.mode)) || this.print_newline(), this.print_token(r), this._flags.last_word = r.text;
+      (_(this._flags.last_token.text, ["}", ";"]) || this._output.just_added_newline() && !(_(this._flags.last_token.text, ["(", "[", "{", ":", "=", ","]) || this._flags.last_token.type === o.OPERATOR)) && !this._output.just_added_blankline() && !r.comments_before && (this.print_newline(), this.print_newline(!0)), this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD ? b(this._flags.last_token, ["get", "set", "new", "export"]) || b(this._flags.last_token, S) ? this._output.space_before_token = !0 : g(this._flags.last_token, "default") && this._last_last_text === "export" ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" ? this._output.space_before_token = !0 : this.print_newline() : this._flags.last_token.type === o.OPERATOR || this._flags.last_token.text === "=" ? this._output.space_before_token = !0 : !this._flags.multiline_frame && (D(this._flags.mode) || R(this._flags.mode)) || this.print_newline(), this.print_token(r), this._flags.last_word = r.text;
       return;
     }
     var O = "NONE";
-    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? O = "SPACE" : m(r, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines ? O = "NEWLINE" : (O = "SPACE", this._output.space_before_token = !0) : O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && D(this._flags.mode) ? O = "SPACE" : this._flags.last_token.type === o.STRING ? O = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? O = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? O = "SPACE" : O = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, O = "NEWLINE"), m(r, a) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? O = "SPACE" : O = "NEWLINE"), m(r, ["else", "catch", "finally"]))
+    if (this._flags.last_token.type === o.END_BLOCK ? this._previous_flags.inline_frame ? O = "SPACE" : b(r, ["else", "catch", "finally", "from"]) ? this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines ? O = "NEWLINE" : (O = "SPACE", this._output.space_before_token = !0) : O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && this._flags.mode === c.BlockStatement ? O = "NEWLINE" : this._flags.last_token.type === o.SEMICOLON && D(this._flags.mode) ? O = "SPACE" : this._flags.last_token.type === o.STRING ? O = "NEWLINE" : this._flags.last_token.type === o.RESERVED || this._flags.last_token.type === o.WORD || this._flags.last_token.text === "*" && (_(this._last_last_text, ["function", "yield"]) || this._flags.mode === c.ObjectLiteral && _(this._last_last_text, ["{", ","])) ? O = "SPACE" : this._flags.last_token.type === o.START_BLOCK ? this._flags.inline_frame ? O = "SPACE" : O = "NEWLINE" : this._flags.last_token.type === o.END_EXPR && (this._output.space_before_token = !0, O = "NEWLINE"), b(r, a) && this._flags.last_token.text !== ")" && (this._flags.inline_frame || this._flags.last_token.text === "else" || this._flags.last_token.text === "export" ? O = "SPACE" : O = "NEWLINE"), b(r, ["else", "catch", "finally"]))
       if ((!(this._flags.last_token.type === o.END_BLOCK && this._previous_flags.mode === c.BlockStatement) || this._options.brace_style === "expand" || this._options.brace_style === "end-expand" || this._options.brace_style === "none" && r.newlines) && !this._flags.inline_frame)
         this.print_newline();
       else {
@@ -3019,7 +3019,7 @@ function cc() {
         var F = this._output.current_line;
         F.last() !== "}" && this.print_newline(), this._output.space_before_token = !0;
       }
-    else O === "NEWLINE" ? m(this._flags.last_token, w) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && m(r, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !m(r, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (g(r, "if") && g(r.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : m(r, a) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && R(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : O === "SPACE" && (this._output.space_before_token = !0);
+    else O === "NEWLINE" ? b(this._flags.last_token, w) ? this._output.space_before_token = !0 : this._flags.last_token.text === "declare" && b(r, ["var", "let", "const"]) ? this._output.space_before_token = !0 : this._flags.last_token.type !== o.END_EXPR ? (this._flags.last_token.type !== o.START_EXPR || !b(r, ["var", "let", "const"])) && this._flags.last_token.text !== ":" && (g(r, "if") && g(r.previous, "else") ? this._output.space_before_token = !0 : this.print_newline()) : b(r, a) && this._flags.last_token.text !== ")" && this.print_newline() : this._flags.multiline_frame && R(this._flags.mode) && this._flags.last_token.text === "," && this._last_last_text === "}" ? this.print_newline() : O === "SPACE" && (this._output.space_before_token = !0);
     r.previous && (r.previous.type === o.WORD || r.previous.type === o.RESERVED) && (this._output.space_before_token = !0), this.print_token(r), this._flags.last_word = r.text, r.type === o.RESERVED && (r.text === "do" ? this._flags.do_block = !0 : r.text === "if" ? this._flags.if_block = !0 : r.text === "import" ? this._flags.import_block = !0 : this._flags.import_block && g(r, "from") && (this._flags.import_block = !1));
   }, h.prototype.handle_semicolon = function(r) {
     this.start_of_statement(r) ? this._output.space_before_token = !1 : this.handle_whitespace_and_comments(r);
@@ -3033,7 +3033,7 @@ function cc() {
   }, h.prototype.handle_comma = function(r) {
     this.handle_whitespace_and_comments(r, !0), this.print_token(r), this._output.space_before_token = !0, this._flags.declaration_statement ? (D(this._flags.parent.mode) && (this._flags.declaration_assignment = !1), this._flags.declaration_assignment ? (this._flags.declaration_assignment = !1, this.print_newline(!1, !0)) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r)) : this._flags.mode === c.ObjectLiteral || this._flags.mode === c.Statement && this._flags.parent.mode === c.ObjectLiteral ? (this._flags.mode === c.Statement && this.restore_mode(), this._flags.inline_frame || this.print_newline()) : this._options.comma_first && this.allow_wrap_or_preserved_newline(r);
   }, h.prototype.handle_operator = function(r) {
-    var y = r.text === "*" && (m(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), O = _(r.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, a) || this._flags.last_token.text === ",");
+    var y = r.text === "*" && (b(this._flags.last_token, ["function", "yield"]) || _(this._flags.last_token.type, [o.START_BLOCK, o.COMMA, o.END_BLOCK, o.SEMICOLON])), O = _(r.text, ["-", "+"]) && (_(this._flags.last_token.type, [o.START_BLOCK, o.START_EXPR, o.EQUALS, o.OPERATOR]) || _(this._flags.last_token.text, a) || this._flags.last_token.text === ",");
     if (!this.start_of_statement(r)) {
       var F = !y;
       this.handle_whitespace_and_comments(r, F);
@@ -3054,35 +3054,35 @@ function cc() {
       this.print_token(r), this._flags.in_case = !1, this._flags.case_body = !0, this._tokens.peek().type !== o.START_BLOCK ? (this.indent(), this.print_newline(), this._flags.case_block = !1) : (this._flags.case_block = !0, this._output.space_before_token = !0);
       return;
     }
-    var G = !0, X = !0, M = !1;
-    if (r.text === ":" ? this._flags.ternary_depth === 0 ? G = !1 : (this._flags.ternary_depth -= 1, M = !0) : r.text === "?" && (this._flags.ternary_depth += 1), !O && !y && this._options.preserve_newlines && _(r.text, l)) {
-      var T = r.text === ":", I = T && M, W = T && !M;
+    var q = !0, X = !0, M = !1;
+    if (r.text === ":" ? this._flags.ternary_depth === 0 ? q = !1 : (this._flags.ternary_depth -= 1, M = !0) : r.text === "?" && (this._flags.ternary_depth += 1), !O && !y && this._options.preserve_newlines && _(r.text, l)) {
+      var T = r.text === ":", I = T && M, G = T && !M;
       switch (this._options.operator_position) {
         case x.before_newline:
-          this._output.space_before_token = !W, this.print_token(r), (!T || I) && this.allow_wrap_or_preserved_newline(r), this._output.space_before_token = !0;
+          this._output.space_before_token = !G, this.print_token(r), (!T || I) && this.allow_wrap_or_preserved_newline(r), this._output.space_before_token = !0;
           return;
         case x.after_newline:
           this._output.space_before_token = !0, !T || I ? this._tokens.peek().newlines ? this.print_newline(!1, !0) : this.allow_wrap_or_preserved_newline(r) : this._output.space_before_token = !1, this.print_token(r), this._output.space_before_token = !0;
           return;
         case x.preserve_newline:
-          W || this.allow_wrap_or_preserved_newline(r), G = !(this._output.just_added_newline() || W), this._output.space_before_token = G, this.print_token(r), this._output.space_before_token = !0;
+          G || this.allow_wrap_or_preserved_newline(r), q = !(this._output.just_added_newline() || G), this._output.space_before_token = q, this.print_token(r), this._output.space_before_token = !0;
           return;
       }
     }
     if (y) {
-      this.allow_wrap_or_preserved_newline(r), G = !1;
+      this.allow_wrap_or_preserved_newline(r), q = !1;
       var ae = this._tokens.peek();
       X = ae && _(ae.type, [o.WORD, o.RESERVED]);
     } else if (r.text === "...")
-      this.allow_wrap_or_preserved_newline(r), G = this._flags.last_token.type === o.START_BLOCK, X = !1;
+      this.allow_wrap_or_preserved_newline(r), q = this._flags.last_token.type === o.START_BLOCK, X = !1;
     else if (_(r.text, ["--", "++", "!", "~"]) || O) {
-      if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR) && this.allow_wrap_or_preserved_newline(r), G = !1, X = !1, r.newlines && (r.text === "--" || r.text === "++" || r.text === "~")) {
-        var Z = m(this._flags.last_token, w) && r.newlines;
-        Z && (this._previous_flags.if_block || this._previous_flags.else_block) && this.restore_mode(), this.print_newline(Z, !0);
+      if ((this._flags.last_token.type === o.COMMA || this._flags.last_token.type === o.START_EXPR) && this.allow_wrap_or_preserved_newline(r), q = !1, X = !1, r.newlines && (r.text === "--" || r.text === "++" || r.text === "~")) {
+        var H = b(this._flags.last_token, w) && r.newlines;
+        H && (this._previous_flags.if_block || this._previous_flags.else_block) && this.restore_mode(), this.print_newline(H, !0);
       }
-      this._flags.last_token.text === ";" && D(this._flags.mode) && (G = !0), this._flags.last_token.type === o.RESERVED ? G = !0 : this._flags.last_token.type === o.END_EXPR ? G = !(this._flags.last_token.text === "]" && (r.text === "--" || r.text === "++")) : this._flags.last_token.type === o.OPERATOR && (G = _(r.text, ["--", "-", "++", "+"]) && _(this._flags.last_token.text, ["--", "-", "++", "+"]), _(r.text, ["+", "-"]) && _(this._flags.last_token.text, ["--", "++"]) && (X = !0)), (this._flags.mode === c.BlockStatement && !this._flags.inline_frame || this._flags.mode === c.Statement) && (this._flags.last_token.text === "{" || this._flags.last_token.text === ";") && this.print_newline();
+      this._flags.last_token.text === ";" && D(this._flags.mode) && (q = !0), this._flags.last_token.type === o.RESERVED ? q = !0 : this._flags.last_token.type === o.END_EXPR ? q = !(this._flags.last_token.text === "]" && (r.text === "--" || r.text === "++")) : this._flags.last_token.type === o.OPERATOR && (q = _(r.text, ["--", "-", "++", "+"]) && _(this._flags.last_token.text, ["--", "-", "++", "+"]), _(r.text, ["+", "-"]) && _(this._flags.last_token.text, ["--", "++"]) && (X = !0)), (this._flags.mode === c.BlockStatement && !this._flags.inline_frame || this._flags.mode === c.Statement) && (this._flags.last_token.text === "{" || this._flags.last_token.text === ";") && this.print_newline();
     }
-    this._output.space_before_token = this._output.space_before_token || G, this.print_token(r), this._output.space_before_token = X;
+    this._output.space_before_token = this._output.space_before_token || q, this.print_token(r), this._output.space_before_token = X;
   }, h.prototype.handle_block_comment = function(r, y) {
     if (this._output.raw) {
       this._output.add_raw_token(r), r.directives && r.directives.preserve === "end" && (this._output.raw = this._options.test_output_raw);
@@ -3098,16 +3098,16 @@ function cc() {
     } else
       this.print_block_commment(r, y);
   }, h.prototype.print_block_commment = function(r, y) {
-    var O = A(r.text), F, G = !1, X = !1, M = r.whitespace_before, T = M.length;
+    var O = A(r.text), F, q = !1, X = !1, M = r.whitespace_before, T = M.length;
     if (this.print_newline(!1, y), this.print_token_line_indentation(r), this._output.add_token(O[0]), this.print_newline(!1, y), O.length > 1) {
-      for (O = O.slice(1), G = v(O, "*"), X = E(O, M), G && (this._flags.alignment = 1), F = 0; F < O.length; F++)
-        G ? (this.print_token_line_indentation(r), this._output.add_token(p(O[F]))) : X && O[F] ? (this.print_token_line_indentation(r), this._output.add_token(O[F].substring(T))) : (this._output.current_line.set_indent(-1), this._output.add_token(O[F])), this.print_newline(!1, y);
+      for (O = O.slice(1), q = v(O, "*"), X = E(O, M), q && (this._flags.alignment = 1), F = 0; F < O.length; F++)
+        q ? (this.print_token_line_indentation(r), this._output.add_token(p(O[F]))) : X && O[F] ? (this.print_token_line_indentation(r), this._output.add_token(O[F].substring(T))) : (this._output.current_line.set_indent(-1), this._output.add_token(O[F])), this.print_newline(!1, y);
       this._flags.alignment = 0;
     }
   }, h.prototype.handle_comment = function(r, y) {
     r.newlines ? this.print_newline(!1, y) : this._output.trim(!0), this._output.space_before_token = !0, this.print_token(r), this.print_newline(!1, y);
   }, h.prototype.handle_dot = function(r) {
-    this.start_of_statement(r) || this.handle_whitespace_and_comments(r, !0), this._flags.last_token.text.match("^[0-9]+$") && (this._output.space_before_token = !0), m(this._flags.last_token, w) ? this._output.space_before_token = !1 : this.allow_wrap_or_preserved_newline(
+    this.start_of_statement(r) || this.handle_whitespace_and_comments(r, !0), this._flags.last_token.text.match("^[0-9]+$") && (this._output.space_before_token = !0), b(this._flags.last_token, w) ? this._output.space_before_token = !1 : this.allow_wrap_or_preserved_newline(
       r,
       this._flags.last_token.text === ")" && this._options.break_chained_methods
     ), this._options.unindent_chained_methods && this._output.just_added_newline() && this.deindent(), this.print_token(r);
@@ -3154,8 +3154,8 @@ function uc() {
   if (Qi) return hn;
   Qi = 1;
   var s = ra().Options, n = di().Output, t = fi().InputScanner, e = hi().Directives, i = new e(/\/\*/, /\*\//), a = /\r\n|[\r\n]/, l = /\r\n|[\r\n]/g, o = /\s/, _ = /(?:\s|\n)+/g, p = /\/\*(?:[\s\S]*?)((?:\*\/)|$)/g, u = /\/\/(?:[^\n\r\u2028\u2029]*)/g;
-  function g(m, w) {
-    this._source_text = m || "", this._options = new s(w), this._ch = null, this._input = null, this.NESTED_AT_RULE = {
+  function g(b, w) {
+    this._source_text = b || "", this._options = new s(w), this._ch = null, this._input = null, this.NESTED_AT_RULE = {
       page: !0,
       "font-face": !0,
       keyframes: !0,
@@ -3172,41 +3172,41 @@ function uc() {
       "grid-template"
     ];
   }
-  return g.prototype.eatString = function(m) {
+  return g.prototype.eatString = function(b) {
     var w = "";
     for (this._ch = this._input.next(); this._ch; ) {
       if (w += this._ch, this._ch === "\\")
         w += this._input.next();
-      else if (m.indexOf(this._ch) !== -1 || this._ch === `
+      else if (b.indexOf(this._ch) !== -1 || this._ch === `
 `)
         break;
       this._ch = this._input.next();
     }
     return w;
-  }, g.prototype.eatWhitespace = function(m) {
+  }, g.prototype.eatWhitespace = function(b) {
     for (var w = o.test(this._input.peek()), N = 0; o.test(this._input.peek()); )
-      this._ch = this._input.next(), m && this._ch === `
+      this._ch = this._input.next(), b && this._ch === `
 ` && (N === 0 || N < this._options.max_preserve_newlines) && (N++, this._output.add_new_line(!0));
     return w;
   }, g.prototype.foundNestedPseudoClass = function() {
-    for (var m = 0, w = 1, N = this._input.peek(w); N; ) {
+    for (var b = 0, w = 1, N = this._input.peek(w); N; ) {
       if (N === "{")
         return !0;
       if (N === "(")
-        m += 1;
+        b += 1;
       else if (N === ")") {
-        if (m === 0)
+        if (b === 0)
           return !1;
-        m -= 1;
+        b -= 1;
       } else if (N === ";" || N === "}")
         return !1;
       w++, N = this._input.peek(w);
     }
     return !1;
-  }, g.prototype.print_string = function(m) {
-    this._output.set_indent(this._indentLevel), this._output.non_breaking_space = !0, this._output.add_token(m);
-  }, g.prototype.preserveSingleSpace = function(m) {
-    m && (this._output.space_before_token = !0);
+  }, g.prototype.print_string = function(b) {
+    this._output.set_indent(this._indentLevel), this._output.non_breaking_space = !0, this._output.add_token(b);
+  }, g.prototype.preserveSingleSpace = function(b) {
+    b && (this._output.space_before_token = !0);
   }, g.prototype.indent = function() {
     this._indentLevel++;
   }, g.prototype.outdent = function() {
@@ -3214,12 +3214,12 @@ function uc() {
   }, g.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
-    var m = this._source_text, w = this._options.eol;
+    var b = this._source_text, w = this._options.eol;
     w === "auto" && (w = `
-`, m && a.test(m || "") && (w = m.match(a)[0])), m = m.replace(l, `
+`, b && a.test(b || "") && (w = b.match(a)[0])), b = b.replace(l, `
 `);
-    var N = m.match(/^[\t ]*/)[0];
-    this._output = new n(this._options, N), this._input = new t(m), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
+    var N = b.match(/^[\t ]*/)[0];
+    this._output = new n(this._options, N), this._input = new t(b), this._indentLevel = 0, this._nestedLevel = 0, this._ch = null;
     for (var x = 0, d = !1, c = !1, f = !1, A = !1, R = !1, D = this._ch, v = !1, E, h, S; E = this._input.read(_), h = E !== "", S = D, this._ch = this._input.next(), this._ch === "\\" && this._input.hasNext() && (this._ch += this._input.next()), D = this._ch, this._ch; )
       if (this._ch === "/" && this._input.peek() === "*") {
         this._output.add_new_line(), this._input.back();
@@ -3246,8 +3246,8 @@ function uc() {
       else if (this._ch === "}")
         this.outdent(), this._output.add_new_line(), S === "{" && this._output.trim(!0), c && (this.outdent(), c = !1), this.print_string(this._ch), d = !1, this._nestedLevel && this._nestedLevel--, this.eatWhitespace(!0), this._output.add_new_line(), this._options.newline_between_rules && !this._output.just_added_blankline() && this._input.peek() !== "}" && this._output.add_new_line(!0), this._input.peek() === ")" && (this._output.trim(!0), this._options.brace_style === "expand" && this._output.add_new_line(!0));
       else if (this._ch === ":") {
-        for (var G = 0; G < this.NON_SEMICOLON_NEWLINE_PROPERTY.length; G++)
-          if (this._input.lookBack(this.NON_SEMICOLON_NEWLINE_PROPERTY[G])) {
+        for (var q = 0; q < this.NON_SEMICOLON_NEWLINE_PROPERTY.length; q++)
+          if (this._input.lookBack(this.NON_SEMICOLON_NEWLINE_PROPERTY[q])) {
             v = !0;
             break;
           }
@@ -3300,9 +3300,9 @@ function dc() {
     return new n();
   }, Mt.exports;
 }
-var Lt = { exports: {} }, bn = {}, mn = {}, es;
+var Lt = { exports: {} }, mn = {}, bn = {}, es;
 function oa() {
-  if (es) return mn;
+  if (es) return bn;
   es = 1;
   var s = pi().Options;
   function n(t) {
@@ -3403,7 +3403,7 @@ function oa() {
       "textarea"
     ]), this.unformatted_content_delimiter = this._get_characters("unformatted_content_delimiter"), this.indent_scripts = this._get_selection("indent_scripts", ["normal", "keep", "separate"]);
   }
-  return n.prototype = new s(), mn.Options = n, mn;
+  return n.prototype = new s(), bn.Options = n, bn;
 }
 var Dt = {}, ts;
 function ns() {
@@ -3444,8 +3444,8 @@ function ns() {
       conditional_comment: g.starting_with(/<!\[/).until_after(/]>/),
       processing: g.starting_with(/<\?/).until_after(/\?>/)
     }, this._options.indent_handlebars && (this.__patterns.word = this.__patterns.word.exclude("handlebars"), this.__patterns.word_control_flow_close_excluded = this.__patterns.word_control_flow_close_excluded.exclude("handlebars")), this._unformatted_content_delimiter = null, this._options.unformatted_content_delimiter) {
-      var m = this._input.get_literal_regexp(this._options.unformatted_content_delimiter);
-      this.__patterns.unformatted_content_delimiter = g.matching(m).until_after(m);
+      var b = this._input.get_literal_regexp(this._options.unformatted_content_delimiter);
+      this.__patterns.unformatted_content_delimiter = g.matching(b).until_after(b);
     }
   };
   return o.prototype = new s(), o.prototype._is_comment = function(_) {
@@ -3464,15 +3464,15 @@ function ns() {
   }, o.prototype._read_comment_or_cdata = function(_) {
     var p = null, u = null, g = null;
     if (_ === "<") {
-      var m = this._input.peek(1);
-      m === "!" && (u = this.__patterns.comment.read(), u ? (g = l.get_directives(u), g && g.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
+      var b = this._input.peek(1);
+      b === "!" && (u = this.__patterns.comment.read(), u ? (g = l.get_directives(u), g && g.ignore === "start" && (u += l.readIgnored(this._input))) : u = this.__patterns.cdata.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
     }
     return p;
   }, o.prototype._read_processing = function(_) {
     var p = null, u = null, g = null;
     if (_ === "<") {
-      var m = this._input.peek(1);
-      (m === "!" || m === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
+      var b = this._input.peek(1);
+      (b === "!" || b === "?") && (u = this.__patterns.conditional_comment.read(), u = u || this.__patterns.processing.read()), u && (p = this._create_token(a.COMMENT, u), p.directives = g);
     }
     return p;
   }, o.prototype._read_open = function(_, p) {
@@ -3488,11 +3488,11 @@ function ns() {
     if (_ === "@") {
       if (u = this.__patterns.angular_control_flow_start.read(), u === "")
         return g;
-      for (var m = u.endsWith("(") ? 1 : 0, w = 0; !(u.endsWith("{") && m === w); ) {
+      for (var b = u.endsWith("(") ? 1 : 0, w = 0; !(u.endsWith("{") && b === w); ) {
         var N = this._input.next();
         if (N === null)
           break;
-        N === "(" ? m++ : N === ")" && w++, u += N;
+        N === "(" ? b++ : N === ")" && w++, u += N;
       }
       g = this._create_token(a.CONTROL_FLOW_OPEN, u);
     } else _ === "}" && p && p.type === a.CONTROL_FLOW_OPEN && (u = this._input.next(), g = this._create_token(a.CONTROL_FLOW_CLOSE, u));
@@ -3501,7 +3501,7 @@ function ns() {
     var u = null, g = null;
     return p && p.type === a.TAG_OPEN && (p.text[0] === "<" && (_ === ">" || _ === "/" && this._input.peek(1) === ">") ? (u = this._input.next(), _ === "/" && (u += this._input.next()), g = this._create_token(a.TAG_CLOSE, u)) : p.text[0] === "{" && _ === "}" && this._input.peek(1) === "}" && (this._input.next(), this._input.next(), g = this._create_token(a.TAG_CLOSE, "}}"))), g;
   }, o.prototype._read_attribute = function(_, p, u) {
-    var g = null, m = "";
+    var g = null, b = "";
     if (u && u.text[0] === "<")
       if (_ === "=")
         g = this._create_token(a.EQUALS, this._input.next());
@@ -3509,7 +3509,7 @@ function ns() {
         var w = this._input.next();
         _ === '"' ? w += this.__patterns.double_quote.read() : w += this.__patterns.single_quote.read(), g = this._create_token(a.VALUE, w);
       } else
-        m = this.__patterns.attribute.read(), m && (p.type === a.EQUALS ? g = this._create_token(a.VALUE, m) : g = this._create_token(a.ATTRIBUTE, m));
+        b = this.__patterns.attribute.read(), b && (p.type === a.EQUALS ? g = this._create_token(a.VALUE, b) : g = this._create_token(a.ATTRIBUTE, b));
     return g;
   }, o.prototype._is_content_unformatted = function(_) {
     return this._options.void_elements.indexOf(_) === -1 && (this._options.content_unformatted.indexOf(_) !== -1 || this._options.unformatted.indexOf(_) !== -1);
@@ -3518,8 +3518,8 @@ function ns() {
     if (u && u.text[0] === "{")
       g = this.__patterns.handlebars_raw_close.read();
     else if (p.type === a.TAG_CLOSE && p.opened.text[0] === "<" && p.text[0] !== "/") {
-      var m = p.opened.text.substr(1).toLowerCase();
-      this._is_content_unformatted(m) && (g = this._input.readUntil(new RegExp("</" + m + "[\\n\\r\\t ]*?>", "ig")));
+      var b = p.opened.text.substr(1).toLowerCase();
+      this._is_content_unformatted(b) && (g = this._input.readUntil(new RegExp("</" + b + "[\\n\\r\\t ]*?>", "ig")));
     }
     return g ? this._create_token(a.TEXT, g) : null;
   }, o.prototype._read_script_and_style = function(_, p) {
@@ -3529,9 +3529,9 @@ function ns() {
         var g = this._read_comment_or_cdata(_);
         if (g)
           return g.type = a.TEXT, g;
-        var m = this._input.readUntil(new RegExp("</" + u + "[\\n\\r\\t ]*?>", "ig"));
-        if (m)
-          return this._create_token(a.TEXT, m);
+        var b = this._input.readUntil(new RegExp("</" + u + "[\\n\\r\\t ]*?>", "ig"));
+        if (b)
+          return this._create_token(a.TEXT, b);
       }
     }
     return null;
@@ -3542,7 +3542,7 @@ function ns() {
 }
 var is;
 function pc() {
-  if (is) return bn;
+  if (is) return mn;
   is = 1;
   var s = oa().Options, n = di().Output, t = ns().Tokenizer, e = ns().TOKEN, i = /\r\n|[\r\n]/, a = /\r\n|[\r\n]/g, l = function(d, c) {
     this.indent_level = 0, this.alignment_size = 0, this.max_preserve_newlines = d.max_preserve_newlines, this.preserve_newlines = d.preserve_newlines, this._output = new n(d, c);
@@ -3622,12 +3622,12 @@ function pc() {
     var c = this._get_frame(d);
     c && (this._printer.indent_level = c.indent_level);
   };
-  function m(d, c, f, A) {
+  function b(d, c, f, A) {
     this._source_text = d || "", c = c || {}, this._js_beautify = f, this._css_beautify = A, this._tag_stack = null;
     var R = new s(c, "html");
     this._options = R, this._is_wrap_attributes_force = this._options.wrap_attributes.substr(0, 5) === "force", this._is_wrap_attributes_force_expand_multiline = this._options.wrap_attributes === "force-expand-multiline", this._is_wrap_attributes_force_aligned = this._options.wrap_attributes === "force-aligned", this._is_wrap_attributes_aligned_multiple = this._options.wrap_attributes === "aligned-multiple", this._is_wrap_attributes_preserve = this._options.wrap_attributes.substr(0, 8) === "preserve", this._is_wrap_attributes_preserve_aligned = this._options.wrap_attributes === "preserve-aligned";
   }
-  m.prototype.beautify = function() {
+  b.prototype.beautify = function() {
     if (this._options.disabled)
       return this._source_text;
     var d = this._source_text, c = this._options.eol;
@@ -3643,43 +3643,43 @@ function pc() {
       h.type === e.TAG_OPEN || h.type === e.COMMENT ? (E = this._handle_tag_open(D, h, R, A, v), R = E) : h.type === e.ATTRIBUTE || h.type === e.EQUALS || h.type === e.VALUE || h.type === e.TEXT && !R.tag_complete ? E = this._handle_inside_tag(D, h, R, A) : h.type === e.TAG_CLOSE ? E = this._handle_tag_close(D, h, R) : h.type === e.TEXT ? E = this._handle_text(D, h, R) : h.type === e.CONTROL_FLOW_OPEN ? E = this._handle_control_flow_open(D, h) : h.type === e.CONTROL_FLOW_CLOSE ? E = this._handle_control_flow_close(D, h) : D.add_raw_token(h), A = E, h = v.next();
     var S = D._output.get_code(c);
     return S;
-  }, m.prototype._handle_control_flow_open = function(d, c) {
+  }, b.prototype._handle_control_flow_open = function(d, c) {
     var f = {
       text: c.text,
       type: c.type
     };
     return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), c.newlines ? d.print_preserved_newlines(c) : d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), d.print_token(c), d.indent(), f;
-  }, m.prototype._handle_control_flow_close = function(d, c) {
+  }, b.prototype._handle_control_flow_close = function(d, c) {
     var f = {
       text: c.text,
       type: c.type
     };
     return d.deindent(), c.newlines ? d.print_preserved_newlines(c) : d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), d.print_token(c), f;
-  }, m.prototype._handle_tag_close = function(d, c, f) {
+  }, b.prototype._handle_tag_close = function(d, c, f) {
     var A = {
       text: c.text,
       type: c.type
     };
     return d.alignment_size = 0, f.tag_complete = !0, d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : (f.tag_start_char === "<" && (d.set_space_before_token(c.text[0] === "/", !0), this._is_wrap_attributes_force_expand_multiline && f.has_wrapped_attrs && d.print_newline(!1)), d.print_token(c)), f.indent_content && !(f.is_unformatted || f.is_content_unformatted) && (d.indent(), f.indent_content = !1), !f.is_inline_element && !(f.is_unformatted || f.is_content_unformatted) && d.set_wrap_point(), A;
-  }, m.prototype._handle_inside_tag = function(d, c, f, A) {
+  }, b.prototype._handle_inside_tag = function(d, c, f, A) {
     var R = f.has_wrapped_attrs, D = {
       text: c.text,
       type: c.type
     };
     return d.set_space_before_token(c.newlines || c.whitespace_before !== "", !0), f.is_unformatted ? d.add_raw_token(c) : f.tag_start_char === "{" && c.type === e.TEXT ? d.print_preserved_newlines(c) ? (c.newlines = 0, d.add_raw_token(c)) : d.print_token(c) : (c.type === e.ATTRIBUTE ? d.set_space_before_token(!0) : (c.type === e.EQUALS || c.type === e.VALUE && c.previous.type === e.EQUALS) && d.set_space_before_token(!1), c.type === e.ATTRIBUTE && f.tag_start_char === "<" && ((this._is_wrap_attributes_preserve || this._is_wrap_attributes_preserve_aligned) && (d.traverse_whitespace(c), R = R || c.newlines !== 0), this._is_wrap_attributes_force && f.attr_count >= this._options.wrap_attributes_min_attrs && (A.type !== e.TAG_OPEN || // ie. second attribute and beyond
     this._is_wrap_attributes_force_expand_multiline) && (d.print_newline(!1), R = !0)), d.print_token(c), R = R || d.previous_token_wrapped(), f.has_wrapped_attrs = R), D;
-  }, m.prototype._handle_text = function(d, c, f) {
+  }, b.prototype._handle_text = function(d, c, f) {
     var A = {
       text: c.text,
       type: "TK_CONTENT"
     };
     return f.custom_beautifier_name ? this._print_custom_beatifier_text(d, c, f) : f.is_unformatted || f.is_content_unformatted ? d.add_raw_token(c) : (d.traverse_whitespace(c), d.print_token(c)), A;
-  }, m.prototype._print_custom_beatifier_text = function(d, c, f) {
+  }, b.prototype._print_custom_beatifier_text = function(d, c, f) {
     var A = this;
     if (c.text !== "") {
       var R = c.text, D, v = 1, E = "", h = "";
-      f.custom_beautifier_name === "javascript" && typeof this._js_beautify == "function" ? D = this._js_beautify : f.custom_beautifier_name === "css" && typeof this._css_beautify == "function" ? D = this._css_beautify : f.custom_beautifier_name === "html" && (D = function(G, X) {
-        var M = new m(G, X, A._js_beautify, A._css_beautify);
+      f.custom_beautifier_name === "javascript" && typeof this._js_beautify == "function" ? D = this._js_beautify : f.custom_beautifier_name === "css" && typeof this._css_beautify == "function" ? D = this._css_beautify : f.custom_beautifier_name === "html" && (D = function(q, X) {
+        var M = new b(q, X, A._js_beautify, A._css_beautify);
         return M.beautify();
       }), this._options.indent_scripts === "keep" ? v = 0 : this._options.indent_scripts === "separate" && (v = -d.indent_level);
       var S = d.get_full_indent(v);
@@ -3712,7 +3712,7 @@ function pc() {
       E && (R ? R = E + R + `
 ` + h : R = E + h), d.print_newline(!1), R && (c.text = R, c.whitespace_before = "", c.newlines = 0, d.add_raw_token(c), d.print_newline(!0));
     }
-  }, m.prototype._handle_tag_open = function(d, c, f, A, R) {
+  }, b.prototype._handle_tag_open = function(d, c, f, A, R) {
     var D = this._get_tag_open_token(c);
     if ((f.is_unformatted || f.is_content_unformatted) && !f.is_empty_element && c.type === e.TAG_OPEN && !D.is_start_tag ? (d.add_raw_token(c), D.start_tag_token = this._tag_stack.try_pop(D.tag_name)) : (d.traverse_whitespace(c), this._set_tag_position(d, c, D, f, A), D.is_inline_element || d.set_wrap_point(), d.print_token(c)), D.is_start_tag && this._is_wrap_attributes_force) {
       var v = 0, E;
@@ -3732,10 +3732,10 @@ function pc() {
       this.tag_start_char === "{" && this.text.length >= 3 && this.text.charAt(2) === "~" && (R = 3), this.is_end_tag = this.is_end_tag || this.tag_start_char === "{" && (!d.indent_handlebars || this.text.length < 3 || /[^#\^]/.test(this.text.charAt(R)));
     }
   };
-  m.prototype._get_tag_open_token = function(d) {
+  b.prototype._get_tag_open_token = function(d) {
     var c = new w(this._options, this._tag_stack.get_parser_token(), d);
     return c.alignment_size = this._options.wrap_attributes_indent_size, c.is_end_tag = c.is_end_tag || p(c.tag_check, this._options.void_elements), c.is_empty_element = c.tag_complete || c.is_start_tag && c.is_end_tag, c.is_unformatted = !c.tag_complete && p(c.tag_check, this._options.unformatted), c.is_content_unformatted = !c.is_empty_element && p(c.tag_check, this._options.content_unformatted), c.is_inline_element = p(c.tag_name, this._options.inline) || this._options.inline_custom_elements && c.tag_name.includes("-") || c.tag_start_char === "{", c;
-  }, m.prototype._set_tag_position = function(d, c, f, A, R) {
+  }, b.prototype._set_tag_position = function(d, c, f, A, R) {
     if (f.is_empty_element || (f.is_end_tag ? f.start_tag_token = this._tag_stack.try_pop(f.tag_name) : (this._do_optional_end_element(f) && (f.is_inline_element || d.print_newline(!1)), this._tag_stack.record_tag(f), (f.tag_name === "script" || f.tag_name === "style") && !(f.is_unformatted || f.is_content_unformatted) && (f.custom_beautifier_name = _(f.tag_check, c)))), p(f.tag_check, this._options.extra_liners) && (d.print_newline(!1), d._output.just_added_blankline() || d.print_newline(!0)), f.is_empty_element) {
       if (f.tag_start_char === "{" && f.tag_check === "else") {
         this._tag_stack.indent_to_tag(["if", "unless", "each"]), f.indent_content = !0;
@@ -3749,11 +3749,11 @@ function pc() {
       v = f.start_tag_token && f.start_tag_token.multiline_content, v = v || !f.is_inline_element && !(A.is_inline_element || A.is_unformatted) && !(R.type === e.TAG_CLOSE && f.start_tag_token === A) && R.type !== "TK_CONTENT", (f.is_content_unformatted || f.is_unformatted) && (v = !1), v && d.print_newline(!1);
     } else
       f.indent_content = !f.custom_beautifier_name, f.tag_start_char === "<" && (f.tag_name === "html" ? f.indent_content = this._options.indent_inner_html : f.tag_name === "head" ? f.indent_content = this._options.indent_head_inner_html : f.tag_name === "body" && (f.indent_content = this._options.indent_body_inner_html)), !(f.is_inline_element || f.is_unformatted) && (R.type !== "TK_CONTENT" || f.is_content_unformatted) && d.print_newline(!1), this._calcluate_parent_multiline(d, f);
-  }, m.prototype._calcluate_parent_multiline = function(d, c) {
+  }, b.prototype._calcluate_parent_multiline = function(d, c) {
     c.parent && d._output.just_added_newline() && !((c.is_inline_element || c.is_unformatted) && c.parent.is_inline_element) && (c.parent.multiline_content = !0);
   };
   var N = ["address", "article", "aside", "blockquote", "details", "div", "dl", "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr", "main", "menu", "nav", "ol", "p", "pre", "section", "table", "ul"], x = ["a", "audio", "del", "ins", "map", "noscript", "video"];
-  return m.prototype._do_optional_end_element = function(d) {
+  return b.prototype._do_optional_end_element = function(d) {
     var c = null;
     if (!(d.is_empty_element || !d.is_start_tag || !d.parent)) {
       if (d.tag_name === "body")
@@ -3768,7 +3768,7 @@ function pc() {
       } else d.tag_name === "rp" || d.tag_name === "rt" ? (c = c || this._tag_stack.try_pop("rt", ["ruby", "rtc"]), c = c || this._tag_stack.try_pop("rp", ["ruby", "rtc"])) : d.tag_name === "optgroup" ? c = c || this._tag_stack.try_pop("optgroup", ["select"]) : d.tag_name === "option" ? c = c || this._tag_stack.try_pop("option", ["select", "datalist", "optgroup"]) : d.tag_name === "colgroup" ? c = c || this._tag_stack.try_pop("caption", ["table"]) : d.tag_name === "thead" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"])) : d.tag_name === "tbody" || d.tag_name === "tfoot" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("thead", ["table"]), c = c || this._tag_stack.try_pop("tbody", ["table"])) : d.tag_name === "tr" ? (c = c || this._tag_stack.try_pop("caption", ["table"]), c = c || this._tag_stack.try_pop("colgroup", ["table"]), c = c || this._tag_stack.try_pop("tr", ["table", "thead", "tbody", "tfoot"])) : (d.tag_name === "th" || d.tag_name === "td") && (c = c || this._tag_stack.try_pop("td", ["table", "thead", "tbody", "tfoot", "tr"]), c = c || this._tag_stack.try_pop("th", ["table", "thead", "tbody", "tfoot", "tr"]));
       return d.parent = this._tag_stack.get_parser_token(), c;
     }
-  }, bn.Beautifier = m, bn;
+  }, mn.Beautifier = b, mn;
 }
 var ss;
 function fc() {
@@ -3812,15 +3812,15 @@ var os = gc(), vn, ls;
 function la() {
   if (ls) return vn;
   ls = 1;
-  function s(b) {
-    return b instanceof Map ? b.clear = b.delete = b.set = function() {
+  function s(m) {
+    return m instanceof Map ? m.clear = m.delete = m.set = function() {
       throw new Error("map is read-only");
-    } : b instanceof Set && (b.add = b.clear = b.delete = function() {
+    } : m instanceof Set && (m.add = m.clear = m.delete = function() {
       throw new Error("set is read-only");
-    }), Object.freeze(b), Object.getOwnPropertyNames(b).forEach((C) => {
-      const U = b[C], J = typeof U;
+    }), Object.freeze(m), Object.getOwnPropertyNames(m).forEach((C) => {
+      const U = m[C], J = typeof U;
       (J === "object" || J === "function") && !Object.isFrozen(U) && s(U);
-    }), b;
+    }), m;
   }
   class n {
     /**
@@ -3833,30 +3833,30 @@ function la() {
       this.isMatchIgnored = !0;
     }
   }
-  function t(b) {
-    return b.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
+  function t(m) {
+    return m.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#x27;");
   }
-  function e(b, ...C) {
+  function e(m, ...C) {
     const U = /* @__PURE__ */ Object.create(null);
-    for (const J in b)
-      U[J] = b[J];
+    for (const J in m)
+      U[J] = m[J];
     return C.forEach(function(J) {
-      for (const he in J)
-        U[he] = J[he];
+      for (const ge in J)
+        U[ge] = J[ge];
     }), /** @type {T} */
     U;
   }
-  const i = "</span>", a = (b) => !!b.scope, l = (b, { prefix: C }) => {
-    if (b.startsWith("language:"))
-      return b.replace("language:", "language-");
-    if (b.includes(".")) {
-      const U = b.split(".");
+  const i = "</span>", a = (m) => !!m.scope, l = (m, { prefix: C }) => {
+    if (m.startsWith("language:"))
+      return m.replace("language:", "language-");
+    if (m.includes(".")) {
+      const U = m.split(".");
       return [
         `${C}${U.shift()}`,
-        ...U.map((J, he) => `${J}${"_".repeat(he + 1)}`)
+        ...U.map((J, ge) => `${J}${"_".repeat(ge + 1)}`)
       ].join(" ");
     }
-    return `${C}${b}`;
+    return `${C}${m}`;
   };
   class o {
     /**
@@ -3909,9 +3909,9 @@ function la() {
       this.buffer += `<span class="${C}">`;
     }
   }
-  const _ = (b = {}) => {
+  const _ = (m = {}) => {
     const C = { children: [] };
-    return Object.assign(C, b), C;
+    return Object.assign(C, m), C;
   };
   class p {
     constructor() {
@@ -4000,59 +4000,59 @@ function la() {
       return this.closeAllNodes(), !0;
     }
   }
-  function g(b) {
-    return b ? typeof b == "string" ? b : b.source : null;
+  function g(m) {
+    return m ? typeof m == "string" ? m : m.source : null;
   }
-  function m(b) {
-    return x("(?=", b, ")");
+  function b(m) {
+    return x("(?=", m, ")");
   }
-  function w(b) {
-    return x("(?:", b, ")*");
+  function w(m) {
+    return x("(?:", m, ")*");
   }
-  function N(b) {
-    return x("(?:", b, ")?");
+  function N(m) {
+    return x("(?:", m, ")?");
   }
-  function x(...b) {
-    return b.map((U) => g(U)).join("");
+  function x(...m) {
+    return m.map((U) => g(U)).join("");
   }
-  function d(b) {
-    const C = b[b.length - 1];
-    return typeof C == "object" && C.constructor === Object ? (b.splice(b.length - 1, 1), C) : {};
+  function d(m) {
+    const C = m[m.length - 1];
+    return typeof C == "object" && C.constructor === Object ? (m.splice(m.length - 1, 1), C) : {};
   }
-  function c(...b) {
-    return "(" + (d(b).capture ? "" : "?:") + b.map((J) => g(J)).join("|") + ")";
+  function c(...m) {
+    return "(" + (d(m).capture ? "" : "?:") + m.map((J) => g(J)).join("|") + ")";
   }
-  function f(b) {
-    return new RegExp(b.toString() + "|").exec("").length - 1;
+  function f(m) {
+    return new RegExp(m.toString() + "|").exec("").length - 1;
   }
-  function A(b, C) {
-    const U = b && b.exec(C);
+  function A(m, C) {
+    const U = m && m.exec(C);
     return U && U.index === 0;
   }
   const R = /\[(?:[^\\\]]|\\.)*\]|\(\??|\\([1-9][0-9]*)|\\./;
-  function D(b, { joinWith: C }) {
+  function D(m, { joinWith: C }) {
     let U = 0;
-    return b.map((J) => {
+    return m.map((J) => {
       U += 1;
-      const he = U;
-      let ge = g(J), q = "";
-      for (; ge.length > 0; ) {
-        const K = R.exec(ge);
+      const ge = U;
+      let me = g(J), W = "";
+      for (; me.length > 0; ) {
+        const K = R.exec(me);
         if (!K) {
-          q += ge;
+          W += me;
           break;
         }
-        q += ge.substring(0, K.index), ge = ge.substring(K.index + K[0].length), K[0][0] === "\\" && K[1] ? q += "\\" + String(Number(K[1]) + he) : (q += K[0], K[0] === "(" && U++);
+        W += me.substring(0, K.index), me = me.substring(K.index + K[0].length), K[0][0] === "\\" && K[1] ? W += "\\" + String(Number(K[1]) + ge) : (W += K[0], K[0] === "(" && U++);
       }
-      return q;
+      return W;
     }).map((J) => `(${J})`).join(C);
   }
-  const v = /\b\B/, E = "[a-zA-Z]\\w*", h = "[a-zA-Z_]\\w*", S = "\\b\\d+(\\.\\d+)?", r = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", y = "\\b(0b[01]+)", O = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", F = (b = {}) => {
+  const v = /\b\B/, E = "[a-zA-Z]\\w*", h = "[a-zA-Z_]\\w*", S = "\\b\\d+(\\.\\d+)?", r = "(-?)(\\b0[xX][a-fA-F0-9]+|(\\b\\d+(\\.\\d*)?|\\.\\d+)([eE][-+]?\\d+)?)", y = "\\b(0b[01]+)", O = "!|!=|!==|%|%=|&|&&|&=|\\*|\\*=|\\+|\\+=|,|-|-=|/=|/|:|;|<<|<<=|<=|<|===|==|=|>>>=|>>=|>=|>>>|>>|>|\\?|\\[|\\{|\\(|\\^|\\^=|\\||\\|=|\\|\\||~", F = (m = {}) => {
     const C = /^#![ ]*\//;
-    return b.binary && (b.begin = x(
+    return m.binary && (m.begin = x(
       C,
       /.*\b/,
-      b.binary,
+      m.binary,
       /\b.*/
     )), e({
       scope: "meta",
@@ -4063,8 +4063,8 @@ function la() {
       "on:begin": (U, J) => {
         U.index !== 0 && J.ignoreMatch();
       }
-    }, b);
-  }, G = {
+    }, m);
+  }, q = {
     begin: "\\\\[\\s\\S]",
     relevance: 0
   }, X = {
@@ -4072,20 +4072,20 @@ function la() {
     begin: "'",
     end: "'",
     illegal: "\\n",
-    contains: [G]
+    contains: [q]
   }, M = {
     scope: "string",
     begin: '"',
     end: '"',
     illegal: "\\n",
-    contains: [G]
+    contains: [q]
   }, T = {
     begin: /\b(a|an|the|are|I'm|isn't|don't|doesn't|won't|but|just|should|pretty|simply|enough|gonna|going|wtf|so|such|will|you|your|they|like|more)\b/
-  }, I = function(b, C, U = {}) {
+  }, I = function(m, C, U = {}) {
     const J = e(
       {
         scope: "comment",
-        begin: b,
+        begin: m,
         end: C,
         contains: []
       },
@@ -4100,7 +4100,7 @@ function la() {
       excludeBegin: !0,
       relevance: 0
     });
-    const he = c(
+    const ge = c(
       // list of common 1 and 2 letter words in English
       "I",
       "a",
@@ -4140,65 +4140,65 @@ function la() {
           /[ ]+/,
           // necessary to prevent us gobbling up doctags like /* @author Bob Mcgill */
           "(",
-          he,
+          ge,
           /[.]?[:]?([.][ ]|[ ])/,
           "){3}"
         )
         // look for 3 words in a row
       }
     ), J;
-  }, W = I("//", "$"), ae = I("/\\*", "\\*/"), Z = I("#", "$"), de = {
+  }, G = I("//", "$"), ae = I("/\\*", "\\*/"), H = I("#", "$"), pe = {
     scope: "number",
     begin: S,
     relevance: 0
-  }, ze = {
+  }, Be = {
     scope: "number",
     begin: r,
     relevance: 0
-  }, Re = {
+  }, Ae = {
     scope: "number",
     begin: y,
     relevance: 0
-  }, Me = {
+  }, Oe = {
     scope: "regexp",
     begin: /\/(?=[^/\n]*\/)/,
     end: /\/[gimuy]*/,
     contains: [
-      G,
+      q,
       {
         begin: /\[/,
         end: /\]/,
         relevance: 0,
-        contains: [G]
+        contains: [q]
       }
     ]
-  }, Fe = {
+  }, Ce = {
     scope: "title",
     begin: E,
     relevance: 0
-  }, pe = {
+  }, _e = {
     scope: "title",
     begin: h,
     relevance: 0
-  }, ue = {
+  }, re = {
     // excludes method names from keyword processing
     begin: "\\.\\s*" + h,
     relevance: 0
   };
-  var ye = /* @__PURE__ */ Object.freeze({
+  var ve = /* @__PURE__ */ Object.freeze({
     __proto__: null,
     APOS_STRING_MODE: X,
-    BACKSLASH_ESCAPE: G,
-    BINARY_NUMBER_MODE: Re,
+    BACKSLASH_ESCAPE: q,
+    BINARY_NUMBER_MODE: Ae,
     BINARY_NUMBER_RE: y,
     COMMENT: I,
     C_BLOCK_COMMENT_MODE: ae,
-    C_LINE_COMMENT_MODE: W,
-    C_NUMBER_MODE: ze,
+    C_LINE_COMMENT_MODE: G,
+    C_NUMBER_MODE: Be,
     C_NUMBER_RE: r,
-    END_SAME_AS_BEGIN: function(b) {
+    END_SAME_AS_BEGIN: function(m) {
       return Object.assign(
-        b,
+        m,
         {
           /** @type {ModeCallback} */
           "on:begin": (C, U) => {
@@ -4211,55 +4211,55 @@ function la() {
         }
       );
     },
-    HASH_COMMENT_MODE: Z,
+    HASH_COMMENT_MODE: H,
     IDENT_RE: E,
     MATCH_NOTHING_RE: v,
-    METHOD_GUARD: ue,
-    NUMBER_MODE: de,
+    METHOD_GUARD: re,
+    NUMBER_MODE: pe,
     NUMBER_RE: S,
     PHRASAL_WORDS_MODE: T,
     QUOTE_STRING_MODE: M,
-    REGEXP_MODE: Me,
+    REGEXP_MODE: Oe,
     RE_STARTERS_RE: O,
     SHEBANG: F,
-    TITLE_MODE: Fe,
+    TITLE_MODE: Ce,
     UNDERSCORE_IDENT_RE: h,
-    UNDERSCORE_TITLE_MODE: pe
+    UNDERSCORE_TITLE_MODE: _e
   });
-  function Te(b, C) {
-    b.input[b.index - 1] === "." && C.ignoreMatch();
+  function fe(m, C) {
+    m.input[m.index - 1] === "." && C.ignoreMatch();
   }
-  function Ae(b, C) {
-    b.className !== void 0 && (b.scope = b.className, delete b.className);
+  function ke(m, C) {
+    m.className !== void 0 && (m.scope = m.className, delete m.className);
   }
-  function Le(b, C) {
-    C && b.beginKeywords && (b.begin = "\\b(" + b.beginKeywords.split(" ").join("|") + ")(?!\\.)(?=\\b|\\s)", b.__beforeBegin = Te, b.keywords = b.keywords || b.beginKeywords, delete b.beginKeywords, b.relevance === void 0 && (b.relevance = 0));
+  function Ie(m, C) {
+    C && m.beginKeywords && (m.begin = "\\b(" + m.beginKeywords.split(" ").join("|") + ")(?!\\.)(?=\\b|\\s)", m.__beforeBegin = fe, m.keywords = m.keywords || m.beginKeywords, delete m.beginKeywords, m.relevance === void 0 && (m.relevance = 0));
   }
-  function ht(b, C) {
-    Array.isArray(b.illegal) && (b.illegal = c(...b.illegal));
+  function ht(m, C) {
+    Array.isArray(m.illegal) && (m.illegal = c(...m.illegal));
   }
-  function Ft(b, C) {
-    if (b.match) {
-      if (b.begin || b.end) throw new Error("begin & end are not supported with match");
-      b.begin = b.match, delete b.match;
+  function Ft(m, C) {
+    if (m.match) {
+      if (m.begin || m.end) throw new Error("begin & end are not supported with match");
+      m.begin = m.match, delete m.match;
     }
   }
-  function lt(b, C) {
-    b.relevance === void 0 && (b.relevance = 1);
+  function lt(m, C) {
+    m.relevance === void 0 && (m.relevance = 1);
   }
-  const gt = (b, C) => {
-    if (!b.beforeMatch) return;
-    if (b.starts) throw new Error("beforeMatch cannot be used with starts");
-    const U = Object.assign({}, b);
-    Object.keys(b).forEach((J) => {
-      delete b[J];
-    }), b.keywords = U.keywords, b.begin = x(U.beforeMatch, m(U.begin)), b.starts = {
+  const gt = (m, C) => {
+    if (!m.beforeMatch) return;
+    if (m.starts) throw new Error("beforeMatch cannot be used with starts");
+    const U = Object.assign({}, m);
+    Object.keys(m).forEach((J) => {
+      delete m[J];
+    }), m.keywords = U.keywords, m.begin = x(U.beforeMatch, b(U.begin)), m.starts = {
       relevance: 0,
       contains: [
         Object.assign(U, { endsParent: !0 })
       ]
-    }, b.relevance = 0, delete U.beforeMatch;
-  }, bt = [
+    }, m.relevance = 0, delete U.beforeMatch;
+  }, mt = [
     "of",
     "and",
     "for",
@@ -4275,70 +4275,70 @@ function la() {
     "value"
     // common variable name
   ], Kt = "keyword";
-  function mt(b, C, U = Kt) {
+  function bt(m, C, U = Kt) {
     const J = /* @__PURE__ */ Object.create(null);
-    return typeof b == "string" ? he(U, b.split(" ")) : Array.isArray(b) ? he(U, b) : Object.keys(b).forEach(function(ge) {
+    return typeof m == "string" ? ge(U, m.split(" ")) : Array.isArray(m) ? ge(U, m) : Object.keys(m).forEach(function(me) {
       Object.assign(
         J,
-        mt(b[ge], C, ge)
+        bt(m[me], C, me)
       );
     }), J;
-    function he(ge, q) {
-      C && (q = q.map((K) => K.toLowerCase())), q.forEach(function(K) {
+    function ge(me, W) {
+      C && (W = W.map((K) => K.toLowerCase())), W.forEach(function(K) {
         const Y = K.split("|");
-        J[Y[0]] = [ge, ct(Y[0], Y[1])];
+        J[Y[0]] = [me, ct(Y[0], Y[1])];
       });
     }
   }
-  function ct(b, C) {
-    return C ? Number(C) : Gt(b) ? 0 : 1;
+  function ct(m, C) {
+    return C ? Number(C) : Gt(m) ? 0 : 1;
   }
-  function Gt(b) {
-    return bt.includes(b.toLowerCase());
+  function Gt(m) {
+    return mt.includes(m.toLowerCase());
   }
-  const vt = {}, Ke = (b) => {
-    console.error(b);
-  }, Qe = (b, ...C) => {
-    console.log(`WARN: ${b}`, ...C);
-  }, ke = (b, C) => {
-    vt[`${b}/${C}`] || (console.log(`Deprecated as of ${b}. ${C}`), vt[`${b}/${C}`] = !0);
+  const vt = {}, Ke = (m) => {
+    console.error(m);
+  }, Qe = (m, ...C) => {
+    console.log(`WARN: ${m}`, ...C);
+  }, Me = (m, C) => {
+    vt[`${m}/${C}`] || (console.log(`Deprecated as of ${m}. ${C}`), vt[`${m}/${C}`] = !0);
   }, tt = new Error();
-  function Et(b, C, { key: U }) {
+  function Et(m, C, { key: U }) {
     let J = 0;
-    const he = b[U], ge = {}, q = {};
+    const ge = m[U], me = {}, W = {};
     for (let K = 1; K <= C.length; K++)
-      q[K + J] = he[K], ge[K + J] = !0, J += f(C[K - 1]);
-    b[U] = q, b[U]._emit = ge, b[U]._multi = !0;
+      W[K + J] = ge[K], me[K + J] = !0, J += f(C[K - 1]);
+    m[U] = W, m[U]._emit = me, m[U]._multi = !0;
   }
-  function yt(b) {
-    if (Array.isArray(b.begin)) {
-      if (b.skip || b.excludeBegin || b.returnBegin)
+  function yt(m) {
+    if (Array.isArray(m.begin)) {
+      if (m.skip || m.excludeBegin || m.returnBegin)
         throw Ke("skip, excludeBegin, returnBegin not compatible with beginScope: {}"), tt;
-      if (typeof b.beginScope != "object" || b.beginScope === null)
+      if (typeof m.beginScope != "object" || m.beginScope === null)
         throw Ke("beginScope must be object"), tt;
-      Et(b, b.begin, { key: "beginScope" }), b.begin = D(b.begin, { joinWith: "" });
+      Et(m, m.begin, { key: "beginScope" }), m.begin = D(m.begin, { joinWith: "" });
     }
   }
-  function _t(b) {
-    if (Array.isArray(b.end)) {
-      if (b.skip || b.excludeEnd || b.returnEnd)
+  function _t(m) {
+    if (Array.isArray(m.end)) {
+      if (m.skip || m.excludeEnd || m.returnEnd)
         throw Ke("skip, excludeEnd, returnEnd not compatible with endScope: {}"), tt;
-      if (typeof b.endScope != "object" || b.endScope === null)
+      if (typeof m.endScope != "object" || m.endScope === null)
         throw Ke("endScope must be object"), tt;
-      Et(b, b.end, { key: "endScope" }), b.end = D(b.end, { joinWith: "" });
+      Et(m, m.end, { key: "endScope" }), m.end = D(m.end, { joinWith: "" });
     }
   }
-  function qt(b) {
-    b.scope && typeof b.scope == "object" && b.scope !== null && (b.beginScope = b.scope, delete b.scope);
+  function qt(m) {
+    m.scope && typeof m.scope == "object" && m.scope !== null && (m.beginScope = m.scope, delete m.scope);
   }
-  function wt(b) {
-    qt(b), typeof b.beginScope == "string" && (b.beginScope = { _wrap: b.beginScope }), typeof b.endScope == "string" && (b.endScope = { _wrap: b.endScope }), yt(b), _t(b);
+  function wt(m) {
+    qt(m), typeof m.beginScope == "string" && (m.beginScope = { _wrap: m.beginScope }), typeof m.endScope == "string" && (m.endScope = { _wrap: m.endScope }), yt(m), _t(m);
   }
-  function Wt(b) {
-    function C(q, K) {
+  function Wt(m) {
+    function C(W, K) {
       return new RegExp(
-        g(q),
-        "m" + (b.case_insensitive ? "i" : "") + (b.unicodeRegex ? "u" : "") + (K ? "g" : "")
+        g(W),
+        "m" + (m.case_insensitive ? "i" : "") + (m.unicodeRegex ? "u" : "") + (K ? "g" : "")
       );
     }
     class U {
@@ -4360,8 +4360,8 @@ function la() {
         const Y = this.matcherRe.exec(K);
         if (!Y)
           return null;
-        const we = Y.findIndex((dt, Zt) => Zt > 0 && dt !== void 0), me = this.matchIndexes[we];
-        return Y.splice(0, we), Object.assign(Y, me);
+        const xe = Y.findIndex((dt, Zt) => Zt > 0 && dt !== void 0), Ee = this.matchIndexes[xe];
+        return Y.splice(0, xe), Object.assign(Y, Ee);
       }
     }
     class J {
@@ -4372,7 +4372,7 @@ function la() {
       getMatcher(K) {
         if (this.multiRegexes[K]) return this.multiRegexes[K];
         const Y = new U();
-        return this.rules.slice(K).forEach(([we, me]) => Y.addRule(we, me)), Y.compile(), this.multiRegexes[K] = Y, Y;
+        return this.rules.slice(K).forEach(([xe, Ee]) => Y.addRule(xe, Ee)), Y.compile(), this.multiRegexes[K] = Y, Y;
       }
       resumingScanAtSamePosition() {
         return this.regexIndex !== 0;
@@ -4388,67 +4388,67 @@ function la() {
       exec(K) {
         const Y = this.getMatcher(this.regexIndex);
         Y.lastIndex = this.lastIndex;
-        let we = Y.exec(K);
-        if (this.resumingScanAtSamePosition() && !(we && we.index === this.lastIndex)) {
-          const me = this.getMatcher(0);
-          me.lastIndex = this.lastIndex + 1, we = me.exec(K);
+        let xe = Y.exec(K);
+        if (this.resumingScanAtSamePosition() && !(xe && xe.index === this.lastIndex)) {
+          const Ee = this.getMatcher(0);
+          Ee.lastIndex = this.lastIndex + 1, xe = Ee.exec(K);
         }
-        return we && (this.regexIndex += we.position + 1, this.regexIndex === this.count && this.considerAll()), we;
+        return xe && (this.regexIndex += xe.position + 1, this.regexIndex === this.count && this.considerAll()), xe;
       }
     }
-    function he(q) {
+    function ge(W) {
       const K = new J();
-      return q.contains.forEach((Y) => K.addRule(Y.begin, { rule: Y, type: "begin" })), q.terminatorEnd && K.addRule(q.terminatorEnd, { type: "end" }), q.illegal && K.addRule(q.illegal, { type: "illegal" }), K;
+      return W.contains.forEach((Y) => K.addRule(Y.begin, { rule: Y, type: "begin" })), W.terminatorEnd && K.addRule(W.terminatorEnd, { type: "end" }), W.illegal && K.addRule(W.illegal, { type: "illegal" }), K;
     }
-    function ge(q, K) {
+    function me(W, K) {
       const Y = (
         /** @type CompiledMode */
-        q
+        W
       );
-      if (q.isCompiled) return Y;
+      if (W.isCompiled) return Y;
       [
-        Ae,
+        ke,
         // do this early so compiler extensions generally don't have to worry about
         // the distinction between match/begin
         Ft,
         wt,
         gt
-      ].forEach((me) => me(q, K)), b.compilerExtensions.forEach((me) => me(q, K)), q.__beforeBegin = null, [
-        Le,
+      ].forEach((Ee) => Ee(W, K)), m.compilerExtensions.forEach((Ee) => Ee(W, K)), W.__beforeBegin = null, [
+        Ie,
         // do this later so compiler extensions that come earlier have access to the
         // raw array if they wanted to perhaps manipulate it, etc.
         ht,
         // default to 1 relevance if not specified
         lt
-      ].forEach((me) => me(q, K)), q.isCompiled = !0;
-      let we = null;
-      return typeof q.keywords == "object" && q.keywords.$pattern && (q.keywords = Object.assign({}, q.keywords), we = q.keywords.$pattern, delete q.keywords.$pattern), we = we || /\w+/, q.keywords && (q.keywords = mt(q.keywords, b.case_insensitive)), Y.keywordPatternRe = C(we, !0), K && (q.begin || (q.begin = /\B|\b/), Y.beginRe = C(Y.begin), !q.end && !q.endsWithParent && (q.end = /\B|\b/), q.end && (Y.endRe = C(Y.end)), Y.terminatorEnd = g(Y.end) || "", q.endsWithParent && K.terminatorEnd && (Y.terminatorEnd += (q.end ? "|" : "") + K.terminatorEnd)), q.illegal && (Y.illegalRe = C(
+      ].forEach((Ee) => Ee(W, K)), W.isCompiled = !0;
+      let xe = null;
+      return typeof W.keywords == "object" && W.keywords.$pattern && (W.keywords = Object.assign({}, W.keywords), xe = W.keywords.$pattern, delete W.keywords.$pattern), xe = xe || /\w+/, W.keywords && (W.keywords = bt(W.keywords, m.case_insensitive)), Y.keywordPatternRe = C(xe, !0), K && (W.begin || (W.begin = /\B|\b/), Y.beginRe = C(Y.begin), !W.end && !W.endsWithParent && (W.end = /\B|\b/), W.end && (Y.endRe = C(Y.end)), Y.terminatorEnd = g(Y.end) || "", W.endsWithParent && K.terminatorEnd && (Y.terminatorEnd += (W.end ? "|" : "") + K.terminatorEnd)), W.illegal && (Y.illegalRe = C(
         /** @type {RegExp | string} */
-        q.illegal
-      )), q.contains || (q.contains = []), q.contains = [].concat(...q.contains.map(function(me) {
-        return Ht(me === "self" ? q : me);
-      })), q.contains.forEach(function(me) {
-        ge(
+        W.illegal
+      )), W.contains || (W.contains = []), W.contains = [].concat(...W.contains.map(function(Ee) {
+        return Ht(Ee === "self" ? W : Ee);
+      })), W.contains.forEach(function(Ee) {
+        me(
           /** @type Mode */
-          me,
+          Ee,
           Y
         );
-      }), q.starts && ge(q.starts, K), Y.matcher = he(Y), Y;
+      }), W.starts && me(W.starts, K), Y.matcher = ge(Y), Y;
     }
-    if (b.compilerExtensions || (b.compilerExtensions = []), b.contains && b.contains.includes("self"))
+    if (m.compilerExtensions || (m.compilerExtensions = []), m.contains && m.contains.includes("self"))
       throw new Error("ERR: contains `self` is not supported at the top-level of a language.  See documentation.");
-    return b.classNameAliases = e(b.classNameAliases || {}), ge(
+    return m.classNameAliases = e(m.classNameAliases || {}), me(
       /** @type Mode */
-      b
+      m
     );
   }
-  function xt(b) {
-    return b ? b.endsWithParent || xt(b.starts) : !1;
+  function xt(m) {
+    return m ? m.endsWithParent || xt(m.starts) : !1;
   }
-  function Ht(b) {
-    return b.variants && !b.cachedVariants && (b.cachedVariants = b.variants.map(function(C) {
-      return e(b, { variants: null }, C);
-    })), b.cachedVariants ? b.cachedVariants : xt(b) ? e(b, { starts: b.starts ? e(b.starts) : null }) : Object.isFrozen(b) ? e(b) : b;
+  function Ht(m) {
+    return m.variants && !m.cachedVariants && (m.cachedVariants = m.variants.map(function(C) {
+      return e(m, { variants: null }, C);
+    })), m.cachedVariants ? m.cachedVariants : xt(m) ? e(m, { starts: m.starts ? e(m.starts) : null }) : Object.isFrozen(m) ? e(m) : m;
   }
   var jt = "11.11.1";
   class Vt extends Error {
@@ -4456,10 +4456,10 @@ function la() {
       super(C), this.name = "HTMLInjectionError", this.html = U;
     }
   }
-  const ut = t, Nt = e, oe = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(b) {
+  const ut = t, Nt = e, le = /* @__PURE__ */ Symbol("nomatch"), nt = 7, qe = function(m) {
     const C = /* @__PURE__ */ Object.create(null), U = /* @__PURE__ */ Object.create(null), J = [];
-    let he = !0;
-    const ge = "Could not find the language '{}', did you forget to load/include a language module?", q = { disableAutodetect: !0, name: "Plain text", contains: [] };
+    let ge = !0;
+    const me = "Could not find the language '{}', did you forget to load/include a language module?", W = { disableAutodetect: !0, name: "Plain text", contains: [] };
     let K = {
       ignoreUnescapedHTML: !1,
       throwUnescapedHTML: !1,
@@ -4475,258 +4475,258 @@ function la() {
     function Y(B) {
       return K.noHighlightRe.test(B);
     }
-    function we(B) {
-      let j = B.className + " ";
-      j += B.parentNode ? B.parentNode.className : "";
-      const se = K.languageDetectRe.exec(j);
+    function xe(B) {
+      let V = B.className + " ";
+      V += B.parentNode ? B.parentNode.className : "";
+      const se = K.languageDetectRe.exec(V);
       if (se) {
-        const ce = He(se[1]);
-        return ce || (Qe(ge.replace("{}", se[1])), Qe("Falling back to no-highlight mode for this block.", B)), ce ? se[1] : "no-highlight";
+        const ue = He(se[1]);
+        return ue || (Qe(me.replace("{}", se[1])), Qe("Falling back to no-highlight mode for this block.", B)), ue ? se[1] : "no-highlight";
       }
-      return j.split(/\s+/).find((ce) => Y(ce) || He(ce));
+      return V.split(/\s+/).find((ue) => Y(ue) || He(ue));
     }
-    function me(B, j, se) {
-      let ce = "", ve = "";
-      typeof j == "object" ? (ce = B, se = j.ignoreIllegals, ve = j.language) : (ke("10.7.0", "highlight(lang, code, ...args) has been deprecated."), ke("10.7.0", `Please use highlight(code, options) instead.
-https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se === void 0 && (se = !0);
-      const De = {
-        code: ce,
-        language: ve
+    function Ee(B, V, se) {
+      let ue = "", ye = "";
+      typeof V == "object" ? (ue = B, se = V.ignoreIllegals, ye = V.language) : (Me("10.7.0", "highlight(lang, code, ...args) has been deprecated."), Me("10.7.0", `Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277`), ye = B, ue = V), se === void 0 && (se = !0);
+      const Pe = {
+        code: ue,
+        language: ye
       };
-      St("before:highlight", De);
-      const je = De.result ? De.result : dt(De.language, De.code, se);
-      return je.code = De.code, St("after:highlight", je), je;
+      St("before:highlight", Pe);
+      const je = Pe.result ? Pe.result : dt(Pe.language, Pe.code, se);
+      return je.code = Pe.code, St("after:highlight", je), je;
     }
-    function dt(B, j, se, ce) {
-      const ve = /* @__PURE__ */ Object.create(null);
-      function De(z, H) {
-        return z.keywords[H];
+    function dt(B, V, se, ue) {
+      const ye = /* @__PURE__ */ Object.create(null);
+      function Pe(z, j) {
+        return z.keywords[j];
       }
       function je() {
         if (!ee.keywords) {
-          Ne.addText(_e);
+          Se.addText(de);
           return;
         }
         let z = 0;
         ee.keywordPatternRe.lastIndex = 0;
-        let H = ee.keywordPatternRe.exec(_e), ie = "";
-        for (; H; ) {
-          ie += _e.substring(z, H.index);
-          const le = Pe.case_insensitive ? H[0].toLowerCase() : H[0], Oe = De(ee, le);
-          if (Oe) {
-            const [Ge, Sa] = Oe;
-            if (Ne.addText(ie), ie = "", ve[le] = (ve[le] || 0) + 1, ve[le] <= nt && (Rt += Sa), Ge.startsWith("_"))
-              ie += H[0];
+        let j = ee.keywordPatternRe.exec(de), ie = "";
+        for (; j; ) {
+          ie += de.substring(z, j.index);
+          const ce = $e.case_insensitive ? j[0].toLowerCase() : j[0], Re = Pe(ee, ce);
+          if (Re) {
+            const [Ge, Sa] = Re;
+            if (Se.addText(ie), ie = "", ye[ce] = (ye[ce] || 0) + 1, ye[ce] <= nt && (Rt += Sa), Ge.startsWith("_"))
+              ie += j[0];
             else {
-              const Ta = Pe.classNameAliases[Ge] || Ge;
-              Be(H[0], Ta);
+              const Ta = $e.classNameAliases[Ge] || Ge;
+              Ue(j[0], Ta);
             }
           } else
-            ie += H[0];
-          z = ee.keywordPatternRe.lastIndex, H = ee.keywordPatternRe.exec(_e);
+            ie += j[0];
+          z = ee.keywordPatternRe.lastIndex, j = ee.keywordPatternRe.exec(de);
         }
-        ie += _e.substring(z), Ne.addText(ie);
+        ie += de.substring(z), Se.addText(ie);
       }
       function Tt() {
-        if (_e === "") return;
+        if (de === "") return;
         let z = null;
         if (typeof ee.subLanguage == "string") {
           if (!C[ee.subLanguage]) {
-            Ne.addText(_e);
+            Se.addText(de);
             return;
           }
-          z = dt(ee.subLanguage, _e, !0, xi[ee.subLanguage]), xi[ee.subLanguage] = /** @type {CompiledMode} */
+          z = dt(ee.subLanguage, de, !0, xi[ee.subLanguage]), xi[ee.subLanguage] = /** @type {CompiledMode} */
           z._top;
         } else
-          z = Xt(_e, ee.subLanguage.length ? ee.subLanguage : null);
-        ee.relevance > 0 && (Rt += z.relevance), Ne.__addSublanguage(z._emitter, z.language);
+          z = Xt(de, ee.subLanguage.length ? ee.subLanguage : null);
+        ee.relevance > 0 && (Rt += z.relevance), Se.__addSublanguage(z._emitter, z.language);
       }
-      function Ce() {
-        ee.subLanguage != null ? Tt() : je(), _e = "";
+      function Le() {
+        ee.subLanguage != null ? Tt() : je(), de = "";
       }
-      function Be(z, H) {
-        z !== "" && (Ne.startScope(H), Ne.addText(z), Ne.endScope());
+      function Ue(z, j) {
+        z !== "" && (Se.startScope(j), Se.addText(z), Se.endScope());
       }
-      function vi(z, H) {
+      function vi(z, j) {
         let ie = 1;
-        const le = H.length - 1;
-        for (; ie <= le; ) {
+        const ce = j.length - 1;
+        for (; ie <= ce; ) {
           if (!z._emit[ie]) {
             ie++;
             continue;
           }
-          const Oe = Pe.classNameAliases[z[ie]] || z[ie], Ge = H[ie];
-          Oe ? Be(Ge, Oe) : (_e = Ge, je(), _e = ""), ie++;
+          const Re = $e.classNameAliases[z[ie]] || z[ie], Ge = j[ie];
+          Re ? Ue(Ge, Re) : (de = Ge, je(), de = ""), ie++;
         }
       }
-      function Ei(z, H) {
-        return z.scope && typeof z.scope == "string" && Ne.openNode(Pe.classNameAliases[z.scope] || z.scope), z.beginScope && (z.beginScope._wrap ? (Be(_e, Pe.classNameAliases[z.beginScope._wrap] || z.beginScope._wrap), _e = "") : z.beginScope._multi && (vi(z.beginScope, H), _e = "")), ee = Object.create(z, { parent: { value: ee } }), ee;
+      function Ei(z, j) {
+        return z.scope && typeof z.scope == "string" && Se.openNode($e.classNameAliases[z.scope] || z.scope), z.beginScope && (z.beginScope._wrap ? (Ue(de, $e.classNameAliases[z.beginScope._wrap] || z.beginScope._wrap), de = "") : z.beginScope._multi && (vi(z.beginScope, j), de = "")), ee = Object.create(z, { parent: { value: ee } }), ee;
       }
-      function yi(z, H, ie) {
-        let le = A(z.endRe, ie);
-        if (le) {
+      function yi(z, j, ie) {
+        let ce = A(z.endRe, ie);
+        if (ce) {
           if (z["on:end"]) {
-            const Oe = new n(z);
-            z["on:end"](H, Oe), Oe.isMatchIgnored && (le = !1);
+            const Re = new n(z);
+            z["on:end"](j, Re), Re.isMatchIgnored && (ce = !1);
           }
-          if (le) {
+          if (ce) {
             for (; z.endsParent && z.parent; )
               z = z.parent;
             return z;
           }
         }
         if (z.endsWithParent)
-          return yi(z.parent, H, ie);
+          return yi(z.parent, j, ie);
       }
       function ya(z) {
-        return ee.matcher.regexIndex === 0 ? (_e += z[0], 1) : (en = !0, 0);
+        return ee.matcher.regexIndex === 0 ? (de += z[0], 1) : (en = !0, 0);
       }
       function wa(z) {
-        const H = z[0], ie = z.rule, le = new n(ie), Oe = [ie.__beforeBegin, ie["on:begin"]];
-        for (const Ge of Oe)
-          if (Ge && (Ge(z, le), le.isMatchIgnored))
-            return ya(H);
-        return ie.skip ? _e += H : (ie.excludeBegin && (_e += H), Ce(), !ie.returnBegin && !ie.excludeBegin && (_e = H)), Ei(ie, z), ie.returnBegin ? 0 : H.length;
+        const j = z[0], ie = z.rule, ce = new n(ie), Re = [ie.__beforeBegin, ie["on:begin"]];
+        for (const Ge of Re)
+          if (Ge && (Ge(z, ce), ce.isMatchIgnored))
+            return ya(j);
+        return ie.skip ? de += j : (ie.excludeBegin && (de += j), Le(), !ie.returnBegin && !ie.excludeBegin && (de = j)), Ei(ie, z), ie.returnBegin ? 0 : j.length;
       }
       function xa(z) {
-        const H = z[0], ie = j.substring(z.index), le = yi(ee, z, ie);
-        if (!le)
-          return oe;
-        const Oe = ee;
-        ee.endScope && ee.endScope._wrap ? (Ce(), Be(H, ee.endScope._wrap)) : ee.endScope && ee.endScope._multi ? (Ce(), vi(ee.endScope, z)) : Oe.skip ? _e += H : (Oe.returnEnd || Oe.excludeEnd || (_e += H), Ce(), Oe.excludeEnd && (_e = H));
+        const j = z[0], ie = V.substring(z.index), ce = yi(ee, z, ie);
+        if (!ce)
+          return le;
+        const Re = ee;
+        ee.endScope && ee.endScope._wrap ? (Le(), Ue(j, ee.endScope._wrap)) : ee.endScope && ee.endScope._multi ? (Le(), vi(ee.endScope, z)) : Re.skip ? de += j : (Re.returnEnd || Re.excludeEnd || (de += j), Le(), Re.excludeEnd && (de = j));
         do
-          ee.scope && Ne.closeNode(), !ee.skip && !ee.subLanguage && (Rt += ee.relevance), ee = ee.parent;
-        while (ee !== le.parent);
-        return le.starts && Ei(le.starts, z), Oe.returnEnd ? 0 : H.length;
+          ee.scope && Se.closeNode(), !ee.skip && !ee.subLanguage && (Rt += ee.relevance), ee = ee.parent;
+        while (ee !== ce.parent);
+        return ce.starts && Ei(ce.starts, z), Re.returnEnd ? 0 : j.length;
       }
       function Na() {
         const z = [];
-        for (let H = ee; H !== Pe; H = H.parent)
-          H.scope && z.unshift(H.scope);
-        z.forEach((H) => Ne.openNode(H));
+        for (let j = ee; j !== $e; j = j.parent)
+          j.scope && z.unshift(j.scope);
+        z.forEach((j) => Se.openNode(j));
       }
       let kt = {};
-      function wi(z, H) {
-        const ie = H && H[0];
-        if (_e += z, ie == null)
-          return Ce(), 0;
-        if (kt.type === "begin" && H.type === "end" && kt.index === H.index && ie === "") {
-          if (_e += j.slice(H.index, H.index + 1), !he) {
-            const le = new Error(`0 width match regex (${B})`);
-            throw le.languageName = B, le.badRule = kt.rule, le;
+      function wi(z, j) {
+        const ie = j && j[0];
+        if (de += z, ie == null)
+          return Le(), 0;
+        if (kt.type === "begin" && j.type === "end" && kt.index === j.index && ie === "") {
+          if (de += V.slice(j.index, j.index + 1), !ge) {
+            const ce = new Error(`0 width match regex (${B})`);
+            throw ce.languageName = B, ce.badRule = kt.rule, ce;
           }
           return 1;
         }
-        if (kt = H, H.type === "begin")
-          return wa(H);
-        if (H.type === "illegal" && !se) {
-          const le = new Error('Illegal lexeme "' + ie + '" for mode "' + (ee.scope || "<unnamed>") + '"');
-          throw le.mode = ee, le;
-        } else if (H.type === "end") {
-          const le = xa(H);
-          if (le !== oe)
-            return le;
+        if (kt = j, j.type === "begin")
+          return wa(j);
+        if (j.type === "illegal" && !se) {
+          const ce = new Error('Illegal lexeme "' + ie + '" for mode "' + (ee.scope || "<unnamed>") + '"');
+          throw ce.mode = ee, ce;
+        } else if (j.type === "end") {
+          const ce = xa(j);
+          if (ce !== le)
+            return ce;
         }
-        if (H.type === "illegal" && ie === "")
-          return _e += `
+        if (j.type === "illegal" && ie === "")
+          return de += `
 `, 1;
-        if (Jt > 1e5 && Jt > H.index * 3)
+        if (Jt > 1e5 && Jt > j.index * 3)
           throw new Error("potential infinite loop, way more iterations than matches");
-        return _e += ie, ie.length;
+        return de += ie, ie.length;
       }
-      const Pe = He(B);
-      if (!Pe)
-        throw Ke(ge.replace("{}", B)), new Error('Unknown language: "' + B + '"');
-      const Oa = Wt(Pe);
-      let Qt = "", ee = ce || Oa;
-      const xi = {}, Ne = new K.__emitter(K);
+      const $e = He(B);
+      if (!$e)
+        throw Ke(me.replace("{}", B)), new Error('Unknown language: "' + B + '"');
+      const Oa = Wt($e);
+      let Qt = "", ee = ue || Oa;
+      const xi = {}, Se = new K.__emitter(K);
       Na();
-      let _e = "", Rt = 0, Je = 0, Jt = 0, en = !1;
+      let de = "", Rt = 0, Je = 0, Jt = 0, en = !1;
       try {
-        if (Pe.__emitTokens)
-          Pe.__emitTokens(j, Ne);
+        if ($e.__emitTokens)
+          $e.__emitTokens(V, Se);
         else {
           for (ee.matcher.considerAll(); ; ) {
             Jt++, en ? en = !1 : ee.matcher.considerAll(), ee.matcher.lastIndex = Je;
-            const z = ee.matcher.exec(j);
+            const z = ee.matcher.exec(V);
             if (!z) break;
-            const H = j.substring(Je, z.index), ie = wi(H, z);
+            const j = V.substring(Je, z.index), ie = wi(j, z);
             Je = z.index + ie;
           }
-          wi(j.substring(Je));
+          wi(V.substring(Je));
         }
-        return Ne.finalize(), Qt = Ne.toHTML(), {
+        return Se.finalize(), Qt = Se.toHTML(), {
           language: B,
           value: Qt,
           relevance: Rt,
           illegal: !1,
-          _emitter: Ne,
+          _emitter: Se,
           _top: ee
         };
       } catch (z) {
         if (z.message && z.message.includes("Illegal"))
           return {
             language: B,
-            value: ut(j),
+            value: ut(V),
             illegal: !0,
             relevance: 0,
             _illegalBy: {
               message: z.message,
               index: Je,
-              context: j.slice(Je - 100, Je + 100),
+              context: V.slice(Je - 100, Je + 100),
               mode: z.mode,
               resultSoFar: Qt
             },
-            _emitter: Ne
+            _emitter: Se
           };
-        if (he)
+        if (ge)
           return {
             language: B,
-            value: ut(j),
+            value: ut(V),
             illegal: !1,
             relevance: 0,
             errorRaised: z,
-            _emitter: Ne,
+            _emitter: Se,
             _top: ee
           };
         throw z;
       }
     }
     function Zt(B) {
-      const j = {
+      const V = {
         value: ut(B),
         illegal: !1,
         relevance: 0,
-        _top: q,
+        _top: W,
         _emitter: new K.__emitter(K)
       };
-      return j._emitter.addText(B), j;
+      return V._emitter.addText(B), V;
     }
-    function Xt(B, j) {
-      j = j || K.languages || Object.keys(C);
-      const se = Zt(B), ce = j.filter(He).filter(mi).map(
-        (Ce) => dt(Ce, B, !1)
+    function Xt(B, V) {
+      V = V || K.languages || Object.keys(C);
+      const se = Zt(B), ue = V.filter(He).filter(bi).map(
+        (Le) => dt(Le, B, !1)
       );
-      ce.unshift(se);
-      const ve = ce.sort((Ce, Be) => {
-        if (Ce.relevance !== Be.relevance) return Be.relevance - Ce.relevance;
-        if (Ce.language && Be.language) {
-          if (He(Ce.language).supersetOf === Be.language)
+      ue.unshift(se);
+      const ye = ue.sort((Le, Ue) => {
+        if (Le.relevance !== Ue.relevance) return Ue.relevance - Le.relevance;
+        if (Le.language && Ue.language) {
+          if (He(Le.language).supersetOf === Ue.language)
             return 1;
-          if (He(Be.language).supersetOf === Ce.language)
+          if (He(Ue.language).supersetOf === Le.language)
             return -1;
         }
         return 0;
-      }), [De, je] = ve, Tt = De;
+      }), [Pe, je] = ye, Tt = Pe;
       return Tt.secondBest = je, Tt;
     }
-    function _a(B, j, se) {
-      const ce = j && U[j] || se;
-      B.classList.add("hljs"), B.classList.add(`language-${ce}`);
+    function _a(B, V, se) {
+      const ue = V && U[V] || se;
+      B.classList.add("hljs"), B.classList.add(`language-${ue}`);
     }
     function Yt(B) {
-      let j = null;
-      const se = we(B);
+      let V = null;
+      const se = xe(B);
       if (Y(se)) return;
       if (St(
         "before:highlightElement",
@@ -4740,26 +4740,26 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
           "One of your code blocks includes unescaped HTML.",
           B.innerHTML
         );
-      j = B;
-      const ce = j.textContent, ve = se ? me(ce, { language: se, ignoreIllegals: !0 }) : Xt(ce);
-      B.innerHTML = ve.value, B.dataset.highlighted = "yes", _a(B, se, ve.language), B.result = {
-        language: ve.language,
+      V = B;
+      const ue = V.textContent, ye = se ? Ee(ue, { language: se, ignoreIllegals: !0 }) : Xt(ue);
+      B.innerHTML = ye.value, B.dataset.highlighted = "yes", _a(B, se, ye.language), B.result = {
+        language: ye.language,
         // TODO: remove with version 11.0
-        re: ve.relevance,
-        relevance: ve.relevance
-      }, ve.secondBest && (B.secondBest = {
-        language: ve.secondBest.language,
-        relevance: ve.secondBest.relevance
-      }), St("after:highlightElement", { el: B, result: ve, text: ce });
+        re: ye.relevance,
+        relevance: ye.relevance
+      }, ye.secondBest && (B.secondBest = {
+        language: ye.secondBest.language,
+        relevance: ye.secondBest.relevance
+      }), St("after:highlightElement", { el: B, result: ye, text: ue });
     }
     function ua(B) {
       K = Nt(K, B);
     }
     const da = () => {
-      Ot(), ke("10.6.0", "initHighlighting() deprecated.  Use highlightAll() now.");
+      Ot(), Me("10.6.0", "initHighlighting() deprecated.  Use highlightAll() now.");
     };
     function pa() {
-      Ot(), ke("10.6.0", "initHighlightingOnLoad() deprecated.  Use highlightAll() now.");
+      Ot(), Me("10.6.0", "initHighlightingOnLoad() deprecated.  Use highlightAll() now.");
     }
     let gi = !1;
     function Ot() {
@@ -4772,23 +4772,23 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
       }
       document.querySelectorAll(K.cssSelector).forEach(Yt);
     }
-    function fa(B, j) {
+    function fa(B, V) {
       let se = null;
       try {
-        se = j(b);
-      } catch (ce) {
-        if (Ke("Language definition for '{}' could not be registered.".replace("{}", B)), he)
-          Ke(ce);
+        se = V(m);
+      } catch (ue) {
+        if (Ke("Language definition for '{}' could not be registered.".replace("{}", B)), ge)
+          Ke(ue);
         else
-          throw ce;
-        se = q;
+          throw ue;
+        se = W;
       }
-      se.name || (se.name = B), C[B] = se, se.rawDefinition = j.bind(null, b), se.aliases && bi(se.aliases, { languageName: B });
+      se.name || (se.name = B), C[B] = se, se.rawDefinition = V.bind(null, m), se.aliases && mi(se.aliases, { languageName: B });
     }
     function ha(B) {
       delete C[B];
-      for (const j of Object.keys(U))
-        U[j] === B && delete U[j];
+      for (const V of Object.keys(U))
+        U[V] === B && delete U[V];
     }
     function ga() {
       return Object.keys(C);
@@ -4796,44 +4796,44 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
     function He(B) {
       return B = (B || "").toLowerCase(), C[B] || C[U[B]];
     }
-    function bi(B, { languageName: j }) {
+    function mi(B, { languageName: V }) {
       typeof B == "string" && (B = [B]), B.forEach((se) => {
-        U[se.toLowerCase()] = j;
+        U[se.toLowerCase()] = V;
       });
     }
-    function mi(B) {
-      const j = He(B);
-      return j && !j.disableAutodetect;
-    }
-    function ba(B) {
-      B["before:highlightBlock"] && !B["before:highlightElement"] && (B["before:highlightElement"] = (j) => {
-        B["before:highlightBlock"](
-          Object.assign({ block: j.el }, j)
-        );
-      }), B["after:highlightBlock"] && !B["after:highlightElement"] && (B["after:highlightElement"] = (j) => {
-        B["after:highlightBlock"](
-          Object.assign({ block: j.el }, j)
-        );
-      });
+    function bi(B) {
+      const V = He(B);
+      return V && !V.disableAutodetect;
     }
     function ma(B) {
-      ba(B), J.push(B);
+      B["before:highlightBlock"] && !B["before:highlightElement"] && (B["before:highlightElement"] = (V) => {
+        B["before:highlightBlock"](
+          Object.assign({ block: V.el }, V)
+        );
+      }), B["after:highlightBlock"] && !B["after:highlightElement"] && (B["after:highlightElement"] = (V) => {
+        B["after:highlightBlock"](
+          Object.assign({ block: V.el }, V)
+        );
+      });
+    }
+    function ba(B) {
+      ma(B), J.push(B);
     }
     function va(B) {
-      const j = J.indexOf(B);
-      j !== -1 && J.splice(j, 1);
+      const V = J.indexOf(B);
+      V !== -1 && J.splice(V, 1);
     }
-    function St(B, j) {
+    function St(B, V) {
       const se = B;
-      J.forEach(function(ce) {
-        ce[se] && ce[se](j);
+      J.forEach(function(ue) {
+        ue[se] && ue[se](V);
       });
     }
     function Ea(B) {
-      return ke("10.7.0", "highlightBlock will be removed entirely in v12.0"), ke("10.7.0", "Please use highlightElement now."), Yt(B);
+      return Me("10.7.0", "highlightBlock will be removed entirely in v12.0"), Me("10.7.0", "Please use highlightElement now."), Yt(B);
     }
-    Object.assign(b, {
-      highlight: me,
+    Object.assign(m, {
+      highlight: Ee,
       highlightAuto: Xt,
       highlightAll: Ot,
       highlightElement: Yt,
@@ -4846,30 +4846,30 @@ https://github.com/highlightjs/highlight.js/issues/2277`), ve = B, ce = j), se =
       unregisterLanguage: ha,
       listLanguages: ga,
       getLanguage: He,
-      registerAliases: bi,
-      autoDetection: mi,
+      registerAliases: mi,
+      autoDetection: bi,
       inherit: Nt,
-      addPlugin: ma,
+      addPlugin: ba,
       removePlugin: va
-    }), b.debugMode = function() {
-      he = !1;
-    }, b.safeMode = function() {
-      he = !0;
-    }, b.versionString = jt, b.regex = {
+    }), m.debugMode = function() {
+      ge = !1;
+    }, m.safeMode = function() {
+      ge = !0;
+    }, m.versionString = jt, m.regex = {
       concat: x,
-      lookahead: m,
+      lookahead: b,
       either: c,
       optional: N,
       anyNumberOfTimes: w
     };
-    for (const B in ye)
-      typeof ye[B] == "object" && s(ye[B]);
-    return Object.assign(b, ye), b;
+    for (const B in ve)
+      typeof ve[B] == "object" && s(ve[B]);
+    return Object.assign(m, ve), m;
   }, We = qe({});
   return We.newInstance = () => qe({}), vn = We, We.HighlightJS = We, We.default = We, vn;
 }
 var En, cs;
-function bc() {
+function mc() {
   if (cs) return En;
   cs = 1;
   function s(n) {
@@ -5091,7 +5091,7 @@ function bc() {
   return En = s, En;
 }
 var yn, _s;
-function mc() {
+function bc() {
   if (_s) return yn;
   _s = 1;
   function s(n) {
@@ -5163,7 +5163,7 @@ function mc() {
       end: /'/
     }, g = {
       match: /\\'/
-    }, m = {
+    }, b = {
       begin: /\$?\(\(/,
       end: /\)\)/,
       contains: [
@@ -5456,7 +5456,7 @@ function mc() {
         n.SHEBANG(),
         // to catch unknown shells but still highlight the shebang
         x,
-        m,
+        b,
         l,
         o,
         f,
@@ -5509,7 +5509,7 @@ function vc() {
         { match: /(-?)\b\d+(?:'\d+)*(?:\.\d*(?:'\d*)*)?(?:[eE][-+]?\d+)?/ }
       ],
       relevance: 0
-    }, m = {
+    }, b = {
       className: "meta",
       begin: /#\s*[a-z]+\b/,
       end: /$/,
@@ -5616,7 +5616,7 @@ function vc() {
       // TODO: apply hinting work similar to what was done in cpp.js
       built_in: "std string wstring cin cout cerr clog stdin stdout stderr stringstream istringstream ostringstream auto_ptr deque list queue stack vector map set pair bitset multiset multimap unordered_set unordered_map unordered_multiset unordered_multimap priority_queue make_pair array shared_ptr abort terminate abs acos asin atan2 atan calloc ceil cosh cos exit exp fabs floor fmod fprintf fputs free frexp fscanf future isalnum isalpha iscntrl isdigit isgraph islower isprint ispunct isspace isupper isxdigit tolower toupper labs ldexp log10 log malloc realloc memchr memcmp memcpy memset modf pow printf putchar puts scanf sinh sin snprintf sprintf sqrt sscanf strcat strchr strcmp strcpy strcspn strlen strncat strncmp strncpy strpbrk strrchr strspn strstr tanh tan vfprintf vprintf vsprintf endl initializer_list unique_ptr"
     }, f = [
-      m,
+      b,
       _,
       e,
       n.C_BLOCK_COMMENT_MODE,
@@ -5709,7 +5709,7 @@ function vc() {
         _,
         e,
         n.C_BLOCK_COMMENT_MODE,
-        m
+        b
       ]
     };
     return {
@@ -5725,7 +5725,7 @@ function vc() {
         R,
         f,
         [
-          m,
+          b,
           {
             begin: n.IDENT_RE + "::",
             keywords: c
@@ -5742,7 +5742,7 @@ function vc() {
         ]
       ),
       exports: {
-        preprocessor: m,
+        preprocessor: b,
         strings: u,
         keywords: c
       }
@@ -5792,7 +5792,7 @@ function Ec() {
         }
       ],
       relevance: 0
-    }, m = {
+    }, b = {
       className: "meta",
       begin: /#\s*[a-z]+\b/,
       end: /$/,
@@ -6109,7 +6109,7 @@ function Ec() {
       )
     }, E = [
       v,
-      m,
+      b,
       _,
       e,
       n.C_BLOCK_COMMENT_MODE,
@@ -6218,7 +6218,7 @@ function Ec() {
         _,
         e,
         n.C_BLOCK_COMMENT_MODE,
-        m
+        b
       ]
     };
     return {
@@ -6241,7 +6241,7 @@ function Ec() {
         v,
         E,
         [
-          m,
+          b,
           {
             // containers: ie, `vector <int> rooms (9);`
             begin: "\\b(deque|list|queue|priority_queue|pair|stack|vector|map|set|bitset|multiset|multimap|unordered_map|unordered_set|unordered_multiset|unordered_multimap|array|tuple|optional|variant|function|flat_map|flat_set)\\s*<(?!<)",
@@ -6441,7 +6441,7 @@ function yc() {
       begin: '@"',
       end: '"',
       contains: [{ begin: '""' }]
-    }, m = n.inherit(g, { illegal: /\n/ }), w = {
+    }, b = n.inherit(g, { illegal: /\n/ }), w = {
       className: "subst",
       begin: /\{/,
       end: /\}/,
@@ -6487,7 +6487,7 @@ function yc() {
     ], N.contains = [
       c,
       x,
-      m,
+      b,
       n.APOS_STRING_MODE,
       n.QUOTE_STRING_MODE,
       p,
@@ -7461,7 +7461,7 @@ function wc() {
     "zoom"
   ].sort().reverse();
   function _(p) {
-    const u = p.regex, g = s(p), m = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, w = "and or not only", N = /@-?\w[\w]*(-\w+)*/, x = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
+    const u = p.regex, g = s(p), b = { begin: /-(webkit|moz|ms|o)-(?=[a-z])/ }, w = "and or not only", N = /@-?\w[\w]*(-\w+)*/, x = "[a-zA-Z-][a-zA-Z0-9_-]*", d = [
       p.APOS_STRING_MODE,
       p.QUOTE_STRING_MODE
     ];
@@ -7477,7 +7477,7 @@ function wc() {
       },
       contains: [
         g.BLOCK_COMMENT,
-        m,
+        b,
         // to recognize keyframe 40% etc which are outside the scope of our
         // attribute value mode
         g.CSS_NUMBER_MODE,
@@ -7738,8 +7738,8 @@ function xc() {
           relevance: 0
         }
       ]
-    }, m = n.inherit(u, { contains: [] }), w = n.inherit(g, { contains: [] });
-    u.contains.push(w), g.contains.push(m);
+    }, b = n.inherit(u, { contains: [] }), w = n.inherit(g, { contains: [] });
+    u.contains.push(w), g.contains.push(b);
     let N = [
       e,
       p
@@ -7747,7 +7747,7 @@ function xc() {
     return [
       u,
       g,
-      m,
+      b,
       w
     ].forEach((f) => {
       f.contains = f.contains.concat(N);
@@ -7861,10 +7861,10 @@ function Nc() {
   }
   return Tn = s, Tn;
 }
-var kn, bs;
+var kn, ms;
 function Oc() {
-  if (bs) return kn;
-  bs = 1;
+  if (ms) return kn;
+  ms = 1;
   function s(n) {
     const t = n.regex, e = "([a-zA-Z_]\\w*[!?=]?|[-+~]@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?)", i = t.either(
       /\b([A-Z]+[a-z0-9]+)+/,
@@ -7966,7 +7966,7 @@ function Oc() {
       begin: /#\{/,
       end: /\}/,
       keywords: o
-    }, m = {
+    }, b = {
       className: "string",
       contains: [
         n.BACKSLASH_ESCAPE,
@@ -8075,7 +8075,7 @@ function Oc() {
         }
       ]
     }, E = [
-      m,
+      b,
       {
         variants: [
           {
@@ -8156,7 +8156,7 @@ function Oc() {
         className: "symbol",
         begin: ":(?!\\s)",
         contains: [
-          m,
+          b,
           { begin: e }
         ],
         relevance: 0
@@ -8252,10 +8252,10 @@ function Oc() {
   }
   return kn = s, kn;
 }
-var Rn, ms;
+var Rn, bs;
 function Sc() {
-  if (ms) return Rn;
-  ms = 1;
+  if (bs) return Rn;
+  bs = 1;
   function s(n) {
     const l = {
       keyword: [
@@ -8546,14 +8546,14 @@ function kc() {
         "self"
       ],
       relevance: 0
-    }, p = /[A-Za-z0-9_-]+/, u = /"(\\"|[^"])*"/, g = /'[^']*'/, m = t.either(
+    }, p = /[A-Za-z0-9_-]+/, u = /"(\\"|[^"])*"/, g = /'[^']*'/, b = t.either(
       p,
       u,
       g
     ), w = t.concat(
-      m,
+      b,
       "(\\s*\\.\\s*",
-      m,
+      b,
       ")*",
       t.lookahead(/\s*=\s*[^#\s]/)
     );
@@ -8983,10 +8983,10 @@ function Ac() {
     i
   );
   function _(p) {
-    const u = p.regex, g = (pe, { after: ue }) => {
-      const Se = "</" + pe[0].slice(1);
-      return pe.input.indexOf(Se, ue) !== -1;
-    }, m = s, w = {
+    const u = p.regex, g = (_e, { after: re }) => {
+      const Te = "</" + _e[0].slice(1);
+      return _e.input.indexOf(Te, re) !== -1;
+    }, b = s, w = {
       begin: "<>",
       end: "</>"
     }, N = /<[A-Za-z0-9\\._:-]+\s*\/>/, x = {
@@ -8996,28 +8996,28 @@ function Ac() {
        * @param {RegExpMatchArray} match
        * @param {CallbackResponse} response
        */
-      isTrulyOpeningTag: (pe, ue) => {
-        const Se = pe[0].length + pe.index, ye = pe.input[Se];
+      isTrulyOpeningTag: (_e, re) => {
+        const Te = _e[0].length + _e.index, ve = _e.input[Te];
         if (
           // HTML should not include another raw `<` inside a tag
           // nested type?
           // `<Array<Array<number>>`, etc.
-          ye === "<" || // the , gives away that this is not HTML
+          ve === "<" || // the , gives away that this is not HTML
           // `<T, A extends keyof T, V>`
-          ye === ","
+          ve === ","
         ) {
-          ue.ignoreMatch();
+          re.ignoreMatch();
           return;
         }
-        ye === ">" && (g(pe, { after: Se }) || ue.ignoreMatch());
-        let Te;
-        const Ae = pe.input.substring(Se);
-        if (Te = Ae.match(/^\s*=/)) {
-          ue.ignoreMatch();
+        ve === ">" && (g(_e, { after: Te }) || re.ignoreMatch());
+        let fe;
+        const ke = _e.input.substring(Te);
+        if (fe = ke.match(/^\s*=/)) {
+          re.ignoreMatch();
           return;
         }
-        if ((Te = Ae.match(/^\s+extends\s+/)) && Te.index === 0) {
-          ue.ignoreMatch();
+        if ((fe = ke.match(/^\s+extends\s+/)) && fe.index === 0) {
+          re.ignoreMatch();
           return;
         }
       }
@@ -9122,7 +9122,7 @@ function Ac() {
                   },
                   {
                     className: "variable",
-                    begin: m + "(?=\\s*(-)|$)",
+                    begin: b + "(?=\\s*(-)|$)",
                     endsParent: !0,
                     relevance: 0
                   },
@@ -9164,7 +9164,7 @@ function Ac() {
         "self"
       ].concat(O)
     });
-    const F = [].concat(y, D.contains), G = F.concat([
+    const F = [].concat(y, D.contains), q = F.concat([
       // eat recursive parens in sub expressions
       {
         begin: /(\s*)\(/,
@@ -9181,7 +9181,7 @@ function Ac() {
       excludeBegin: !0,
       excludeEnd: !0,
       keywords: d,
-      contains: G
+      contains: q
     }, M = {
       variants: [
         // class Car extends vehicle
@@ -9189,11 +9189,11 @@ function Ac() {
           match: [
             /class/,
             /\s+/,
-            m,
+            b,
             /\s+/,
             /extends/,
             /\s+/,
-            u.concat(m, "(", u.concat(/\./, m), ")*")
+            u.concat(b, "(", u.concat(/\./, b), ")*")
           ],
           scope: {
             1: "keyword",
@@ -9207,7 +9207,7 @@ function Ac() {
           match: [
             /class/,
             /\s+/,
-            m
+            b
           ],
           scope: {
             1: "keyword",
@@ -9244,13 +9244,13 @@ function Ac() {
       className: "meta",
       relevance: 10,
       begin: /^\s*['"]use (strict|asm)['"]/
-    }, W = {
+    }, G = {
       variants: [
         {
           match: [
             /function/,
             /\s+/,
-            m,
+            b,
             /(?=\s*\()/
           ]
         },
@@ -9274,36 +9274,36 @@ function Ac() {
       match: /\b[A-Z][A-Z_0-9]+\b/,
       className: "variable.constant"
     };
-    function Z(pe) {
-      return u.concat("(?!", pe.join("|"), ")");
+    function H(_e) {
+      return u.concat("(?!", _e.join("|"), ")");
     }
-    const de = {
+    const pe = {
       match: u.concat(
         /\b/,
-        Z([
+        H([
           ...a,
           "super",
           "import"
-        ].map((pe) => `${pe}\\s*\\(`)),
-        m,
+        ].map((_e) => `${_e}\\s*\\(`)),
+        b,
         u.lookahead(/\s*\(/)
       ),
       className: "title.function",
       relevance: 0
-    }, ze = {
+    }, Be = {
       begin: u.concat(/\./, u.lookahead(
-        u.concat(m, /(?![0-9A-Za-z$_(])/)
+        u.concat(b, /(?![0-9A-Za-z$_(])/)
       )),
-      end: m,
+      end: b,
       excludeBegin: !0,
       keywords: "prototype",
       className: "property",
       relevance: 0
-    }, Re = {
+    }, Ae = {
       match: [
         /get|set/,
         /\s+/,
-        m,
+        b,
         /(?=\()/
       ],
       className: {
@@ -9317,16 +9317,16 @@ function Ac() {
         },
         X
       ]
-    }, Me = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + p.UNDERSCORE_IDENT_RE + ")\\s*=>", Fe = {
+    }, Oe = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + p.UNDERSCORE_IDENT_RE + ")\\s*=>", Ce = {
       match: [
         /const|var|let/,
         /\s+/,
-        m,
+        b,
         /\s*/,
         /=\s*/,
         /(async\s*)?/,
         // async is optional
-        u.lookahead(Me)
+        u.lookahead(Oe)
       ],
       keywords: "async",
       className: {
@@ -9342,7 +9342,7 @@ function Ac() {
       aliases: ["js", "jsx", "mjs", "cjs"],
       keywords: d,
       // this will be extended by TypeScript
-      exports: { PARAMS_CONTAINS: G, CLASS_REFERENCE: T },
+      exports: { PARAMS_CONTAINS: q, CLASS_REFERENCE: T },
       illegal: /#(?![$_A-z])/,
       contains: [
         p.SHEBANG({
@@ -9364,10 +9364,10 @@ function Ac() {
         T,
         {
           scope: "attr",
-          match: m + u.lookahead(":"),
+          match: b + u.lookahead(":"),
           relevance: 0
         },
-        Fe,
+        Ce,
         {
           // "value" container
           begin: "(" + p.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
@@ -9381,7 +9381,7 @@ function Ac() {
               // we have to count the parens to make sure we actually have the
               // correct bounding ( ) before the =>.  There could be any number of
               // sub-expressions inside also surrounded by parens.
-              begin: Me,
+              begin: Oe,
               returnBegin: !0,
               end: "\\s*=>",
               contains: [
@@ -9403,7 +9403,7 @@ function Ac() {
                       excludeBegin: !0,
                       excludeEnd: !0,
                       keywords: d,
-                      contains: G
+                      contains: q
                     }
                   ]
                 }
@@ -9443,7 +9443,7 @@ function Ac() {
             }
           ]
         },
-        W,
+        G,
         {
           // prevent this from getting swallowed up by function
           // since they appear "function like"
@@ -9459,7 +9459,7 @@ function Ac() {
           label: "func.def",
           contains: [
             X,
-            p.inherit(p.TITLE_MODE, { begin: m, className: "title.function" })
+            p.inherit(p.TITLE_MODE, { begin: b, className: "title.function" })
           ]
         },
         // catch ... so it won't trigger the property rule below
@@ -9467,12 +9467,12 @@ function Ac() {
           match: /\.\.\./,
           relevance: 0
         },
-        ze,
+        Be,
         // hack: prevents detection of keywords in some circumstances
         // .keyword()
         // $keyword = x
         {
-          match: "\\$" + m,
+          match: "\\$" + b,
           relevance: 0
         },
         {
@@ -9480,10 +9480,10 @@ function Ac() {
           className: { 1: "title.function" },
           contains: [X]
         },
-        de,
+        pe,
         ae,
         M,
-        Re,
+        Ae,
         {
           match: /\$[(.]/
           // relevance booster for a pattern common to JS libs: `$(something)` and `$.something`
@@ -9619,7 +9619,7 @@ function Ic() {
       ]
     };
     p.contains.push(g);
-    const m = {
+    const b = {
       className: "meta",
       begin: "@(?:file|property|field|get|set|receiver|param|setparam|delegate)\\s*:(?:\\s*" + a.UNDERSCORE_IDENT_RE + ")?"
     }, w = {
@@ -9676,7 +9676,7 @@ function Ic() {
         x,
         o,
         _,
-        m,
+        b,
         w,
         {
           className: "function",
@@ -9721,7 +9721,7 @@ function Ic() {
                 },
                 a.C_LINE_COMMENT_MODE,
                 x,
-                m,
+                b,
                 w,
                 g,
                 a.C_NUMBER_MODE
@@ -9761,7 +9761,7 @@ function Ic() {
               excludeBegin: !0,
               returnEnd: !0
             },
-            m,
+            b,
             w
           ]
         },
@@ -10581,16 +10581,16 @@ function Mc() {
     "zoom"
   ].sort().reverse(), _ = a.concat(l).sort().reverse();
   function p(u) {
-    const g = s(u), m = _, w = "and or not only", N = "[\\w-]+", x = "(" + N + "|@\\{" + N + "\\})", d = [], c = [], f = function(F) {
+    const g = s(u), b = _, w = "and or not only", N = "[\\w-]+", x = "(" + N + "|@\\{" + N + "\\})", d = [], c = [], f = function(F) {
       return {
         // Less strings are not multiline (also include '~' for more consistent coloring of "escaped" strings)
         className: "string",
         begin: "~?" + F + ".*?" + F
       };
-    }, A = function(F, G, X) {
+    }, A = function(F, q, X) {
       return {
         className: F,
-        begin: G,
+        begin: q,
         relevance: X
       };
     }, R = {
@@ -10751,7 +10751,7 @@ function Mc() {
         g.FUNCTION_DISPATCH
       ]
     }, O = {
-      begin: N + `:(:)?(${m.join("|")})`,
+      begin: N + `:(:)?(${b.join("|")})`,
       returnBegin: !0,
       contains: [y]
     };
@@ -11198,7 +11198,7 @@ function Bc() {
       n.BACKSLASH_ESCAPE,
       l,
       p
-    ], m = [
+    ], b = [
       /!/,
       /\//,
       /\|/,
@@ -11304,7 +11304,7 @@ function Bc() {
             className: "regexp",
             variants: [
               // allow matching common delimiters
-              { begin: w("s|tr|y", t.either(...m, { capture: !0 })) },
+              { begin: w("s|tr|y", t.either(...b, { capture: !0 })) },
               // and then paired delmis
               { begin: w("s|tr|y", "\\(", "\\)") },
               { begin: w("s|tr|y", "\\[", "\\]") },
@@ -11324,7 +11324,7 @@ function Bc() {
               // prefix is optional with /regex/
               { begin: N("(?:m|qr)?", /\//, /\//) },
               // allow matching common delimiters
-              { begin: N("m|qr", t.either(...m, { capture: !0 }), /\1/) },
+              { begin: N("m|qr", t.either(...b, { capture: !0 }), /\1/) },
               // allow common paired delmins
               { begin: N("m|qr", /\(/, /\)/) },
               { begin: N("m|qr", /\[/, /\]/) },
@@ -11658,7 +11658,7 @@ function Uc() {
     }, u = n.inherit(n.APOS_STRING_MODE, { illegal: null }), g = n.inherit(n.QUOTE_STRING_MODE, {
       illegal: null,
       contains: n.QUOTE_STRING_MODE.contains.concat(p)
-    }), m = {
+    }), b = {
       begin: /<<<[ \t]*(?:(\w+)|"(\w+)")\n/,
       end: /[ \t]*(\w+)\b/,
       contains: n.QUOTE_STRING_MODE.contains.concat(p),
@@ -11677,7 +11677,7 @@ function Uc() {
       variants: [
         g,
         u,
-        m,
+        b,
         w
       ]
     }, d = {
@@ -12006,7 +12006,7 @@ function Uc() {
       x,
       d,
       E
-    ], G = {
+    ], q = {
       begin: t.concat(
         /#\[\s*\\?/,
         t.either(
@@ -12054,7 +12054,7 @@ function Uc() {
       case_insensitive: !1,
       keywords: D,
       contains: [
-        G,
+        q,
         n.HASH_COMMENT_MODE,
         n.COMMENT("//", "$"),
         n.COMMENT(
@@ -12126,7 +12126,7 @@ function Uc() {
               keywords: D,
               contains: [
                 "self",
-                G,
+                q,
                 o,
                 S,
                 n.C_BLOCK_COMMENT_MODE,
@@ -12402,7 +12402,7 @@ function Fc() {
     }, g = {
       begin: /\{\{/,
       relevance: 0
-    }, m = {
+    }, b = {
       className: "string",
       contains: [n.BACKSLASH_ESCAPE],
       variants: [
@@ -12563,14 +12563,14 @@ function Fc() {
             "self",
             p,
             d,
-            m,
+            b,
             n.HASH_COMMENT_MODE
           ]
         }
       ]
     };
     return u.contains = [
-      m,
+      b,
       d,
       p
     ], {
@@ -12598,7 +12598,7 @@ function Fc() {
           relevance: 0
         },
         { match: /\bor\b/, scope: "keyword" },
-        m,
+        b,
         c,
         n.HASH_COMMENT_MODE,
         {
@@ -12647,7 +12647,7 @@ function Fc() {
           contains: [
             d,
             f,
-            m
+            b
           ]
         }
       ]
@@ -14004,7 +14004,7 @@ function Wc() {
     "zoom"
   ].sort().reverse();
   function _(p) {
-    const u = s(p), g = l, m = a, w = "@[a-z-]+", N = "and or not only", d = {
+    const u = s(p), g = l, b = a, w = "@[a-z-]+", N = "and or not only", d = {
       className: "variable",
       begin: "(\\$" + "[a-zA-Z-][a-zA-Z0-9_-]*" + ")\\b",
       relevance: 0
@@ -14038,7 +14038,7 @@ function Wc() {
         },
         {
           className: "selector-pseudo",
-          begin: ":(" + m.join("|") + ")"
+          begin: ":(" + b.join("|") + ")"
         },
         {
           className: "selector-pseudo",
@@ -14661,7 +14661,7 @@ function jc() {
       "var_pop",
       "var_samp",
       "width_bucket"
-    ], m = [
+    ], b = [
       "current_catalog",
       "current_date",
       "current_default_transform_group",
@@ -14738,7 +14738,7 @@ function jc() {
         keyword: D(x, { when: (v) => v.length < 3 }),
         literal: l,
         type: _,
-        built_in: m
+        built_in: b
       },
       contains: [
         {
@@ -14942,7 +14942,7 @@ function Vc() {
     "lowerThan",
     "none",
     "right"
-  ], m = [
+  ], b = [
     "#colorLiteral",
     "#column",
     "#dsohandle",
@@ -15116,7 +15116,7 @@ function Vc() {
       // Consume .keyword to prevent highlighting properties and methods as keywords.
       match: t(/\./, i(...p)),
       relevance: 0
-    }, G = p.filter((oe) => typeof oe == "string").concat(["_|0"]), X = p.filter((oe) => typeof oe != "string").concat(_).map(a), M = { variants: [
+    }, q = p.filter((le) => typeof le == "string").concat(["_|0"]), X = p.filter((le) => typeof le != "string").concat(_).map(a), M = { variants: [
       {
         className: "keyword",
         match: i(...X, ...o)
@@ -15128,27 +15128,27 @@ function Vc() {
         /#\w+/
         // number keywords
       ),
-      keyword: G.concat(m),
+      keyword: q.concat(b),
       literal: u
     }, I = [
       O,
       F,
       M
-    ], W = {
+    ], G = {
       // Consume .built_in to prevent highlighting properties and methods.
       match: t(/\./, i(...w)),
       relevance: 0
     }, ae = {
       className: "built_in",
       match: t(/\b/, i(...w), /(?=\()/)
-    }, Z = [
-      W,
+    }, H = [
+      G,
       ae
-    ], de = {
+    ], pe = {
       // Prevent -> from being highlighting as an operator.
       match: /->/,
       relevance: 0
-    }, ze = {
+    }, Be = {
       className: "operator",
       relevance: 0,
       variants: [
@@ -15160,62 +15160,62 @@ function Vc() {
           match: `\\.(\\.|${x})+`
         }
       ]
-    }, Re = [
-      de,
-      ze
-    ], Me = "([0-9]_*)+", Fe = "([0-9a-fA-F]_*)+", pe = {
+    }, Ae = [
+      pe,
+      Be
+    ], Oe = "([0-9]_*)+", Ce = "([0-9a-fA-F]_*)+", _e = {
       className: "number",
       relevance: 0,
       variants: [
         // decimal floating-point-literal (subsumes decimal-literal)
-        { match: `\\b(${Me})(\\.(${Me}))?([eE][+-]?(${Me}))?\\b` },
+        { match: `\\b(${Oe})(\\.(${Oe}))?([eE][+-]?(${Oe}))?\\b` },
         // hexadecimal floating-point-literal (subsumes hexadecimal-literal)
-        { match: `\\b0x(${Fe})(\\.(${Fe}))?([pP][+-]?(${Me}))?\\b` },
+        { match: `\\b0x(${Ce})(\\.(${Ce}))?([pP][+-]?(${Oe}))?\\b` },
         // octal-literal
         { match: /\b0o([0-7]_*)+\b/ },
         // binary-literal
         { match: /\b0b([01]_*)+\b/ }
       ]
-    }, ue = (oe = "") => ({
+    }, re = (le = "") => ({
       className: "subst",
       variants: [
-        { match: t(/\\/, oe, /[0\\tnr"']/) },
-        { match: t(/\\/, oe, /u\{[0-9a-fA-F]{1,8}\}/) }
+        { match: t(/\\/, le, /[0\\tnr"']/) },
+        { match: t(/\\/, le, /u\{[0-9a-fA-F]{1,8}\}/) }
       ]
-    }), Se = (oe = "") => ({
+    }), Te = (le = "") => ({
       className: "subst",
-      match: t(/\\/, oe, /[\t ]*(?:[\r\n]|\r\n)/)
-    }), ye = (oe = "") => ({
+      match: t(/\\/, le, /[\t ]*(?:[\r\n]|\r\n)/)
+    }), ve = (le = "") => ({
       className: "subst",
       label: "interpol",
-      begin: t(/\\/, oe, /\(/),
+      begin: t(/\\/, le, /\(/),
       end: /\)/
-    }), Te = (oe = "") => ({
-      begin: t(oe, /"""/),
-      end: t(/"""/, oe),
+    }), fe = (le = "") => ({
+      begin: t(le, /"""/),
+      end: t(/"""/, le),
       contains: [
-        ue(oe),
-        Se(oe),
-        ye(oe)
+        re(le),
+        Te(le),
+        ve(le)
       ]
-    }), Ae = (oe = "") => ({
-      begin: t(oe, /"/),
-      end: t(/"/, oe),
+    }), ke = (le = "") => ({
+      begin: t(le, /"/),
+      end: t(/"/, le),
       contains: [
-        ue(oe),
-        ye(oe)
+        re(le),
+        ve(le)
       ]
-    }), Le = {
+    }), Ie = {
       className: "string",
       variants: [
-        Te(),
-        Te("#"),
-        Te("##"),
-        Te("###"),
-        Ae(),
-        Ae("#"),
-        Ae("##"),
-        Ae("###")
+        fe(),
+        fe("#"),
+        fe("##"),
+        fe("###"),
+        ke(),
+        ke("#"),
+        ke("##"),
+        ke("###")
       ]
     }, ht = [
       h.BACKSLASH_ESCAPE,
@@ -15229,8 +15229,8 @@ function Vc() {
       begin: /\/[^\s](?=[^/\n]*\/)/,
       end: /\//,
       contains: ht
-    }, lt = (oe) => {
-      const nt = t(oe, /\//), qe = t(/\//, oe);
+    }, lt = (le) => {
+      const nt = t(le, /\//), qe = t(/\//, le);
       return {
         begin: nt,
         end: qe,
@@ -15251,16 +15251,16 @@ function Vc() {
         lt("#"),
         Ft
       ]
-    }, bt = { match: t(/`/, A, /`/) }, Kt = {
+    }, mt = { match: t(/`/, A, /`/) }, Kt = {
       className: "variable",
       match: /\$\d+/
-    }, mt = {
+    }, bt = {
       className: "variable",
       match: `\\$${f}+`
     }, ct = [
-      bt,
+      mt,
       Kt,
-      mt
+      bt
     ], Gt = {
       match: /(@|#(un)?)available/,
       scope: "keyword",
@@ -15270,9 +15270,9 @@ function Vc() {
           end: /\)/,
           keywords: v,
           contains: [
-            ...Re,
-            pe,
-            Le
+            ...Ae,
+            _e,
+            Ie
           ]
         }
       ] }
@@ -15286,7 +15286,7 @@ function Vc() {
       Gt,
       vt,
       Ke
-    ], ke = {
+    ], Me = {
       match: n(/\b[A-Z]/),
       relevance: 0,
       contains: [
@@ -15325,11 +15325,11 @@ function Vc() {
         ...y,
         ...I,
         ...Qe,
-        de,
-        ke
+        pe,
+        Me
       ]
     };
-    ke.contains.push(tt);
+    Me.contains.push(tt);
     const Et = {
       match: t(A, /\s*:/),
       keywords: "_|0",
@@ -15345,13 +15345,13 @@ function Vc() {
         ...y,
         gt,
         ...I,
-        ...Z,
-        ...Re,
-        pe,
-        Le,
+        ...H,
+        ...Ae,
+        _e,
+        Ie,
         ...ct,
         ...Qe,
-        ke
+        Me
       ]
     }, _t = {
       begin: /</,
@@ -15359,7 +15359,7 @@ function Vc() {
       keywords: "repeat each",
       contains: [
         ...y,
-        ke
+        Me
       ]
     }, qt = {
       begin: i(
@@ -15386,11 +15386,11 @@ function Vc() {
         qt,
         ...y,
         ...I,
-        ...Re,
-        pe,
-        Le,
+        ...Ae,
+        _e,
+        Ie,
         ...Qe,
-        ke,
+        Me,
         yt
       ],
       endsParent: !0,
@@ -15399,7 +15399,7 @@ function Vc() {
       match: [
         /(func|macro)/,
         /\s+/,
-        i(bt.match, A, d)
+        i(mt.match, A, d)
       ],
       className: {
         1: "keyword",
@@ -15446,7 +15446,7 @@ function Vc() {
         1: "keyword",
         3: "title"
       },
-      contains: [ke],
+      contains: [Me],
       keywords: [
         ...g,
         ...u
@@ -15505,15 +15505,15 @@ function Vc() {
         }
       ]
     };
-    for (const oe of Le.variants) {
-      const nt = oe.contains.find((We) => We.label === "interpol");
+    for (const le of Ie.variants) {
+      const nt = le.contains.find((We) => We.label === "interpol");
       nt.keywords = T;
       const qe = [
         ...I,
-        ...Z,
-        ...Re,
-        pe,
-        Le,
+        ...H,
+        ...Ae,
+        _e,
+        Ie,
         ...ct
       ];
       nt.contains = [
@@ -15548,13 +15548,13 @@ function Vc() {
         },
         gt,
         ...I,
-        ...Z,
-        ...Re,
-        pe,
-        Le,
+        ...H,
+        ...Ae,
+        _e,
+        Ie,
         ...ct,
         ...Qe,
-        ke,
+        Me,
         yt
       ]
     };
@@ -15898,9 +15898,9 @@ function Xc() {
     i
   );
   function _(u) {
-    const g = u.regex, m = (ue, { after: Se }) => {
-      const ye = "</" + ue[0].slice(1);
-      return ue.input.indexOf(ye, Se) !== -1;
+    const g = u.regex, b = (re, { after: Te }) => {
+      const ve = "</" + re[0].slice(1);
+      return re.input.indexOf(ve, Te) !== -1;
     }, w = s, N = {
       begin: "<>",
       end: "</>"
@@ -15911,28 +15911,28 @@ function Xc() {
        * @param {RegExpMatchArray} match
        * @param {CallbackResponse} response
        */
-      isTrulyOpeningTag: (ue, Se) => {
-        const ye = ue[0].length + ue.index, Te = ue.input[ye];
+      isTrulyOpeningTag: (re, Te) => {
+        const ve = re[0].length + re.index, fe = re.input[ve];
         if (
           // HTML should not include another raw `<` inside a tag
           // nested type?
           // `<Array<Array<number>>`, etc.
-          Te === "<" || // the , gives away that this is not HTML
+          fe === "<" || // the , gives away that this is not HTML
           // `<T, A extends keyof T, V>`
-          Te === ","
+          fe === ","
         ) {
-          Se.ignoreMatch();
+          Te.ignoreMatch();
           return;
         }
-        Te === ">" && (m(ue, { after: ye }) || Se.ignoreMatch());
-        let Ae;
-        const Le = ue.input.substring(ye);
-        if (Ae = Le.match(/^\s*=/)) {
-          Se.ignoreMatch();
+        fe === ">" && (b(re, { after: ve }) || Te.ignoreMatch());
+        let ke;
+        const Ie = re.input.substring(ve);
+        if (ke = Ie.match(/^\s*=/)) {
+          Te.ignoreMatch();
           return;
         }
-        if ((Ae = Le.match(/^\s+extends\s+/)) && Ae.index === 0) {
-          Se.ignoreMatch();
+        if ((ke = Ie.match(/^\s+extends\s+/)) && ke.index === 0) {
+          Te.ignoreMatch();
           return;
         }
       }
@@ -16079,13 +16079,13 @@ function Xc() {
         "self"
       ].concat(F)
     });
-    const G = [].concat(O, v.contains), X = G.concat([
+    const q = [].concat(O, v.contains), X = q.concat([
       // eat recursive parens in sub expressions
       {
         begin: /(\s*)\(/,
         end: /\)/,
         keywords: c,
-        contains: ["self"].concat(G)
+        contains: ["self"].concat(q)
       }
     ]), M = {
       className: "params",
@@ -16154,7 +16154,7 @@ function Xc() {
           ...i
         ]
       }
-    }, W = {
+    }, G = {
       label: "use_strict",
       className: "meta",
       relevance: 10,
@@ -16184,28 +16184,28 @@ function Xc() {
       label: "func.def",
       contains: [M],
       illegal: /%/
-    }, Z = {
+    }, H = {
       relevance: 0,
       match: /\b[A-Z][A-Z_0-9]+\b/,
       className: "variable.constant"
     };
-    function de(ue) {
-      return g.concat("(?!", ue.join("|"), ")");
+    function pe(re) {
+      return g.concat("(?!", re.join("|"), ")");
     }
-    const ze = {
+    const Be = {
       match: g.concat(
         /\b/,
-        de([
+        pe([
           ...a,
           "super",
           "import"
-        ].map((ue) => `${ue}\\s*\\(`)),
+        ].map((re) => `${re}\\s*\\(`)),
         w,
         g.lookahead(/\s*\(/)
       ),
       className: "title.function",
       relevance: 0
-    }, Re = {
+    }, Ae = {
       begin: g.concat(/\./, g.lookahead(
         g.concat(w, /(?![0-9A-Za-z$_(])/)
       )),
@@ -16214,7 +16214,7 @@ function Xc() {
       keywords: "prototype",
       className: "property",
       relevance: 0
-    }, Me = {
+    }, Oe = {
       match: [
         /get|set/,
         /\s+/,
@@ -16232,7 +16232,7 @@ function Xc() {
         },
         M
       ]
-    }, Fe = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + u.UNDERSCORE_IDENT_RE + ")\\s*=>", pe = {
+    }, Ce = "(\\([^()]*(\\([^()]*(\\([^()]*\\)[^()]*)*\\)[^()]*)*\\)|" + u.UNDERSCORE_IDENT_RE + ")\\s*=>", _e = {
       match: [
         /const|var|let/,
         /\s+/,
@@ -16241,7 +16241,7 @@ function Xc() {
         /=\s*/,
         /(async\s*)?/,
         // async is optional
-        g.lookahead(Fe)
+        g.lookahead(Ce)
       ],
       keywords: "async",
       className: {
@@ -16265,7 +16265,7 @@ function Xc() {
           binary: "node",
           relevance: 5
         }),
-        W,
+        G,
         u.APOS_STRING_MODE,
         u.QUOTE_STRING_MODE,
         E,
@@ -16282,7 +16282,7 @@ function Xc() {
           match: w + g.lookahead(":"),
           relevance: 0
         },
-        pe,
+        _e,
         {
           // "value" container
           begin: "(" + u.RE_STARTERS_RE + "|\\b(case|return|throw)\\b)\\s*",
@@ -16296,7 +16296,7 @@ function Xc() {
               // we have to count the parens to make sure we actually have the
               // correct bounding ( ) before the =>.  There could be any number of
               // sub-expressions inside also surrounded by parens.
-              begin: Fe,
+              begin: Ce,
               returnBegin: !0,
               end: "\\s*=>",
               contains: [
@@ -16382,7 +16382,7 @@ function Xc() {
           match: /\.\.\./,
           relevance: 0
         },
-        Re,
+        Ae,
         // hack: prevents detection of keywords in some circumstances
         // .keyword()
         // $keyword = x
@@ -16395,10 +16395,10 @@ function Xc() {
           className: { 1: "title.function" },
           contains: [M]
         },
-        ze,
-        Z,
+        Be,
+        H,
         T,
-        Me,
+        Oe,
         {
           match: /\$[(.]/
           // relevance booster for a pattern common to JS libs: `$(something)` and `$.something`
@@ -16407,7 +16407,7 @@ function Xc() {
     };
   }
   function p(u) {
-    const g = u.regex, m = _(u), w = s, N = [
+    const g = u.regex, b = _(u), w = s, N = [
       "any",
       "void",
       "number",
@@ -16436,7 +16436,7 @@ function Xc() {
         keyword: "interface extends",
         built_in: N
       },
-      contains: [m.exports.CLASS_REFERENCE]
+      contains: [b.exports.CLASS_REFERENCE]
     }, c = {
       className: "meta",
       relevance: 10,
@@ -16470,28 +16470,28 @@ function Xc() {
         throw new Error("can not find mode to replace");
       S.contains.splice(O, 1, y);
     };
-    Object.assign(m.keywords, A), m.exports.PARAMS_CONTAINS.push(R);
-    const v = m.contains.find((S) => S.scope === "attr"), E = Object.assign(
+    Object.assign(b.keywords, A), b.exports.PARAMS_CONTAINS.push(R);
+    const v = b.contains.find((S) => S.scope === "attr"), E = Object.assign(
       {},
       v,
       { match: g.concat(w, g.lookahead(/\s*\?:/)) }
     );
-    m.exports.PARAMS_CONTAINS.push([
-      m.exports.CLASS_REFERENCE,
+    b.exports.PARAMS_CONTAINS.push([
+      b.exports.CLASS_REFERENCE,
       // class reference for highlighting the params types
       v,
       // highlight the params key
       E
       // Added for optional property assignment highlighting
-    ]), m.contains = m.contains.concat([
+    ]), b.contains = b.contains.concat([
       R,
       x,
       d,
       E
       // Added for optional property assignment highlighting
-    ]), D(m, "shebang", u.SHEBANG()), D(m, "use_strict", c);
-    const h = m.contains.find((S) => S.label === "func.def");
-    return h.relevance = 0, Object.assign(m, {
+    ]), D(b, "shebang", u.SHEBANG()), D(b, "use_strict", c);
+    const h = b.contains.find((S) => S.label === "func.def");
+    return h.relevance = 0, Object.assign(b, {
       name: "TypeScript",
       aliases: [
         "ts",
@@ -16499,7 +16499,7 @@ function Xc() {
         "mts",
         "cts"
       ]
-    }), m;
+    }), b;
   }
   return Jn = p, Jn;
 }
@@ -16576,7 +16576,7 @@ function Yc() {
     }, g = {
       className: "label",
       begin: /^\w+:/
-    }, m = n.COMMENT(/'''/, /$/, { contains: [
+    }, b = n.COMMENT(/'''/, /$/, { contains: [
       {
         className: "doctag",
         begin: /<\/?/,
@@ -16613,7 +16613,7 @@ function Yc() {
         p,
         u,
         g,
-        m,
+        b,
         w,
         {
           className: "meta",
@@ -16750,7 +16750,7 @@ function Jc() {
   if (Ws) return ni;
   Ws = 1;
   var s = /* @__PURE__ */ la();
-  return s.registerLanguage("xml", /* @__PURE__ */ bc()), s.registerLanguage("bash", /* @__PURE__ */ mc()), s.registerLanguage("c", /* @__PURE__ */ vc()), s.registerLanguage("cpp", /* @__PURE__ */ Ec()), s.registerLanguage("csharp", /* @__PURE__ */ yc()), s.registerLanguage("css", /* @__PURE__ */ wc()), s.registerLanguage("markdown", /* @__PURE__ */ xc()), s.registerLanguage("diff", /* @__PURE__ */ Nc()), s.registerLanguage("ruby", /* @__PURE__ */ Oc()), s.registerLanguage("go", /* @__PURE__ */ Sc()), s.registerLanguage("graphql", /* @__PURE__ */ Tc()), s.registerLanguage("ini", /* @__PURE__ */ kc()), s.registerLanguage("java", /* @__PURE__ */ Rc()), s.registerLanguage("javascript", /* @__PURE__ */ Ac()), s.registerLanguage("json", /* @__PURE__ */ Cc()), s.registerLanguage("kotlin", /* @__PURE__ */ Ic()), s.registerLanguage("less", /* @__PURE__ */ Mc()), s.registerLanguage("lua", /* @__PURE__ */ Lc()), s.registerLanguage("makefile", /* @__PURE__ */ Dc()), s.registerLanguage("perl", /* @__PURE__ */ Bc()), s.registerLanguage("objectivec", /* @__PURE__ */ Pc()), s.registerLanguage("php", /* @__PURE__ */ Uc()), s.registerLanguage("php-template", /* @__PURE__ */ $c()), s.registerLanguage("plaintext", /* @__PURE__ */ zc()), s.registerLanguage("python", /* @__PURE__ */ Fc()), s.registerLanguage("python-repl", /* @__PURE__ */ Kc()), s.registerLanguage("r", /* @__PURE__ */ Gc()), s.registerLanguage("rust", /* @__PURE__ */ qc()), s.registerLanguage("scss", /* @__PURE__ */ Wc()), s.registerLanguage("shell", /* @__PURE__ */ Hc()), s.registerLanguage("sql", /* @__PURE__ */ jc()), s.registerLanguage("swift", /* @__PURE__ */ Vc()), s.registerLanguage("yaml", /* @__PURE__ */ Zc()), s.registerLanguage("typescript", /* @__PURE__ */ Xc()), s.registerLanguage("vbnet", /* @__PURE__ */ Yc()), s.registerLanguage("wasm", /* @__PURE__ */ Qc()), s.HighlightJS = s, s.default = s, ni = s, ni;
+  return s.registerLanguage("xml", /* @__PURE__ */ mc()), s.registerLanguage("bash", /* @__PURE__ */ bc()), s.registerLanguage("c", /* @__PURE__ */ vc()), s.registerLanguage("cpp", /* @__PURE__ */ Ec()), s.registerLanguage("csharp", /* @__PURE__ */ yc()), s.registerLanguage("css", /* @__PURE__ */ wc()), s.registerLanguage("markdown", /* @__PURE__ */ xc()), s.registerLanguage("diff", /* @__PURE__ */ Nc()), s.registerLanguage("ruby", /* @__PURE__ */ Oc()), s.registerLanguage("go", /* @__PURE__ */ Sc()), s.registerLanguage("graphql", /* @__PURE__ */ Tc()), s.registerLanguage("ini", /* @__PURE__ */ kc()), s.registerLanguage("java", /* @__PURE__ */ Rc()), s.registerLanguage("javascript", /* @__PURE__ */ Ac()), s.registerLanguage("json", /* @__PURE__ */ Cc()), s.registerLanguage("kotlin", /* @__PURE__ */ Ic()), s.registerLanguage("less", /* @__PURE__ */ Mc()), s.registerLanguage("lua", /* @__PURE__ */ Lc()), s.registerLanguage("makefile", /* @__PURE__ */ Dc()), s.registerLanguage("perl", /* @__PURE__ */ Bc()), s.registerLanguage("objectivec", /* @__PURE__ */ Pc()), s.registerLanguage("php", /* @__PURE__ */ Uc()), s.registerLanguage("php-template", /* @__PURE__ */ $c()), s.registerLanguage("plaintext", /* @__PURE__ */ zc()), s.registerLanguage("python", /* @__PURE__ */ Fc()), s.registerLanguage("python-repl", /* @__PURE__ */ Kc()), s.registerLanguage("r", /* @__PURE__ */ Gc()), s.registerLanguage("rust", /* @__PURE__ */ qc()), s.registerLanguage("scss", /* @__PURE__ */ Wc()), s.registerLanguage("shell", /* @__PURE__ */ Hc()), s.registerLanguage("sql", /* @__PURE__ */ jc()), s.registerLanguage("swift", /* @__PURE__ */ Vc()), s.registerLanguage("yaml", /* @__PURE__ */ Zc()), s.registerLanguage("typescript", /* @__PURE__ */ Xc()), s.registerLanguage("vbnet", /* @__PURE__ */ Yc()), s.registerLanguage("wasm", /* @__PURE__ */ Qc()), s.HighlightJS = s, s.default = s, ni = s, ni;
 }
 Jc();
 var e_ = /* @__PURE__ */ la();
@@ -16825,11 +16825,11 @@ function s_(s, n, t, e, i, a) {
       /* CACHED */
     )),
     L("div", i_, [
-      xe(e.CopyIcon, {
+      Ne(e.CopyIcon, {
         class: "vue-lab__code-preview__content__copy-ctrl",
         onClick: e.copyToClipboard
       }),
-      xe(e.hlVue, {
+      Ne(e.hlVue, {
         code: e.formattedCode,
         autodetect: !1,
         language: "xml",
@@ -16855,15 +16855,15 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
     n();
     const t = s, e = P(() => t.components[t.name]);
     let i = Q({});
-    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), p = Q(null), u = Q(null), g = Q(null), m = Q(!0), w = Q({
+    const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), p = Q(null), u = Q(null), g = Q(null), b = Q(!0), w = Q({
       vueLabloading: !0
     }), N = Q({});
     let x = Bt([]);
-    $e(async () => {
+    Fe(async () => {
       await d();
     });
     const d = async () => {
-      m.value = !1, i.value = { vueLabloading: !1 };
+      b.value = !1, i.value = { vueLabloading: !1 };
       const M = t.configuration?.[t.name?.toLocaleLowerCase()], T = Object.keys(M.propsConfig);
       x = T.map((ae) => ({
         ctrl: M.propsConfig[ae].type,
@@ -16873,14 +16873,14 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
         isCtrl: M.propsConfig[ae].ctrl,
         field: ae
       })).filter((ae) => ae.isCtrl);
-      const W = c(T, M.propsConfig);
-      N.value = T.reduce((ae, Z) => ({
+      const G = c(T, M.propsConfig);
+      N.value = T.reduce((ae, H) => ({
         ...ae,
-        [Z]: M.propsConfig[Z].type
-      }), {}), i.value = { ...i.value, ...W }, w.value = { ...i.value }, a.value = M?.description, l.value = f(T, M.propsConfig), o.value = A(T, M.propsConfig), _.value = R(M.events), p.value = M.slots || [], u.value = D(M.slots, !0), g.value = D(M.slots, !1), m.value = !0;
-    }, c = (M, T) => M.reduce((I, W) => ({
+        [H]: M.propsConfig[H].type
+      }), {}), i.value = { ...i.value, ...G }, w.value = { ...i.value }, a.value = M?.description, l.value = f(T, M.propsConfig), o.value = A(T, M.propsConfig), _.value = R(M.events), p.value = M.slots || [], u.value = D(M.slots, !0), g.value = D(M.slots, !1), b.value = !0;
+    }, c = (M, T) => M.reduce((I, G) => ({
       ...I,
-      [W]: y(W, T)
+      [G]: y(G, T)
     }), { vueLabloading: !0 }), f = (M, T) => M.map((I) => ({
       name: I,
       type: T[I].type,
@@ -16898,25 +16898,59 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
       ...I,
       value: I.type === "component" ? ki(I.value) : I.value
     })) : null, v = P(() => !!p.value?.length), E = P(() => {
-      const M = _.value ? _.value.map((I) => `@${I.name}="${I.name}Handler"`).join(" ") : "", T = Object.entries(i.value).filter((I) => I[0] != "vueLabloading").map(([I, W]) => {
+      const M = _.value ? _.value.map((I) => `@${I.name}="${I.name}Handler"`).join(" ") : "", T = Object.entries(i.value).filter((I) => I[0] != "vueLabloading").map(([I, G]) => {
         const ae = o.value.get(I);
-        if (W == null && ae?.optional)
+        if (G == null && ae?.optional)
           return null;
         if (N.value[I] === "variable") {
-          const Z = `${I}Val`;
-          return `:${I}="${Z}"`;
-        } else
-          return typeof W == "boolean" ? `:${I}="${!!W}"` : typeof W == "object" || typeof W == "number" ? `:${I}="${W}"` : `${I}="${W}"`;
+          const H = `${I}Val`;
+          return `:${I}="${H}"`;
+        } else {
+          if (typeof G == "boolean")
+            return `:${I}="${!!G}"`;
+          if (typeof G == "object" || typeof G == "number") {
+            const H = G?.__name || G?.__name || G;
+            return `:${I}="${H}"`;
+          }
+          return `${I}="${G}"`;
+        }
       }).sort().filter(Boolean).join(" ");
       if (v.value) {
-        const I = p.value.map((W) => {
-          if (W.type === "text" || W.type === "html")
-            return W.value;
-          if (W.type === "component") {
-            const ae = W.name ? `v-slot:${W.name}` : "", Z = W?.value?.__name || W?.value?.name;
-            if (!Z) return null;
-            const de = S(W.props) || "";
-            return `<template ${ae}><${Z} ${de}/></template>`;
+        const I = p.value.map((G) => {
+          if (G.type === "text" || G.type === "html")
+            return G.value;
+          if (G.type === "component") {
+            const ae = G.name ? `v-slot:${G.name}` : "";
+            let H = typeof G.value == "function" ? G.value() : null;
+            if (H) {
+              H = typeof H == "function" ? [H()] : Array.isArray(H) ? H : [H];
+              const Ae = H?.map((Oe) => {
+                const Ce = Oe.type.__name || Oe.type.name || Oe.type, _e = S(Oe.props) || "", re = Oe?.children;
+                if (re) {
+                  if (typeof re == "string")
+                    return `<${Ce} ${_e}>${re}</${Ce}>`;
+                  if (typeof re == "object") {
+                    const ve = (re.default ? [re.default()] : []).map((fe) => {
+                      const ke = S(fe?.props) || "", Ie = fe.type.__name || fe.type.name || fe.type;
+                      return typeof fe.children == "string" ? `<${Ie} ${ke}>${fe.children}</${Ie}>` : `<${Ie} ${ke}/>`;
+                    }).join(`
+    `);
+                    return `<${Ce} ${_e}>
+    ${ve}
+  </${Ce}>`;
+                  }
+                }
+                return `<${Ce} ${_e}/>`;
+              }).join(`
+    `);
+              return `<template ${ae}>
+    ${Ae}
+  </template>`;
+            }
+            const pe = G?.value?.__name || G?.value?.name;
+            if (!pe) return null;
+            const Be = S(G.props) || "";
+            return `<template ${ae}><${pe} ${Be}/></template>`;
           }
         }).join(`
 `);
@@ -16936,15 +16970,15 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
       if (typeof I == "string")
         return `${T}="${I}"`;
       if (typeof I == "object") {
-        const W = Array.isArray(I) ? "options" : "dictionary";
-        return `:${T}="${W}"`;
+        const G = Array.isArray(I) ? "options" : "dictionary";
+        return `:${T}="${G}"`;
       } else
         return null;
     }).filter(Boolean).sort().join(" ") : "", r = (M) => Array.isArray(M) ? M?.filter((T) => T != null && T !== void 0 && T !== "").join(" | ") : typeof M == "boolean" ? M : null, y = (M, T) => T[M].value, O = ({ ctrl: M, value: T }) => {
       i.value[M] = T;
     }, F = () => {
       i.value = { ...w.value };
-    }, G = P(() => e.value && i.value.vueLabloading);
+    }, q = P(() => e.value && i.value.vueLabloading);
     Xe(() => t.name, async () => {
       await d();
     });
@@ -16952,11 +16986,11 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
       return i;
     }, set config(M) {
       i = M;
-    }, description: a, propsData: l, propsMap: o, eventsData: _, slotsData: p, namedSlotsData: u, unnamedSlotsData: g, isLoading: m, defaultConfig: w, types: N, get controls() {
+    }, description: a, propsData: l, propsMap: o, eventsData: _, slotsData: p, namedSlotsData: u, unnamedSlotsData: g, isLoading: b, defaultConfig: w, types: N, get controls() {
       return x;
     }, set controls(M) {
       x = M;
-    }, loadData: d, getBinds: c, getPropsData: f, getPropsMap: A, getEventsData: R, getSlotsData: D, isSlots: v, exampleCode: E, eventHandlers: h, getSlotAttributes: S, getValues: r, getBindValue: y, handleCTRLInput: O, resetConfig: F, isComponent: G, computed: P, onMounted: $e, reactive: Bt, ref: Q, watch: Xe, markRaw: ki, get loadConfig() {
+    }, loadData: d, getBinds: c, getPropsData: f, getPropsMap: A, getEventsData: R, getSlotsData: D, isSlots: v, exampleCode: E, eventHandlers: h, getSlotAttributes: S, getValues: r, getBindValue: y, handleCTRLInput: O, resetConfig: F, isComponent: q, computed: P, onMounted: Fe, reactive: Bt, ref: Q, watch: Xe, markRaw: ki, get loadConfig() {
       return ac;
     }, get ControlBlock() {
       return ta;
@@ -16985,7 +17019,7 @@ const ca = /* @__PURE__ */ ne(t_, [["render", s_], ["__scopeId", "data-v-ba1811d
   class: "vue-lab__controls"
 };
 function d_(s, n, t, e, i, a) {
-  return e.isLoading ? (k(), V(e.Page, {
+  return e.isLoading ? (k(), Z(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
     class: "vue-lab"
@@ -16996,33 +17030,33 @@ function d_(s, n, t, e, i, a) {
           L(
             "div",
             l_,
-            re(t.name),
+            oe(t.name),
             1
             /* TEXT */
           )
         ]),
         L("div", c_, [
-          e.description ? (k(), V(e.Description, {
+          e.description ? (k(), Z(e.Description, {
             key: 0,
             description: e.description
           }, null, 8, ["description"])) : te("v-if", !0),
-          e.isComponent ? (k(), V(e.Divider, { key: 1 })) : te("v-if", !0),
+          e.isComponent ? (k(), Z(e.Divider, { key: 1 })) : te("v-if", !0),
           e.isComponent ? (k(), $("div", __, [
-            (k(), V(
+            (k(), Z(
               rt(e.comp),
               oi(e.config, Ca(e.eventHandlers)),
               Ia({
                 default: be(() => [
                   (k(!0), $(
-                    fe,
+                    he,
                     null,
-                    Ee(e.unnamedSlotsData, (l, o) => (k(), $(
-                      fe,
+                    we(e.unnamedSlotsData, (l, o) => (k(), $(
+                      he,
                       {
                         key: `unnamed-component-slot-${l.name}-${o}`
                       },
                       [
-                        e.unnamedSlotsData?.length ? (k(), V(e.ComponentSlot, {
+                        e.unnamedSlotsData?.length ? (k(), Z(e.ComponentSlot, {
                           key: 0,
                           slotConfig: l
                         }, null, 8, ["slotConfig"])) : te("v-if", !0)
@@ -17037,10 +17071,10 @@ function d_(s, n, t, e, i, a) {
                 _: 2
                 /* DYNAMIC */
               }, [
-                Ee(e.namedSlotsData, (l, o) => ({
+                we(e.namedSlotsData, (l, o) => ({
                   name: l.name,
                   fn: be(() => [
-                    e.namedSlotsData?.length ? (k(), V(e.ComponentSlot, {
+                    e.namedSlotsData?.length ? (k(), Z(e.ComponentSlot, {
                       key: 0,
                       slotConfig: l
                     }, null, 8, ["slotConfig"])) : te("v-if", !0)
@@ -17051,26 +17085,26 @@ function d_(s, n, t, e, i, a) {
               /* FULL_PROPS, DYNAMIC_SLOTS */
             ))
           ])) : te("v-if", !0),
-          e.exampleCode ? (k(), V(e.Divider, { key: 3 })) : te("v-if", !0),
-          e.isComponent && e.exampleCode ? (k(), V(e.CodePreview, {
+          e.exampleCode ? (k(), Z(e.Divider, { key: 3 })) : te("v-if", !0),
+          e.isComponent && e.exampleCode ? (k(), Z(e.CodePreview, {
             key: 4,
             code: e.exampleCode,
             "preview-code": e.exampleCode
           }, null, 8, ["code", "preview-code"])) : te("v-if", !0),
-          e.propsData ? (k(), V(e.Divider, { key: 5 })) : te("v-if", !0),
-          e.isComponent && e.propsData ? (k(), V(e.PropsDescription, {
+          e.propsData ? (k(), Z(e.Divider, { key: 5 })) : te("v-if", !0),
+          e.isComponent && e.propsData ? (k(), Z(e.PropsDescription, {
             key: 6,
             data: e.propsData
           }, null, 8, ["data"])) : te("v-if", !0),
-          e.eventsData ? (k(), V(e.Divider, { key: 7 })) : te("v-if", !0),
-          e.isComponent && e.eventsData ? (k(), V(e.EventsDescription, {
+          e.eventsData ? (k(), Z(e.Divider, { key: 7 })) : te("v-if", !0),
+          e.isComponent && e.eventsData ? (k(), Z(e.EventsDescription, {
             key: 8,
             data: e.eventsData
           }, null, 8, ["data"])) : te("v-if", !0)
         ])
       ]),
       e.controls.length ? (k(), $("div", u_, [
-        xe(e.ControlBlock, {
+        Ne(e.ControlBlock, {
           options: e.controls,
           values: e.config,
           onInput: e.handleCTRLInput,
@@ -17108,9 +17142,9 @@ const p_ = /* @__PURE__ */ ne(a_, [["render", d_], ["__scopeId", "data-v-432c94c
     }, computed: P };
     return Object.defineProperty(i, "__isScriptSetup", { enumerable: !1, value: !0 }), i;
   }
-}, h_ = { class: "vue-lab-colors__component" }, g_ = { class: "vue-lab-colors__component__header" }, b_ = { class: "vue-lab-colors__component__header-title" }, m_ = { class: "vue-lab-colors__component__content custom-scroll--simple" };
+}, h_ = { class: "vue-lab-colors__component" }, g_ = { class: "vue-lab-colors__component__header" }, m_ = { class: "vue-lab-colors__component__header-title" }, b_ = { class: "vue-lab-colors__component__content custom-scroll--simple" };
 function v_(s, n, t, e, i, a) {
-  return k(), V(e.Page, {
+  return k(), Z(e.Page, {
     "is-controls": !1,
     class: "vue-lab-colors"
   }, {
@@ -17119,32 +17153,32 @@ function v_(s, n, t, e, i, a) {
         L("div", g_, [
           L(
             "div",
-            b_,
-            re(t.name),
+            m_,
+            oe(t.name),
             1
             /* TEXT */
           )
         ]),
-        L("div", m_, [
-          t.description ? (k(), V(e.Description, {
+        L("div", b_, [
+          t.description ? (k(), Z(e.Description, {
             key: 0,
             description: t.description
           }, null, 8, ["description"])) : te("v-if", !0),
-          xe(e.Divider),
+          Ne(e.Divider),
           (k(!0), $(
-            fe,
+            he,
             null,
-            Ee(e.colorGroup, (l, o) => (k(), $(
-              fe,
+            we(e.colorGroup, (l, o) => (k(), $(
+              he,
               {
                 key: `color-block-${l.title}-${o}`
               },
               [
-                xe(e.ColorBlock, {
+                Ne(e.ColorBlock, {
                   title: l.title,
                   options: l.options
                 }, null, 8, ["title", "options"]),
-                o != e.colorGroup.length - 1 ? (k(), V(e.Divider, { key: 0 })) : te("v-if", !0)
+                o != e.colorGroup.length - 1 ? (k(), Z(e.Divider, { key: 0 })) : te("v-if", !0)
               ],
               64
               /* STABLE_FRAGMENT */
@@ -17185,20 +17219,20 @@ function T_(s, n, t, e, i, a) {
     L(
       "div",
       x_,
-      re(t.group.name || "Group"),
+      oe(t.group.name || "Group"),
       1
       /* TEXT */
     ),
     L("div", N_, [
       (k(!0), $(
-        fe,
+        he,
         null,
-        Ee(t.group.components, (l, o) => (k(), $("div", {
+        we(t.group.components, (l, o) => (k(), $("div", {
           key: `${t.group.name}-${l.name}-${o}`,
           class: "vue-lab-icons__group-item",
           onClick: (_) => e.handleIconSelect(l)
         }, [
-          (k(), V(
+          (k(), Z(
             rt(l.component),
             oi({ ref_for: !0 }, { ...t.config, name: l.name }),
             null,
@@ -17208,7 +17242,7 @@ function T_(s, n, t, e, i, a) {
           L(
             "div",
             S_,
-            re(l.name),
+            oe(l.name),
             1
             /* TEXT */
           )
@@ -17239,86 +17273,86 @@ const k_ = /* @__PURE__ */ ne(y_, [["render", T_], ["__scopeId", "data-v-89316d1
     const a = Q(null), l = Q(null), o = Q(/* @__PURE__ */ new Map()), _ = Q(null), p = Q(!0), u = Q({
       vueLabloading: !0
     }), g = Q({});
-    let m = Bt([]);
-    $e(async () => {
+    let b = Bt([]);
+    Fe(async () => {
       await A();
     });
     const w = t, N = Q(""), x = P(() => N.value ? e.options.filter(
       (T) => T.name?.toLowerCase().includes(N?.value.toLowerCase())
     ) : e.options), d = P(() => {
       const T = [...new Set(x.value.map((I) => I.group))];
-      return new Map(T.map((I) => [I, x.value.filter((W) => W.group == I)]));
+      return new Map(T.map((I) => [I, x.value.filter((G) => G.group == I)]));
     }), c = P(() => [...new Set(x.value.map((I) => I.group))].map((I) => ({ name: I, components: d.value.get(I) }))), f = (T) => {
       N.value = T;
     }, A = async () => {
       p.value = !1, i.value = { vueLabloading: !1 };
       const T = e.configuration, I = Object.keys(T.propsConfig);
-      m = [
-        ...I.map((Z) => ({
-          ctrl: T.propsConfig[Z].type,
-          value: T.propsConfig[Z].value,
-          title: T.propsConfig[Z].ctrlTitle,
-          variants: T.propsConfig[Z].variants,
-          isCtrl: T.propsConfig[Z].ctrl,
-          field: Z
-        })).filter((Z) => Z.isCtrl),
+      b = [
+        ...I.map((H) => ({
+          ctrl: T.propsConfig[H].type,
+          value: T.propsConfig[H].value,
+          title: T.propsConfig[H].ctrlTitle,
+          variants: T.propsConfig[H].variants,
+          isCtrl: T.propsConfig[H].ctrl,
+          field: H
+        })).filter((H) => H.isCtrl),
         {
           ctrl: "list",
           value: null,
           title: "Icons",
-          variants: e.options.map((Z) => ({ name: Z.name, id: Z.name })),
+          variants: e.options.map((H) => ({ name: H.name, id: H.name })),
           isCtrl: !0,
           isCodeHiden: !0,
           field: "icon"
         }
       ];
       const ae = R(I, T.propsConfig);
-      g.value = I.reduce((Z, de) => ({
-        ...Z,
-        [de]: T.propsConfig[de].type
+      g.value = I.reduce((H, pe) => ({
+        ...H,
+        [pe]: T.propsConfig[pe].type
       }), {}), i.value = { ...i.value, ...ae }, u.value = { ...i.value }, a.value = T?.description, l.value = h(I, T.propsConfig), o.value = S(I, T.propsConfig), _.value = r(T.events), p.value = !0;
-    }, R = (T, I) => T.reduce((W, ae) => ({
-      ...W,
+    }, R = (T, I) => T.reduce((G, ae) => ({
+      ...G,
       [ae]: D(ae, I)
-    }), { vueLabloading: !0 }), D = (T, I) => I[T].value, v = P(() => i.value.vueLabloading), E = (T) => Array.isArray(T) ? T?.filter((I) => I != null && I !== void 0 && I !== "").join(" | ") : typeof T == "boolean" ? T : null, h = (T, I) => T.map((W) => ({
-      name: W,
-      type: I[W].type,
-      values: E(I[W].variants),
-      optional: I[W].optional || !1,
-      default: I[W].default,
-      description: I[W].description
-    })), S = (T, I) => new Map(T.map((W) => [W, I[W]])), r = (T) => T ? Object.keys(T).map((I) => ({
+    }), { vueLabloading: !0 }), D = (T, I) => I[T].value, v = P(() => i.value.vueLabloading), E = (T) => Array.isArray(T) ? T?.filter((I) => I != null && I !== void 0 && I !== "").join(" | ") : typeof T == "boolean" ? T : null, h = (T, I) => T.map((G) => ({
+      name: G,
+      type: I[G].type,
+      values: E(I[G].variants),
+      optional: I[G].optional || !1,
+      default: I[G].default,
+      description: I[G].description
+    })), S = (T, I) => new Map(T.map((G) => [G, I[G]])), r = (T) => T ? Object.keys(T).map((I) => ({
       name: I,
       description: T[I].description
     })) : null, y = P(() => {
-      const T = _.value ? _.value.map((Z) => `@${Z.name}="${Z.name}Handler"`).join(" ") : "", I = new Map(m.map((Z) => [Z.field, Z.isCodeHiden])), W = Object.entries(i.value).filter((Z) => Z[0] != "vueLabloading").map(([Z, de]) => {
-        if (I.get(Z))
+      const T = _.value ? _.value.map((H) => `@${H.name}="${H.name}Handler"`).join(" ") : "", I = new Map(b.map((H) => [H.field, H.isCodeHiden])), G = Object.entries(i.value).filter((H) => H[0] != "vueLabloading").map(([H, pe]) => {
+        if (I.get(H))
           return null;
-        const ze = o.value.get(Z);
-        if (de == null && ze?.optional)
+        const Be = o.value.get(H);
+        if (pe == null && Be?.optional)
           return null;
-        if (g.value[Z] === "variable") {
-          const Re = `${Z}Val`;
-          return `:${Z}="${Re}"`;
+        if (g.value[H] === "variable") {
+          const Ae = `${H}Val`;
+          return `:${H}="${Ae}"`;
         } else
-          return typeof de == "boolean" ? `:${Z}="${!!de}"` : typeof de == "object" || typeof de == "number" ? `:${Z}="${de}"` : `${Z}="${de}"`;
+          return typeof pe == "boolean" ? `:${H}="${!!pe}"` : typeof pe == "object" || typeof pe == "number" ? `:${H}="${pe}"` : `${H}="${pe}"`;
       }).sort().filter(Boolean).join(" ");
-      return `<${O.value ? Ri(O.value.name) : "Component"} ${W} ${T} />`;
+      return `<${O.value ? Ri(O.value.name) : "Component"} ${G} ${T} />`;
     }), O = P(() => i.value?.icon ? e.options?.find((T) => T.name === i.value.icon) : e.options?.[0]), M = { props: e, get config() {
       return i;
     }, set config(T) {
       i = T;
     }, description: a, propsData: l, propsMap: o, eventsData: _, isLoading: p, defaultConfig: u, types: g, get controls() {
-      return m;
+      return b;
     }, set controls(T) {
-      m = T;
+      b = T;
     }, emit: w, searchTerm: N, filteredOptions: x, optionMap: d, groups: c, handleSearch: f, loadData: A, getBinds: R, getBindValue: D, isComponent: v, getValues: E, getPropsData: h, getPropsMap: S, getEventsData: r, exampleCode: y, selectedIcon: O, handleCTRLInput: ({ ctrl: T, value: I }) => {
       i.value[T] = I;
     }, resetConfig: () => {
       i.value = { ...u.value };
     }, handleSelectIcon: (T) => {
-      e.options.find((W) => W.name === T) && (i.value.icon = T);
-    }, ref: Q, computed: P, reactive: Bt, onMounted: $e, get Search() {
+      e.options.find((G) => G.name === T) && (i.value.icon = T);
+    }, ref: Q, computed: P, reactive: Bt, onMounted: Fe, get Search() {
       return ci;
     }, get Description() {
       return li;
@@ -17344,7 +17378,7 @@ const k_ = /* @__PURE__ */ ne(y_, [["render", T_], ["__scopeId", "data-v-89316d1
   class: "vue-lab-icons__controls"
 };
 function D_(s, n, t, e, i, a) {
-  return e.isLoading ? (k(), V(e.Page, {
+  return e.isLoading ? (k(), Z(e.Page, {
     key: 0,
     "is-controls": !!e.controls.length,
     class: "vue-lab-icons"
@@ -17361,19 +17395,19 @@ function D_(s, n, t, e, i, a) {
           /* CACHED */
         )),
         L("div", C_, [
-          e.description ? (k(), V(e.Description, {
+          e.description ? (k(), Z(e.Description, {
             key: 0,
             description: e.description,
             class: "vue-lab-icons__body-description"
           }, null, 8, ["description"])) : te("v-if", !0),
           L("div", I_, [
-            xe(e.Search, { onInput: e.handleSearch })
+            Ne(e.Search, { onInput: e.handleSearch })
           ]),
           L("div", M_, [
             e.groups.length ? (k(!0), $(
-              fe,
+              he,
               { key: 1 },
-              Ee(e.groups, (l) => (k(), V(e.IconGroup, {
+              we(e.groups, (l) => (k(), Z(e.IconGroup, {
                 key: l.name,
                 group: l,
                 config: e.config,
@@ -17381,12 +17415,12 @@ function D_(s, n, t, e, i, a) {
               }, null, 8, ["group", "config"]))),
               128
               /* KEYED_FRAGMENT */
-            )) : (k(), V(e.EmptyScreen, {
+            )) : (k(), Z(e.EmptyScreen, {
               key: 0,
               size: "lg"
             }, {
               default: be(() => [...n[0] || (n[0] = [
-                Ue(
+                ze(
                   " No icons found ",
                   -1
                   /* CACHED */
@@ -17396,26 +17430,26 @@ function D_(s, n, t, e, i, a) {
               /* STABLE */
             }))
           ]),
-          e.exampleCode ? (k(), V(e.Divider, { key: 1 })) : te("v-if", !0),
-          e.isComponent && e.exampleCode ? (k(), V(e.CodePreview, {
+          e.exampleCode ? (k(), Z(e.Divider, { key: 1 })) : te("v-if", !0),
+          e.isComponent && e.exampleCode ? (k(), Z(e.CodePreview, {
             key: 2,
             code: e.exampleCode,
             "preview-code": e.exampleCode
           }, null, 8, ["code", "preview-code"])) : te("v-if", !0),
-          e.propsData ? (k(), V(e.Divider, { key: 3 })) : te("v-if", !0),
-          e.isComponent && e.propsData ? (k(), V(e.PropsDescription, {
+          e.propsData ? (k(), Z(e.Divider, { key: 3 })) : te("v-if", !0),
+          e.isComponent && e.propsData ? (k(), Z(e.PropsDescription, {
             key: 4,
             data: e.propsData
           }, null, 8, ["data"])) : te("v-if", !0),
-          e.eventsData ? (k(), V(e.Divider, { key: 5 })) : te("v-if", !0),
-          e.isComponent && e.eventsData ? (k(), V(e.EventsDescription, {
+          e.eventsData ? (k(), Z(e.Divider, { key: 5 })) : te("v-if", !0),
+          e.isComponent && e.eventsData ? (k(), Z(e.EventsDescription, {
             key: 6,
             data: e.eventsData
           }, null, 8, ["data"])) : te("v-if", !0)
         ])
       ]),
       e.controls.length ? (k(), $("div", L_, [
-        xe(e.ControlBlock, {
+        Ne(e.ControlBlock, {
           options: e.controls,
           values: e.config,
           onInput: e.handleCTRLInput,
@@ -17462,8 +17496,8 @@ const B_ = /* @__PURE__ */ ne(R_, [["render", D_], ["__scopeId", "data-v-ffc6662
     path: `/${f}`
   })) : [];
   let g = l ? [...n || u, ...l] : n || u;
-  const m = g.reduce((f, A) => A.index > f ? A.index : f, 0);
-  g = g.map((f, A) => ({ ...f, index: f.index || m + A + 1 })), g.sort((f, A) => f.index - A.index);
+  const b = g.reduce((f, A) => A.index > f ? A.index : f, 0);
+  g = g.map((f, A) => ({ ...f, index: f.index || b + A + 1 })), g.sort((f, A) => f.index - A.index);
   const w = /* @__PURE__ */ new Map([
     ["colors", E_],
     ["icons", B_]

@@ -87,6 +87,29 @@ export const slots = [
   }
 ]
 
+// import { h } from 'vue'
+// import BarChart1Icon from '../Icons/Charts/BarChart1Icon.vue'
+// import Button from '../Buttons/Button/index.vue'
+// const renderStructure = () => {
+//   return h(
+//     Button,
+//     {},
+//     {
+//       default: () => h(BarChart1Icon, {
+//         size: 16,
+//         palette: 'muted',
+//         focused: true
+//       }),
+//     }
+//   )
+// }
+
+// export const slots = [
+//   {
+//     type: 'component',
+//     value: renderStructure,
+// ]
+
 export const events = {
   click: {
     func: () => alert('Button clicked!'),
