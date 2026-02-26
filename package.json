@@ -1,7 +1,7 @@
 {
   "name": "vue-story-book",
   "private": false,
-  "version": "0.5.5",
+  "version": "0.5.6",
   "type": "module",
   "files": [
     "dist"
@@ -30,7 +30,7 @@
     "./dist/style.css": "./dist/style.css"
   },
   "dependencies": {
-    "js-beautify": "^1.15.4",
+    "js-beautify": "^1.14.8",
     "sass": "^1.62.1",
     "sass-embedded": "^1.97.3"
   },
