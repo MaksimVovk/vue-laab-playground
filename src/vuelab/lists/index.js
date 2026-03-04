@@ -1,4 +1,4 @@
-import countries from './countries.json'
+import countries from './countries.js'
 
 export default {
   countries: countries,
