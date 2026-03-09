@@ -178,6 +178,7 @@ const getEventsData = (rows) => {
   return Object.keys(rows).map(it => ({
     name: it,
     func: rows[it]?.func || (() => {alert(`Event ${it} triggered!`)}),
+    isExampleCode: !!rows[it]?.isExampleCode,
     description: rows[it]?.description
   }))
 }
@@ -195,16 +196,33 @@ const getSlotsData = (rows, isNamed) => {
 const isSlots = computed(() => !!(slotsData.value?.length))
 
 const exampleCode = computed(() => {
+  const variables = []
   const events = eventsData.value ? eventsData.value.map(it => `@${it.name}="${it.name}Handler"`).join(' ') : ''
+  if (events?.length) {
+    eventsData.value.forEach(it => {
+      if (it.isExampleCode) {
+        variables.push(`const ${it.name}Handler = ${it.func.toString()}`)
+      }
+    })
+  }
   const attrs = Object.entries(config.value)
     .filter(f => f[0] != 'vueLabloading')
     .map(([key, value]) => {
       const keyOptions = propsMap.value.get(key)
+      const listTypes = new Map([['array', true], ['object', true], ['dictionary', true], ['variable', true], ['list', true]])
       if ((value === undefined || value === null ) && keyOptions?.optional) {
         return null
       }
-      if (types.value[key] === 'variable') {
+      if (listTypes.has(types.value[key])) {
         const keyValue = `${key}Val`
+        const val = Array.isArray(value)
+          ? JSON.stringify([...value.slice(0,1), '...'])
+          : typeof value === 'function'
+            ? value.toString()
+            : JSON.stringify(value)
+        if (keyOptions.isExampleCode) {
+          variables.push(`const ${keyValue} = ${val}`)
+        }
         return `:${key}="${keyValue}"`
       } else {
         if (typeof value === 'boolean') {
@@ -219,6 +237,8 @@ const exampleCode = computed(() => {
     .sort()
     .filter(Boolean)
     .join(' ')
+
+  const vars = variables.length ? `<script setup>${variables.join('\n')}<\/script>\n\n` : ''
 
   if (isSlots.value) {
     const slots = slotsData.value.map(slot => {
@@ -266,13 +286,13 @@ const exampleCode = computed(() => {
       }
     }).join('\n')
     return `
+      ${vars}
       <${props.name} ${attrs} ${events}>
         ${slots}
       </${props.name}>
     `
   }
-
-  return `<${props.name} ${attrs} ${events} />`
+  return `${vars}<${props.name} ${attrs} ${events} />`
 })
 
 const eventHandlers = computed(() => {
