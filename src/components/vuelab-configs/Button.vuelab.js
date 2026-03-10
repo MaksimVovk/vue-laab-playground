@@ -1,6 +1,10 @@
 import EditIcon from '../icons/FormIcon/EditIcon.vue'
 import { iconComponents } from '../icons/index'
-import list from '../../vuelab/lists'
+import { useLists } from '../../vuelab/lists'
+
+const list = useLists('countries')
+
+export const group = 'Buttons'
 
 export const propsConfig = {
   palette: {
@@ -53,7 +57,7 @@ export const propsConfig = {
     type: 'list',
     ctrlTitle: 'Countries',
     value: null,
-    variants: list.countries,
+    variants: list.list,
     default: null,
     description: 'Select a country from the list',
     ctrl: true,
