@@ -52,18 +52,27 @@ const emit = defineEmits(['navigate'])
 const menuItems = computed(() => {
   const groups = props.options.map(item => item.group)
   const uniqueGroups = [...new Set(groups)].filter(g => g && g.length)
+
   const groupedItems = uniqueGroups.map(group =>({
     name: group,
     items: props.options.filter(opt => opt.group === group)
   }))
 
+
+  const ungroupedOptions = props.options.filter(opt => !opt.group || !opt.group.length)
+
   const ungroupedItems = {
     name: null,
-    items: props.options.filter(opt => !opt.group || !opt.group.length)
+    items: ungroupedOptions
+  }
+
+  let result = [...groupedItems]
+  if (ungroupedItems.items.length) {
+    result.push(ungroupedItems)
   }
 
 
-  return [...groupedItems, ungroupedItems]
+  return result
 })
 
 const isGroup = computed(() => {

@@ -82,6 +82,7 @@
       color: #2c3239;
       transition: 0.3s;
       font-size: 14px;
+      overflow-wrap: anywhere;
     }
   }
 }

@@ -88,7 +88,7 @@ const menuItems = computed(() => {
 
   const ungroupedItems = {
     name: null,
-    description: null,
+    description: props.menuGroupsDescription['Other'],
     items: props.menu.filter(opt => !opt.group || !opt.group.length).filter(searchFunction)
   }
 
