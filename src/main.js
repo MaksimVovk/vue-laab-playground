@@ -303,6 +303,7 @@ const menuGroupsDescription = {
   Buttons: 'Various button components with different styles and functionalities.',
   Misc: 'Miscellaneous components for various use cases.',
   General: 'General components information and guidelines.',
+  Other: 'Components that do not fit into the above categories but are essential for the design system.',
 }
 
 createLab({ components, menuGroupsDescription, configuration, additionalPages })

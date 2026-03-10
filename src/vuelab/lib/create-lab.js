@@ -24,7 +24,7 @@ export const createLab = ({
   const keys = Object.keys(configuration || {})
   const serializedConfig = keys.reduce((prev, next) => ({ ...prev, [next.toLocaleLowerCase()]: configuration[next] }), {})
   const groups = new Map(keys.map(key => [key, configuration[key].group]))
-  console.log('groups', keys)
+
   const appMenu = components ? Object.keys(components).map(key => ({
     name: key,
     path: `/${key}`,
