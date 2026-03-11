@@ -28,6 +28,15 @@ const lastNames = [
 ]
 
 const getRandomItem = (array) => array[Math.floor(Math.random() * array.length)]
+const getRandomDate = () => {
+  const d = new Date()
+
+  d.setDate(d.getDate() - 7)
+
+  const start = d.getTime()
+  const end = new Date().getTime()
+  return new Date(start + Math.random() * (end - start)).toISOString()
+}
 
 const getFullName = () => `${getRandomItem(firstNames)} ${getRandomItem(lastNames)}`
 
@@ -42,6 +51,7 @@ const getData = (limit) => {
       payment: getRandomItem(payments) || 'Credit Card',
       country: country?.name || 'Ukraine',
       country_code: country?.iso_code || 'ua',
+      created_at: getRandomDate(),
     }
   })
   return data

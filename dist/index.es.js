@@ -17447,7 +17447,7 @@ const $_ = /* @__PURE__ */ ie(I_, [["render", U_], ["__scopeId", "data-v-ffc6662
   install(s) {
     s.directive("click-outside", z_), s.directive("hoisted", F_);
   }
-}, nu = ({
+}, iu = ({
   components: s = {},
   menu: n,
   menuGroupsDescription: t,
@@ -17591,29 +17591,35 @@ const $_ = /* @__PURE__ */ ie(I_, [["render", U_], ["__scopeId", "data-v-ffc6662
   "Kobayashi",
   "Martinez",
   "Lee"
-], ot = (s) => s[Math.floor(Math.random() * s.length)], X_ = () => `${ot(Z_)} ${ot(Y_)}`, Q_ = (s) => Array.from({ length: s }, (t, e) => {
+], ot = (s) => s[Math.floor(Math.random() * s.length)], X_ = () => {
+  const s = /* @__PURE__ */ new Date();
+  s.setDate(s.getDate() - 7);
+  const n = s.getTime(), t = (/* @__PURE__ */ new Date()).getTime();
+  return new Date(n + Math.random() * (t - n)).toISOString();
+}, Q_ = () => `${ot(Z_)} ${ot(Y_)}`, J_ = (s) => Array.from({ length: s }, (t, e) => {
   const i = ot(V_);
   return {
     id: e + 1e5,
-    name: X_() || "John Doe",
+    name: Q_() || "John Doe",
     category: ot(H_) || "Electronics",
     status: ot(W_) || "Pending",
     payment: ot(j_) || "Credit Card",
     country: i?.name || "Ukraine",
-    country_code: i?.iso_code || "ua"
+    country_code: i?.iso_code || "ua",
+    created_at: X_()
   };
-}), J_ = {
-  rows: Q_
+}), eu = {
+  rows: J_
 }, Zs = /* @__PURE__ */ new Map([
   ["countries", q_],
-  ["orders", J_]
-]), iu = (s) => {
+  ["orders", eu]
+]), su = (s) => {
   const n = Array.from(Zs.keys());
   if (!n.includes(s))
     throw new Error(`List type "${s}" is not defined. Available types: ${n.join(", ")}`);
   return Zs.get(s);
 };
 export {
-  nu as createLab,
-  iu as useLists
+  iu as createLab,
+  su as useLists
 };
