@@ -1,7 +1,9 @@
 import countries from './countries.js'
+import orders from './orders.js'
 
 const lists = new Map([
-  ['countries', countries]
+  ['countries', countries],
+  ['orders', orders],
 ])
 
 export const useLists = (type) => {
