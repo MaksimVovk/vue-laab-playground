@@ -57,6 +57,9 @@ const getData = (limit) => {
   return data
 }
 
+const fields = ['id', 'name', 'category', 'status', 'payment', 'country', 'country_code', 'created_at']
+
 export default {
   rows: getData,
+  fields,
 }

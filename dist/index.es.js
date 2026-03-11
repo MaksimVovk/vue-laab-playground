@@ -17447,7 +17447,7 @@ const $_ = /* @__PURE__ */ ie(I_, [["render", U_], ["__scopeId", "data-v-ffc6662
   install(s) {
     s.directive("click-outside", z_), s.directive("hoisted", F_);
   }
-}, iu = ({
+}, su = ({
   components: s = {},
   menu: n,
   menuGroupsDescription: t,
@@ -17608,18 +17608,19 @@ const $_ = /* @__PURE__ */ ie(I_, [["render", U_], ["__scopeId", "data-v-ffc6662
     country_code: i?.iso_code || "ua",
     created_at: X_()
   };
-}), eu = {
-  rows: J_
+}), eu = ["id", "name", "category", "status", "payment", "country", "country_code", "created_at"], tu = {
+  rows: J_,
+  fields: eu
 }, Zs = /* @__PURE__ */ new Map([
   ["countries", q_],
-  ["orders", eu]
-]), su = (s) => {
+  ["orders", tu]
+]), au = (s) => {
   const n = Array.from(Zs.keys());
   if (!n.includes(s))
     throw new Error(`List type "${s}" is not defined. Available types: ${n.join(", ")}`);
   return Zs.get(s);
 };
 export {
-  iu as createLab,
-  su as useLists
+  su as createLab,
+  au as useLists
 };
