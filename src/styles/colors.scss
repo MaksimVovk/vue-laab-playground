@@ -1,32 +1,32 @@
-@use "sass:map";
+@use 'sass:map';
 @use 'sass:color';
 /// ---------------------------
 /// 1. Light
 /// ---------------------------
 $light: (
   // Brand colors
-  primary: #1E90FF,
-  primary-light: #63B3FF,
-  primary-dark: #005BBB,
+  primary: #1e90ff,
+  primary-light: #63b3ff,
+  primary-dark: #005bbb,
 
-  secondary: #FF6347,
-  secondary-light: #FF8A65,
-  secondary-dark: #E5533C,
+  secondary: #ff6347,
+  secondary-light: #ff8a65,
+  secondary-dark: #e5533c,
 
-  tertiary: #32CD32,
-  tertiary-light: #66E066,
-  tertiary-dark: #228B22,
+  tertiary: #32cd32,
+  tertiary-light: #66e066,
+  tertiary-dark: #228b22,
 
   // Neutral / Grays
   gray-50: #eceff2,
-  gray-100: #F3F4F6,
-  gray-200: #E5E7EB,
-  gray-300: #D1D5DB,
-  gray-400: #9CA3AF,
-  gray-500: #6B7280,
-  gray-600: #4B5563,
+  gray-100: #f3f4f6,
+  gray-200: #e5e7eb,
+  gray-300: #d1d5db,
+  gray-400: #9ca3af,
+  gray-500: #6b7280,
+  gray-600: #4b5563,
   gray-700: #374151,
-  gray-800: #1F2937,
+  gray-800: #1f2937,
   gray-900: #111827,
 
   white-100: #ffffff,
@@ -34,88 +34,88 @@ $light: (
 
   // Text
   text-primary: #111827,
-  text-muted: #6B7280,
-  text-inverse: #FFFFFF,
+  text-muted: #6b7280,
+  text-inverse: #ffffff,
 
   // Background
   bg-primary: #eceff2,
   bg-secondary: #ffffff,
   bg-tertiary: #f5faff,
-  bg-inverse: #1F2937,
+  bg-inverse: #1f2937,
 
   // Status
-  success: #48BB78,
-  error: #F56565,
-  warning: #ED8936,
-  info: #4299E1,
+  success: #48bb78,
+  error: #f56565,
+  warning: #ed8936,
+  info: #4299e1,
 
   // border
-  border-primary: #E5E7EB,
+  border-primary: #e5e7eb
 );
 $icon: (
-  default: #3A424A,
-  disabled: #C7CED4,
-  primary: #003A5D,
-  success: #0BB060,
-  warning: #FAAD14,
-  danger: #D64B4C,
-  info: #1C4EBF,
+  default: #3a424a,
+  disabled: #c7ced4,
+  primary: #003a5d,
+  success: #0bb060,
+  warning: #faad14,
+  danger: #d64b4c,
+  info: #1c4ebf,
   light: #fff,
   dark: #262626,
-  blue: #3781F0,
-  deep: #292D32,
-  muted: #6B7280,
+  blue: #3781f0,
+  deep: #292d32,
+  muted: #6b7280,
 );
 /// ---------------------------
 /// 2. Dark
 /// ---------------------------
 $dark: (
   // Brand colors
-  primary: #1E90FF,
-  primary-light: #63B3FF,
-  primary-dark: #005BBB,
+  primary: #1e90ff,
+  primary-light: #63b3ff,
+  primary-dark: #005bbb,
 
-  secondary: #FF6347,
-  secondary-light: #FF8A65,
-  secondary-dark: #E5533C,
+  secondary: #ff6347,
+  secondary-light: #ff8a65,
+  secondary-dark: #e5533c,
 
-  tertiary: #32CD32,
-  tertiary-light: #66E066,
-  tertiary-dark: #228B22,
+  tertiary: #32cd32,
+  tertiary-light: #66e066,
+  tertiary-dark: #228b22,
 
   // Neutral / Grays
-  gray-50: #1F2937,
-  gray-100: #2D3748,
-  gray-200: #4A5568,
+  gray-50: #1f2937,
+  gray-100: #2d3748,
+  gray-200: #4a5568,
   gray-300: #718096,
-  gray-400: #A0AEC0,
-  gray-500: #CBD5E0,
-  gray-600: #E2E8F0,
-  gray-700: #F3F4F6,
+  gray-400: #a0aec0,
+  gray-500: #cbd5e0,
+  gray-600: #e2e8f0,
+  gray-700: #f3f4f6,
   gray-800: #eceff2,
-  gray-900: #FFFFFF,
+  gray-900: #ffffff,
 
   black-800: #2c3239,
 
   // Text
   text-primary: #eceff2,
-  text-secondary: #CBD5E0,
+  text-secondary: #cbd5e0,
   text-inverse: #111827,
 
   // Background
-  bg-primary: #1F2937,
-  bg-secondary: #2D3748,
-  bg-tertiary: #4A5568,
+  bg-primary: #1f2937,
+  bg-secondary: #2d3748,
+  bg-tertiary: #4a5568,
   bg-inverse: #eceff2,
 
   // Status
-  success: #48BB78,
-  error: #F56565,
-  warning: #ED8936,
-  info: #4299E1,
+  success: #48bb78,
+  error: #f56565,
+  warning: #ed8936,
+  info: #4299e1,
 
   // border
-  border-primary: #48BB78,
+  border-primary: #48bb78
 );
 
 /// ---------------------------
@@ -125,19 +125,23 @@ $dark: (
 // SCSS функция для получения цвета из темы
 
 @function icon-clr($type) {
-  $icon-color: map.get((default: clr($icon, default),
-        disabled: clr($icon, disabled),
-        primary: clr($icon, primary),
-        success: clr($icon, success),
-        warning: clr($icon, warning),
-        danger: clr($icon, danger),
-        info: clr($icon, info),
-        light: clr($icon, light),
-        dark: clr($icon, dark),
-        muted: clr($icon, muted),
-        blue: clr($icon, blue),
-        deep: clr($icon, deep),
-      ), $type);
+  $icon-color: map.get(
+    (
+      default: clr($icon, default),
+      disabled: clr($icon, disabled),
+      primary: clr($icon, primary),
+      success: clr($icon, success),
+      warning: clr($icon, warning),
+      danger: clr($icon, danger),
+      info: clr($icon, info),
+      light: clr($icon, light),
+      dark: clr($icon, dark),
+      muted: clr($icon, muted),
+      blue: clr($icon, blue),
+      deep: clr($icon, deep),
+    ),
+    $type
+  );
   @return $icon-color;
 }
 
@@ -146,5 +150,5 @@ $dark: (
 }
 
 @function adjust($color, $percent) {
-  @return color.adjust($color, $lightness: $percent)
+  @return color.adjust($color, $lightness: $percent);
 }

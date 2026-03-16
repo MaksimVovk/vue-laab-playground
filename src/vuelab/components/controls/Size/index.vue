@@ -1,87 +1,94 @@
 <template>
   <CtrlLayout name="Size">
-  <div class="vue-lab__size" ref="root">
-    <div class="vue-lab__size-track" ref="track" @click="onTrackClick($event)">
-      <div
-        v-for="(s, i) in options"
-        :key="i"
-        :class="['vue-lab__size-tick', {
-          'vue-lab__size-tick_active': i === currentIndex
-        }]"
-        :style="{ left: positions[i] + '%' }"
-        @click.stop="selectIndex(i)"
-        role="button"
-        :aria-label="`Select ${s}`"
-        tabindex="0"
-        @keydown.enter.prevent="selectIndex(i)"
-        @keydown.space.prevent="selectIndex(i)"
-      />
+    <div ref="root" class="vue-lab__size">
+      <div ref="track" class="vue-lab__size-track" @click="onTrackClick($event)">
+        <div
+          v-for="(s, i) in options"
+          :key="i"
+          :class="[
+            'vue-lab__size-tick',
+            {
+              'vue-lab__size-tick_active': i === currentIndex,
+            },
+          ]"
+          :style="{ left: positions[i] + '%' }"
+          :aria-label="`Select ${s}`"
+          tabindex="0"
+          role="button"
+          @click.stop="selectIndex(i)"
+          @keydown.enter.prevent="selectIndex(i)"
+          @keydown.space.prevent="selectIndex(i)"
+        />
 
-      <div
-        class="vue-lab__size-range-fill"
-        :style="{ width: positions[currentIndex] + '%' }"
-        aria-hidden="true"
-      />
+        <div
+          class="vue-lab__size-range-fill"
+          :style="{ width: positions[currentIndex] + '%' }"
+          aria-hidden="true"
+        />
 
-      <div
-        class="vue-lab__size-handle"
-        ref="handle"
-        :style="{ left: positions[currentIndex] + '%' }"
-        role="slider"
-        :aria-valuemin="0"
-        :aria-valuemax="options.length - 1"
-        :aria-valuenow="currentIndex"
-        :aria-valuetext="String(displayValue)"
-        tabindex="0"
-        @pointerdown.prevent="startDrag"
-        @keydown.left.prevent="onArrow(-1)"
-        @keydown.right.prevent="onArrow(1)"
-        @keydown.up.prevent="onArrow(1)"
-        @keydown.down.prevent="onArrow(-1)"
-      />
+        <div
+          ref="handle"
+          :style="{ left: positions[currentIndex] + '%' }"
+          :aria-valuemin="0"
+          :aria-valuemax="options.length - 1"
+          :aria-valuenow="currentIndex"
+          :aria-valuetext="String(displayValue)"
+          tabindex="0"
+          role="slider"
+          class="vue-lab__size-handle"
+          @pointerdown.prevent="startDrag"
+          @keydown.left.prevent="onArrow(-1)"
+          @keydown.right.prevent="onArrow(1)"
+          @keydown.up.prevent="onArrow(1)"
+          @keydown.down.prevent="onArrow(-1)"
+        />
+      </div>
+
+      <div class="vue-lab__size-value">
+        {{ value }}
+      </div>
     </div>
-
-    <div class="vue-lab__size-value">
-     {{ value }}
-    </div>
-  </div>
-</CtrlLayout>
+  </CtrlLayout>
 </template>
 
 <script setup>
 import { ref, computed, watch, onMounted, onBeforeUnmount } from 'vue'
-import CtrlLayout from '../CtrlLayout.vue';
+import CtrlLayout from '../CtrlLayout.vue'
 
 const props = defineProps({
   value: { type: [Number, String], default: 0 },
   options: { type: Array, default: () => [] },
 })
 
-const emit = defineEmits(['input']);
+const emit = defineEmits(['input'])
 
-const currentIndex = ref(0);
-const root = ref(null);
-const track = ref(null);
-const handle = ref(null);
+const currentIndex = ref(0)
+const root = ref(null)
+const track = ref(null)
+const handle = ref(null)
 
-const optionsCount = computed(() => props.options.length);
+const optionsCount = computed(() => props.options.length)
 
 const valueToIndex = (v) => {
   if (typeof v === 'number' && Number.isInteger(v) && v >= 0 && v < optionsCount.value) {
     return v
   }
 
-  const idx = props.options.findIndex(x => String(x) === String(v))
+  const idx = props.options.findIndex((x) => String(x) === String(v))
   return idx >= 0 ? idx : 0
 }
 
-watch(() => props.value, (v)=>{
-  currentIndex.value = valueToIndex(v)
-}, { immediate: true })
+watch(
+  () => props.value,
+  (v) => {
+    currentIndex.value = valueToIndex(v)
+  },
+  { immediate: true },
+)
 
-watch(currentIndex, (id)=>{
-  emit('input', props.options[id]);
-});
+watch(currentIndex, (id) => {
+  emit('input', props.options[id])
+})
 
 const positions = computed(() => {
   const n = optionsCount.value
@@ -89,7 +96,7 @@ const positions = computed(() => {
     return [0]
   }
   return Array.from({ length: n }, (_, i) => (i / (n - 1)) * 100)
-});
+})
 
 const displayValue = computed(() => props.options[currentIndex.value])
 
@@ -115,7 +122,7 @@ const onTrackClick = (e) => {
   selectIndex(idx)
 }
 
-const startDrag = (e) =>{
+const startDrag = (e) => {
   dragging = true
   pointerId = e.pointerId
   e.target.setPointerCapture(pointerId)
@@ -123,7 +130,7 @@ const startDrag = (e) =>{
   window.addEventListener('pointerup', stopDrag)
 }
 
-function onPointerMove (e) {
+function onPointerMove(e) {
   if (!dragging || e.pointerId !== pointerId) {
     return
   }
@@ -138,7 +145,9 @@ const stopDrag = () => {
   dragging = false
   try {
     handle.value.releasePointerCapture(pointerId)
-  } catch(_) {}
+  } catch (e) {
+    console.warn('Failed to release pointer capture:', e)
+  }
 
   pointerId = null
   window.removeEventListener('pointermove', onPointerMove)
@@ -160,88 +169,88 @@ onMounted(() => {
 </script>
 
 <style lang="scss" scoped>
-  @use '../../../../styles/index.scss' as *;
+@use '../../../../styles/index.scss' as *;
 
-  $transition: .2s all ease-in-out;
+$transition: 0.2s all ease-in-out;
 
-  .vue-lab__size {
-    width: 100%;
-    user-select: none;
-    font-family: var(--vue-lab-font-family);
+.vue-lab__size {
+  width: 100%;
+  user-select: none;
+  font-family: var(--vue-lab-font-family);
 
-    &-track {
-      position: relative;
-      height: 20px;
-      margin: 18px 0 6px 0;
-      background: transparent;
-      transition: $transition;
+  &-track {
+    position: relative;
+    height: 20px;
+    margin: 18px 0 6px 0;
+    background: transparent;
+    transition: $transition;
 
-      &::before {
-        content: '';
-        position: absolute;
-        transition: $transition;
-        left: 0;
-        right: 0;
-        top: 50%;
-        height: 4px;
-        transform: translateY(-50%);
-        background: clr($light, gray-200);
-        border-radius: 4px;
-      }
-    }
-
-    &-tick {
-      position: absolute;
-      transition: $transition;
-      top: 50%;
-      width: 12px;
-      height: 12px;
-      transform: translate(-50%, -50%);
-      background: #fff;
-      border: 2px solid #bbb;
-      border-radius: 50%;
-      box-sizing: border-box;
-      cursor: pointer;
-      z-index: 1;
-
-      &_active {
-        border-color: clr($light, success);
-      }
-    }
-
-    &-range-fill {
+    &::before {
+      content: '';
       position: absolute;
       transition: $transition;
       left: 0;
+      right: 0;
       top: 50%;
       height: 4px;
       transform: translateY(-50%);
-      background: clr($light, gray-300);
+      background: clr($light, gray-200);
       border-radius: 4px;
     }
+  }
 
-    &-handle {
-      position: absolute;
-      transition: $transition;
-      top: 50%;
-      width: 20px;
-      height: 20px;
-      transform: translate(-50%, -50%);
-      background: #2b8aef;
-      border-radius: 50%;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-      cursor: grab;
-      touch-action: none;
-      z-index: 2;
+  &-tick {
+    position: absolute;
+    transition: $transition;
+    top: 50%;
+    width: 12px;
+    height: 12px;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border: 2px solid #bbb;
+    border-radius: 50%;
+    box-sizing: border-box;
+    cursor: pointer;
+    z-index: 1;
 
-      &:active {
-        cursor: grabbing;
-      }
-    }
-
-    &-value {
-      font-size: 13px;
-      color: clr($light, text-primary);
+    &_active {
+      border-color: clr($light, success);
     }
   }
+
+  &-range-fill {
+    position: absolute;
+    transition: $transition;
+    left: 0;
+    top: 50%;
+    height: 4px;
+    transform: translateY(-50%);
+    background: clr($light, gray-300);
+    border-radius: 4px;
+  }
+
+  &-handle {
+    position: absolute;
+    transition: $transition;
+    top: 50%;
+    width: 20px;
+    height: 20px;
+    transform: translate(-50%, -50%);
+    background: #2b8aef;
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+    cursor: grab;
+    touch-action: none;
+    z-index: 2;
+
+    &:active {
+      cursor: grabbing;
+    }
+  }
+
+  &-value {
+    font-size: 13px;
+    color: clr($light, text-primary);
+  }
+}
 </style>

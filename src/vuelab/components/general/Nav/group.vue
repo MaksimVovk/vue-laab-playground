@@ -1,24 +1,11 @@
 <template>
   <div class="vue-lab__nav-group">
-    <div
-      v-if="option?.name || isGroup"
-      class="vue-lab__nav-group-name"
-      @click="toggleOpened"
-    >
+    <div v-if="option?.name || isGroup" class="vue-lab__nav-group-name" @click="toggleOpened">
       {{ isGroup ? option.name || 'Other components' : '' }}
-      <ArrowIcon
-        :class="arrowClasses"
-      />
+      <ArrowIcon :class="arrowClasses" />
     </div>
-    <div
-      :class="listClasses"
-    >
-      <NavItem
-        v-for="option in option.items"
-        :key="generateKey(option)"
-        :item="option"
-        :path="path"
-      />
+    <div :class="listClasses">
+      <NavItem v-for="it in option.items" :key="generateKey(it)" :item="it" :path="path" />
     </div>
   </div>
 </template>
@@ -26,22 +13,22 @@
 <script setup>
 import { ref, computed } from 'vue'
 import NavItem from './item.vue'
-import { generateKey } from '../../../composables';
-import { ArrowIcon } from '../../Icons';
+import { generateKey } from '../../../composables'
+import { ArrowIcon } from '../../Icons'
 
 const props = defineProps({
   option: {
     type: Object,
-    default: () => ({})
+    default: () => ({}),
   },
   path: {
     type: String,
-    default: '/'
+    default: '/',
   },
   isGroup: {
     type: Boolean,
-    default: false
-  }
+    default: false,
+  },
 })
 
 const isOpened = ref(true)
@@ -74,42 +61,41 @@ const maxHeightDuration = computed(() => {
 
   return count / 150 + 's'
 })
-
 </script>
 
 <style scoped lang="scss">
 @use '../../../../styles/index.scss' as *;
-  .vue-lab__nav-group {
-    padding: 0 10px;
+.vue-lab__nav-group {
+  padding: 0 10px;
 
-    &-name {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+  &-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 
-      font-size: 13px;
-      font-weight: 600;
-      color: clr($light, text-muted);
+    font-size: 13px;
+    font-weight: 600;
+    color: clr($light, text-muted);
 
-      margin-bottom: 10px;
-      cursor: pointer;
-    }
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
 
-    &-arrow {
-      transition: .3s;
-      &--closed {
-        transform: rotate(180deg);
-      }
-    }
-
-    &-items {
-      overflow: hidden;
-      transition: max-height v-bind(maxHeightDuration) ease;
-      max-height: 0;
-
-      &--opened {
-        max-height: v-bind(maxHeight);
-      }
+  &-arrow {
+    transition: 0.3s;
+    &--closed {
+      transform: rotate(180deg);
     }
   }
+
+  &-items {
+    overflow: hidden;
+    transition: max-height v-bind(maxHeightDuration) ease;
+    max-height: 0;
+
+    &--opened {
+      max-height: v-bind(maxHeight);
+    }
+  }
+}
 </style>

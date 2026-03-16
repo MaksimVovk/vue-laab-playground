@@ -1,7 +1,4 @@
-const source = import.meta.glob([
-  './*.vue',
-  './*/*.vue',
-], { eager: true });
+const source = import.meta.glob(['./*.vue', './*/*.vue'], { eager: true })
 
 export const iconComponents = Object.entries(source).reduce((prev, next) => {
   const excludeList = ['index.vue', 'BaseIcon.vue', '.', '..']

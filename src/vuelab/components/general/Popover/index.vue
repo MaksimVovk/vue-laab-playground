@@ -1,9 +1,5 @@
 <template>
-  <div
-    v-hoisted
-    :style="style"
-    class="vue-lab__popover"
-  >
+  <div v-hoisted :style="style" class="vue-lab__popover">
     <slot />
   </div>
 </template>
@@ -12,24 +8,23 @@
 import { ref, onMounted, watch, nextTick } from 'vue'
 
 const props = defineProps({
-  width: String,
-  height: String,
-  left: String,
-  top: String,
-  right: String,
-  bottom: String,
+  width: { type: String, default: null },
+  height: { type: String, default: null },
+  left: { type: String, default: null },
+  top: { type: String, default: null },
+  right: { type: String, default: null },
+  bottom: { type: String, default: null },
   centered: { type: Boolean, default: false },
-  reference: [HTMLElement, Object, String, Function],
+  reference: { type: [HTMLElement, Object, String, Function], default: null },
   position: {
     type: String,
     default: 'top',
-    validator: v =>
-      ['top', 'top:bottom', 'bottom:top', 'bottom', 'left', 'right'].includes(v),
+    validator: (v) => ['top', 'top:bottom', 'bottom:top', 'bottom', 'left', 'right'].includes(v),
   },
   alignment: {
     type: String,
     default: undefined,
-    validator: v => [undefined, 'left', 'right'].includes(v),
+    validator: (v) => [undefined, 'left', 'right'].includes(v),
   },
   margin: {
     type: [String, Number],
@@ -66,8 +61,7 @@ function setStyle() {
 
   if (!alignment) {
     alignment =
-      style.value.width > window.innerWidth - rect.left &&
-      rect.right > style.value.width
+      style.value.width > window.innerWidth - rect.left && rect.right > style.value.width
         ? 'right'
         : 'left'
     width = Math.max(style.value.width, rect.width)
@@ -81,17 +75,23 @@ function setStyle() {
 
   if (window.innerHeight - rect.bottom < 300) {
     switch (position) {
-      case 'top': position = 'bottom'
+      case 'top':
+        position = 'bottom'
         break
-      case 'top:bottom': position = 'bottom:top'
+      case 'top:bottom':
+        position = 'bottom:top'
         break
-      case 'bottom:top': position = 'top:bottom'
+      case 'bottom:top':
+        position = 'top:bottom'
         break
-      case 'bottom': position = 'top'
+      case 'bottom':
+        position = 'top'
         break
-      case 'left': position = 'left'
+      case 'left':
+        position = 'left'
         break
-      case 'right': position = 'right'
+      case 'right':
+        position = 'right'
         break
     }
   }
@@ -139,15 +139,15 @@ onMounted(() => {
 
 watch(
   () => [props.reference, props.width, props.height, props.position, props.alignment],
-  () => nextTick(setStyle)
+  () => nextTick(setStyle),
 )
 </script>
 
 <style scoped>
-  .vue-lab__popover {
-    position: absolute;
-    overflow: hidden;
-    z-index: 999;
-    font-family: var(--vue-lab-font-family);
-  }
+.vue-lab__popover {
+  position: absolute;
+  overflow: hidden;
+  z-index: 999;
+  font-family: var(--vue-lab-font-family);
+}
 </style>

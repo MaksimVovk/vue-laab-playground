@@ -2,10 +2,7 @@
   <div class="vue-lab__code-preview">
     <div class="vue-lab__code-preview__title">Usage</div>
     <div class="vue-lab__code-preview__content">
-      <CopyIcon
-        class="vue-lab__code-preview__content__copy-ctrl"
-        @click="copyToClipboard"
-      />
+      <CopyIcon class="vue-lab__code-preview__content__copy-ctrl" @click="copyToClipboard" />
       <hl-vue
         :code="formattedCode"
         :autodetect="false"
@@ -26,13 +23,12 @@ import 'highlight.js/styles/monokai-sublime.css'
 
 import { CopyIcon } from '../../Icons'
 
-const hlVue = hljsVuePlugin.component;
-
+const hlVue = hljsVuePlugin.component
 
 const props = defineProps({
   code: {
     type: String,
-    required: true
+    required: true,
   },
 })
 
@@ -42,7 +38,7 @@ const formattedCode = computed(() => {
     indent_inner_html: true,
     wrap_attributes: 'force-expand-multiline',
     wrap_attributes_indent_size: 2,
-    inline_custom_elements: true
+    inline_custom_elements: true,
   })
 })
 

@@ -1,5 +1,5 @@
 <template>
-	<div class="vue-lab-icons__group">
+  <div class="vue-lab-icons__group">
     <div class="vue-lab-icons__group-title">{{ group.name || 'Group' }}</div>
     <div class="vue-lab-icons__group-body">
       <div
@@ -8,40 +8,39 @@
         class="vue-lab-icons__group-item"
         @click="handleIconSelect(item)"
       >
-        <component :is="item.component" v-bind="{ ...config, name: item.name}"/>
+        <component :is="item.component" v-bind="{ ...config, name: item.name }" />
         <div class="vue-lab-icons__group-item-name">{{ item.name }}</div>
       </div>
     </div>
-	</div>
+  </div>
 </template>
 
 <script setup>
-	// Props
-	const props = defineProps({
-    group: {
-      type: Object,
-      default: () => ({})
-    },
-    config: {
-      type: Object,
-      default: () => ({})
-    }
-	})
+// Props
+defineProps({
+  group: {
+    type: Object,
+    default: () => ({}),
+  },
+  config: {
+    type: Object,
+    default: () => ({}),
+  },
+})
 
-	// Emits
+// Emits
 
-  const emit = defineEmits(['input'])
+const emit = defineEmits(['input'])
 
-	// Variables
+// Variables
 
-	// Computed
+// Computed
 
-	// Methods
+// Methods
 
-  const handleIconSelect = (event) => {
-    emit('input', event.name)
-  }
-
+const handleIconSelect = (event) => {
+  emit('input', event.name)
+}
 </script>
 
 <style lang="scss" scoped>
@@ -63,7 +62,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    transition: all .3s;
+    transition: all 0.3s;
 
     padding: 5px;
 
@@ -86,5 +85,4 @@
     }
   }
 }
-
 </style>

@@ -22,18 +22,26 @@ export const createLab = ({
   kitTitle,
 }) => {
   const keys = Object.keys(configuration || {})
-  const serializedConfig = keys.reduce((prev, next) => ({ ...prev, [next.toLocaleLowerCase()]: configuration[next] }), {})
-  const groups = new Map(keys.map(key => [key, configuration[key].group]))
+  const serializedConfig = keys.reduce(
+    (prev, next) => ({ ...prev, [next.toLocaleLowerCase()]: configuration[next] }),
+    {},
+  )
+  const groups = new Map(keys.map((key) => [key, configuration[key].group]))
 
-  const appMenu = components ? Object.keys(components).map(key => ({
-    name: key,
-    path: `/${key}`,
-    group: groups.get(key),
-  })) : []
+  const appMenu = components
+    ? Object.keys(components).map((key) => ({
+        name: key,
+        path: `/${key}`,
+        group: groups.get(key),
+      }))
+    : []
 
-  let currentMenu = additionalPages ? [...(menu || appMenu), ...additionalPages] : (menu || appMenu)
-  const maxIndex = currentMenu.reduce((max, item) => item.index > max ? item.index : max, 0)
-  currentMenu = currentMenu.map((item, index) => ({ ...item, index: item.index || maxIndex + index + 1 }))
+  let currentMenu = additionalPages ? [...(menu || appMenu), ...additionalPages] : menu || appMenu
+  const maxIndex = currentMenu.reduce((max, item) => (item.index > max ? item.index : max), 0)
+  currentMenu = currentMenu.map((item, index) => ({
+    ...item,
+    index: item.index || maxIndex + index + 1,
+  }))
   currentMenu.sort((a, b) => a.index - b.index)
 
   const availableComponents = new Map([
@@ -42,14 +50,14 @@ export const createLab = ({
   ])
 
   const additionalRouters = (additionalPages || [])
-    .map(it => {
+    .map((it) => {
       const component = availableComponents.get(it.type)
       if (!component) return it
       return {
         path: it.path,
         name: it.name,
         component: component,
-        props: it.props
+        props: it.props,
       }
     })
     .filter(Boolean)
@@ -63,21 +71,21 @@ export const createLab = ({
         components,
         description: homePageDescription || '',
         menu: currentMenu,
-        menuGroupsDescription
-      }
+        menuGroupsDescription,
+      },
     },
     ...additionalRouters,
     {
       path: '/:name',
       name: 'component',
       component: VueLabComponent,
-      props: route => ({ name: route.params.name, components, configuration: serializedConfig })
-    }
+      props: (route) => ({ name: route.params.name, components, configuration: serializedConfig }),
+    },
   ]
 
   const router = createRouter({
     history: createWebHistory(),
-    routes
+    routes,
   })
 
   const app = createApp(App)

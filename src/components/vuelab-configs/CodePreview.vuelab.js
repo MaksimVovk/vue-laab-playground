@@ -13,7 +13,6 @@ export const propsConfig = {
   },
 }
 
-
 export const description = `The CodePreview component is designed to display formatted code snippets within your application.
  It supports syntax highlighting, copy-to-clipboard functionality, and an optional live preview area. 
  This makes it useful for documentation, interactive tutorials, or showcasing code examples alongside their rendered output.`

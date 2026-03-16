@@ -9,10 +9,10 @@
 </template>
 
 <script setup>
-import { useAttrs, computed } from 'vue';
-import BaseIcon from '../BaseTemplate.vue';
+import { useAttrs, computed } from 'vue'
+import BaseIcon from '../BaseTemplate.vue'
 
-const attrs = useAttrs();
+const attrs = useAttrs()
 
 const iconAttrs = computed(() => {
   return {
@@ -20,7 +20,7 @@ const iconAttrs = computed(() => {
     viewBox: '0 0 512 512.01',
     fill: 'none',
     strokeWidth: 1,
-    name: 'sad-icon'
+    name: 'sad-icon',
   }
 })
 </script>

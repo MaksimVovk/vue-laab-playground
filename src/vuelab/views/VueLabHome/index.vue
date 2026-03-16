@@ -3,32 +3,29 @@
     <div class="vue-lab-home-page__header">
       <div class="vue-lab-home-page__title">
         <div class="vue-lab-home-page__title-icon">
-        <LabIcon />
-      </div>
-      <div class="vue-lab-home-page__title-text">
-        Vue Lab
-      </div>
+          <LabIcon />
+        </div>
+        <div class="vue-lab-home-page__title-text">Vue Lab</div>
       </div>
       <div class="vue-lab-home-page__description">{{ pageDiscription }}</div>
     </div>
 
     <div class="vue-lab-home-page__search">
-      <Search @input="handleTextInput"/>
+      <Search @input="handleTextInput" />
     </div>
     <div class="vue-lab-home-page__menu custom-scroll--simple">
-      <EmptyScreen
-        v-if="isEmptySearch"
-        size="lg"
-      >
-        Components not found. <br>Try to change the search query.
+      <EmptyScreen v-if="isEmptySearch" size="lg">
+        Components not found.
+        <br />
+        Try to change the search query.
       </EmptyScreen>
       <template v-else v-for="(group, index) in menuItems">
         <Group
           v-if="group.items?.length"
           :key="generateKey(group)"
           :option="group"
-          :isGroup="isGroup"
-          :isLast="index == menuItems.length - 1"
+          :is-group="isGroup"
+          :is-last="index == menuItems.length - 1"
         />
       </template>
     </div>
@@ -36,18 +33,18 @@
 </template>
 
 <script setup>
-import { computed, ref } from 'vue';
-import Group from './group.vue';
-import { generateKey } from '../../composables';
-import { LabIcon } from '../../components/Icons';
-import { Search, EmptyScreen } from '../../components/general';
+import { computed, ref } from 'vue'
+import Group from './group.vue'
+import { generateKey } from '../../composables'
+import { LabIcon } from '../../components/Icons'
+import { Search, EmptyScreen } from '../../components/general'
 
 const props = defineProps({
   components: { type: Object, default: () => ({}) },
   description: { type: String, default: null },
   title: { type: String, default: null },
   menu: { type: Array, default: () => [] },
-  menuGroupsDescription: { type: Object, default: () => null }
+  menuGroupsDescription: { type: Object, default: () => null },
 })
 
 const searchQuery = ref('')
@@ -59,16 +56,19 @@ const handleTextInput = (event) => {
 // })
 
 const pageDiscription = computed(() => {
-  return props.description || 'A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects.'
+  return (
+    props.description ||
+    'A reusable UI component library intended to standardize styling, improve development speed, and maintain consistency across projects.'
+  )
 })
 
 const isEmptySearch = computed(() => {
-  return !menuItems.value.some(group => group.items.length)
+  return !menuItems.value.some((group) => group.items.length)
 })
 
 const menuItems = computed(() => {
-  const groups = props.menu.map(item => item.group)
-  const uniqueGroups = [...new Set(groups)].filter(g => g && g.length)
+  const groups = props.menu.map((item) => item.group)
+  const uniqueGroups = [...new Set(groups)].filter((g) => g && g.length)
   const searchFunction = (item) => {
     if (!searchQuery.value || !searchQuery.value.length) {
       return true
@@ -76,30 +76,28 @@ const menuItems = computed(() => {
     return item.name.toLowerCase().includes(searchQuery.value.toLowerCase())
   }
 
-  const groupedItems = uniqueGroups.map(group =>{
-    const groupDescription = props.menuGroupsDescription ? props.menuGroupsDescription[group] : null;
+  const groupedItems = uniqueGroups.map((group) => {
+    const groupDescription = props.menuGroupsDescription ? props.menuGroupsDescription[group] : null
 
-    return ({
+    return {
       name: group,
       description: groupDescription,
-      items: props.menu.filter(opt => opt.group === group).filter(searchFunction)
-    })
+      items: props.menu.filter((opt) => opt.group === group).filter(searchFunction),
+    }
   })
 
   const ungroupedItems = {
     name: null,
     description: props.menuGroupsDescription['Other'],
-    items: props.menu.filter(opt => !opt.group || !opt.group.length).filter(searchFunction)
+    items: props.menu.filter((opt) => !opt.group || !opt.group.length).filter(searchFunction),
   }
-
 
   return [...groupedItems, ungroupedItems]
 })
 
 const isGroup = computed(() => {
-  return props.menu.some(opt => opt.group && opt.group.length)
+  return props.menu.some((opt) => opt.group && opt.group.length)
 })
-
 </script>
 
 <style lang="scss" scoped>
@@ -142,7 +140,7 @@ const isGroup = computed(() => {
     font-family: var(--vue-lab-font-family);
 
     &-text {
-      font-family: "Ubuntu", sans-serif;
+      font-family: 'Ubuntu', sans-serif;
       color: #0f664e;
       font-size: 32px;
     }

@@ -1,37 +1,36 @@
 <template>
   <CtrlLayout :name="title">
-    <div
-      class="vue-lab__boolean"
-      @click="emit('input', !value)"
-    >
-      <div :class="classList"/>
+    <div class="vue-lab__boolean" @click="emit('input', !value)">
+      <div :class="classList" />
     </div>
   </CtrlLayout>
 </template>
 
 <script setup>
-  import { computed } from 'vue';
-  import CtrlLayout from '../CtrlLayout.vue';
+import { computed } from 'vue'
+import CtrlLayout from '../CtrlLayout.vue'
 
-  const props = defineProps({
-    value: {
-      type: Boolean,
-      default: false
-    },
-    title: {
-      type: String,
-      default: 'Boolean state'
-    }
-  })
+const props = defineProps({
+  value: {
+    type: Boolean,
+    default: false,
+  },
+  title: {
+    type: String,
+    default: 'Boolean state',
+  },
+})
 
-  const emit = defineEmits(['input'])
+const emit = defineEmits(['input'])
 
-  const classList = computed(() => ['vue-lab__boolean-tumbler', {
+const classList = computed(() => [
+  'vue-lab__boolean-tumbler',
+  {
     'vue-lab__boolean-tumbler--right': Boolean(props.value),
     'vue-lab__boolean-tumbler--left': Boolean(!props.value),
-  }])
+  },
+])
 </script>
-
 
 <style lang="scss">
 @use '../../../../styles/index.scss' as *;
@@ -56,14 +55,13 @@
     position: absolute;
     top: 2px;
     left: 2px;
-    transition: .3s;
+    transition: 0.3s;
 
     &--right {
       left: 18px;
       background-color: clr($light, success);
-      animation: moveLeft .3s ease-in-out;
+      animation: moveLeft 0.3s ease-in-out;
     }
   }
 }
-
 </style>

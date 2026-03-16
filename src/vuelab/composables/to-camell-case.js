@@ -25,7 +25,9 @@ const toNoCase = (str) => {
 }
 
 const toSpaceCase = (str) => {
-  return toNoCase(str).replace(/[\W_]+(.|$)/g, (_, match) => match ? ' ' + match : '').trim()
+  return toNoCase(str)
+    .replace(/[\W_]+(.|$)/g, (_, match) => (match ? ' ' + match : ''))
+    .trim()
 }
 
 export const toCamellCase = (str) => {

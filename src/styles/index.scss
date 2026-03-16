@@ -1,6 +1,6 @@
 @forward './reset.scss';
 @forward './colors.scss';
-@use "sass:map";
+@use 'sass:map';
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
@@ -10,13 +10,12 @@
 }
 
 :root {
-  --vue-lab-font-family: "Source Sans 3", sans-serif;
+  --vue-lab-font-family: 'Source Sans 3', sans-serif;
 }
 
 @function get($map, $key) {
   @return map.get($map, $key);
 }
-
 
 html,
 body,
@@ -32,7 +31,7 @@ body {
   margin: 0;
 }
 
-@mixin scroll ($border-top, $border-bottom) {
+@mixin scroll($border-top, $border-bottom) {
   &::-webkit-scrollbar {
     width: 8px;
     height: 8px;

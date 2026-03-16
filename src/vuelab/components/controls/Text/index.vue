@@ -7,7 +7,7 @@
           {
             'vue-lab__text-ctrl__field--active': isValue,
             'vue-lab__text-ctrl__field--focused': isFocused,
-          }
+          },
         ]"
       >
         <input
@@ -17,21 +17,21 @@
           @focusin="handleFocus('in')"
           @focusout="handleFocus('out')"
           @input="handleTextInput"
-        >
+        />
       </div>
     </div>
   </CtrlLayout>
 </template>
 
 <script setup>
-import { computed, ref } from 'vue';
-import CtrlLayout from '../CtrlLayout.vue';
+import { computed, ref } from 'vue'
+import CtrlLayout from '../CtrlLayout.vue'
 
 const emit = defineEmits(['input'])
 
 const props = defineProps({
   value: { type: [String], default: () => '' },
-  title: { type: String, default: 'Text Input' }
+  title: { type: String, default: 'Text Input' },
 })
 
 const isFocused = ref(false)
@@ -50,7 +50,7 @@ const handleFocus = (type) => {
 <style lang="scss" scoped>
 @use '../../../../styles/index.scss' as *;
 
-$transition: .3s all ease-in-out;
+$transition: 0.3s all ease-in-out;
 .vue-lab__text-ctrl {
   font-family: var(--vue-lab-font-family);
 
@@ -85,7 +85,6 @@ $transition: .3s all ease-in-out;
       cursor: text;
     }
   }
-  
 
   &__input {
     border: none;
