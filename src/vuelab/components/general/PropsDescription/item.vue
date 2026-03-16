@@ -117,6 +117,7 @@ const itemValues = computed(() => {
 
       &-value {
         color: clr($light, gray-500);
+        white-space: break-spaces;
       }
     }
   }
