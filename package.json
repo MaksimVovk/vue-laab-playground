@@ -17,7 +17,7 @@
     "build": "npx vite build --mode production",
     "build:dev": "vite build --mode development",
     "build:staging": "vite build --mode staging",
-    "prepare": "npm run build",
+    "prepare": "husky",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.vue src",
     "format": "prettier --write src/",
@@ -45,6 +45,7 @@
     "eslint-plugin-vue": "^9.28.0",
     "highlight.js": "11.11.1",
     "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
     "prettier": "^3.0.3",
     "vite": "^7.2.4",
     "@eslint/js": "^9.10.0",
@@ -53,6 +54,18 @@
     "vite-plugin-css-injected-by-js": "^3.5.2",
     "vue": "^3.5.0",
     "vue-router": "^4.2.5"
+  },
+  "lint-staged": {
+    "*.{js,vue}": [
+      "eslint",
+      "prettier --write"
+    ],
+    "*.scss": [
+      "prettier --write"
+    ],
+    "*.{json,md}": [
+      "prettier --write"
+    ]
   },
   "peerDependencies": {
     "@highlightjs/vue-plugin": "^2.1.0",
