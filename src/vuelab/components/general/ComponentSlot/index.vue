@@ -3,53 +3,52 @@
     {{ slotConfig.value }}
   </template>
   <template v-else-if="slotConfig.type == 'component'">
-    <component :is="slotConfig.value" v-bind="attrs"/>
+    <component :is="slotConfig.value" v-bind="attrs" />
   </template>
   <template v-else-if="slotConfig.type == 'html'">
+    <!-- eslint-disable-next-line vue/no-v-html -->
     <div v-html="slotConfig.value" />
   </template>
 </template>
 
-
 <script setup>
-  import { computed } from 'vue';
-	// Props
-	const props = defineProps({
-    slotConfig: {
-      type: Object,
-      default: () => ({})
-    },
-    slotName: {
-      type: String,
-      default: null,
-    }
-	})
+import { computed } from 'vue'
+// Props
+const props = defineProps({
+  slotConfig: {
+    type: Object,
+    default: () => ({}),
+  },
+  slotName: {
+    type: String,
+    default: null,
+  },
+})
 
-	// Emits
-	const emit = defineEmits([])
+// Emits
 
-	// Variables
+// Variables
 
-	// Computed
-  const attrs = computed(() => {
-    if (!props.slotConfig?.props) return {}
+// Computed
+const attrs = computed(() => {
+  if (!props.slotConfig?.props) return {}
 
-    if (Array.isArray(props.slotConfig.props)) {
-      if (!props.slotConfig?.props?.length) return {}
+  if (Array.isArray(props.slotConfig.props)) {
+    if (!props.slotConfig?.props?.length) return {}
 
-      return props.slotConfig?.props?.reduce((prev, next) => ({
+    return props.slotConfig?.props?.reduce(
+      (prev, next) => ({
         ...prev,
-        [next.name]: next.value
-      }), {})
-    }
-    return {
-      ...props.slotConfig?.props
-    }
-  })
-	// Methods
-
+        [next.name]: next.value,
+      }),
+      {},
+    )
+  }
+  return {
+    ...props.slotConfig?.props,
+  }
+})
+// Methods
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>

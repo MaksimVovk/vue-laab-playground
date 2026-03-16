@@ -1,18 +1,11 @@
 <template>
-  <span
-    class="icon"
-    :style="iconStyles"
-    role="img"
-  >
+  <span class="icon" :style="iconStyles" role="img">
     <svg
       :viewBox="viewBox"
       :stroke-width="2"
       :width="width"
       :height="height"
-      :class="[
-        'icon-svg',
-        $attrs?.class,
-      ]"
+      :class="['icon-svg', $attrs?.class]"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       @click="handleClick"
@@ -23,52 +16,52 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
+import { computed } from 'vue'
 
 const emit = defineEmits(['click'])
 const props = defineProps({
   viewBox: {
     type: String,
-    default: '0 0 24 24'
+    default: '0 0 24 24',
   },
   size: {
     type: [String, Number],
-    default: 24
+    default: 24,
   },
   color: {
     type: String,
-    default: 'currentColor'
+    default: 'currentColor',
   },
   name: {
     type: [String],
-    default: null
+    default: null,
   },
   width: {
     type: [String, Number],
-    default: 24
+    default: 24,
   },
   height: {
     type: [String, Number],
-    default: 24
+    default: 24,
   },
   palette: {
     type: String,
     default: 'primary',
-    validator: (v) => ['success', 'error', 'warning', 'info', 'primary', 'accent', 'neutral'].includes(v),
-  }
-});
+    validator: (v) =>
+      ['success', 'error', 'warning', 'info', 'primary', 'accent', 'neutral'].includes(v),
+  },
+})
 
-const sizeValue = computed(() => isNaN(props.size) ? props.size : `${props.size}px`)
+const sizeValue = computed(() => (isNaN(props.size) ? props.size : `${props.size}px`))
 
 const iconStyles = computed(() => {
   return {
     '--icon-size': sizeValue.value,
-    'color': props.color
+    color: props.color,
   }
 })
 
 const handleClick = () => emit('click')
-
 </script>
 
 <style scoped>

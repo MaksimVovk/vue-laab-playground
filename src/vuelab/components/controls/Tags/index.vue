@@ -5,7 +5,7 @@
         v-for="o in options"
         :key="generateKey(o)"
         :value="o"
-        :isActive="o == value"
+        :is-active="o == value"
         :title="o"
         class="vue-lab__tags__item"
         @input="setValue"
@@ -15,39 +15,39 @@
 </template>
 
 <script setup>
-  import CtrlLayout from '../CtrlLayout.vue';
-  import { Tag } from '../../general';
-  import { generateKey } from '../../../composables';
+import CtrlLayout from '../CtrlLayout.vue'
+import { Tag } from '../../general'
+import { generateKey } from '../../../composables'
 
-  const props = defineProps({
-    options: {
-      type: Array,
-      default: () => [],
-    },
-    title: {
-      type: String,
-      default: 'Tags'
-    },
-    value: {
-      type: String,
-      default: () => null
-    }
-  })
+defineProps({
+  options: {
+    type: Array,
+    default: () => [],
+  },
+  title: {
+    type: String,
+    default: 'Tags',
+  },
+  value: {
+    type: String,
+    default: () => null,
+  },
+})
 
-  const emit = defineEmits(['input'])
+const emit = defineEmits(['input'])
 
-  const setValue = val => {
-    emit('input', val)
-  }
+const setValue = (val) => {
+  emit('input', val)
+}
 </script>
 
 <style lang="scss" scoped>
-  @use '../../../../styles/index.scss' as *;
-  .vue-lab__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5px;
-    align-items: flex-start;
-    font-family: var(--vue-lab-font-family);
-  }
+@use '../../../../styles/index.scss' as *;
+.vue-lab__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  align-items: flex-start;
+  font-family: var(--vue-lab-font-family);
+}
 </style>

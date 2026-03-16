@@ -1,17 +1,9 @@
 <template>
-  <div
-    :style="iconStyles"
-    role="img"
-    class="vue-lab__icon-base-template"
-  >
+  <div :style="iconStyles" role="img" class="vue-lab__icon-base-template">
     <svg
       :viewBox="viewBox"
       :stroke-width="2"
-      :class="[
-        'icon-svg',
-        $attrs?.class,
-        ...classes,
-      ]"
+      :class="['icon-svg', $attrs?.class, ...classes]"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       @click="handleClick"
@@ -22,68 +14,64 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
+import { computed } from 'vue'
 
 const emit = defineEmits(['click'])
 const props = defineProps({
   viewBox: {
     type: String,
-    default: '0 0 24 24'
+    default: '0 0 24 24',
   },
   size: {
     type: [String, Number],
-    default: 24
+    default: 24,
   },
   color: {
     type: String,
-    default: null
+    default: null,
   },
   name: {
     type: [String],
-    default: null
+    default: null,
   },
   palette: {
     type: String,
     default: 'primary',
-    validator: (v) => ['success', 'error', 'warning', 'info', 'primary', 'accent', 'neutral', 'muted'].includes(v),
-  }
-});
+    validator: (v) =>
+      ['success', 'error', 'warning', 'info', 'primary', 'accent', 'neutral', 'muted'].includes(v),
+  },
+})
 
-const sizeValue = computed(() => isNaN(props.size) ? props.size : `${props.size}px`)
+const sizeValue = computed(() => (isNaN(props.size) ? props.size : `${props.size}px`))
 
 const iconStyles = computed(() => {
   return {
     '--icon-size': sizeValue.value,
-    '--custom-color': props.color
+    '--custom-color': props.color,
   }
 })
 
-const classes = computed(() => ([
-  'icon',
-  `icon_${props.name}`,
-  `icon_palette-${props.palette}`,
-]))
+const classes = computed(() => ['icon', `icon_${props.name}`, `icon_palette-${props.palette}`])
 
 const handleClick = () => emit('click')
-
 </script>
 
 <style lang="scss" scoped>
 @use '../../../../styles/index.scss' as *;
 
 $palettes: (
-  default: #3A424A,
-  disabled: #C7CED4,
-  primary: #003A5D,
-  success: #0BB060,
-  warning: #FAAD14,
-  error: #D64B4C,
-  info: #1C4EBF,
+  default: #3a424a,
+  disabled: #c7ced4,
+  primary: #003a5d,
+  success: #0bb060,
+  warning: #faad14,
+  error: #d64b4c,
+  info: #1c4ebf,
   light: #fff,
   neutral: #cacaca,
-  accent: #3781F0,
-  deep: #292D32,
-  muted: #6B7280,
+  accent: #3781f0,
+  deep: #292d32,
+  muted: #6b7280,
 );
 
 .vue-lab__icon-base-template {
@@ -103,23 +91,23 @@ $palettes: (
   }
 
   &_disabled {
-    cursor: not-allowed!important;
+    cursor: not-allowed !important;
     .icon__geometry {
-      fill: var(--custom-color, icon-clr(disabled))!important;
+      fill: var(--custom-color, icon-clr(disabled)) !important;
     }
 
     .icon__geometry_stroke {
-      stroke: icon-clr(disabled)!important;
+      stroke: icon-clr(disabled) !important;
     }
 
     .icon__geometry_fill-empty {
-      fill: transparent!important;
+      fill: transparent !important;
     }
   }
 
   @each $name, $value in $palettes {
     @if ($name != none) {
-      &.icon_palette-#{"#{$name}"} {
+      &.icon_palette-#{'#{$name}'} {
         transition: 0.5s;
 
         :deep(.icon__geometry) {
@@ -129,7 +117,7 @@ $palettes: (
 
         :deep(.icon__geometry_stroke) {
           transition: 0.3s;
-          stroke:$value;
+          stroke: $value;
         }
 
         :deep(.icon__geometry_fill-empty) {
@@ -157,7 +145,6 @@ $palettes: (
       }
     }
   }
-
 }
 
 .icon :deep(svg) {

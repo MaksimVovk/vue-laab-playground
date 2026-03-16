@@ -1,21 +1,17 @@
 <template>
   <div class="vue-lab__divider">
-    <div
-      v-for="d in dotsArray"
-      :key="generateKey(d)"
-      class="vue-lab__divider-dot"
-    />
+    <div v-for="d in dotsArray" :key="generateKey(d)" class="vue-lab__divider-dot" />
   </div>
 </template>
 
 <script setup>
-import { generateKey } from '../../../composables';
+import { generateKey } from '../../../composables'
 
 const props = defineProps({
   num: {
     type: Number,
-    default: 3
-  }
+    default: 3,
+  },
 })
 
 const dotsArray = Array.from({ length: props.num })

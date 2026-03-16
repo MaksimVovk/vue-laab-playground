@@ -10,10 +10,10 @@
 </template>
 
 <script setup>
-import { useAttrs, computed } from 'vue';
-import BaseIcon from '../BaseIcon.vue';
+import { useAttrs, computed } from 'vue'
+import BaseIcon from '../BaseIcon.vue'
 
-const attrs = useAttrs();
+const attrs = useAttrs()
 
 const iconAttrs = computed(() => {
   return {
@@ -21,7 +21,7 @@ const iconAttrs = computed(() => {
     viewBox: '0 0 24 24',
     fill: 'none',
     strokeWidth: 1,
-    name: 'activity-icon'
+    name: 'activity-icon',
   }
 })
 </script>

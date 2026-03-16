@@ -30,7 +30,7 @@ export const propsConfig = {
     type: 'list',
     ctrlTitle: 'Icon',
     value: 'ArrowBlockLeftIcon',
-    variants: iconComponents.map(it => ({ id: it.name, name: it.name })),
+    variants: iconComponents.map((it) => ({ id: it.name, name: it.name })),
     default: null,
     description: 'Defines the button icon',
     ctrl: true,
@@ -61,7 +61,7 @@ export const propsConfig = {
     default: null,
     description: 'Select a country from the list',
     ctrl: true,
-  }
+  },
 }
 
 export const slots = [
@@ -88,7 +88,7 @@ export const slots = [
     type: 'html',
     name: null,
     value: '<span style="color: red">Raw HTML Slot</span>',
-  }
+  },
 ]
 
 // import { h } from 'vue'
@@ -117,14 +117,16 @@ export const slots = [
 export const events = {
   click: {
     func: () => alert('Button clicked!'),
-    description: 'Emitted when the button is clicked. This event can be used to trigger actions or functions in response to user interactions.',
+    description:
+      'Emitted when the button is clicked. This event can be used to trigger actions or functions in response to user interactions.',
   },
   contextmenu: {
     func: (e) => {
       e.preventDefault()
       alert('Button open context menu!')
     },
-    description: 'Emitted when the button is right-clicked. This event can be used to trigger actions or functions in response to user interactions.',
+    description:
+      'Emitted when the button is right-clicked. This event can be used to trigger actions or functions in response to user interactions.',
   },
 }
 

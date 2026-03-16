@@ -36,7 +36,8 @@ const propsConfig = {
 
 const events = {
   click: {
-    description: 'Icon click event. Emitted when the icon is clicked, allowing you to handle user interactions and trigger actions in response to clicks on the icon.',
+    description:
+      'Icon click event. Emitted when the icon is clicked, allowing you to handle user interactions and trigger actions in response to clicks on the icon.',
   },
 }
 

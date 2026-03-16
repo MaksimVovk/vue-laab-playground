@@ -5,12 +5,10 @@
 </template>
 
 <script setup>
- const props = defineProps({
-   item: {
-     type: Object,
-     default: () => ({})
-   }
- })
-
-
+defineProps({
+  item: {
+    type: Object,
+    default: () => ({}),
+  },
+})
 </script>

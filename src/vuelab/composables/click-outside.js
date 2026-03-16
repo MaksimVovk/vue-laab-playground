@@ -3,7 +3,7 @@ export default {
     if (!value) {
       return
     }
-    el._handler = e => {
+    el._handler = (e) => {
       if (!el.contains(e.target)) {
         setTimeout(() => value(e), 1)
       }
